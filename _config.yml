@@ -7,15 +7,15 @@
 
 # Site settings
 title: Leitfaden wissenschaftliches Arbeiten in der Religionswissenschaft
-email: frederik.elwert@rub.de
+#email: frederik.elwert@rub.de
 description: > # this means to ignore newlines until "baseurl:"
   Eine Einführung in Techniken des wissenschaftlichen Arbeitens in der
   Religionswissenschaft. Entstanden am Centrum für religionswissenschaftliche
   Studien (CERES) der Ruhr-Universität Bochum.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-twitter_username: felwert
-github_username: frederik-elwert
+baseurl: "/academic-skills" # the subpath of your site, e.g. /blog
+url: "http://ceres-rub.github.io" # the base hostname & protocol for your site
+twitter_username: CERES_RUB
+github_username: CERES-RUB
 
 # Build settings
 markdown: kramdown
