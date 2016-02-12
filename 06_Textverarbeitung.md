@@ -31,7 +31,7 @@ Textverarbeitungen speichern Dokumente standardmäßig in jeweils eigenen Format
 
 </div>
 
-![image](Bilder/word.png){width="10.00000%"}**Microsoft Word**
+**Microsoft Word**
 
 Microsoft Word ist ein verbreitetes Textverarbeitungsprogramm und Teil des Programmpakets »Microsoft Office«. Microsoft Office wird in verschiedenen Ausführungen mit unterschiedlichem Umfang verkauft, wobei in der Regel zumindest Microsoft Word (Textverarbeitung), Microsoft Excel (Tabellenkalkulation) und Microsoft PowerPoint (Präsentationen) enthalten sind.
 
@@ -39,7 +39,7 @@ Microsoft Word verwendet seit Version 2007 eine grundlegend erneuerte Benutzerob
 
 Nähere Informationen siehe <http://office.microsoft.com/>.
 
-![image](Bilder/writer.png){width="10.00000%"}**OpenOffice.org Writer**
+**OpenOffice.org Writer**
 
 OpenOffice.org ist ein Textverarbeitungsprogramm und Teil der OpenOffice.org-Programmsuite. OpenOffice.org umfasst Writer (Textverarbeitung), Calc (Tabellenkalkulation), Impress (Präsentationen) sowie weitere Komponenten für Grafiken, mathematische Formeln und Datenbanken. Im Gegensatz zu Microsoft Office ist OpenOffice.org als OpenSource-Software kostenlos erhältlich.
 

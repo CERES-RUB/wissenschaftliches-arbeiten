@@ -23,7 +23,7 @@ Mit Zotero (<http://www.zotero.org>) steht eine völlig freie Literaturverwaltun
 
 Eine Literaturverwaltung bietet oftmals sehr viele Möglichkeiten. Natürlich müssen diese nicht alle genutzt werden. Im Folgenden werden die Arbeitsschritte aufgeführt, die gängiger Weise mit einer Literaturverwaltung durchgeführt werden.
 
-![image](Bilder/icon-technik){width="10.00000%"}**Citavi**
+**Citavi**
 
 Citavi ist ein Literaturverwaltungsprogramm, das als Programm auf dem eigenen PC installiert wird. Citavi ist dabei grundsätzlich kostenpflichtig; kostenfrei ist dabei zum einen die Version »Citavi Free«, bei der allerdings nur 100 Titel eingepflegt werden können, zum anderen stellt die RUB für alle Mitarbeiter und Studierenden eine kostenfreie Vollversion zu Verfügung, die unter <http://www.ruhr-uni-bochum.de/software/beschaffung/campus.html> erhältlich ist. Citavi kann folglich kostenfrei in vollem Umfang nur genutzt werden kann, solange man Studierender der RUB ist. Die dort eingepflegten Datensätze können aber exportiert und mit mittlerem Aufwand in andere Literaturverwaltungen migriert werden. Citavi besticht durch seine intuitive Nutzbarkeit und seine breiten Funktionen (Ideen- und Exzerptverwaltung, To-Do-Listen u.a.). Voreingestellte Zitationsstile sind vorhanden, diese können vergleichsweise einfach modifiziert oder ergänzt werden. Bei Problemen steht der Support der Herstellerfirma zur Verfügung.
 
@@ -31,7 +31,7 @@ Citavi kann momentan nur unter Windows genutzt werden. Eine Version für Mac sow
 
 Nähere Informationen siehe <http://www.citavi.com/>.
 
-![image](Bilder/icon-technik){width="10.00000%"}**Zotero**
+**Zotero**
 
 Zotero ist ein Literaturverwaltungsprogramm, das in Kooperation von Universitäten und anderen öffentlichen Einrichtungen entwickelt wird und als OpenSource-Software kostenlos verfügbar ist. Zotero läuft dabei direkt im Webbrowser Firefox und ermöglicht es so, Literaturangaben aus einer Reihe von Bibliothekskatalogen, Datenbanken und anderen Internetseiten zu importieren. Für Microsoft Word und OpenOffice.org Writer stehen Plugins zur Verfügung, die das direkte Zitieren im Text und das Erzeugen von automatischen Literaturverzeichnissen sehr einfach machen. Zotero verfügt über eine große Anzahl an Zitationsstilen, das Erstellen eigener Stile erfordert jedoch tiefergehende Kenntnisse.
 
@@ -39,7 +39,7 @@ Zotero kann unter <http://www.zotero.org/> heruntergeladen werden.
 
 ## Erfassen von Literatur
 
-![Eintrag in einer Literaturdatenbank<span data-label="fig:literaturverwaltung"></span>](Bilder/Zotero){width="77mm"}
+![Eintrag in einer Literaturdatenbank](images/Zotero.png)
 
 Der erste Schritt ist das Erfassen von Literatur in der Literaturdatenbank. Dazu werden die Informationen eines Buchs, eines Zeitschriftenaufsatzes, oder einer anderen Textquelle in allgemeiner Form eingegeben. Die spätere Formatierung spielt hier noch keine Rolle. Bei einer Erfassung des Autors als »Weber, Max« kann später nach Belieben der Autor als »Weber, Max«, »Max Weber« oder sogar »Weber, M.« ausgegeben werden. Die Trennung von Bedeutung und Formatierung ist vergleichbar mit den Formatvorlagen einer Textverarbeitung, nur sind die Möglichkeiten hier wesentlich größer.
 

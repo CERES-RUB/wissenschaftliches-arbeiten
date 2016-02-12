@@ -101,9 +101,9 @@ Vor jeder Hausarbeit steht ein Deckblatt, das einige formal wichtige Information
 
 -   Datum, an dem die Arbeit eingereicht wird.
 
-[Deckblatt](#fig:deckblatt) zeigt ein Beispiel eines Deckblatts.
+Die Abbildung zeigt ein Beispiel eines Deckblatts.
 
-![Beispiel einer Titelseite<span data-label="fig:deckblatt"></span>](Bilder/Muster_Titelseite){height=".8\textheight"}
+![Beispiel einer Titelseite](images/Muster_Titelseite.png)
 
 ### Inhaltsverzeichnis
 

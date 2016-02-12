@@ -179,7 +179,7 @@ Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinne
 
 -   **Kursorisches Lesen:** Ebenfalls eine schnelle Methode. Genauere Details werden wie bei der suchenden Methode vernachlässigt. Es geht darum, den breiteren Zusammenhang und Sinn eines Textes zu erfassen. Als Ergebnis dieses Leseprozesses sollte feststehen, welche Aspekte in dem Text angesprochen werden. Bei dieser Technik überfliegen die Augen nur den Text, es wird nicht Zeile für Zeile gelesen. Abbildung [Kursorisch](#fig:kursorisch) zeigt schematisch den Lesefluss beim kursorischen Lesen. Es empfiehlt sich, pro Seite ein bis zwei Stichpunkte aufzuschreiben.
 
-![Schematische Darstellung des kursorischen Lesens<span data-label="fig:kursorisch"></span>](Bilder/Kursorisches_Lesen){width=".75\linewidth"}
+![Schematische Darstellung des kursorischen Lesens](images/Kursorisches_Lesen.png)
 
 <div class="Tipp">
 
