@@ -231,41 +231,41 @@ Im Prinzip sollten bereits die Arbeiten der frühen Studienphasen diesem Standar
 
 Die Beurteilung dieser Kriterien ist am besten anhand von Binärpaaren zu verdeutlichen:
 
-  **positiv**                                                                                                                                                                           **negativ**
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Aus der Arbeit ist ein guter Überblick über die Literaturlage erkennbar.                                                                                                              Nur wenig, teilweise oder ganz veraltete Literatur herangezogen.
-  Passende Literatur wurde nach transparenten Kriterien und mit stichhaltigem Urteil ausgewählt.                                                                                        Wichtige Standardwerke wurden ignoriert.
-                                                                                                                                                                                        Nur Buchpublikationen herangezogen, wichtige Aufsätze fehlen.
-                                                                                                                                                                                        Bequemlichkeit war “Kriterium” der Literaturauswahl (auf wichtige Publikationen verzichtet, weil Fernleihe oder fremdsprachlich).
-  Die im Literaturverzeichnis angeführte Literatur wird im Text angemessen aufgegriffen. Die Literatur wird dabei den Erfordernissen der Arbeit entsprechend selektiert eingebunden.    Große Teile der aufgeführten Literatur werden im Text nicht berücksichtigt. Die Literatur wird unselektiert und nicht der Fragestellung angemessen wiedergegeben.
-  Die Literatur und ihr wissenschaftlicher Hintergrund wird kritisch reflektiert.                                                                                                       Literatur wird unkritisch übernommmen; Unwissenschaftliche Literatur wird als Quelle herangezogen, ohne entsprechend eingeordnet zu werden.
-  Souveräner Umgang mit Begriffen und Konzepten.                                                                                                                                        Relevante Konzepte/Begriffe wurden nicht verstanden.
-  Zusammenhänge wurden richtig erkannt, Querverbindungen wurden gezogen.                                                                                                                Einordnung des behandelten Themas in den grösseren Zusammenhang fehlt, ist zu vage oder falsch.
-                                                                                                                                                                                        Arbeit enthält falsche Sachinformationen.
-  Die Arbeit ist theoretisch durchdacht.                                                                                                                                                Keine Frage- oder Problemstellung oder methodisch-theoretische Reflexion erkennbar.
-  Metasprachliche Schlüsselbegriffe wurden definiert, fachgeschichtlich situiert und auf ihre Tauglichkeit geprüft.                                                                     Für die Theoriebildung entscheidende Begriffe wurden unreflektiert verwendet.
-  Die einzelnen Arbeitsschritte wurden durch Methodenreflexionen transparent gemacht.                                                                                                   Methodenreflexion wurde nicht oder unzureichend durchgeführt.
-                                                                                                                                                                                        Mangelhafte Differenzierung, Pauschalaussagen (»Christen sind …«, »Hindus glauben …«).
-  Einordnung der eigenen Arbeit im gegenwärtigen Fachdiskurs.                                                                                                                           Religionswissenschaftliche Sekundärliteratur ignorieren; Fragenstellungen entwickeln, die nichts mit Religionswissenschaft zu tun haben.
-  Innen/Außenperspektive unterscheiden.                                                                                                                                                 Aus der Innenperspektive heraus argumentieren oder gar werten und urteilen.
-  Analytische Deskription                                                                                                                                                               Normative Wertungen
-  Religionsbegriff kontextualisieren (Mit welcher/m Kultur/Zeit/Raum beschäftige ich mich gerade? Wie lässt sich dort Religion identifizieren?)                                         Religionsbegriff unreflektiert verwenden.
-  Diskursive Macht der wissenschaftlichen Rede über Religion reflektieren.                                                                                                              Existenz von Religion als gegeben hinnehmen.
-  Die Fragestellung ist klar herausgearbeitet. Sie bezieht sich auf das gewählte Thema und ist im Rahmen der Arbeit bearbeitbar.                                                        Es ist keine Fragestellung formuliert. Die Fragestellung ist zu breit oder zu eng gewählt
-  Stringente Gedankenführung. Die Argumentation bezieht sich auf die gewählte Fragestellung.                                                                                            Argumentationsgang ist logisch fehlerhaft.
-                                                                                                                                                                                        Das Thema wurde aus den Augen verloren; Fragestellung und Fazit passen nicht zueinander.
-  Methode und Fragestellung der Arbeit sind aufeinander abgestimmt; die gewählte Methode lässt ein Ergebnis im Sinne der Fragestellung erwarten.                                        Die Methodik wurde nicht zur Fragestellung passend gewählt.
-                                                                                                                                                                                        Die Methodik wurde nicht angemessen reflektiert.
-  Die Methode wurde sinnvoll und handwerklich sauber angewandt.                                                                                                                         Die Durchführung weist methodische Mängel auf; Es wird keine explizite Methodik erkennbar.
-  Es werden verschiedene Ansichten (z.B. aus der wiss. Sekundärliteratur) berücksichtigt und gegeneinander abgewogen.                                                                   Entscheidende Argumentationsbausteine werden unzureichend abgestützt; alternative Ansichten wurden ignoriert oder nicht problematisiert.
-  Das Ergebnis der Arbeit wurde umsichtig und der Untersuchungsmethode angemessen präsentiert.                                                                                          Fragestellung und Ergebnis stehen im Missverhältnis zur Untersuchungsbasis (z.B. zu weit gefasste Schlussfolgerungen werden aus einer viel zu kleinen Untersuchung gezogen).
-  Es wird eine kreative Fragestellung oder Problemlösung entwickelt. Die Arbeit spiegelt eigene Überlegungen zum Thema wider. Das Fazit verdeutlicht die Eigenständigkeit der Arbeit.   Es sind keine oder kaum eigene Gedanken erkennbar.
-                                                                                                                                                                                        Ideenklau ist die schlimmste aller Sünden!!! Abgeschriebene oder heruntergeladene Arbeiten, die als Studienleistung eingereicht oder vorgetragen werden, werden ausnahmslos mit der Note 6 bewertet.
-  Die Arbeit ist formal korrekt.                                                                                                                                                        Zu viele Rechtschreib-, Grammatik- oder Zeichensetzungsfehler (mehr als 3 pro Seite).
-                                                                                                                                                                                        Aussagen werden nicht belegt, sind nicht überprüfbar.
-                                                                                                                                                                                        Bibliographie uneinheitlich, unsystematisch oder fehlt.
-                                                                                                                                                                                        Zitate sind formal inkorrekt (z.B. nicht wörtlich, fehlende oder unvollständige Literaturangaben).
-                                                                                                                                                                                        Arbeit ist zu lang oder zu kurz.
+| positiv | negativ |
+|--------------------------------------|--------------------------------------|
+| Aus der Arbeit ist ein guter Überblick über die Literaturlage erkennbar. | Nur wenig, teilweise oder ganz veraltete Literatur herangezogen. |
+| Passende Literatur wurde nach transparenten Kriterien und mit stichhaltigem Urteil ausgewählt. | Wichtige Standardwerke wurden ignoriert. |
+|  | Nur Buchpublikationen herangezogen, wichtige Aufsätze fehlen. |
+|  | Bequemlichkeit war “Kriterium” der Literaturauswahl (auf wichtige Publikationen verzichtet, weil Fernleihe oder fremdsprachlich). |
+| Die im Literaturverzeichnis angeführte Literatur wird im Text angemessen aufgegriffen. Die Literatur wird dabei den Erfordernissen der Arbeit entsprechend selektiert eingebunden. | Große Teile der aufgeführten Literatur werden im Text nicht berücksichtigt. Die Literatur wird unselektiert und nicht der Fragestellung angemessen wiedergegeben. |
+| Die Literatur und ihr wissenschaftlicher Hintergrund wird kritisch reflektiert. | Literatur wird unkritisch übernommmen; Unwissenschaftliche Literatur wird als Quelle herangezogen, ohne entsprechend eingeordnet zu werden. |
+| Souveräner Umgang mit Begriffen und Konzepten. | Relevante Konzepte/Begriffe wurden nicht verstanden. |
+| Zusammenhänge wurden richtig erkannt, Querverbindungen wurden gezogen. | Einordnung des behandelten Themas in den grösseren Zusammenhang fehlt, ist zu vage oder falsch. |
+|  | Arbeit enthält falsche Sachinformationen. |
+| Die Arbeit ist theoretisch durchdacht. | Keine Frage- oder Problemstellung oder methodisch-theoretische Reflexion erkennbar. |
+| Metasprachliche Schlüsselbegriffe wurden definiert, fachgeschichtlich situiert und auf ihre Tauglichkeit geprüft. | Für die Theoriebildung entscheidende Begriffe wurden unreflektiert verwendet. |
+| Die einzelnen Arbeitsschritte wurden durch Methodenreflexionen transparent gemacht. | Methodenreflexion wurde nicht oder unzureichend durchgeführt. |
+|  | Mangelhafte Differenzierung, Pauschalaussagen (»Christen sind …«, »Hindus glauben …«). |
+| Einordnung der eigenen Arbeit im gegenwärtigen Fachdiskurs. | Religionswissenschaftliche Sekundärliteratur ignorieren; Fragenstellungen entwickeln, die nichts mit Religionswissenschaft zu tun haben. |
+| Innen/Außenperspektive unterscheiden. | Aus der Innenperspektive heraus argumentieren oder gar werten und urteilen. |
+| Analytische Deskription | Normative Wertungen |
+| Religionsbegriff kontextualisieren (Mit welcher/m Kultur/Zeit/Raum beschäftige ich mich gerade? Wie lässt sich dort Religion identifizieren?) | Religionsbegriff unreflektiert verwenden. |
+| Diskursive Macht der wissenschaftlichen Rede über Religion reflektieren. | Existenz von Religion als gegeben hinnehmen. |
+| Die Fragestellung ist klar herausgearbeitet. Sie bezieht sich auf das gewählte Thema und ist im Rahmen der Arbeit bearbeitbar. | Es ist keine Fragestellung formuliert. Die Fragestellung ist zu breit oder zu eng gewählt |
+| Stringente Gedankenführung. Die Argumentation bezieht sich auf die gewählte Fragestellung. | Argumentationsgang ist logisch fehlerhaft. |
+|  | Das Thema wurde aus den Augen verloren; Fragestellung und Fazit passen nicht zueinander. |
+| Methode und Fragestellung der Arbeit sind aufeinander abgestimmt; die gewählte Methode lässt ein Ergebnis im Sinne der Fragestellung erwarten. | Die Methodik wurde nicht zur Fragestellung passend gewählt. |
+|  | Die Methodik wurde nicht angemessen reflektiert. |
+| Die Methode wurde sinnvoll und handwerklich sauber angewandt. | Die Durchführung weist methodische Mängel auf; Es wird keine explizite Methodik erkennbar. |
+| Es werden verschiedene Ansichten (z.B. aus der wiss. Sekundärliteratur) berücksichtigt und gegeneinander abgewogen. | Entscheidende Argumentationsbausteine werden unzureichend abgestützt; alternative Ansichten wurden ignoriert oder nicht problematisiert. |
+| Das Ergebnis der Arbeit wurde umsichtig und der Untersuchungsmethode angemessen präsentiert. | Fragestellung und Ergebnis stehen im Missverhältnis zur Untersuchungsbasis (z.B. zu weit gefasste Schlussfolgerungen werden aus einer viel zu kleinen Untersuchung gezogen). |
+| Es wird eine kreative Fragestellung oder Problemlösung entwickelt. Die Arbeit spiegelt eigene Überlegungen zum Thema wider. Das Fazit verdeutlicht die Eigenständigkeit der Arbeit. | Es sind keine oder kaum eigene Gedanken erkennbar. |
+|  | Ideenklau ist die schlimmste aller Sünden!!! Abgeschriebene oder heruntergeladene Arbeiten, die als Studienleistung eingereicht oder vorgetragen werden, werden ausnahmslos mit der Note 6 bewertet. |
+| Die Arbeit ist formal korrekt. | Zu viele Rechtschreib-, Grammatik- oder Zeichensetzungsfehler (mehr als 3 pro Seite). |
+|  | Aussagen werden nicht belegt, sind nicht überprüfbar. |
+|  | Bibliographie uneinheitlich, unsystematisch oder fehlt. |
+|  | Zitate sind formal inkorrekt (z.B. nicht wörtlich, fehlende oder unvollständige Literaturangaben). |
+|  | Arbeit ist zu lang oder zu kurz. |
 
 <div class="Hinweis">
 
