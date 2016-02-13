@@ -3,7 +3,7 @@ layout: page
 title: Mitwirkende
 permalink: /contributions/
 nav: true
-order: 3
+order: 4
 ---
 
 ## Autoren
