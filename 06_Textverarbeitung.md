@@ -27,7 +27,7 @@ Office-Textverarbeitungen bieten eine komfortable Möglichkeit, Texte direkt so 
 
 <div class="Technik">
 
-Textverarbeitungen speichern Dokumente standardmäßig in jeweils eigenen Formaten, die nicht überall wieder geöffnet werden können. Wenn Sie Studienleistungen an Dozierende oder Kommilitoninnen und Kommilitonen verschicken, beachten Sie die Hinweise in [Dateiformate](#sec:dateiformate).
+Textverarbeitungen speichern Dokumente standardmäßig in jeweils eigenen Formaten, die nicht überall wieder geöffnet werden können. Wenn Sie Studienleistungen an Dozierende oder Kommilitoninnen und Kommilitonen verschicken, beachten Sie die Hinweise im Abschnitt [Dateiformate](06_Textverarbeitung.html#sec:dateiformate).
 
 </div>
 

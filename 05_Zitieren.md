@@ -95,7 +95,7 @@ Um die verwendeten Zitate zu belegen, müssen Sie dem Leser solcherlei Angaben z
 
 All diese Angaben zusammengenommen ergeben meist eine recht lange Liste, die nicht direkt am Zitat stehen kann – dort würde Sie den Lesefluss empfindlich stören. Deshalb haben sich zwei Zitierweisen eingebürgert, die dieses Problem unterschiedlich lösen, das »Autor-Jahr-System« (auch »amerikanische« oder »Harvard-Notation« genannt) und das »Fußnoten-System« (auch »deutsche« oder »historische« Zitierweise).
 
-Diese Unterscheidung wirkt sich sowohl auf die Art aus, wie im Text die Quellen von (direkten oder indirekten) Zitaten angegeben werden, als auch auf die Darstellung der verwendeten Literatur im Literaturverzeichnis. Zusätzlich macht es einen Unterschied, um welche Art von Literatur es sich handelt (siehe [Formen](#sec:formen)).
+Diese Unterscheidung wirkt sich sowohl auf die Art aus, wie im Text die Quellen von (direkten oder indirekten) Zitaten angegeben werden, als auch auf die Darstellung der verwendeten Literatur im Literaturverzeichnis. Zusätzlich macht es einen Unterschied, um welche Art von Literatur es sich handelt (siehe den Abschnitt [Formen wissenschaftlicher Literatur](01_Textarten.html#sec:formen)).
 
 <div class="Hinweis">
 

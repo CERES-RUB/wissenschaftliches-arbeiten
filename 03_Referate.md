@@ -15,7 +15,7 @@ Referate sind eine häufige Form der Studienleistung. Damit ein Referat auch sei
 
 Referate können unterschiedliche Zwecke erfüllen und unterschiedliche Formen annehmen. Grundsätzlich lassen sich die folgenden Typen unterscheiden.
 
-Das Ziel eines Textreferates ist die Vorstellung eines Textes, der entweder von allen Kommilitoninnen gelesen wurde oder als Ergänzung zum Seminar dient. Wichtig ist es, den Text so vorzustellen, dass ihn nach Möglichkeit auch jeder versteht. Die Gliederung eines Textreferates folgt im Prinzip den allgemeinen Regeln zum Aufbau (siehe [Aufbau des Referats](#sec:referat-aufbau)). Der Hauptteil eines Textreferates unterscheidet sich jedoch von dem eines Themenreferates:
+Das Ziel eines Textreferates ist die Vorstellung eines Textes, der entweder von allen Kommilitoninnen gelesen wurde oder als Ergänzung zum Seminar dient. Wichtig ist es, den Text so vorzustellen, dass ihn nach Möglichkeit auch jeder versteht. Die Gliederung eines Textreferates folgt im Prinzip den allgemeinen Regeln zum Aufbau (siehe den Abschnitt [Aufbau des Referats](#sec:referat-aufbau)). Der Hauptteil eines Textreferates unterscheidet sich jedoch von dem eines Themenreferates:
 
 Zunächst sollte der Autor oder die Autorin des Textes kurz vorgestellt werden. Dabei ist es wichtig, die Relevanz der biographischen Daten für das Referat zu beachten. Sinnvoll sind in jedem Fall die Nennung von Lebensdaten, eine historische Einbettung, sowie eine Einordnung der wissenschaftlichen Sozialisation. Im Zweifelsfall ist auch hier eine Absprache mit den Dozenten zu empfehlen.
 
@@ -113,7 +113,7 @@ Die Grundschwierigkeit eines Referats besteht in der Vermittlung von Inhalten, d
 
 -   die Einbeziehung der Zuhörer durch Rückfragen o.ä.,
 
--   Begleitung des Vortrags durch Folien/digitale Präsentationen. Näheres siehe [Medien](#sec:referat-medien).
+-   Begleitung des Vortrags durch Folien/digitale Präsentationen. Näheres siehe im Abschnitt [Medien](#sec:referat-medien).
 
 Vor der Ausarbeitung des Referats sind unbedingt die Rahmenbedingungen abzusprechen: Wie viel Zeit steht für das Referat zur Verfügung, ist eine anschließende Diskussion eingeplant, auf welche technischen Hilfsmittel kann ggf. zurückgegriffen werden?
 
@@ -147,7 +147,7 @@ Es sollte immer überlegt werden, welche Form von Medien sinnvoll und welche im 
 
 Zur Unterstützung des Referates stehen einige Medien zur Verfügung, die alle ihre Vor- und Nachtteile haben:
 
-Ein Handout ist das mindeste, was als mediale Unterstützung eingesetzt werden sollte. Es vereinfacht das Folgen des Referates und kann später sehr gut als Erinnerungsstütze gebraucht werden. Näheres siehe [Handout](#sec:handout).
+Ein Handout ist das mindeste, was als mediale Unterstützung eingesetzt werden sollte. Es vereinfacht das Folgen des Referates und kann später sehr gut als Erinnerungsstütze gebraucht werden. Näheres siehe im Abschnitt [Handout](#sec:handout).
 
 Eine Tafel bzw. ein Whiteboard eignet sich vor allem für prozessuelle Mitarbeit und für den Fall, dass während des Referates noch bestimmte Punkte entwickelt werden sollen. Der Nachteil ist, dass es nicht erhalten bleibt und kaum vorbereitet werden kann.
 
@@ -157,7 +157,7 @@ Eine gute Bildschirmpräsentation hat den Effekt, dass der Referent im Regelfall
 
 Eine schlechte Bildschirmpräsentation kann allerdings auch einen negativen Einfluss auf die Qualität des Vortrages haben, was bei einer Überladung der Folien schnell der Fall ist. Zudem kann es zu technischen Problemen kommen, weswegen ein Plan B ohne Computer und Beamer zur eigenen Sicherheit immer vorhanden sein sollte.
 
-Näheres siehe [Praesentation](#sec:praesentation).
+Näheres siehe im Abschnitt [Präsentation von Vorträgen](08_Präsentationen.html#sec:praesentation).
 
 Generell gilt, dass die verschiedenen Arten von Medien auch jederzeit miteinander kombiniert werden können.
 

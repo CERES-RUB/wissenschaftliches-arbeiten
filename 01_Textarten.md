@@ -15,13 +15,13 @@ Ein großer Teil an Studienleistungen wird in der Form von Texten erbracht. Um d
 
 Die längste Form einer Studienleistung – abgesehen von der Examensarbeit – ist die Hausarbeit. Hausarbeiten umfassen im BA-Studium in der Regel 10–15 Seiten. Die Hausarbeit stellt eine eigenständige wissenschaftliche Leistung dar. Dies spiegelt sich auch in den Anforderungen wider.
 
-In einer Hausarbeit soll selbständig ein gewähltes Thema bearbeitet werden. Dies umfasst die Literaturrecherche und Darstellung des Forschungsstandes ebenso wie die Erstellung einer sauberen Gliederung und die Entwicklung und Beantwortung einer eigenständigen Fragestellung. Auch formal muss eine Hausarbeit bestimmten Anforderungen genügen, wie z.B. der korrekte Beleg von Zitaten und die Erstellung eines Literaturverzeichnisses. Näheres siehe [Hausarbeiten](#sec:hausarbeiten).
+In einer Hausarbeit soll selbständig ein gewähltes Thema bearbeitet werden. Dies umfasst die Literaturrecherche und Darstellung des Forschungsstandes ebenso wie die Erstellung einer sauberen Gliederung und die Entwicklung und Beantwortung einer eigenständigen Fragestellung. Auch formal muss eine Hausarbeit bestimmten Anforderungen genügen, wie z.B. der korrekte Beleg von Zitaten und die Erstellung eines Literaturverzeichnisses. Näheres siehe im Abschnitt [Wissenschaftliche Hausarbeiten](02_Hausarbeiten.html#sec:hausarbeiten).
 
 Die Ausarbeitung eines Referats hat eine andere Zielsetzung als eine Hausarbeit. Es soll weniger eine eigene Fragestellung bearbeitet als viel mehr ein Überblick über ein bestimmtes Thema gegeben werden. Die formalen Anforderungen sind jedoch die selben wie bei einer Hausarbeit.
 
 Es kann übrigens natürlich auch verabredet werden, in Erweiterung eines Referats eine Hausarbeit zu schreiben, die dann sehr wohl eine eigene Fragestellung umfasst.
 
-Näheres siehe [Referat](#sec:referat).
+Näheres siehe im Abschnitt [Wissenschaftliche Vorträge und Referate](03_Referate.html#sec:referat).
 
 Ein Essay stellt eine Auseinandersetzung mit einem gegebenen Thema dar. Der Essay ist dabei formal und im Aufbau weniger streng als eine Hausarbeit. So ist eine explizite Gliederung in der Regel entbehrlich, ebenso muss meist nicht der Forschungsstand umfassend wiedergegeben werden. Wenn sich der Essay nur auf einen oder zwei Texte bezieht, können auch die Quellenbelege in den Hintergrund treten.
 
@@ -41,7 +41,7 @@ Verfassen Sie das Protokoll möglichst direkt im Anschluss an die Sitzung – Ih
 
 </div>
 
-Die Textzusammenfassung oder das Exzerpt stellen wie das Protokoll keine eigenständige wissenschaftliche Leistung dar. Das Ziel einer Zusammenfassung ist es, die Kernaussagen eines Textes in möglichst knapper und präziser Form wiederzugeben. Näheres siehe [Exzerpte](#sec:exzerpte).
+Die Textzusammenfassung oder das Exzerpt stellen wie das Protokoll keine eigenständige wissenschaftliche Leistung dar. Das Ziel einer Zusammenfassung ist es, die Kernaussagen eines Textes in möglichst knapper und präziser Form wiederzugeben. Näheres siehe im Abschnitt [Exzerpte](04_Literatur.html#sec:exzerpte).
 
 Darüber hinaus gibt es natürlich noch andere Formen von Studienleistungen. Dies können beispielsweise Rezensionen, Poster oder Wikipedia-Artikel sein. In jedem Fall empfiehlt es sich, die zu erbringende Leistung gut mit den Dozierenden abzusprechen, um wechselseitige Missverständnisse zu vermeiden.
 

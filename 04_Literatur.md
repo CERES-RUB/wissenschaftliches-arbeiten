@@ -125,7 +125,7 @@ Nicht nur das Schreiben, auch das Lesen wissenschaftlicher Texte muss geübt wer
 
 -   Wie viel Zeit kann für das Lesen aufgewendet werden?
 
-#### Analytisches Lesen {#sec:analytisches-lesen .unnumbered}
+#### Analytisches Lesen {#sec:analytisches-lesen}
 
 Die wichtigste Lesemethode ist das analytische Lesen. Dabei sollen alle zentralen Begriffe eines Textes verstanden und die Thesen und Gedankengänge herausgearbeitet werden. Es soll sich kritisch mit dem Text auseinandergesetzt werden und sowohl gelungene Aspekte als auch Schwächen aufgedeckt werden. Hierbei kann die sogenannte **PQ4R**-Formel hilfreich sein:
 
@@ -159,7 +159,7 @@ Beim Lesen des Textes ist es sinnvoll, mit Anstreichungen und Randnotizen zu arb
 
 Markierungen und Anmerkungen sollten selbstverständlich nur bei Texten vorgenommen werden, die einem gehören. Daher ist es sinnvoll, mit Kopien anstatt mit ausgeliehenen Büchern zu arbeiten. Zudem können die Texte so für spätere Lektüre archiviert werden.
 
-#### »Querlesen« {#sec:querlesen .unnumbered}
+#### »Querlesen« {#sec:querlesen}
 
 Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinnen, gibt es verschiedene Lesetrategien:
 
@@ -177,7 +177,7 @@ Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinne
 
 -   **Suchendes Lesen:** Diese Art zielt darauf ab, einen Text möglichst schnell zu lesen und trotzdem wichtige Informationen zu erhalten. Man sollte sich vorher im Klaren sein, welche Wörter oder Begriffe man finden will. Der Text wird danach durchsucht, und wenn die Begriffe nicht vorkommen, vernachlässigt.
 
--   **Kursorisches Lesen:** Ebenfalls eine schnelle Methode. Genauere Details werden wie bei der suchenden Methode vernachlässigt. Es geht darum, den breiteren Zusammenhang und Sinn eines Textes zu erfassen. Als Ergebnis dieses Leseprozesses sollte feststehen, welche Aspekte in dem Text angesprochen werden. Bei dieser Technik überfliegen die Augen nur den Text, es wird nicht Zeile für Zeile gelesen. Abbildung [Kursorisch](#fig:kursorisch) zeigt schematisch den Lesefluss beim kursorischen Lesen. Es empfiehlt sich, pro Seite ein bis zwei Stichpunkte aufzuschreiben.
+-   **Kursorisches Lesen:** Ebenfalls eine schnelle Methode. Genauere Details werden wie bei der suchenden Methode vernachlässigt. Es geht darum, den breiteren Zusammenhang und Sinn eines Textes zu erfassen. Als Ergebnis dieses Leseprozesses sollte feststehen, welche Aspekte in dem Text angesprochen werden. Bei dieser Technik überfliegen die Augen nur den Text, es wird nicht Zeile für Zeile gelesen. Die Abbildung zeigt schematisch den Lesefluss beim kursorischen Lesen. Es empfiehlt sich, pro Seite ein bis zwei Stichpunkte aufzuschreiben.
 
 ![Schematische Darstellung des kursorischen Lesens](images/Kursorisches_Lesen.png)
 
@@ -189,9 +189,9 @@ Versuchen Sie nach dem Lesen noch einmal, sich den »Bauplan« des Textes zu ver
 
 Für eine optimale Seminarvorbereitung bzw. Analyse des Textes sollten Sie nach der Erarbeitung eine kritische Auseinandersetzung anschließen. Dies kann zum Einen eine Textkritik sein: Ist der Aufbau schlüssig? Werden Prämissen später wieder aufgegriffen? Ist die Argumentation geschlossen? (sich dafür zu senisibilisieren, kann doppelt hilfreich sein – auch bei der Bewertung Ihrer Hausarbeiten oder Abschlussarbeit spielen solche Dinge eine entscheidende Rolle). Zum Anderen ist im Seminar oftmals gezielt eine sachliche Kritik am Text gefragt: Sind die Prämissen des Textes annehmbar? Sind die Belege schlüssig? Wie ist ggf. das methodische Vorgehen? Werden Werturteile vorgenommen?
 
-#### Exzerpte {#sec:exzerpte .unnumbered}
+#### Exzerpte {#sec:exzerpte}
 
-Um die gewonnenen Erkenntnisse dauerhaft zu sichern, ist es sinnvoll, nach der Lektüre zentraler Texte ein Exzerpt anzufertigen. Anhand der gemachten Anstreichungen und Anmerkungen lässt sich schnell erfassen, welche Passagen beim Lesen als wichtig empfunden wurden. Im Exzerpt werden diese Passagen noch einmal knapp in eigenen Worten herausgeschrieben. Dabei ist die Zusammenfassung ein sehr wertvolles Mittel, um die Argumentationslinie eines Textes herauszuarbeiten und ggf. argumentative Schwächen aufzuspüren. Auch Anmerkungen zu eigenen Leseeindrücken, Zustimmung und Widerspruch zu einzelnen Passagen können vermerkt werden. Muss später noch einmal auf den Text zurückgegriffen werden, lässt er sich anhand des Exzerpts sehr schnell vergegenwärtigen. Daher empfiehlt es sich, von gelesenen Texten immer auch ein kurzes Exzerpt zu erstellen, auf das man bei Bedarf zurückgreifen kann. Um das zu einem Text gehörige Exzerpt schnell finden zu können, ist es daher sinnvoll, die Exzerpte mit den bibliographischen Angaben in einer Literaturdatenbank zu speichern. Näheres siehe [Literaturverwaltung](#sec:literaturverwaltung).
+Um die gewonnenen Erkenntnisse dauerhaft zu sichern, ist es sinnvoll, nach der Lektüre zentraler Texte ein Exzerpt anzufertigen. Anhand der gemachten Anstreichungen und Anmerkungen lässt sich schnell erfassen, welche Passagen beim Lesen als wichtig empfunden wurden. Im Exzerpt werden diese Passagen noch einmal knapp in eigenen Worten herausgeschrieben. Dabei ist die Zusammenfassung ein sehr wertvolles Mittel, um die Argumentationslinie eines Textes herauszuarbeiten und ggf. argumentative Schwächen aufzuspüren. Auch Anmerkungen zu eigenen Leseeindrücken, Zustimmung und Widerspruch zu einzelnen Passagen können vermerkt werden. Muss später noch einmal auf den Text zurückgegriffen werden, lässt er sich anhand des Exzerpts sehr schnell vergegenwärtigen. Daher empfiehlt es sich, von gelesenen Texten immer auch ein kurzes Exzerpt zu erstellen, auf das man bei Bedarf zurückgreifen kann. Um das zu einem Text gehörige Exzerpt schnell finden zu können, ist es daher sinnvoll, die Exzerpte mit den bibliographischen Angaben in einer Literaturdatenbank zu speichern. Näheres siehe im Abschnitt [Literaturverwaltung](07_Literaturverwaltung.html#sec:literaturverwaltung).
 
 Für das Exzerpt kann man sich etwa an folgenden Fragen orientieren:
 

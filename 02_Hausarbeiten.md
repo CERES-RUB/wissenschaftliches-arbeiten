@@ -53,7 +53,7 @@ Die Gliederung Ihrer Hausarbeit zu Scientology könnte nun aussehen wie folgt: 1
 
 </div>
 
-Näheres siehe [Kapitelgliederung](#sec:kapitelgliederung).
+Näheres siehe im Abschnitt [Kapitelgliederung](#sec:kapitelgliederung).
 
 ### Literaturrecherche und -lektüre
 
@@ -61,7 +61,7 @@ Für die Literaturrecherche ist genügend Zeit einzuplanen. Relevante Werke kön
 
 Die eigentliche Arbeit folgt dann mit dem Lesen und Auswerten der ausgewählten Literatur. Auch hier ist es wichtig, sich nicht ohne Vorüberlegungen in die Literatur zu stürzen. Das Lesen sollte auch schon mit Blick auf die Fragestellung hin geschehen. Welche Argumentation verfolgt der Autor? Stimmt diese mit den eigenen Ansätzen überein? Falls nicht, lässt sich der eigene Weg begründen, oder sollte man seine Thesen anpassen?
 
-Näheres siehe [Literaturrecherche](#sec:literaturrecherche) und [Lesetechniken](#sec:lesetechniken).
+Näheres siehe in den Abschnitten [Literaturrecherche](04_Literatur.html#sec:literaturrecherche) und [Lesetechniken](04_Literatur.html#sec:lesetechniken).
 
 ### Verfassen der Arbeit
 
@@ -77,7 +77,7 @@ Nach dem Schreiben des Textes muss man noch etwas Zeit auf die Nachbearbeitung v
 
 <div class="Technik">
 
-Zu einer wissenschaftlichen Arbeit gehört auch der äußere Eindruck, sprich: die saubere Formatierung. Auch hier kann man die nachträgliche Arbeit auf ein Minimum reduzieren, wenn man schon zuvor sauber gearbeitet hat. Hierzu gehört, dass man Inhalts- und Literaturverzeichnisse automatisch erstellen lässt. Näheres siehe [Textverarbeitung](#sec:textverarbeitung) und [Literaturverwaltung](#sec:literaturverwaltung).
+Zu einer wissenschaftlichen Arbeit gehört auch der äußere Eindruck, sprich: die saubere Formatierung. Auch hier kann man die nachträgliche Arbeit auf ein Minimum reduzieren, wenn man schon zuvor sauber gearbeitet hat. Hierzu gehört, dass man Inhalts- und Literaturverzeichnisse automatisch erstellen lässt. Näheres siehe in den Abschnitten [Textverarbeitung](06_Textverarbeitung.html#sec:textverarbeitung) und [Literaturverwaltung](07_Literaturverwaltung.html#sec:literaturverwaltung).
 
 </div>
 
@@ -107,7 +107,7 @@ Die Abbildung zeigt ein Beispiel eines Deckblatts.
 
 ### Inhaltsverzeichnis
 
-Das Inhaltsverzeichnis enthält die Kapitel und Unterkapitel der Arbeit mit Angabe der Seitenzahl. Das Inhaltsverzeichnis selbst wird dabei nicht aufgeführt. Viele Textverarbeitungen unterstützen die automatische Erstellung eines Inhaltsverzeichnisses. Näheres siehe [Textverarbeitung](#sec:textverarbeitung).
+Das Inhaltsverzeichnis enthält die Kapitel und Unterkapitel der Arbeit mit Angabe der Seitenzahl. Das Inhaltsverzeichnis selbst wird dabei nicht aufgeführt. Viele Textverarbeitungen unterstützen die automatische Erstellung eines Inhaltsverzeichnisses. Näheres siehe im Abschnitt [Textverarbeitung](06_Textverarbeitung.html#sec:textverarbeitung).
 
 ### Kapitelgliederung {#sec:kapitelgliederung}
 
@@ -167,7 +167,7 @@ Wenn Sie eine sauber gegliederte Einleitung geschrieben haben, können Sie sich 
 
 ### Bibliographie und Anhänge
 
-Am Ende der Arbeit steht eine vollständige Liste aller verwendeter Literatur. Dabei sollte die Bibliographie nicht mit Literatur aufgefüllt werden, die im Text nicht zitiert wurde. Falls ein Werk inhaltlich bedeutend ist, sollte es zitiert werden, andernfalls muss es auch nicht in die Literaturliste. Zur Formatierung der Literaturliste siehe [Zitieren](#sec:zitieren).
+Am Ende der Arbeit steht eine vollständige Liste aller verwendeter Literatur. Dabei sollte die Bibliographie nicht mit Literatur aufgefüllt werden, die im Text nicht zitiert wurde. Falls ein Werk inhaltlich bedeutend ist, sollte es zitiert werden, andernfalls muss es auch nicht in die Literaturliste. Zur Formatierung der Literaturliste siehe den Abschnitt [Zitieren von Literatur](05_Zitieren.html#sec:zitieren).
 
 Materialreiche Arbeiten können außerdem noch einen oder mehrere Anhänge enthalten, in denen z.B. Abbildungen, Quellentexte oder ähnliches untergebracht werden. Die Anhänge zählen dabei nicht für den Umfang der Arbeit.
 
@@ -191,7 +191,7 @@ Eine Hausarbeit umfasst im BA-Studium bei Standardformatierung in der Regel ca. 
 
 <div class="Technik">
 
-Zur Formatierung einer Hausarbeit mit gängigen Textverarbeitungsprogrammen siehe [Textverarbeitung](#sec:textverarbeitung). Ergänzend finden sich auch E-Tutorials auf der Website des Studiengangs unter <http://ceres.rub.de/lehre/tipps-tools/>.
+Zur Formatierung einer Hausarbeit mit gängigen Textverarbeitungsprogrammen siehe im Abschnitt [Textverarbeitung](06_Textverarbeitung.html#sec:textverarbeitung). Ergänzend finden sich auch E-Tutorials auf der Website des Studiengangs unter <http://ceres.rub.de/lehre/tipps-tools/>.
 
 </div>
 
@@ -315,4 +315,4 @@ Wenn Sie über längere Strecken die Argumentation eines anderen Autor indirekt 
 
 </div>
 
-[^1]: Für die Details der Literaturrecherche siehe [Literaturrecherche](#sec:literaturrecherche).
+[^1]: Für die Details der Literaturrecherche siehe den Abschnitt [Literaturrecherche](04_Literatur.html#sec:literaturrecherche).
