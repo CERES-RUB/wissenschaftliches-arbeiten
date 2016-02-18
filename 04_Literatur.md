@@ -125,7 +125,7 @@ Nicht nur das Schreiben, auch das Lesen wissenschaftlicher Texte muss geübt wer
 
 -   Wie viel Zeit kann für das Lesen aufgewendet werden?
 
-#### Analytisches Lesen {#analytisches-lesen .unnumbered}
+#### Analytisches Lesen {#sec:analytisches-lesen .unnumbered}
 
 Die wichtigste Lesemethode ist das analytische Lesen. Dabei sollen alle zentralen Begriffe eines Textes verstanden und die Thesen und Gedankengänge herausgearbeitet werden. Es soll sich kritisch mit dem Text auseinandergesetzt werden und sowohl gelungene Aspekte als auch Schwächen aufgedeckt werden. Hierbei kann die sogenannte **PQ4R**-Formel hilfreich sein:
 
@@ -159,7 +159,7 @@ Beim Lesen des Textes ist es sinnvoll, mit Anstreichungen und Randnotizen zu arb
 
 Markierungen und Anmerkungen sollten selbstverständlich nur bei Texten vorgenommen werden, die einem gehören. Daher ist es sinnvoll, mit Kopien anstatt mit ausgeliehenen Büchern zu arbeiten. Zudem können die Texte so für spätere Lektüre archiviert werden.
 
-#### »Querlesen« {#querlesen .unnumbered}
+#### »Querlesen« {#sec:querlesen .unnumbered}
 
 Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinnen, gibt es verschiedene Lesetrategien:
 
