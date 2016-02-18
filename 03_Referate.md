@@ -163,6 +163,8 @@ Generell gilt, dass die verschiedenen Arten von Medien auch jederzeit miteinande
 
 <div class="Merke">
 
+**Vor dem Referat**
+
 1.  Was erwartet der Dozent von meinem Referat
 
 2.  Welche Medien stehen mir im Seminarraum zur Verfügung?
@@ -177,7 +179,7 @@ Generell gilt, dass die verschiedenen Arten von Medien auch jederzeit miteinande
 
 7.  Habe ich geübt (mit jemand anderem oder dem Spiegel)?
 
-<!-- -->
+**Beim Referat**
 
 1.  Rede ich so, dass mich alle verstehen (sowohl akustisch, als auch inhaltlich)?
 
@@ -185,7 +187,7 @@ Generell gilt, dass die verschiedenen Arten von Medien auch jederzeit miteinande
 
 3.  Erkläre ich komplexe Sachverhalte so, dass mir alle folgen können (mit Beispielen oder Vergleichen)?
 
-<!-- -->
+**Nach dem Referat**
 
 1.  Habe ich mir Feedback vom Dozenten abgeholt?
 

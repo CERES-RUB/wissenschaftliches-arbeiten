@@ -129,17 +129,17 @@ Nicht nur das Schreiben, auch das Lesen wissenschaftlicher Texte muss geübt wer
 
 Die wichtigste Lesemethode ist das analytische Lesen. Dabei sollen alle zentralen Begriffe eines Textes verstanden und die Thesen und Gedankengänge herausgearbeitet werden. Es soll sich kritisch mit dem Text auseinandergesetzt werden und sowohl gelungene Aspekte als auch Schwächen aufgedeckt werden. Hierbei kann die sogenannte **PQ4R**-Formel hilfreich sein:
 
--   \[<span style="font-variant:small-caps;">**P**review:\] Erster Überblick über den Text</span>
+-   **P**review: Erster Überblick über den Text
 
--   \[<span style="font-variant:small-caps;">**Q**uestion:\] Fragen an den Text formulieren</span>
+-   **Q**uestion: Fragen an den Text formulieren
 
--   \[<span style="font-variant:small-caps;">**R**ead:\] Lesen des Textes</span>
+-   **R**ead: Lesen des Textes
 
--   \[<span style="font-variant:small-caps;">**R**eflect:\] Reflektieren der Textinhalte und ihres Kontexts</span>
+-   **R**eflect: Reflektieren der Textinhalte und ihres Kontexts
 
--   \[<span style="font-variant:small-caps;">**R**ecite:\] Wiedergeben des Textinhalts (z.B. in Form eines Exzerpts)</span>
+-   **R**ecite: Wiedergeben des Textinhalts (z.B. in Form eines Exzerpts)
 
--   \[<span style="font-variant:small-caps;">**R**eview:\] Rückblick über die Textlektüre</span>
+-   **R**eview: Rückblick über die Textlektüre
 
 Beim Lesen des Textes ist es sinnvoll, mit Anstreichungen und Randnotizen zu arbeiten. So wird gleich beim Lesen Wichtiges von Unwichtigem unterschieden, und der Inhalt kann leichter angeeignet werden. Außerdem erleichtert es das erneute Lesen des Textes zu einem späteren Zeitpunkt. Drei Formen der Anmerkung lassen sich unterscheiden:
 
@@ -147,13 +147,13 @@ Beim Lesen des Textes ist es sinnvoll, mit Anstreichungen und Randnotizen zu arb
 
 -   **Nichtsprachliche Anmerkungen:** Mit kleinen Symbolen können Textstellen charakterisiert werden. Dies kann direkt im Text oder am Rand geschehen. Beispiele können sein:
 
-      -------- ----------------
-         !     Wichtig
-         ?     Unverständlich
-        Def.   Definition
-       1.2.3.  Aufzählung
-         ⁈     Widerspruch
-      -------- ----------------
+    | Zeichen | Bedeutung      |
+    |:-------:|:---------------|
+    |   !     | Wichtig        |
+    |   ?     | Unverständlich |
+    |  Def.   | Definition     |
+    | 1.2.3.  | Aufzählung     |
+    |   ⁈     | Widerspruch    |
 
 -   **Sprachliche Anmerkungen:** Kurze Bemerkungen, Stichpunkte und den Inhalten eines Absatzes und ähnliches können direkt am Rand vermerkt werden. Ausführlichere Gedanken können auch auf der Textrückseite notiert werden.
 
