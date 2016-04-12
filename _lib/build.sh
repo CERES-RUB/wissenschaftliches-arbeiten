@@ -13,4 +13,9 @@ cd "$SRC"/
 
 # LATEX/PDF
 pandoc -o "$DEST"/"$FILENAMEBASE".pdf "${BUILDOPTS[@]}" "${LATEXOPTS[@]}" \
-       --filter "$LIB"/divtoenv.py --filter "$LIB"/internallinks.py --include-in-header "$TEMPLATES"/latex-defs.tex ??_*.md
+       --filter "$LIB"/divtoenv.py --filter "$LIB"/internallinks.py \
+       --include-in-header "$TEMPLATES"/latex-defs.tex ??_*.md
+
+# EPUB
+pandoc -o "$DEST"/"$FILENAMEBASE".epub "${BUILDOPTS[@]}" ??_*.md
+
