@@ -121,6 +121,92 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
+
+    em, i {
+        font-style: normal;
+    }
+}
+
+
+
+/**
+ * Hint boxes
+ */
+%hint {
+    background: {
+        color: $grey-color-light;
+        repeat: no-repeat;
+        size: $icon-size;
+        position: $spacing-unit / 4 $spacing-unit / 4;
+    }
+    padding: 0;
+    padding-left: $icon-size + $spacing-unit / 2;
+    margin: 0;
+    border-radius: .5em;
+    color: $grey-color-dark;
+    font-size: 18px;
+    font-style: italic;
+    letter-spacing: -1px;
+
+    &::before {
+        display: block;
+        background-color: $grey-color-dark;
+        padding: .2em;
+        margin: 0;
+        font-weight: bold;
+        font-style: normal;
+        letter-spacing: 0;
+        color: $grey-color-light;
+    }
+
+    p {
+        padding-right: $spacing-unit / 2;
+    }
+}
+
+.Beispiel {
+    @extend %hint;
+    background-image: url(../images/icon-beispiel.png);
+
+    &::before {
+        content: "Beispiel";
+    }
+}
+
+.Hinweis {
+    @extend %hint;
+    background-image: url(../images/icon-hinweis.png);
+
+    &::before {
+        content: "Hinweis";
+    }
+}
+
+.Merke {
+    @extend %hint;
+    background-image: url(../images/icon-merke.png);
+
+    &::before {
+        content: "Merke";
+    }
+}
+
+.Technik {
+    @extend %hint;
+    background-image: url(../images/icon-technik.png);
+
+    &::before {
+        content: "Technik";
+    }
+}
+
+.Tipp {
+    @extend %hint;
+    background-image: url(../images/icon-tipp.png);
+
+    &::before {
+        content: "Tipp";
+    }
 }
 
 
