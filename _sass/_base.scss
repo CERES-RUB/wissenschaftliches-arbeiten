@@ -139,9 +139,11 @@ blockquote {
         size: $icon-size;
         position: $spacing-unit / 4 $spacing-unit / 4;
     }
+    min-height: $icon-size + $spacing-unit / 2;
     padding: 0;
     padding-left: $icon-size + $spacing-unit / 2;
     margin: 0;
+    margin-bottom: $spacing-unit / 2;
     border-radius: .5em;
     color: $grey-color-dark;
     font-size: 18px;
