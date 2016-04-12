@@ -59,13 +59,13 @@ Dieses Zitat kann nun auf verschiedene Weisen im Text wiedergegeben werden:
     Seine Kritik am Religionsbegriff ist somit grundsätzlicher Art.
 
 -   Wörtliches Zitat im Absatz:\
-    Folgt man Boyarins Kritik am Religionsbegriff, lassen sich Christentum und Judentum nicht mehr unter der gemeinsamen Kategorie »Religion« fassen: »In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 54f.).
+    Folgt man Boyarins Kritik am Religionsbegriff, lassen sich Christentum und Judentum nicht mehr unter der gemeinsamen Kategorie »Religion« fassen: »In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 354f.).
 
 -   Einflechtung in einen eigenen Satz:\
-    Boyarin geht dabei so weit zu sagen, dass »it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 54f.).
+    Boyarin geht dabei so weit zu sagen, dass »it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 354f.).
 
 -   Auslassungen:\
-    Boyarin betont die unterschiedlichen Perspektiven auf das Konzept »Religion«: »From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion* \[…\]; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not« (Boyarin 2005, 54f.).
+    Boyarin betont die unterschiedlichen Perspektiven auf das Konzept »Religion«: »From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion* \[…\]; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not« (Boyarin 2005, 354f.).
 
 <div class="Technik">
 
@@ -76,7 +76,7 @@ Die Auslassungspunkte sind nicht einfach drei hintereinandergesetzte Punkte (...
 Indirekte Zitate erfordern dieses Vorgehen nicht. Hier wird ein zitierender Satz oder Abschnitt in eigenen Worten wiedergegeben und einfach in den Fließtext eingegliedert. Auslassungen oder Veränderungen sind erlaubt, solange sie nicht sinnentstellend sind. Beim Beleg indirekter Zitate wird der Quellenangabe der Hinweis »vgl.« vorangestellt, um kenntlich zu machen, dass es sich um eine nicht-wörtliche Wiedergabe des Textes handelt. Weitere Verweise auf Literatur, die nicht zitiert wird, aber das Gesagte unterstützt, können mit »vgl. auch« eingeleitet werden. Auf Literatur, die den vorgestellten Thesen oder Argumenten widerspricht, wird der Redlichkeit halber mit »vgl. aber« verwiesen.
 
 -   Indirektes Zitat:\
-    Folgt man der These, dass die Kategorie »Religion« an sich eine christliche Erfindung ist, so liegt der Schluss nahe, dass etwa das Judentum aus seiner Binnenperspektive heraus nicht als Religion verstanden wird (vgl. Boyarin 2005, 54f.).
+    Folgt man der These, dass die Kategorie »Religion« an sich eine christliche Erfindung ist, so liegt der Schluss nahe, dass etwa das Judentum aus seiner Binnenperspektive heraus nicht als Religion verstanden wird (vgl. Boyarin 2005, 354f.).
 
 -   Verweis:\
     Auch wenn sich die Argumentationslinien im Detail unterscheiden, fügt sich Asads Dekonstruktion des Religionsbegriffs in eine Reihe postkolonialer Kritik am christozentrischen Konzept »Religion« (vgl. etwa Boyarin 2005).
