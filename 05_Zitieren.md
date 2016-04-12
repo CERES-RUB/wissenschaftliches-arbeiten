@@ -47,7 +47,7 @@ Jede Veränderung am Text muss unbedingt gekennzeichnet werden. Solcherlei Anmer
 
 An einem kurzen Beispiel soll dies verdeutlicht werden. In einem Text findet sich die folgende Stelle, die zitiert werden soll:
 
-> *In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether. From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion*, one a bad example and the other one a very good one, indeed the only prototype; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not.*
+> In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether. From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion*, one a bad example and the other one a very good one, indeed the only prototype; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not.
 
 Dieses Zitat kann nun auf verschiedene Weisen im Text wiedergegeben werden:
 
@@ -117,7 +117,7 @@ Folgen zwei Nennungen einer Quelle direkt aufeinander, ist also kein Verweis auf
 
 Die Fußnotenzitierweise soll an folgendem Beispiel demonstriert werden:
 
-> *My argument is that there cannot be a universal definition of religion, not only because its constituent elements and relationships are historically specific, but because that definition is itself the historical product of discursive processes.*
+> My argument is that there cannot be a universal definition of religion, not only because its constituent elements and relationships are historically specific, but because that definition is itself the historical product of discursive processes.
 
 -   Erstes Zitat (Vollangabe):\
     So schreibt Talal Asad: »My argument is that there cannot be a universal definition of religion, not only because its constituent elements and relationships are historically specific, but because that definition is itself the historical product of discursive processes.«[^1]
@@ -153,7 +153,7 @@ d)  Lexikonartikel:\
 
 Bei dieser Zitierweise, die vor allem in den Natur- und Sozialwissenschaften gebräuchlich ist, aber inzwischen auch in den Geisteswissenschaften Verwendung findet, werden Quellenbelege nicht in Fußnoten angeführt, sondern direkt im Text. Die Fußnoten sind damit ausschließlich Anmerkungen vorbehalten. Im Text werden Quellen durch ein Kürzel aus Autorennachname und Erscheinungsjahr gebildet. Im Literaturverzeichnis kann dann mit Hilfe dieser Angaben die volle Literaturangabe nachgeschlagen werden.[^5]
 
-> *Religions are powerful not because they reveal transcendent truths or the effects of an ontologized “History”, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action.*
+> Religions are powerful not because they reveal transcendent truths or the effects of an ontologized “History”, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action.
 
 -   Erstes Zitat:\
     »Religions are powerful not because they reveal transcendent truths or the effects of an ontologized »History«, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action« (Stuckrad 2003, 269).
