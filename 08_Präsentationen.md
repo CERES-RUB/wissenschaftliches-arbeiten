@@ -50,17 +50,11 @@ Um die korrekte Wiedergabe von Bildschirmpräsentationen sicherzustellen, ist es
 <div class="Merke">
 
 1.  Hintergrund, Schrift und Effekte sind schlicht gehalten und nicht überladen.
-
 2.  Benutzung einer ausreichenden Schriftgröße.
-
 3.  Pro Folie wird höchstens ein Thema behandelt.
-
 4.  Die Folien sind nicht überladen mit Information.
-
 5.  Generell werden nur die wichtigsten Informationen visualisiert, nicht jedes Detail des Vortrags.
-
 6.  Keine bloße Wiederholung von auf den Folien stehenden Punkten.
-
 7.  Auf Bilder, Schemata, Schaubilder, Diagramme, Tabellen und Statistiken wird eingegangen, sie dienen nicht zur Dekoration.
 
 </div>

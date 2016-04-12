@@ -166,31 +166,22 @@ Generell gilt, dass die verschiedenen Arten von Medien auch jederzeit miteinande
 **Vor dem Referat**
 
 1.  Was erwartet der Dozent von meinem Referat
-
 2.  Welche Medien stehen mir im Seminarraum zur Verfügung?
-
 3.  Welche mediale Unterstützung ist für meinen Vortrag am sinnvollsten?
-
 4.  Wenn es Mitreferenten gibt, wie teile ich dann das Referat am besten ein?
-
 5.  Wie viel Zeit habe ich für mein Referat?
-
 6.  Bin ich gut vorbereitet?
-
 7.  Habe ich geübt (mit jemand anderem oder dem Spiegel)?
 
 **Beim Referat**
 
 1.  Rede ich so, dass mich alle verstehen (sowohl akustisch, als auch inhaltlich)?
-
 2.  Halte ich (Blick)kontakt mit allen Zuhörern?
-
 3.  Erkläre ich komplexe Sachverhalte so, dass mir alle folgen können (mit Beispielen oder Vergleichen)?
 
 **Nach dem Referat**
 
 1.  Habe ich mir Feedback vom Dozenten abgeholt?
-
 2.  Was kann ich besser machen?
 
 </div>

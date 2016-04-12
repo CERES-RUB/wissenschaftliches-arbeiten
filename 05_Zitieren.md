@@ -102,9 +102,7 @@ Diese Unterscheidung wirkt sich sowohl auf die Art aus, wie im Text die Quellen 
 Die im Folgenden vorgestellten Zitierweisen sind nur zwei von vielen Möglichkeiten, korrekt zu zitieren. Wie man häufig in der Fachliteratur sieht, sind viele Varianten dieser Zitierformen im Gebrauch. Unabhängig davon, für welche Zitierweise Sie sich entscheiden, müssen drei Kriterien bei den Literaturangaben immer erfüllt werden:
 
 1.  Vollständigkeit,
-
 2.  Einheitlichkeit,
-
 3.  Nachvollziehbarkeit.
 
 </div>
@@ -263,11 +261,8 @@ Neben Texten (und auch Internetseiten sind natürlich Texte) gibt es noch andere
 <div class="Merke">
 
 1.  Habe ich Literatur so recherchiert, dass ich alle wichtigen Texte finden konnte? Habe ich dafür die richtigen Such-Schlagworte und verschiedene Kataloge benutzt?
-
 2.  Habe ich darauf geachtet, dass die Literatur wissenschaftlichen Standards genügt? Habe ich sie kritisch gelesen?
-
 3.  Habe ich die Literatur sinnvoll für mein Thema eingegrenzt, und nicht einfach das genommen, was ich schnell zur Hand hatte?
-
 4.  Habe ich die Literatur vollständig, einheitlich und nachvollziehbar zitiert und belegt?
 
 </div>

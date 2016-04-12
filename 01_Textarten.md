@@ -49,16 +49,11 @@ Darüber hinaus gibt es natürlich noch andere Formen von Studienleistungen. Die
 
 Im Dokumentenkopf aller kleinen Studienleistungen müssen in dieser oder einer ähnlichen Form folgende Angaben aufgeführt werden:
 
-Ruhr-Universität Bochum
-
-Studiengang Religionswissenschaft
-
-&lt;Name der Veranstaltung&gt; &lt;Semester&gt;
-
-&lt;Name des/der Dozenten/-in&gt;
-
-&lt;Name des/der Verfassers/-in&gt;
-
+Ruhr-Universität Bochum  
+Studiengang Religionswissenschaft  
+&lt;Name der Veranstaltung&gt; &lt;Semester&gt;  
+&lt;Name des/der Dozenten/-in&gt;  
+&lt;Name des/der Verfassers/-in&gt;  
 &lt;Datum&gt;
 
 </div>

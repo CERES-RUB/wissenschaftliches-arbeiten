@@ -49,7 +49,16 @@ Schon unmittelbar nach der Erarbeitung der Fragestellung kann eine erste Glieder
 
 <div class="Beispiel">
 
-Die Gliederung Ihrer Hausarbeit zu Scientology könnte nun aussehen wie folgt: 1. Einleitung; 2. (deskriptiver Teil); 2.1 Über Scientology; 2.2 Überblick über Konflikte und stattgefundene Gerichtsverhandelungen; 3. (analytischer Teil); 3.1 Analyse der Schriftstücke und Urteile; 3.2 Bezug zu religionswissenschaftlicher Literatur über Scientology; 4. Fazit.
+Die Gliederung Ihrer Hausarbeit zu Scientology könnte nun aussehen wie folgt:
+
+1. Einleitung  
+2. (deskriptiver Teil)  
+    2.1 Über Scientology  
+    2.2 Überblick über Konflikte und stattgefundene Gerichtsverhandelungen  
+3. (analytischer Teil)  
+    3.1 Analyse der Schriftstücke und Urteile  
+    3.2 Bezug zu religionswissenschaftlicher Literatur über Scientology  
+4. Fazit.
 
 </div>
 
@@ -276,21 +285,13 @@ Eine frühzeitige Absprache mit dem Dozenten über eine mögliche Hausarbeit ist
 <div class="Merke">
 
 1.  Habe ich ein gut eingegrenztes Thema mit einer konkreten Fragestellung?
-
 2.  Ist der Aufbau meiner Hausarbeit logisch, nachvollziehbar und ist sie der Fragestellung angemessen?
-
 3.  Habe ich mein Thema mit dem Dozenten abgesprochen?
-
 4.  Handelt es sich bei den Funden meiner Literaturrecherche um wissenschaftliche Literatur?
-
 5.  Habe ich alle für die Fragestellung und das Thema relevante Literatur gefunden?
-
 6.  Habe ich die vorgegebenen Formalia berücksichtigt?
-
 7.  Welche Zitierweise benutze ich und habe ich einheitlich zitiert?
-
 8.  Habe ich ein Literaturverzeichnis erstellt?
-
 9.  Habe ich Korrektur gelesen und Korrektur lesen lassen?
 
 </div>
