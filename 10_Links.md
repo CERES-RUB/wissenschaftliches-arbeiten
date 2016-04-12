@@ -11,7 +11,7 @@ contents: true
 
 a)  Ruhr-Universität Bochum: <http://www.rub.de/>
 
-b)  CERES: <http://www.ceres.rub.de/>\
+b)  CERES: <http://www.ceres.rub.de/>  
     Aktuelle Meldungen, die die Lehre betreffen, sind unter der Adresse <http://www.ceres.rub.de/de/lehre/aktuelles/> einsehbar.
 
 c)  Universitätsbibliothek: <http://www.ub.rub.de/>

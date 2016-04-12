@@ -51,20 +51,20 @@ An einem kurzen Beispiel soll dies verdeutlicht werden. In einem Text findet sic
 
 Dieses Zitat kann nun auf verschiedene Weisen im Text wiedergegeben werden:
 
--   Abgesetzes Blockzitat (bei Zitaten länger als ca. drei Zeilen, sparsam einsetzen):\
+-   Abgesetzes Blockzitat (bei Zitaten länger als ca. drei Zeilen, sparsam einsetzen):  
     Boyarin zufolge kann die Kategorie »Religion« aus jüdischer Sicht nicht auf das Judentum angewandt werden, wie er ausführt:
 
     > »In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether. From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion*, one a bad example and the other one a very good one, indeed the only prototype; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not.«
 
     Seine Kritik am Religionsbegriff ist somit grundsätzlicher Art.
 
--   Wörtliches Zitat im Absatz:\
+-   Wörtliches Zitat im Absatz:  
     Folgt man Boyarins Kritik am Religionsbegriff, lassen sich Christentum und Judentum nicht mehr unter der gemeinsamen Kategorie »Religion« fassen: »In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 354f.).
 
--   Einflechtung in einen eigenen Satz:\
+-   Einflechtung in einen eigenen Satz:  
     Boyarin geht dabei so weit zu sagen, dass »it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 354f.).
 
--   Auslassungen:\
+-   Auslassungen:  
     Boyarin betont die unterschiedlichen Perspektiven auf das Konzept »Religion«: »From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion* \[…\]; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not« (Boyarin 2005, 354f.).
 
 <div class="Technik">
@@ -75,10 +75,10 @@ Die Auslassungspunkte sind nicht einfach drei hintereinandergesetzte Punkte (...
 
 Indirekte Zitate erfordern dieses Vorgehen nicht. Hier wird ein zitierender Satz oder Abschnitt in eigenen Worten wiedergegeben und einfach in den Fließtext eingegliedert. Auslassungen oder Veränderungen sind erlaubt, solange sie nicht sinnentstellend sind. Beim Beleg indirekter Zitate wird der Quellenangabe der Hinweis »vgl.« vorangestellt, um kenntlich zu machen, dass es sich um eine nicht-wörtliche Wiedergabe des Textes handelt. Weitere Verweise auf Literatur, die nicht zitiert wird, aber das Gesagte unterstützt, können mit »vgl. auch« eingeleitet werden. Auf Literatur, die den vorgestellten Thesen oder Argumenten widerspricht, wird der Redlichkeit halber mit »vgl. aber« verwiesen.
 
--   Indirektes Zitat:\
+-   Indirektes Zitat:  
     Folgt man der These, dass die Kategorie »Religion« an sich eine christliche Erfindung ist, so liegt der Schluss nahe, dass etwa das Judentum aus seiner Binnenperspektive heraus nicht als Religion verstanden wird (vgl. Boyarin 2005, 354f.).
 
--   Verweis:\
+-   Verweis:  
     Auch wenn sich die Argumentationslinien im Detail unterscheiden, fügt sich Asads Dekonstruktion des Religionsbegriffs in eine Reihe postkolonialer Kritik am christozentrischen Konzept »Religion« (vgl. etwa Boyarin 2005).
 
 <div class="Hinweis">
@@ -117,34 +117,34 @@ Die Fußnotenzitierweise soll an folgendem Beispiel demonstriert werden:
 
 > My argument is that there cannot be a universal definition of religion, not only because its constituent elements and relationships are historically specific, but because that definition is itself the historical product of discursive processes.
 
--   Erstes Zitat (Vollangabe):\
+-   Erstes Zitat (Vollangabe):  
     So schreibt Talal Asad: »My argument is that there cannot be a universal definition of religion, not only because its constituent elements and relationships are historically specific, but because that definition is itself the historical product of discursive processes.«[^1]
 
--   Folgezitat (Kurzangabe):\
+-   Folgezitat (Kurzangabe):  
     Nach Ansicht von Talal Asad kann Religion nicht universell definiert werden, da jede Definition des Begriffs selbst Ergebnis eines diskursiven Prozesses ist.[^2]
 
--   Direktes Folgezitat:\
+-   Direktes Folgezitat:  
     Talal Asad argumentiert »that there cannot be a universal definition of religion \[…\] because that definition is itself the historical product of discursive processes.«[^3]
 
 Das Literaturverzeichnis führt vollständig sämtliche zitierte Literatur auf. Umgekehrt soll keine Literatur enthalten sein, die im Text nicht verwendet wird. Es dient damit der übersichtlichen Zusammenfassung aller genannter Literatur. Das Literaturverzeichnis muss einheitlich formatiert werden. Die genaue Darstellung richtet sich dabei auch nach der verwendeten Zitierweise. Das Literaturverzeichnis wird dabei immer alphabetisch nach den Nachnamen der Autoren sortiert.
 
 Nach der Fußnotenzitierweise werden die Titel im Literaturverzeichnis genau so angegeben wie bei der ersten, vollständigen Angabe im Text. Einzig beim Namen des (ersten) Autors wird der Nachname aufgrund der Sortierung vorangestellt.
 
-a)  Monografien:[^4]\
-    Nachname, Vorname: Titel, ggf. Auflage, Ort: Verlag Jahr.\
+a)  Monografien:[^4]  
+    Nachname, Vorname: Titel, ggf. Auflage, Ort: Verlag Jahr.  
     Luckmann, Thomas: Die unsichtbare Religion, 2. Aufl., Frankfurt am Main: Suhrkamp 1993.
 
-b)  Sammelbandaufsätze:\
-    Nachname, Vorname <span>*(des Autors)*</span>: »Titel des Aufsatzes«, in: Vorname Nachname <span>*(des Herausgebers)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag Jahr, S. Seiten des Aufsatzes.\
-    Asad, Talal: »The Construction of Religion as an Anthropological Category«, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, S. 114–132.\
+b)  Sammelbandaufsätze:  
+    Nachname, Vorname <span>*(des Autors)*</span>: »Titel des Aufsatzes«, in: Vorname Nachname <span>*(des Herausgebers)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag Jahr, S. Seiten des Aufsatzes.  
+    Asad, Talal: »The Construction of Religion as an Anthropological Category«, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, S. 114–132.  
     Boyarin, Daniel: »Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity«, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press 2005, S. 339–358.
 
-c)  Zeitschriftenaufsätze:\
-    Nachname, Vorname: »Titel«, *Zeitschrift* Band/Nummer (Jahr), S. Seiten des Aufsatzes.\
+c)  Zeitschriftenaufsätze:  
+    Nachname, Vorname: »Titel«, *Zeitschrift* Band/Nummer (Jahr), S. Seiten des Aufsatzes.  
     von Stuckrad, Kocku: »Discursive Study of Religion: From States of the Mind to Communication and Action«, *Method & Theory in the Study of Religion* 15/3 (2003), S. 255–271.
 
-d)  Lexikonartikel:\
-    Name, Vorname: »Artikel«, in: Lexikon Bd. Band, ggf. Auflage, Jahr, S. Seiten des Artikels.\
+d)  Lexikonartikel:  
+    Name, Vorname: »Artikel«, in: Lexikon Bd. Band, ggf. Auflage, Jahr, S. Seiten des Artikels.  
     Avi-Yonah, Michael: »Adoraim«, in: Encyclopaedia Judaica Bd. 1, 2. Aufl., 2006, S. 214.
 
 ## Autor-Jahr-Zitierweise
@@ -153,32 +153,32 @@ Bei dieser Zitierweise, die vor allem in den Natur- und Sozialwissenschaften geb
 
 > Religions are powerful not because they reveal transcendent truths or the effects of an ontologized “History”, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action.
 
--   Erstes Zitat:\
+-   Erstes Zitat:  
     »Religions are powerful not because they reveal transcendent truths or the effects of an ontologized »History«, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action« (Stuckrad 2003, 269).
 
--   Folgezitat:[^6]\
+-   Folgezitat:[^6]  
     Nach Ansicht einiger Autoren besteht die Wirkmächtigkeit von Religionen besonders in der Unterstützung von Identitätskonstruktionen und in konkreten Handlungsanweisungen (vgl. etwa Stuckrad 2003, 269).
 
--   Direktes Folgezitat:\
+-   Direktes Folgezitat:  
     So seien Religionen »powerful \[…\] because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action« (ebd., 269).
 
 Da die Verweise im Text keine vollständigen Literaturangaben enthalten, liefert bei der Autor-Jahr-Zitierweise das Literaturverzeichnis die relevanten Informationen zum Auffinden der Literatur. Im Autor-Jahr-System wird die Jahreszahl direkt hinter den Autorennamen gesetzt, um das Nachschlagen der Angaben im Text zu erleichtern. Die Sortierung erfolgt alphabetisch.
 
-a)  Monografien:[^7]\
-    Nachname, Vorname (Jahr): Titel, ggf. Auflage, Ort: Verlag.\
+a)  Monografien:[^7]  
+    Nachname, Vorname (Jahr): Titel, ggf. Auflage, Ort: Verlag.  
     Luckmann, Thomas (1993): Die unsichtbare Religion, 2. Aufl., Frankfurt am Main: Suhrkamp.
 
-b)  Sammelbandaufsätze:\
-    Nachname, Vorname <span>*(des Autors)*</span> (Jahr): »Titel des Aufsatzes«, in: Vorname Nachname <span>*(des Herausgebers)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag, S. Seiten des Aufsatzes.\
-    Asad, Talal (2002): »The Construction of Religion as an Anthropological Category«, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers, S. 114–132.\
+b)  Sammelbandaufsätze:  
+    Nachname, Vorname <span>*(des Autors)*</span> (Jahr): »Titel des Aufsatzes«, in: Vorname Nachname <span>*(des Herausgebers)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag, S. Seiten des Aufsatzes.  
+    Asad, Talal (2002): »The Construction of Religion as an Anthropological Category«, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers, S. 114–132.  
     Boyarin, Daniel (2005): »Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity«, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press, S. 339–358.
 
-c)  Zeitschriftenaufsätze:\
-    Nachname, Vorname (Jahr): »Titel«, *Zeitschrift* Band/Nummer, S. Seiten des Aufsatzes.\
+c)  Zeitschriftenaufsätze:  
+    Nachname, Vorname (Jahr): »Titel«, *Zeitschrift* Band/Nummer, S. Seiten des Aufsatzes.  
     von Stuckrad, Kocku (2003): »Discursive Study of Religion: From States of the Mind to Communication and Action«, *Method & Theory in the Study of Religion* 15/3, S. 255–271.
 
-d)  Lexikonartikel:\
-    Name, Vorname (Jahr): »Artikel«, in: Lexikon Bd. Band, ggf. Auflage, S. Seiten des Artikels.\
+d)  Lexikonartikel:  
+    Name, Vorname (Jahr): »Artikel«, in: Lexikon Bd. Band, ggf. Auflage, S. Seiten des Artikels.  
     Avi-Yonah, Michael (2006): »Adoraim«, in: Encyclopaedia Judaica Bd. 1, 2. Aufl., S. 214.
 
 <div class="Hinweis">
@@ -227,7 +227,7 @@ Grob kann man Webangebote in drei Kategorien einteilen:
 
     Seiten wie etwa das Forum Qualitative Sozialforschung (<http://www.qualitative-research.net/>) können verwendet werden wie traditionelle Print-Zeitschriften auch. Da hier auch vollständige Autorenangaben vorliegen, erfolgt die Zitation ähnlich wie bei anderen Zeitschriftenaufsätzen, mit zwei Modifikationen: Zum einen sind Internetadresse (URL) und Zugriffsdatum anzugeben, zum anderen sind bei Online-Quellen keine Seitenzahlen verfügbar, so dass nach Absatznummer oder anderen Kriterien zitiert werden muss.
 
-    Beispiel:[^9]\
+    Beispiel:[^9]  
     Witzel, Andreas (2000): »Das problemzentrierte Interview«, in: *Forum Qualitative Sozialforschung/Forum: Qualitative Social Research* 1/1, Art. 22, http://nbn-resolving“”.de/urn:nbn:de:0114-fqs0001228 (letzter Zugriff: 19.8.2010).
 
 2.  Populäre Online-Lexika
@@ -238,7 +238,7 @@ Grob kann man Webangebote in drei Kategorien einteilen:
 
     Der Großteil der übrigen Internetseiten sind nicht als wissenschaftliche Referenz verwendbar. Dies gilt auch und gerade für die Internetauftritte religiöser Gemeinschaften: Diese können nicht als wissenschaftlicher Beleg für inhaltliche Aussagen herangezogen werden. Solche Internetseiten eignen sich jedoch unter Umständen als Primärquellen, also als empirisches Material, das im Zuge einer wissenschaftlichen Arbeit analysiert wird. In solchen Fällen ist jedoch – wie bei jeder empirischen Arbeit – die Materialauswahl und die Analysemethode explizit zu beschreiben.
 
-    Die Quellenangabe ist in solchen Fällen weniger standardisiert, sie sollte sich aber an den üblichen Kriterien der Vollständigkeit, Einheitlichkeit und Nachvollziehbarkeit orientieren. Die Mindestangabe für Internetseiten folgt daher diesem Schema:\
+    Die Quellenangabe ist in solchen Fällen weniger standardisiert, sie sollte sich aber an den üblichen Kriterien der Vollständigkeit, Einheitlichkeit und Nachvollziehbarkeit orientieren. Die Mindestangabe für Internetseiten folgt daher diesem Schema:  
     Titel der Seite, Link der Seite, Datum Ihres letzten Zugriffs.
 
 <div class="Hinweis">
@@ -247,7 +247,7 @@ Falls auf der Seite selbst kein Titel angegeben ist, können Sie in den meisten 
 
 </div>
 
-Sofern es sich bei der Internetseite um den Auftritt einer Organisation handelt, der Text aber keiner einzelnen Person zugerechnet werden kann, kann die Organisation als Urheber aufgeführt werden:\
+Sofern es sich bei der Internetseite um den Auftritt einer Organisation handelt, der Text aber keiner einzelnen Person zugerechnet werden kann, kann die Organisation als Urheber aufgeführt werden:  
 Deutsche Buddhistische Union e.V. (o.J.): *Ziele der DBU*, http://www.buddhismus-deutschland.de/dbu/frameset.php?content=http://www.buddhismus-deutschland.de/“”dbu/dbu\_ziele.html (letzter Zugriff: 19.8.2010).
 
 <div class="Hinweis">
