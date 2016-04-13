@@ -101,7 +101,7 @@ Wenn Sie Ihren Suchprozess dokumentieren, sparen Sie sich unter Umständen einig
 
 Eine wichtige Fähigkeit, die Sie im Laufe Ihres Studiums erlernen müssen, ist der routinierte Umgang mit Mengen an wissenschaftlicher Literatur sowie eine schnelle und zuverlässige Einschätzung ihrer Brauchbarkeit für Ihre Bedürfnisse. Dies ist auch Übungssache; einige Tipps möchten wir Ihnen aber trotzdem schon an dieser Stelle mit auf den Weg geben:
 
--   Dem Klappentext und/oder dem Inhaltsverzeichnis können Sie schon entnehmen, was das Ziel des Buches ist: Ist es eine Studie oder ein Lehrbuch; bietet es einen Überblick oder will es ein Thema vertiefen?
+-   Dem Klappentext und/​oder dem Inhaltsverzeichnis können Sie schon entnehmen, was das Ziel des Buches ist: Ist es eine Studie oder ein Lehrbuch; bietet es einen Überblick oder will es ein Thema vertiefen?
 
 -   Grundsätzlich gilt: Nicht alles, was sich in universitären Bibliotheken findet, ist wissenschaftlich hochwertig. Hier finden sich ebenso populärwissenschaftliche Veröffentlichungen als auch normativ geprägte Publikationen einer bestimmten Herausgeberschaft. Hinterfragen Sie immer auch kritisch Prämissen, Vorgehen und Argumentationen eines Werkes.
 
@@ -109,7 +109,7 @@ Eine wichtige Fähigkeit, die Sie im Laufe Ihres Studiums erlernen müssen, ist 
 
 -   Von wann ist die Veröffentlichung? Ist sie hinreichend aktuell für das Thema? Stammt sie unter Umständen aus einer Zeit, die sich in der wissenschaftlichen Debatte niedergeschlagen haben könnte (z.B. Kolonialismus, Nationalsozialismus)?
 
--   In welcher Reihe oder in welchem Verlag ist die Publikation erschienen bzw. in welcher Zeitschrift der Aufsatz? Wofür steht diese Reihe/dieser Verlag/diese Zeitschrift? Wer ist ggf. der Herausgeber?
+-   In welcher Reihe oder in welchem Verlag ist die Publikation erschienen bzw. in welcher Zeitschrift der Aufsatz? Wofür steht diese Reihe/​dieser Verlag/​diese Zeitschrift? Wer ist ggf. der Herausgeber?
 
 -   Wie ausführlich, aktuell und wissenschaftlich ist das Literaturverzeichnis? Auf welche Fachrichtungen bezieht sich der Autor?
 
@@ -169,7 +169,7 @@ Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinne
 
     2.  Anschließend wird die Einleitung bzw. der erste Abschnitt gelesen, um einen Überblick über die Fragestellung zu erhalten.
 
-    3.  Der Hauptteil des Textes wird übersprungen und statt dessen direkt der Schluss gelesen. Dieser kann direkt auf die Fragestellung der Einleitung bezogen werden, um zu sehen, zu welchen Ergebnissen der Autor/die Autorin gelangt.
+    3.  Der Hauptteil des Textes wird übersprungen und statt dessen direkt der Schluss gelesen. Dieser kann direkt auf die Fragestellung der Einleitung bezogen werden, um zu sehen, zu welchen Ergebnissen der Autor/​die Autorin gelangt.
 
     4.  Je nach eigener Fragestellung und Interesse können nun weitere Abschnitte aus dem Hauptteil gelesen werden, um die Argumentation im Detail nachzuvollziehen.
 

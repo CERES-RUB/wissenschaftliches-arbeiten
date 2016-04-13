@@ -19,7 +19,7 @@ Für die Koordination verschiedener zu erbringender Leistungen etwa in den Semes
 
 <div class="Hinweis">
 
-Hausarbeiten werden meist in der vorlesungsfreien Zeit geschrieben. Bedenken Sie auch, dass in dieser Zeit Sprechstunden oft zu veränderten Zeiten und/oder seltener angeboten werden und auch Dozierende im Urlaub sein können. Vereinbaren Sie, wenn nötig, am besten noch zum Ende der Vorlesungszeit weitere Beratungstermine.
+Hausarbeiten werden meist in der vorlesungsfreien Zeit geschrieben. Bedenken Sie auch, dass in dieser Zeit Sprechstunden oft zu veränderten Zeiten und/​oder seltener angeboten werden und auch Dozierende im Urlaub sein können. Vereinbaren Sie, wenn nötig, am besten noch zum Ende der Vorlesungszeit weitere Beratungstermine.
 
 </div>
 
@@ -66,7 +66,7 @@ Näheres siehe im Abschnitt [Kapitelgliederung](#sec:kapitelgliederung).
 
 ### Literaturrecherche und -lektüre
 
-Für die Literaturrecherche ist genügend Zeit einzuplanen. Relevante Werke können vorübergehend ausgeliehen sein, oder müssen gar per Fernleihe bestellt werden. Daher ist es gut, sich schon früh einen Überblick über die benötigte Literatur zu verschaffen. (Für die Details der Literaturrecherche siehe den Abschnitt [Literaturrecherche](04_Literatur.html#sec:literaturrecherche).) Der Horizont der Recherche ist dabei immer der Forschungsstand: Die Texte zu einem Thema werden nicht beliebig gewählt, sondern sollen die Ergebnisse einer bestimmten Forschungsrichtung widerspiegeln. Dabei kann in einer Hausarbeit natürlich nicht die gesamte Forschungsliteratur zu einem Thema wiedergegeben werden. Jedoch sind die gewählten Texte immer in einen Kontext einzubetten: Welcher Forschungsrichtung entspringen sie? Auf welche Texte und/oder Autoren nehmen sie Bezug? Welche anderen Richtungen gibt es, die in der Hausarbeit nicht berücksichtigt werden? Ein kurzer Überblick über den Forschungsstand und die Literaturlage sollte daher zu Beginn der Arbeit, etwa nach der Einleitung, nicht fehlen.
+Für die Literaturrecherche ist genügend Zeit einzuplanen. Relevante Werke können vorübergehend ausgeliehen sein, oder müssen gar per Fernleihe bestellt werden. Daher ist es gut, sich schon früh einen Überblick über die benötigte Literatur zu verschaffen. (Für die Details der Literaturrecherche siehe den Abschnitt [Literaturrecherche](04_Literatur.html#sec:literaturrecherche).) Der Horizont der Recherche ist dabei immer der Forschungsstand: Die Texte zu einem Thema werden nicht beliebig gewählt, sondern sollen die Ergebnisse einer bestimmten Forschungsrichtung widerspiegeln. Dabei kann in einer Hausarbeit natürlich nicht die gesamte Forschungsliteratur zu einem Thema wiedergegeben werden. Jedoch sind die gewählten Texte immer in einen Kontext einzubetten: Welcher Forschungsrichtung entspringen sie? Auf welche Texte und/​oder Autoren nehmen sie Bezug? Welche anderen Richtungen gibt es, die in der Hausarbeit nicht berücksichtigt werden? Ein kurzer Überblick über den Forschungsstand und die Literaturlage sollte daher zu Beginn der Arbeit, etwa nach der Einleitung, nicht fehlen.
 
 Die eigentliche Arbeit folgt dann mit dem Lesen und Auswerten der ausgewählten Literatur. Auch hier ist es wichtig, sich nicht ohne Vorüberlegungen in die Literatur zu stürzen. Das Lesen sollte auch schon mit Blick auf die Fragestellung hin geschehen. Welche Argumentation verfolgt der Autor? Stimmt diese mit den eigenen Ansätzen überein? Falls nicht, lässt sich der eigene Weg begründen, oder sollte man seine Thesen anpassen?
 
@@ -102,7 +102,7 @@ Vor jeder Hausarbeit steht ein Deckblatt, das einige formal wichtige Information
 
 -   Zweck der Arbeit (z.B. »Hausarbeit als großer Leistungsnachweis im Modul …« oder »Essay als kleine Leistung für das Modulteil …«)
 
--   Titel, Lehrveranstaltungsnummer und Semester des Seminars/Moduls sowie der Name des oder der Lehrenden
+-   Titel, Lehrveranstaltungsnummer und Semester des Seminars/​Moduls sowie der Name des oder der Lehrenden
 
 -   Titel der Hausarbeit
 
@@ -248,7 +248,7 @@ Die Beurteilung dieser Kriterien ist am besten anhand von Binärpaaren zu verdeu
 |  | Bequemlichkeit war “Kriterium” der Literaturauswahl (auf wichtige Publikationen verzichtet, weil Fernleihe oder fremdsprachlich). |
 | Die im Literaturverzeichnis angeführte Literatur wird im Text angemessen aufgegriffen. Die Literatur wird dabei den Erfordernissen der Arbeit entsprechend selektiert eingebunden. | Große Teile der aufgeführten Literatur werden im Text nicht berücksichtigt. Die Literatur wird unselektiert und nicht der Fragestellung angemessen wiedergegeben. |
 | Die Literatur und ihr wissenschaftlicher Hintergrund wird kritisch reflektiert. | Literatur wird unkritisch übernommmen; Unwissenschaftliche Literatur wird als Quelle herangezogen, ohne entsprechend eingeordnet zu werden. |
-| Souveräner Umgang mit Begriffen und Konzepten. | Relevante Konzepte/Begriffe wurden nicht verstanden. |
+| Souveräner Umgang mit Begriffen und Konzepten. | Relevante Konzepte/​Begriffe wurden nicht verstanden. |
 | Zusammenhänge wurden richtig erkannt, Querverbindungen wurden gezogen. | Einordnung des behandelten Themas in den grösseren Zusammenhang fehlt, ist zu vage oder falsch. |
 |  | Arbeit enthält falsche Sachinformationen. |
 | Die Arbeit ist theoretisch durchdacht. | Keine Frage- oder Problemstellung oder methodisch-theoretische Reflexion erkennbar. |
@@ -256,9 +256,9 @@ Die Beurteilung dieser Kriterien ist am besten anhand von Binärpaaren zu verdeu
 | Die einzelnen Arbeitsschritte wurden durch Methodenreflexionen transparent gemacht. | Methodenreflexion wurde nicht oder unzureichend durchgeführt. |
 |  | Mangelhafte Differenzierung, Pauschalaussagen (»Christen sind …«, »Hindus glauben …«). |
 | Einordnung der eigenen Arbeit im gegenwärtigen Fachdiskurs. | Religionswissenschaftliche Sekundärliteratur ignorieren; Fragenstellungen entwickeln, die nichts mit Religionswissenschaft zu tun haben. |
-| Innen/Außenperspektive unterscheiden. | Aus der Innenperspektive heraus argumentieren oder gar werten und urteilen. |
+| Innen/​Außenperspektive unterscheiden. | Aus der Innenperspektive heraus argumentieren oder gar werten und urteilen. |
 | Analytische Deskription | Normative Wertungen |
-| Religionsbegriff kontextualisieren (Mit welcher/m Kultur/Zeit/Raum beschäftige ich mich gerade? Wie lässt sich dort Religion identifizieren?) | Religionsbegriff unreflektiert verwenden. |
+| Religionsbegriff kontextualisieren (Mit welcher/m Kultur/​Zeit/​Raum beschäftige ich mich gerade? Wie lässt sich dort Religion identifizieren?) | Religionsbegriff unreflektiert verwenden. |
 | Diskursive Macht der wissenschaftlichen Rede über Religion reflektieren. | Existenz von Religion als gegeben hinnehmen. |
 | Die Fragestellung ist klar herausgearbeitet. Sie bezieht sich auf das gewählte Thema und ist im Rahmen der Arbeit bearbeitbar. | Es ist keine Fragestellung formuliert. Die Fragestellung ist zu breit oder zu eng gewählt |
 | Stringente Gedankenführung. Die Argumentation bezieht sich auf die gewählte Fragestellung. | Argumentationsgang ist logisch fehlerhaft. |

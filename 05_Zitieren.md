@@ -13,13 +13,13 @@ Zitiert werden müssen
 
 -   Erkenntnisse, zu denen Sie allein durch Nachdenken nicht hätten kommen können (also die Forschungsergebnisse anderer)
 
--   grundlegende methodische/wissenschaftstheoretische Annahmen, die ein Fundament für Ihre Arbeit bilden
+-   grundlegende methodische/​wissenschaftstheoretische Annahmen, die ein Fundament für Ihre Arbeit bilden
 
 -   weitere Gedanken, die Sie den Werken anderer entnommen haben, und die nicht zu Ihrem eigenen allgemeinen Wissen gehören
 
 <div class="Hinweis">
 
-Wenn Sie wirklich über eine längere Strecke nur die Argumentation eines Autor oder einer Autorin zitieren (etwa, weil Sie seine/ihre Theorie grundlegenderweise für Ihre Arbeit erläutern müssen), machen Sie dies am Anfang des Abschnitts deutlich. Verbleiben Sie bei allen weiteren indirekten Zitaten im gleichen Abschnitt im Konjunktiv, sofern es sich nicht um reine Faktenaussagen handelt. Ihre eigene Stellungnahme zu den wiedergegebenen Inhalten bzw. die Zuspitzung und Anwendung auf Ihre spezifische Fragestellung ist aber so wichtig, dass Sie im Verlauf des Kapitels ohnehin die Ebene der Zitate verlassen sollten.
+Wenn Sie wirklich über eine längere Strecke nur die Argumentation eines Autor oder einer Autorin zitieren (etwa, weil Sie seine/​ihre Theorie grundlegenderweise für Ihre Arbeit erläutern müssen), machen Sie dies am Anfang des Abschnitts deutlich. Verbleiben Sie bei allen weiteren indirekten Zitaten im gleichen Abschnitt im Konjunktiv, sofern es sich nicht um reine Faktenaussagen handelt. Ihre eigene Stellungnahme zu den wiedergegebenen Inhalten bzw. die Zuspitzung und Anwendung auf Ihre spezifische Fragestellung ist aber so wichtig, dass Sie im Verlauf des Kapitels ohnehin die Ebene der Zitate verlassen sollten.
 
 </div>
 
@@ -69,7 +69,7 @@ Dieses Zitat kann nun auf verschiedene Weisen im Text wiedergegeben werden:
 
 <div class="Technik">
 
-Die Auslassungspunkte sind nicht einfach drei hintereinandergesetzte Punkte (...), sondern ein eigenes Zeichen (…). Dadurch wirken die Abstände zwischen den Punkten gleichmäßiger. In den meisten Textverarbeitungen kann eingestellt werden, dass drei aufeinanderfolgende Punkte automatisch durch ein Ellipsenzeichen ersetzt werden.
+Die Auslassungspunkte sind nicht einfach drei hintereinandergesetzte Punkte (.\..), sondern ein eigenes Zeichen (…). Dadurch wirken die Abstände zwischen den Punkten gleichmäßiger. In den meisten Textverarbeitungen kann eingestellt werden, dass drei aufeinanderfolgende Punkte automatisch durch ein Ellipsenzeichen ersetzt werden.
 
 </div>
 
@@ -83,7 +83,7 @@ Indirekte Zitate erfordern dieses Vorgehen nicht. Hier wird ein zitierender Satz
 
 <div class="Hinweis">
 
-Falls Sie Abkürzungen verwenden, müssen die abgekürzten Bezeichnungen (Bez.) immer zuerst einmal ausgeschrieben werden. Abkürzungen richten Sie bitte nach: Siegfried M. Schwertner, *Internationales Abkürzungsverzeichnis für Theologie und Grenzgebiete:* IATG; Zeitschriften, Serien, Lexika, Quellenwerte mit bibliographischen Angaben: International glossary of abbreviations for theology and related subjects, 2, überarb. und erw. Aufl. Berlin/New York 1992. Gängige Abkürzungen, die im <span style="font-variant:small-caps;">Duden</span> verzeichnet sind (z.B., usw., etc., vgl.), können jederzeit frei verwendet werden.
+Falls Sie Abkürzungen verwenden, müssen die abgekürzten Bezeichnungen (Bez.) immer zuerst einmal ausgeschrieben werden. Abkürzungen richten Sie bitte nach: Siegfried M. Schwertner, *Internationales Abkürzungsverzeichnis für Theologie und Grenzgebiete:* IATG; Zeitschriften, Serien, Lexika, Quellenwerte mit bibliographischen Angaben: International glossary of abbreviations for theology and related subjects, 2, überarb. und erw. Aufl. Berlin/​New York 1992. Gängige Abkürzungen, die im <span style="font-variant:small-caps;">Duden</span> verzeichnet sind (z.B., usw., etc., vgl.), können jederzeit frei verwendet werden.
 
 </div>
 
@@ -140,7 +140,7 @@ b)  Sammelbandaufsätze:
     Boyarin, Daniel: »Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity«, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press 2005, S. 339–358.
 
 c)  Zeitschriftenaufsätze:  
-    Nachname, Vorname: »Titel«, *Zeitschrift* Band/Nummer (Jahr), S. Seiten des Aufsatzes.  
+    Nachname, Vorname: »Titel«, *Zeitschrift* Band/​Nummer (Jahr), S. Seiten des Aufsatzes.  
     von Stuckrad, Kocku: »Discursive Study of Religion: From States of the Mind to Communication and Action«, *Method & Theory in the Study of Religion* 15/3 (2003), S. 255–271.
 
 d)  Lexikonartikel:  
@@ -174,7 +174,7 @@ b)  Sammelbandaufsätze:
     Boyarin, Daniel (2005): »Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity«, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press, S. 339–358.
 
 c)  Zeitschriftenaufsätze:  
-    Nachname, Vorname (Jahr): »Titel«, *Zeitschrift* Band/Nummer, S. Seiten des Aufsatzes.  
+    Nachname, Vorname (Jahr): »Titel«, *Zeitschrift* Band/​Nummer, S. Seiten des Aufsatzes.  
     von Stuckrad, Kocku (2003): »Discursive Study of Religion: From States of the Mind to Communication and Action«, *Method & Theory in the Study of Religion* 15/3, S. 255–271.
 
 d)  Lexikonartikel:  
@@ -191,9 +191,9 @@ Verwenden Sie bestenfalls etwas mehr Mühe darauf, das Original zu beschaffen. A
 
 ## Quellenangaben
 
-Historische Quellen, wie etwa Bibel, Koran oder andere historische Schriften, können nicht entsprechend der Regeln für Sekundärliteratur zitiert werden. Insbesondere ist die Autorschaft oft unklar, und die gleiche Quelle liegt oftmals in verschiedenen Ausgaben vor. Der verwendeten Übersetzung/Edition kommt hier eine besondere Bedeutung bei, die in der Quellenangabe deutlich gemacht werden muss. Die Literaturangabe vereint daher Angaben zur originalen Quelle (die etwa einen Titel, aber unter Umständen keinen bekannten Autor hat) und Angaben zur verwendeten Ausgabe. Je nach verfügabaren Informationen richtet sich die Angabe grob nach folgendem Schema:
+Historische Quellen, wie etwa Bibel, Koran oder andere historische Schriften, können nicht entsprechend der Regeln für Sekundärliteratur zitiert werden. Insbesondere ist die Autorschaft oft unklar, und die gleiche Quelle liegt oftmals in verschiedenen Ausgaben vor. Der verwendeten Übersetzung/​Edition kommt hier eine besondere Bedeutung bei, die in der Quellenangabe deutlich gemacht werden muss. Die Literaturangabe vereint daher Angaben zur originalen Quelle (die etwa einen Titel, aber unter Umständen keinen bekannten Autor hat) und Angaben zur verwendeten Ausgabe. Je nach verfügabaren Informationen richtet sich die Angabe grob nach folgendem Schema:
 
-> \[Autor,\] Titel der Quelle, herausgegeben/übersetzt von Herausgeber/Übersetzer, Ort (der Ausgabe) \[Jahr des Originals\]Jahr der Ausgabe.
+> \[Autor,\] Titel der Quelle, herausgegeben/​übersetzt von Herausgeber/​Übersetzer, Ort (der Ausgabe) \[Jahr des Originals\]Jahr der Ausgabe.
 
 Also etwa:
 
@@ -228,7 +228,7 @@ Grob kann man Webangebote in drei Kategorien einteilen:
     Seiten wie etwa das Forum Qualitative Sozialforschung (<http://www.qualitative-research.net/>) können verwendet werden wie traditionelle Print-Zeitschriften auch. Da hier auch vollständige Autorenangaben vorliegen, erfolgt die Zitation ähnlich wie bei anderen Zeitschriftenaufsätzen, mit zwei Modifikationen: Zum einen sind Internetadresse (URL) und Zugriffsdatum anzugeben, zum anderen sind bei Online-Quellen keine Seitenzahlen verfügbar, so dass nach Absatznummer oder anderen Kriterien zitiert werden muss.
 
     Beispiel:[^9]  
-    Witzel, Andreas (2000): »Das problemzentrierte Interview«, in: *Forum Qualitative Sozialforschung/Forum: Qualitative Social Research* 1/1, Art. 22, http://nbn-resolving“”.de/urn:nbn:de:0114-fqs0001228 (letzter Zugriff: 19.8.2010).
+    Witzel, Andreas (2000): »Das problemzentrierte Interview«, in: *Forum Qualitative Sozialforschung/​Forum: Qualitative Social Research* 1/1, Art. 22, http://nbn-resolving.de/urn:nbn:de:0114-fqs0001228 (letzter Zugriff: 19.8.2010).
 
 2.  Populäre Online-Lexika
 
@@ -248,7 +248,7 @@ Falls auf der Seite selbst kein Titel angegeben ist, können Sie in den meisten 
 </div>
 
 Sofern es sich bei der Internetseite um den Auftritt einer Organisation handelt, der Text aber keiner einzelnen Person zugerechnet werden kann, kann die Organisation als Urheber aufgeführt werden:  
-Deutsche Buddhistische Union e.V. (o.J.): *Ziele der DBU*, http://www.buddhismus-deutschland.de/dbu/frameset.php?content=http://www.buddhismus-deutschland.de/“”dbu/dbu\_ziele.html (letzter Zugriff: 19.8.2010).
+Deutsche Buddhistische Union e.V. (o.J.): *Ziele der DBU*, http://www.buddhismus-deutschland.de/dbu/frameset.php?content=http://www.buddhismus-deutschland.de/dbu/dbu\_ziele.html (letzter Zugriff: 19.8.2010).
 
 <div class="Hinweis">
 

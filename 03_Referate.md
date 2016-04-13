@@ -63,7 +63,7 @@ Daneben hat ein Referat jedoch einen eher einführenden Charakter, der einige Un
 
     -   Ggf. Vorstellung der Autoren. Hier ist es selten sinnvoll, ein ganzes Kurzreferat zu den Biografien der Autoren zu halten. Vielmehr sollte sich auch dieser Teil daran orientieren, was für das Referatsthema insgesamt relevant ist: Das sind am ehesten die fachliche Sozialisation oder der akademische Werdegang, fachlichen Positionen und Brüche oder berühmte Lehrer. Lebensdaten sind spannend, sofern sie den Zusammenhang zu einer bestimmten Epoche des wissenschaftlichen Diskurses herstellen und inhaltliche Positionen besser einzubetten vermögen. Sprechen Sie dies u.U. noch einmal gezielt mit dem Betreuer Ihres Referates ab.
 
-    -   Zentrale Inhalte des Referates/des referierten Textes: Geben Sie in keinem Fall komplette und unselektierte Inhalte wieder. Überlegen Sie - wie bei der Abfassung einer Hausarbeit – was für die Fragestellung und Zielsetzung des Referates wirklich wichtig ist. Wie sind die Zusammenhänge und der Argumentationsaufbau des Textes?
+    -   Zentrale Inhalte des Referates/​des referierten Textes: Geben Sie in keinem Fall komplette und unselektierte Inhalte wieder. Überlegen Sie - wie bei der Abfassung einer Hausarbeit – was für die Fragestellung und Zielsetzung des Referates wirklich wichtig ist. Wie sind die Zusammenhänge und der Argumentationsaufbau des Textes?
 
     -   Bei manchen (schlechten) Referaten wird ziemlich schnell allen Beteiligten klar, dass die Referenten die vorzutragenden Inhalte selbst nicht in der Tiefe nachvollzogen haben. Aneinanderreihungen von Inhalts-Schnipseln (»und dann sagt Weber … und dann … und dann sagt er noch …«) zeigen, dass die Argumentation nicht wirklich verstanden wurde und deshalb auch nicht anschaulich wiedergegeben werden kann. Dieser Kardinalfehler lässt sich leicht vermeiden, indem man sich frühzeitig erstmals mit den zu referierenden Inhalten auseinandersetzt, und dann ggf. die Sprechstunde des Dozierenden nutzt, um sich über die Inhalte des Referates zu verständigen. Genau dafür sind Sprechstunden da, und dieses Vorgehen ist für alle Beteiligten deutlich sinnvoller, als sich durch ein unzureichendes Referat zu quälen.
 
@@ -97,7 +97,7 @@ Daneben hat ein Referat jedoch einen eher einführenden Charakter, der einige Un
 
 Zu einem Referat sollte immer ein Handout vorgelegt werden. Es enthält in komprimierter Form die Inhalte des Referats, und dient damit als Leitfaden für den Vortrag sowie im Nachhinein als Gedächtnisstütze. Dazu sollte es wie folgt gestaltet sein:
 
--   Nicht zu überladen: Vor allem sind längere Fließtextabschnitte zu vermeiden. Auch ist das Handout nicht dazu geeignet, Inhalte zu vermitteln, die nicht Gegenstand des Vortrags sind. Ausnahme ist ggf. die Wiedergabe grafischer Darstellungen und/oder Tabellen und Daten; auch diese müssen aber natürlich in irgendeiner Form Gegenstand des Referates sein.
+-   Nicht zu überladen: Vor allem sind längere Fließtextabschnitte zu vermeiden. Auch ist das Handout nicht dazu geeignet, Inhalte zu vermitteln, die nicht Gegenstand des Vortrags sind. Ausnahme ist ggf. die Wiedergabe grafischer Darstellungen und/​oder Tabellen und Daten; auch diese müssen aber natürlich in irgendeiner Form Gegenstand des Referates sein.
 
 -   Die Rekapitulation der Inhalte ermöglichen: Daher soll es weitgehend selbsterklärend Kernthesen sowie ggf. die Schreibweise von (objektsprachlichen) Begriffen und Literaturangaben enthalten.
 
@@ -113,7 +113,7 @@ Die Grundschwierigkeit eines Referats besteht in der Vermittlung von Inhalten, d
 
 -   die Einbeziehung der Zuhörer durch Rückfragen o.ä.,
 
--   Begleitung des Vortrags durch Folien/digitale Präsentationen. Näheres siehe im Abschnitt [Medien](#sec:referat-medien).
+-   Begleitung des Vortrags durch Folien/​digitale Präsentationen. Näheres siehe im Abschnitt [Medien](#sec:referat-medien).
 
 Vor der Ausarbeitung des Referats sind unbedingt die Rahmenbedingungen abzusprechen: Wie viel Zeit steht für das Referat zur Verfügung, ist eine anschließende Diskussion eingeplant, auf welche technischen Hilfsmittel kann ggf. zurückgegriffen werden?
 
