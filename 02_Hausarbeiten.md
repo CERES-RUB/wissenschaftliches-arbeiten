@@ -15,7 +15,7 @@ Das Verfassen einer wissenschaftlichen Arbeit beschränkt sich nicht auf das Sch
 
 Ratsam ist es, sich vor dem Beginn einer Hausarbeit einen Zeitplan für die Erstellung der Arbeit anzufertigen. Insbesondere für die Beschaffung und Sichtung von Literatur muss oft mehr Zeit eingeplant werden, als man zunächst annimmt. Sind Bücher entliehen oder müssen sie gar per Fernleihe bestellt werden, kann es mehrere Wochen dauern, bis sie verfügbar sind. Auch die weiteren Schritte benötigen Zeit. Und nicht zuletzt sollte am Ende noch genügend Raum sein, um die Arbeit noch einmal Korrektur zu lesen (oder lesen zu lassen).
 
-Für die Koordination verschiedener zu erbringender Leistungen etwa in den Semesterferien kann ein Gesamtzeitplan hilfreich sein. Er ermöglicht eine effektivere Nutzung der oft nur begrenzt zur Verfügung stehenden Zeit. Nicht zuletzt kann ein Zeitplan auch motivierende Effekte haben, indem er im Verlauf der Erstellung einer Hausarbeit die bereits erfolgreich abgearbeiteten Punkte vor Augen führt.
+Für die Koordination verschiedener zu erbringender Leistungen etwa in den Semesterferien kann ein Gesamtzeitplan hilfreich sein. Er ermöglicht eine effektivere Nutzung der nur begrenzt zur Verfügung stehenden Zeit. Nicht zuletzt kann ein Zeitplan auch motivierende Effekte haben, indem er im Verlauf der Erstellung einer Hausarbeit die bereits erfolgreich abgearbeiteten Punkte vor Augen führt.
 
 <div class="Hinweis">
 
