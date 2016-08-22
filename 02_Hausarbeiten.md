@@ -25,9 +25,9 @@ Hausarbeiten werden meist in der vorlesungsfreien Zeit geschrieben. Bedenken Sie
 
 ### Themenfindung und Fragestellung
 
-Der erste Schritt beim Erstellen einer wissenschaftlichen Arbeit ist die Themenfindung. Dabei soll nicht nur ein Themenkomplex gewählt werden, mit dem sich die Arbeit beschäftigt. Es muss auch eine Fragestellung formuliert werden, die die Bearbeitung des Themas einer spezifisch religionswissenschaftlichen Herangehensweise zugänglich macht. Eine Fragestellung zu entwickeln ist dabei durchaus eine anspruchsvolle Aufgabe. Eine gute Fragestellung bleibt nämlich in der Regel nicht dabei stehen, danach zu fragen, wie die Dinge beschrieben werden können. Dies mündet meist in einer reinen Wiedergabe von Gelesenem; eine eigene Auseinandersetzung findet nicht statt. Eine wissenschaftliche Frage zielt dagegen auf die Erklärung der Sachverhalte oder auf ihre Konsequenzen. Eine Ausnahme können hier dezidierte sprachwissenschaftliche Materialarbeiten darstellen, bei denen schon die Darstellung des Materials eine anspruchsvolle Aufgabe für sich ist.
+Der erste Schritt beim Erstellen einer wissenschaftlichen Arbeit ist die Themenfindung. Dabei soll nicht nur ein Themenkomplex gewählt werden, mit dem sich die Arbeit beschäftigt. Es muss auch eine Fragestellung formuliert werden, die die Bearbeitung des Themas einer spezifisch religionswissenschaftlichen Herangehensweise zugänglich macht. Eine Fragestellung zu entwickeln ist durchaus eine anspruchsvolle Aufgabe. Eine gute Fragestellung bleibt nämlich in der Regel nicht dabei stehen, danach zu fragen, wie die Dinge beschrieben werden können. Dies mündet meist in einer reinen Wiedergabe von Gelesenem; eine eigene Auseinandersetzung findet nicht statt. Eine wissenschaftliche Frage zielt dagegen auf die Erklärung der Sachverhalte oder auf ihre Konsequenzen. Eine Ausnahme können hier dezidierte sprachwissenschaftliche Materialarbeiten darstellen, bei denen schon die Darstellung des Materials eine anspruchsvolle Aufgabe für sich ist.
 
-Eine zweite Herausforderung ist die Eingrenzung des Themas. Themen wie »Die Geschichte des Hinduismus in Indien« oder »Die Religiosität muslimischer Jugendlicher in Deutschland« sind schlicht zu weit gefasst, um im Rahmen von Haus- oder selbst Bachelorarbeiten behandelt zu werden. Die Eingrenzung eines Themas ist auch deswegen so schwierig, weil sie bereits Grundkenntnisse über den Gegenstand voraussetzt. Erst dann lässt sich ermessen, in welche konkreteren Fragen sich ein Thema zergliedern lässt.
+Eine zweite Herausforderung ist die Eingrenzung des Themas. Themen wie »Die Geschichte des Hinduismus in Indien« oder »Die Religiosität muslimischer Jugendlicher in Deutschland« sind schlicht zu weit gefasst, um im Rahmen von Haus- oder selbst Bachelor-Arbeiten behandelt zu werden. Die Eingrenzung eines Themas ist auch deswegen so schwierig, weil sie bereits Grundkenntnisse über den Gegenstand voraussetzt. Erst dann lässt sich ermessen, in welche konkreteren Fragen sich ein Thema zergliedern lässt.
 
 Die Themenfindung lässt sich daher nicht allein am Schreibtisch bewältigen. Sie erfordert auch einen ersten, groben Überblick über die verfügbare Literatur und den Forschungsstand sowie Gespräche mit der Dozentin oder dem Dozenten: Scheuen Sie nicht davor zurück, mit den Lehrenden über Ihre thematischen Vorstellungen zu sprechen. Aber bereiten Sie sich auch auf ein solches Gespräch vor. Wenn Sie sich schon ein Grundlagenwissen erarbeitet haben, können Sie Anregungen der Lehrenden aufnehmen und sinnvoll einarbeiten.
 
@@ -58,7 +58,7 @@ Die Gliederung Ihrer Hausarbeit zu Scientology könnte nun aussehen wie folgt:
 3. (analytischer Teil)
     3.1 Analyse der Schriftstücke und Urteile
     3.2 Bezug zu religionswissenschaftlicher Literatur über Scientology
-4. Fazit.
+4. Fazit
 
 </div>
 
@@ -68,13 +68,13 @@ Näheres siehe im Abschnitt [Kapitelgliederung](#sec:kapitelgliederung).
 
 Für die Literaturrecherche ist genügend Zeit einzuplanen. Relevante Werke können vorübergehend ausgeliehen sein, oder müssen gar per Fernleihe bestellt werden. Daher ist es gut, sich schon früh einen Überblick über die benötigte Literatur zu verschaffen. (Für die Details der Literaturrecherche siehe den Abschnitt [Literaturrecherche](04_Literatur.html#sec:literaturrecherche).) Der Horizont der Recherche ist dabei immer der Forschungsstand: Die Texte zu einem Thema werden nicht beliebig gewählt, sondern sollen die Ergebnisse einer bestimmten Forschungsrichtung widerspiegeln. Dabei kann in einer Hausarbeit natürlich nicht die gesamte Forschungsliteratur zu einem Thema wiedergegeben werden. Jedoch sind die gewählten Texte immer in einen Kontext einzubetten: Welcher Forschungsrichtung entspringen sie? Auf welche Texte und/​oder Autoren nehmen sie Bezug? Welche anderen Richtungen gibt es, die in der Hausarbeit nicht berücksichtigt werden? Ein kurzer Überblick über den Forschungsstand und die Literaturlage sollte daher zu Beginn der Arbeit, etwa nach der Einleitung, nicht fehlen.
 
-Die eigentliche Arbeit folgt dann mit dem Lesen und Auswerten der ausgewählten Literatur. Auch hier ist es wichtig, sich nicht ohne Vorüberlegungen in die Literatur zu stürzen. Das Lesen sollte auch schon mit Blick auf die Fragestellung hin geschehen. Welche Argumentation verfolgt der Autor? Stimmt diese mit den eigenen Ansätzen überein? Falls nicht, lässt sich der eigene Weg begründen, oder sollte man seine Thesen anpassen?
+Die eigentliche Arbeit folgt dann mit dem Lesen und Auswerten der ausgewählten Literatur. Auch hier ist es wichtig, sich nicht ohne Vorüberlegungen in die Literatur zu stürzen. Das Lesen sollte auch schon mit Blick auf die Fragestellung hin geschehen. Welche Argumentation verfolgt der Autor? Stimmt diese mit den eigenen Ansätzen überein? Falls nicht, lässt sich der eigene Weg begründen oder sollte man seine Thesen anpassen?
 
 Näheres siehe in den Abschnitten [Literaturrecherche](04_Literatur.html#sec:literaturrecherche) und [Lesetechniken](04_Literatur.html#sec:lesetechniken).
 
 ### Verfassen der Arbeit
 
-Der größte Teil der Arbeit steht mit dem Verfassen des eigentlichen Textes an. Sind die vorhergegangenen Schritte aber gründlich bearbeitet, reduziert sich der Aufwand beim eigentlichen Schreiben der Arbeit erheblich. Im Idealfall hat man eine klare Fragestellung und eine saubere Gliederung, kennt die Literatur und braucht nur noch anzufangen. Dabei sollte man nicht nur die einfache Aufteilung der Kapitel im Kopf haben, sondern auch schon die grobe Argumentationsstruktur. Schwächen im Aufbau fallen einem so früh ins Auge, und nicht erst, wenn die Arbeit schon geschrieben ist.
+Der größte Teil der Arbeit steht mit dem Verfassen des eigentlichen Textes an. Sind die vorhergegangenen Schritte aber gründlich bearbeitet, reduziert sich der Aufwand beim eigentlichen Schreiben der Arbeit erheblich. Im Idealfall hat man eine klare Fragestellung und eine saubere Gliederung, kennt die Literatur und braucht nur noch anzufangen. Dabei sollte man nicht nur die einfache Aufteilung der Kapitel im Kopf haben, sondern auch schon die grobe Argumentationsstruktur. Schwächen im Aufbau fallen einem so früh ins Auge und nicht erst, wenn die Arbeit schon geschrieben ist.
 
 <div class="Tipp">
 
@@ -100,7 +100,7 @@ Vor jeder Hausarbeit steht ein Deckblatt, das einige formal wichtige Information
 
 -   Name der Universität, der Fakultät und des Fachs
 
--   Zweck der Arbeit (z.B. »Hausarbeit als großer Leistungsnachweis im Modul …« oder »Essay als kleine Leistung für das Modulteil …«)
+-   Zweck der Arbeit (z.B. »Hausarbeit als großer Leistungsnachweis im Modul …« oder »Essay als kleine Leistung für den Modulteil …«)
 
 -   Titel, Lehrveranstaltungsnummer und Semester des Seminars/​Moduls sowie der Name des oder der Lehrenden
 
@@ -108,7 +108,7 @@ Vor jeder Hausarbeit steht ein Deckblatt, das einige formal wichtige Information
 
 -   Name, Matrikelnummer, Studienkombination, Semesterzahl, Anschrift, Telefonnummer und ggf. E-Mail
 
--   Datum, an dem die Arbeit eingereicht wird.
+-   Datum, an dem die Arbeit eingereicht wird
 
 Die Abbildung zeigt ein Beispiel eines Deckblatts.
 
@@ -120,7 +120,7 @@ Das Inhaltsverzeichnis enthält die Kapitel und Unterkapitel der Arbeit mit Anga
 
 ### Kapitelgliederung {#sec:kapitelgliederung}
 
-Jede Hausarbeit umfasst eine Einleitung, einen Hauptteil und einen Schluss. In der Einleitung wird das Thema der Arbeit, die Fragestellung und der Aufbau der Arbeit vorgestellt. Somit kann sich der Leser schon auf eine bestimmte Struktur einstellen und muss sie sich nicht aus dem Text erschließen. Der Hauptteil umfasst dann eine Skizze der Literaturlage bzw. des Forschungsstands sowie, als wichtigsten Teil, die eigentliche Bearbeitung des Themas. Im Schluss wird die Arbeit noch einmal kurz zusammengefasst und die wesentlichen Erkenntnisse festgehalten. Der Schluss enthält keine neuen Informationen oder Argumente mehr.
+Jede Hausarbeit umfasst eine Einleitung, einen Hauptteil und einen Schluss. In der Einleitung werden das Thema der Arbeit, die Fragestellung und der Aufbau der Arbeit vorgestellt. Somit kann sich der Leser schon auf eine bestimmte Struktur einstellen und muss sie sich nicht aus dem Text erschließen. Der Hauptteil umfasst dann eine Skizze der Literaturlage bzw. des Forschungsstands sowie, als wichtigsten Teil, die eigentliche Bearbeitung des Themas. Im Schluss wird die Arbeit noch einmal kurz zusammengefasst und die wesentlichen Erkenntnisse werden festgehalten. Der Schluss enthält keine neuen Informationen oder Argumente mehr.
 
 Diese Aufteilung entspricht aber in der Regel nicht vollständig der Kapitelgliederung. Während die Einleitung oft noch mit »Einleitung« überschrieben wird, umfasst der Hauptteil meist mehrere Kapitel, und der Schluss wird eher unter der Überschrift »Fazit« oder ähnlichem zu finden sein. Die Kapitel des Hauptteils sollten den Aufbau der Arbeit gut widerspiegeln und entsprechend benannt werden, so dass schon die Kapitelgliederung einen guten Eindruck von den inhaltlichen Schwerpunkten gibt. Unterkapitel können einzelne Kapitel in kleinere Abschnitte aufteilen, allerdings sollte die Gliederung auch nicht zu sehr in die Tiefe gehen. In der Praxis bewährt sich häufig eine Dreiteilung des Hauptteils; dies ist aber lediglich eine Faustregel. Die Kapitel und Unterkapitel sollten dabei nicht unverbunden nebeneinander stehen, sondern durch Überleitungen und Anknüpfungen sinnvoll miteinander verknüpft werden.
 
@@ -148,7 +148,7 @@ Stellen Sie sich die Einleitung einer Hausarbeit wie einen Trichter vor: Sie fan
 
 -   Darstellung und Durchführung der Argumentation, die dazu dient, die in der Einleitung aufgeworfene Fragestellung zu beantworten.
 
--   Wiedergabe der recherchierten und ausgewählten Literatur und Diskussion divergierender Ansätze und Argumente; Erzählen Sie nicht den Inhalt nach, sondern wählen Sie anhand der Fragestellung gezielt Schwerpunkte aus.
+-   Wiedergabe der recherchierten und ausgewählten Literatur und Diskussion divergierender Ansätze und Argumente; erzählen Sie nicht den Inhalt nach, sondern wählen Sie anhand der Fragestellung gezielt Schwerpunkte aus.
 
 -   Belegen Sie Ihre Aussagen mit sinnvollen Beispielen und Zitaten; achten Sie auf die entsprechenden Vermerke in den Fußnoten.
 
@@ -164,7 +164,7 @@ Stellen Sie sich die Einleitung einer Hausarbeit wie einen Trichter vor: Sie fan
 
 <div class="Hinweis">
 
-Das Fazit bringt dabei keine neuen Informationen, die nicht schon im Hauptteil behandelt worden sind (Literaturverweise sind hier also in der Regel nicht mehr vonnöten).
+Das Fazit bringt keine neuen Informationen, die nicht schon im Hauptteil behandelt worden sind (Literaturverweise sind hier also in der Regel nicht mehr vonnöten).
 
 </div>
 
@@ -178,11 +178,11 @@ Wenn Sie eine sauber gegliederte Einleitung geschrieben haben, können Sie sich 
 
 Am Ende der Arbeit steht eine vollständige Liste aller verwendeter Literatur. Dabei sollte die Bibliographie nicht mit Literatur aufgefüllt werden, die im Text nicht zitiert wurde. Falls ein Werk inhaltlich bedeutend ist, sollte es zitiert werden, andernfalls muss es auch nicht in die Literaturliste. Zur Formatierung der Literaturliste siehe den Abschnitt [Zitieren von Literatur](05_Zitieren.html#sec:zitieren).
 
-Materialreiche Arbeiten können außerdem noch einen oder mehrere Anhänge enthalten, in denen z.B. Abbildungen, Quellentexte oder ähnliches untergebracht werden. Die Anhänge zählen dabei nicht für den Umfang der Arbeit.
+Materialreiche Arbeiten können außerdem noch einen oder mehrere Anhänge enthalten, in denen z.B. Abbildungen, Quellentexte oder Ähnliches untergebracht werden. Die Anhänge zählen dabei nicht für den Umfang der Arbeit.
 
 ### Formatierung
 
-Eine Hausarbeit umfasst im BA-Studium bei Standardformatierung in der Regel ca. 10–15 Seiten bzw. 4000–6000 Wörter. Die verbindlichen Details werden aber von den Dozierenden jeweils mitgeteilt. Für eine lesbare Arbeit gelten folgende Richtlinien:
+Eine Hausarbeit umfasst im BA-Studium bei Standardformatierung in der Regel ca. 12–18 Seiten bzw. 5.000–7.000 Wörter. Die verbindlichen Details werden aber von den Dozierenden jeweils mitgeteilt. Für eine lesbare Arbeit gelten folgende Richtlinien:
 
 -   Schriftgröße 12pt
 
@@ -196,7 +196,7 @@ Eine Hausarbeit umfasst im BA-Studium bei Standardformatierung in der Regel ca. 
 
 -   Seitennummerierung ab der zweiten Seite (die Titelseite zählt als Seite 1, auf ihr erscheint aber noch keine Seitenzahl)
 
--   Text im Blocksatz mit Silbentrennung
+-   Text im Blocksatz mit (automatischer) Silbentrennung
 
 <div class="Technik">
 
@@ -208,11 +208,11 @@ Zur Formatierung einer Hausarbeit mit gängigen Textverarbeitungsprogrammen sieh
 
 Auch ein guter sprachlicher Ausdruck gehört zu einer gelungenen Hausarbeit. Entgegen verbreiteter Annahmen ist Sprache nicht gleich wissenschaftlich, wenn sie viele Fremdwörter und verschachtelte Sätze verwendet. Der Einsatz von Fachbegriffen sollte einen Text präziser und – für Kenner der Fachsprache, also auch für die Korrektoren – verständlicher machen, nicht unverständlicher. Achten Sie vor allem darauf, dass Sie selbst verstehen, was Sie schreiben.
 
-Formulieren Sie genau: Das Wort »man« sollte vermieden werden, präzisieren Sie, auf wen Sie sich beziehen, z.B. mit der Formulierung: »Die Verfasserin ist der Ansicht, dass …« Ebenso sollten Sie die Ich-Form vermeiden, wenn Sie Sachverhalte darstellen oder Theorien referieren. Die Ich-Form ist eigenen Argumenten oder Stellungnahmen vorbehalten.
+Formulieren Sie genau: Das Wort »man« sollte vermieden werden; präzisieren Sie, auf wen Sie sich beziehen, z.B. mit der Formulierung: »Die Verfasserin ist der Ansicht, dass …« Ebenso sollten Sie die Ich-Form vermeiden, wenn Sie Sachverhalte darstellen oder Theorien referieren. Die Ich-Form ist eigenen Argumenten oder Stellungnahmen vorbehalten.
 
 Formulieren Sie so klar, dass man in Ihren Sätzen kein Wort mehr streichen könnte. Füllwörter wie »eigentlich«, »ziemlich«, »gewissermaßen« oder »letztlich« nehmen Ihren Argumente Überzeugungskraft, weil sie sie in ihrer Bedeutung abschwächen. Verfassen Sie Ihre Arbeit lieber so, dass alle Aussagen umfassend so gemeint sind, wie sie dort stehen. Wenn Einschränkungen zu beachten sind, sollte man diese explizieren und erläutern.
 
-Die Argumentation der Arbeit sollte sich auch in der Sprache widerspiegeln: Kausalverbindungen sind ein wichtiges Argument, um Ihre Argumente schlüssig zu verbinden. Ein häufiger Fehler sind allerdings Kausalverbindungen an Stellen, an die sie nicht gehören. Prüfen Sie ganz genau, ob Sätze oder Satzteile, die Sie mit »deshalb«, »trotzdem«, »angesichts dessen« oder anderen Satzpartikeln, die Bezug auf das vorangegangene nehmen, beginnen, wirklich genau dieses Verhältnis beinhalten.
+Die Argumentation der Arbeit sollte sich auch in der Sprache widerspiegeln: Kausalverbindungen sind ein wichtiges Mittel, um Ihre Argumente schlüssig zu verbinden. Ein häufiger Fehler sind allerdings Kausalverbindungen an Stellen, an die sie nicht gehören. Prüfen Sie ganz genau, ob Sätze oder Satzteile, die Sie mit »deshalb«, »trotzdem«, »angesichts dessen« oder anderen Satzpartikeln, die Bezug auf das vorangegangene nehmen, beginnen, wirklich genau dieses Verhältnis beinhalten.
 
 Gerade bei längeren Sätzen kommt es leicht zu fehlerhaften grammatikalischen Konstruktionen. Passen Sie also auf, dass alle Formulierungen, Anschlüsse und Bezüge korrekt sind. Ebenso ist eine korrekte und einheitliche Orthographie und Zeichensetzung wichtig.
 
@@ -220,9 +220,9 @@ Zur besseren Lesbarkeit sollte der Text mit Absätzen gegliedert werden. Ein neu
 
 ## Kriterien für die Bewertung von Hausarbeiten {#sec:bewertung}
 
-Die Dozierenden des Lehrstuhls für Religionswissenschaft halten sich in der Bewertung schriftlicher Arbeiten an einen Kriterienkatalog. Dieser soll hier transparent gemacht werden, um den Studierenden die Selbstevaluation ihrer schriftlichen Leistungen zu ermöglichen und um die Benotung ihrer Arbeiten nachvollziehbar zu machen.
+Die Dozierenden des CERES halten sich in der Bewertung schriftlicher Arbeiten an einen Kriterienkatalog. Dieser soll hier transparent gemacht werden, um den Studierenden die Selbstevaluation ihrer schriftlichen Leistungen zu ermöglichen und um die Benotung ihrer Arbeiten nachvollziehbar zu machen.
 
-Im Prinzip sollten bereits die Arbeiten der frühen Studienphasen diesem Standard zu folgen versuchen. In vollem Umfang unterliegen diese Kriterien aber erst ab der Bachelorarbeit der Beurteilung. Die Kriterien sind im Einzelnen:
+Im Prinzip sollten bereits die Arbeiten der frühen Studienphasen diesem Standard zu folgen versuchen. In vollem Umfang unterliegen diese Kriterien aber erst ab der Bachelor-Arbeit der Beurteilung. Die Kriterien sind im Einzelnen:
 
 -   Qualität der Recherche
 
@@ -249,7 +249,7 @@ Die Beurteilung dieser Kriterien ist am besten anhand von Binärpaaren zu verdeu
 | Die im Literaturverzeichnis angeführte Literatur wird im Text angemessen aufgegriffen. Die Literatur wird dabei den Erfordernissen der Arbeit entsprechend selektiert eingebunden. | Große Teile der aufgeführten Literatur werden im Text nicht berücksichtigt. Die Literatur wird unselektiert und nicht der Fragestellung angemessen wiedergegeben. |
 | Die Literatur und ihr wissenschaftlicher Hintergrund wird kritisch reflektiert. | Literatur wird unkritisch übernommmen; Unwissenschaftliche Literatur wird als Quelle herangezogen, ohne entsprechend eingeordnet zu werden. |
 | Souveräner Umgang mit Begriffen und Konzepten. | Relevante Konzepte/​Begriffe wurden nicht verstanden. |
-| Zusammenhänge wurden richtig erkannt, Querverbindungen wurden gezogen. | Einordnung des behandelten Themas in den grösseren Zusammenhang fehlt, ist zu vage oder falsch. |
+| Zusammenhänge wurden richtig erkannt, Querverbindungen wurden gezogen. | Einordnung des behandelten Themas in den größeren Zusammenhang fehlt, ist zu vage oder falsch. |
 |  | Arbeit enthält falsche Sachinformationen. |
 | Die Arbeit ist theoretisch durchdacht. | Keine Frage- oder Problemstellung oder methodisch-theoretische Reflexion erkennbar. |
 | Metasprachliche Schlüsselbegriffe wurden definiert, fachgeschichtlich situiert und auf ihre Tauglichkeit geprüft. | Für die Theoriebildung entscheidende Begriffe wurden unreflektiert verwendet. |
@@ -278,7 +278,7 @@ Die Beurteilung dieser Kriterien ist am besten anhand von Binärpaaren zu verdeu
 
 <div class="Hinweis">
 
-Eine frühzeitige Absprache mit dem Dozenten über eine mögliche Hausarbeit ist unbedingt erforderlich. Hierbei sollte das *Thema* abgesegnet werden, eine *Abgabefrist* ausgemacht werden und ggf. die *Formalia* abgesprochen werden. Je nach Dozent werden dann auch Literaturhinweise gegeben, die einen Einstieg ermöglichen.
+Eine frühzeitige Absprache mit dem Dozenten über eine mögliche Hausarbeit ist unbedingt erforderlich. Hierbei sollten das *Thema* abgesegnet werden, eine *Abgabefrist* ausgemacht werden und ggf. die *Formalia* abgesprochen werden. Je nach Dozent werden dann auch Literaturhinweise gegeben, die einen Einstieg ermöglichen.
 
 </div>
 
