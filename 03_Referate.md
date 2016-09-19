@@ -143,15 +143,15 @@ Sie sind nervös? Das ist normal. Dagegen hilft in der Regel, wirklich gut vorbe
 
 ### Medien {#sec:referat-medien}
 
-Es sollte immer überlegt werden, welche Form von Medien sinnvoll und welche im jeweiligen Raum umsetzbar ist. Für den Zuhörer ist ein anschauliches Referat angenehmer, als eines in dem nur der Inhalt hinuntergerattert wird.
+Es sollte immer überlegt werden, welche Form von Medien sinnvoll und welche im jeweiligen Raum umsetzbar ist. Für den Zuhörer ist ein anschauliches Referat angenehmer als eines, in dem nur der Inhalt hinuntergerattert wird.
 
 Zur Unterstützung des Referates stehen einige Medien zur Verfügung, die alle ihre Vor- und Nachtteile haben:
 
-Ein Handout ist das mindeste, was als mediale Unterstützung eingesetzt werden sollte. Es vereinfacht das Folgen des Referates und kann später sehr gut als Erinnerungsstütze gebraucht werden. Näheres siehe im Abschnitt [Handout](#sec:handout).
+Ein Handout ist das mindeste, was als mediale Unterstützung eingesetzt werden sollte. Es vereinfacht es den Zuhörern, dem Referat zu folgen, und kann später sehr gut als Erinnerungsstütze gebraucht werden. Näheres siehe im Abschnitt [Handout](#sec:handout).
 
-Eine Tafel bzw. ein Whiteboard eignet sich vor allem für prozessuelle Mitarbeit und für den Fall, dass während des Referates noch bestimmte Punkte entwickelt werden sollen. Der Nachteil ist, dass es nicht erhalten bleibt und kaum vorbereitet werden kann.
+Eine Tafel bzw. ein Whiteboard eignet sich vor allem für prozessuelle Mitarbeit und für den Fall, dass während des Referates noch bestimmte Punkte entwickelt werden sollen. Der Nachteil ist, dass es in der Regel nicht erhalten bleibt und kaum vorbereitet werden kann. Man kann sich damit behelfen, dass Tafelbild zu fotografieren und den Seminarteilnehmern zugänglich zu machen.
 
-Zusätzliche Anmerkungen während des Referates sind möglich und auch eine Vervielfältigung kann bei Overhead-Folien sehr einfach vorgenommen werden. Hier kann es allerdings sehr schnell mal vorkommen, dass die Folien durcheinander geraten und man sich dann selbst aus dem Referatsfluss bringt.
+Zusätzliche Anmerkungen während des Referates sind möglich und auch eine Vervielfältigung kann bei Overhead-Folien sehr einfach vorgenommen werden. Hier kann es allerdings sehr schnell mal vorkommen, dass die Folien durcheinander geraten und man sich dann selbst aus dem Referatsfluss bringt. Auch ist sind die notwendigen Geräte längst nicht mehr in allen Universitätsräumen vorhanden.
 
 Eine gute Bildschirmpräsentation hat den Effekt, dass der Referent im Regelfall freier spricht. Auch ein Rückgriff auf Medien wie Ton, Bilder, Videos und Verlinkungen ist ohne Probleme möglich. Wenn nötig, kann eine Bearbeitung sehr schnell vorgenommen werden.
 
@@ -165,23 +165,23 @@ Generell gilt, dass die verschiedenen Arten von Medien auch jederzeit miteinande
 
 **Vor dem Referat**
 
-1.  Was erwartet der Dozent von meinem Referat
+1.  Was erwartet der Dozent von meinem Referat?
 2.  Welche Medien stehen mir im Seminarraum zur Verfügung?
 3.  Welche mediale Unterstützung ist für meinen Vortrag am sinnvollsten?
 4.  Wenn es Mitreferenten gibt, wie teile ich dann das Referat am besten ein?
 5.  Wie viel Zeit habe ich für mein Referat?
 6.  Bin ich gut vorbereitet?
-7.  Habe ich geübt (mit jemand anderem oder dem Spiegel)?
+7.  Habe ich geübt (mit jemand anderem oder vor dem Spiegel)?
 
 **Beim Referat**
 
-1.  Rede ich so, dass mich alle verstehen (sowohl akustisch, als auch inhaltlich)?
-2.  Halte ich (Blick)kontakt mit allen Zuhörern?
+1.  Rede ich so, dass mich alle verstehen (sowohl akustisch als auch inhaltlich)?
+2.  Halte ich (Blick-)Kontakt mit allen Zuhörern?
 3.  Erkläre ich komplexe Sachverhalte so, dass mir alle folgen können (mit Beispielen oder Vergleichen)?
 
 **Nach dem Referat**
 
 1.  Habe ich mir Feedback vom Dozenten abgeholt?
-2.  Was kann ich besser machen?
+2.  Was kann ich beim nächsten Mal besser machen?
 
 </div>
