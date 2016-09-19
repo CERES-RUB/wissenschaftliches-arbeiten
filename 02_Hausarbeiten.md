@@ -100,7 +100,7 @@ Vor jeder Hausarbeit steht ein Deckblatt, das einige formal wichtige Information
 
 -   Name der Universität, der Fakultät und des Fachs
 
--   Zweck der Arbeit (z.B. »Hausarbeit als großer Leistungsnachweis im Modul …« oder »Essay als kleine Leistung für den Modulteil …«)
+-   Zweck der Arbeit (z.B. »Hausarbeit als Leistungsnachweis im Modul …« oder »Essay als Leistung für den Modulteil …«)
 
 -   Titel, Lehrveranstaltungsnummer und Semester des Seminars/​Moduls sowie der Name des oder der Lehrenden
 
