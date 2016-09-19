@@ -9,9 +9,9 @@ contents: true
 
 ## Literaturrecherche {#sec:literaturrecherche}
 
-Die Literaturrecherche für eine Hausarbeit, ein Referat oder eine andere Arbeit ist ein Teil der zu erbringenden Leistung. Deswegen soll die Recherche selbständig durchgeführt werden. Das Auffinden, Sichten und Bewerten der verfügbaren Literatur ist eine wichtige Kompetenz im Studium. Nachdem Sie eine erste Recherche durchgeführt haben, können (und sollten) Sie ihre Funde aber mit dem Dozenten besprechen. So vermeiden Sie auch, zu viele Texte zu lesen, die Sie am Ende nicht verwenden können.
+Die Literaturrecherche für eine Hausarbeit, ein Referat oder eine andere Arbeit ist ein Teil der zu erbringenden Leistung. Deswegen soll die Recherche selbstständig durchgeführt werden. Das Auffinden, Sichten und Bewerten der verfügbaren Literatur ist eine wichtige Kompetenz im Studium. Nachdem Sie eine erste Recherche durchgeführt haben, können (und sollten) Sie ihre Funde aber mit dem Dozenten besprechen. So vermeiden Sie auch, zu viele Texte zu lesen, die Sie am Ende nicht verwenden können.
 
-Bei der Literaturrecherche gilt es, zwei häufige Probleme zu vermeiden: Zum Einen passiert es leicht, dass man zu viel Literatur findet. Zum Anderen besteht aber auch die Gefahr, wichtige Texte nicht zu finden, die vielleicht nicht an den offensichtlichen Stellen sofort ins Auge fallen. Deswegen ist es wichtig, die Recherche von verschiedenen Stellen aus zu starten, um am Ende nicht unbedingt sehr viel, aber dafür treffende Literatur zu finden. Es gibt nicht den *einen* Katalog, in dem man auf die relevante Literatur stößt. Daher ist es wichtig, die verschiedenen möglichen Recherchemöglichkeiten zu kennen.
+Bei der Literaturrecherche gilt es, zwei häufige Probleme zu vermeiden: Zum Einen passiert es leicht, dass man zu viel Literatur findet. Zum Anderen besteht aber auch die Gefahr, wichtige Texte nicht zu finden, die vielleicht nicht an den offensichtlichen Stellen sofort ins Auge fallen. Deswegen ist es wichtig, die Recherche von verschiedenen Stellen aus zu starten, um am Ende nicht unbedingt sehr viel, aber dafür treffende Literatur zu finden. Es gibt nicht den *einen* Katalog, in dem man auf die relevante Literatur stößt. Daher ist es wichtig, die verschiedenen Recherchemöglichkeiten zu kennen.
 
 Bei der Literaturrecherche sind zwei Strategien denkbar, die auch miteinander kombiniert werden können:
 
@@ -23,7 +23,7 @@ Die *bottom-up-*Strategie setzt bei den bereits (aus Lehrveranstaltungen oder du
 
 Einen ersten guten Einstieg in die Literaturrecherche stellen religionswissenschaftlich relevante Lexika dar. Zum Einen bieten die Artikel einen kurzen Überblick über ein Thema. Zum Anderen enthalten Sie am Ende des Artikels meist eine Reihe von einschlägigen Literaturhinweisen. Diese können für eine detailliertere Beschäftigung mit dem Thema herangezogen werden.
 
-Beachten Sie aber, dass sich eine Arbeit nie allein auf Lexikonartikel stützen sollte. Außerdem sind die Lexika (bzw. die einzelnen Bände) z.T. schon älter, so dass Sie sich nicht darauf verlassen können, dort auch tatsächlich aktuelle Literaturhinweise zu finden.
+Beachten Sie aber, dass sich eine Arbeit nie allein auf Lexikonartikel stützen sollte. Außerdem sind die Lexika (bzw. die einzelnen Bände) z. T. schon älter, so dass Sie sich nicht darauf verlassen können, dort auch tatsächlich aktuelle Literaturhinweise zu finden.
 
 -   *Handbuch religionswissenschaftlicher Grundbegriffe,* 5 Bände, hrsg. von Hubert Cancik, Burkhard Gladigow und Karl Heinz Kohl, Stuttgart 1988–2002.
 
@@ -39,7 +39,7 @@ Beachten Sie aber, dass sich eine Arbeit nie allein auf Lexikonartikel stützen 
 
 -   *Theologische Realenzyklopädie,* in Gemeinschaft mit Horst Robert Balz et al. hrsg. von Gerhard Krause und Gerhard Müller, 36 Bände, Berlin/“”New York 1977–“”2004.
 
--   *Der neue Pauly. Enzyklopädie der Antike,* 15 Bände, hrsg. von Hubert Cancik, Helmuth Schneider und Manfred Landfester, Stuttgart 1966ff.
+-   *Der neue Pauly. Enzyklopädie der Antike,* 15 Bände, hrsg. von Hubert Cancik, Helmuth Schneider und Manfred Landfester, Stuttgart 1966 ff.
 
 -   *Historisches Wörterbuch der Philosophie,* völlig neubearb. Ausg. des »Wörterbuchs der philosophischen Begriffe« von Rudolf Eisler, unter Mitw. von mehr als 800 Fachgelehrten in Verbindung mit Günther Bien u.a. hrsg. von Joachim Ritter und Karlfried Gründer, 12 Bände, Darmstadt 1971–2004.
 
@@ -47,7 +47,7 @@ Beachten Sie aber, dass sich eine Arbeit nie allein auf Lexikonartikel stützen 
 
 Für die Suche insbesondere nach Monografien sind die Bibliothekskataloge eine gute Anlaufstelle. Der Katalog der Ruhr-Universität ist unter <http://www.ub.rub.de/> zu erreichen.
 
-Nicht alle Bücher sind jedoch in der Universitätsbibliothek verfügbar. Daher ist es auch lohnenswert, die Kataloge der Bibliotheksverbände zu durchsuchen und Bücher ggf. per Fernleihe zu bestellen. Die Hochschulbibliotheken in Nordrhein-Westfalen haben sich zum HBZ (<http://www.hbz-nrw.de/>) zusammengeschlossen, eine Übersicht über verschiedene Bibliotheksverbünde bietet der GBV unter <http://www.gbv.de/vgm/links/>. Eine gleichzeitige Suche in verschiedenen Bibliotheksverbünden bietet der KVK unter <http://www.ubka.uni-karlsruhe.de/kvk.html>.
+Nicht alle Bücher sind jedoch in der Universitätsbibliothek verfügbar. Daher ist es auch lohnenswert, die Kataloge der Bibliotheksverbände zu durchsuchen und Bücher ggf. per Fernleihe zu bestellen. Die Hochschulbibliotheken in Nordrhein-Westfalen haben sich zum HBZ (<http://www.hbz-nrw.de/>) zusammengeschlossen. Eine gleichzeitige Suche in verschiedenen Bibliotheksverbünden bietet der KVK unter <http://www.ubka.uni-karlsruhe.de/kvk.html>.
 
 <div class="Hinweis">
 
@@ -57,9 +57,9 @@ Bibliothekskataloge sind in der Regel nicht dazu geeignet, Aufsätze in Sammelb�
 
 **Tipps zur Recherche**
 
--   In Bibliothekskatalogen suchen Sie Literatur in der Regel über Stichwörter. Denken Sie dann daran, auch Synonyme für Ihr Thema zu finden, und auch englischsprachige Stichwörter auszuprobieren. Ihr Thema kann sehr spezifisch sein; überlegen Sie, unter welchen Stichwörtern man Veröffentlichungen finden könnte, die dieses Thema aufgreifen (wenn Sie bspw. Literatur zur Definition von Religionsgemeinschaften Suchen, finden Sie nicht unbedingt ein gleichnamiges Buch – in einer »Einführung in die Religionssoziologie« dagegen werden Sie sicher fündig).
+-   In Bibliothekskatalogen suchen Sie Literatur in der Regel über Stichwörter. Denken Sie dann daran, auch Synonyme für Ihr Thema zu finden und auch englischsprachige Stichwörter auszuprobieren. Ihr Thema kann sehr spezifisch sein; überlegen Sie, unter welchen Stichwörtern man Veröffentlichungen finden könnte, die dieses Thema aufgreifen (wenn Sie bspw. Literatur zur Definition von Religionsgemeinschaften suchen, finden Sie nicht unbedingt ein gleichnamiges Buch – in einer »Einführung in die Religionssoziologie« dagegen werden Sie sicher fündig).
 
--   Auch Bibliothekskataloge selbst arbeiten wieder mit Verschlagwortungen. Diese finden sich bei den Angaben zu einem Buch. Vielleicht passt eine davon gut zu Ihrem Thema? Dann können Sie mit einem einfachen Klick feststellen, welche Bücher die Bibliotheksmitarbeiter alle unter diesem Schlagwort subsummiert haben. Das hat den Vorteil, dass Sie sich nicht nur darauf verlassen müssen, dass Ihr Suchwort im Titel eines Buches vorkommt – in den Verschlagwortungen können auch allgemeine Themengebiete oder Inhalte aufgegriffen sein.
+-   Auch Bibliothekskataloge selbst arbeiten mit Verschlagwortungen. Diese finden sich bei den Angaben zu einem Buch. Vielleicht passt eine davon gut zu Ihrem Thema? Dann können Sie mit einem einfachen Klick feststellen, welche Bücher die Bibliotheksmitarbeiter mit diesem Schlagwort markiert haben. Das hat den Vorteil, dass Sie sich nicht nur darauf verlassen müssen, dass Ihr Suchwort im Titel eines Buches vorkommt – in den Verschlagwortungen können auch allgemeine Themengebiete oder Inhalte aufgegriffen sein.
 
 -   Haben Sie eine aktuelle Dissertation oder Habilitationsschrift zum Thema gefunden? Glückstreffer! Denn diese Qualifikationsarbeiten enthalten in der Regel selbst einen ausführlichen Forschungsstand zu ihrem Thema, der alle relevanten Veröffentlichungen aufgreifen sollte.
 
@@ -81,7 +81,7 @@ Die Literaturdatenbanken können zum Teil nur aus dem Campus-Netzwerk der RUB er
 
 ### Online-Quellen
 
-Natürlich bietet sich auch die Möglichkeit einer Internet-Recherche. Beachten Sie jedoch, dass für Online-Quellen die gleichen Qualitätsmaßstäbe gelten wie für gedruckte Werke. Einige Internet-Dienste bieten ähnlich den Literaturdatenbanken eine komfortable Möglichkeit, Literatur zu finden. Dazu gehören beispielsweise Google Scholar (<http://scholar.google.de/>).
+Natürlich bietet sich auch die Möglichkeit einer Internet-Recherche. Beachten Sie jedoch, dass für Online-Quellen die gleichen Qualitätsmaßstäbe gelten wie für gedruckte Werke. Einige Internet-Dienste bieten ähnlich den Literaturdatenbanken eine komfortable Möglichkeit, Literatur zu finden. Dazu gehört beispielsweise Google Scholar (<https://scholar.google.de/>).
 
 Eine ganze Reihe von Internet-Quellen ist jedoch nicht für den wissenschaftlichen Gebrauch geeignet. Dazu zählt allen voran die Wikipedia. In einer wissenschaftlichen Arbeit sollten Sie sie ebensowenig zitieren wie beispielsweise den Brockhaus. Viele Internetseiten bieten sich auch eher als Gegenstand wissenschaftlicher Untersuchung an als als Referenz. Dies gilt zumeist auch für die Internetauftritte der Religionsgemeinschaften.
 
@@ -91,7 +91,7 @@ Mit der DigiBib des HBZ (<http://www.digibib.net/>) steht eine Suchmöglichkeit 
 
 <div class="Tipp">
 
-Wenn Sie Ihren Suchprozess dokumentieren, sparen Sie sich unter Umständen einige Arbeit. Notieren Sie zum Einen die verwendeten Suchstichwörter, und legen Sie zum Anderen eine Liste aller im Katalog gefundener und in Erwägung gezogener Bücher an, auf der Sie vermerken, welches Buch wider Erwarten doch nicht in Frage kommt, welches vielleicht nicht am Platz war, und welches noch beschafft werden muss. Damit sparen Sie sich unter Umständen den doppelten Weg zum Regal bei einer erneuten Suche und können bei einer vertieften Suche gezielt den Pool an schon gesuchten Stichworten erweitern.
+Wenn Sie Ihren Suchprozess dokumentieren, sparen Sie sich unter Umständen einige Arbeit. Notieren Sie zum einen die verwendeten Suchstichwörter und legen Sie zum anderen eine Liste aller im Katalog gefundener und in Erwägung gezogener Bücher an, auf der Sie vermerken, welches Buch wider Erwarten doch nicht in Frage kommt, welches vielleicht nicht am Platz war, und welches noch beschafft werden muss. Damit sparen Sie sich unter Umständen den doppelten Weg zum Regal bei einer erneuten Suche und können bei einer vertieften Suche gezielt den Pool an schon gesuchten Stichwörtern erweitern.
 
 </div>
 
@@ -107,7 +107,7 @@ Eine wichtige Fähigkeit, die Sie im Laufe Ihres Studiums erlernen müssen, ist 
 
 -   Wer ist der Autor des ausgewählten Werkes? Aus welcher Fachrichtung oder Schule stammt er? Was hat er noch publiziert bzw. wo liegen seine Arbeitsschwerpunkte?
 
--   Von wann ist die Veröffentlichung? Ist sie hinreichend aktuell für das Thema? Stammt sie unter Umständen aus einer Zeit, die sich in der wissenschaftlichen Debatte niedergeschlagen haben könnte (z.B. Kolonialismus, Nationalsozialismus)?
+-   Von wann ist die Veröffentlichung? Ist sie hinreichend aktuell für das Thema? Stammt sie unter Umständen aus einer Zeit, die sich in der wissenschaftlichen Debatte niedergeschlagen haben könnte (z. B. Kolonialismus, Nationalsozialismus)?
 
 -   In welcher Reihe oder in welchem Verlag ist die Publikation erschienen bzw. in welcher Zeitschrift der Aufsatz? Wofür steht diese Reihe/​dieser Verlag/​diese Zeitschrift? Wer ist ggf. der Herausgeber?
 
@@ -137,13 +137,13 @@ Die wichtigste Lesemethode ist das analytische Lesen. Dabei sollen alle zentrale
 
 -   **R**eflect: Reflektieren der Textinhalte und ihres Kontexts
 
--   **R**ecite: Wiedergeben des Textinhalts (z.B. in Form eines Exzerpts)
+-   **R**ecite: Wiedergeben des Textinhalts (z. B. in Form eines Exzerpts)
 
 -   **R**eview: Rückblick über die Textlektüre
 
-Beim Lesen des Textes ist es sinnvoll, mit Anstreichungen und Randnotizen zu arbeiten. So wird gleich beim Lesen Wichtiges von Unwichtigem unterschieden, und der Inhalt kann leichter angeeignet werden. Außerdem erleichtert es das erneute Lesen des Textes zu einem späteren Zeitpunkt. Drei Formen der Anmerkung lassen sich unterscheiden:
+Beim Lesen des Textes ist es sinnvoll, mit Anstreichungen und Randnotizen zu arbeiten. So wird gleich beim Lesen Wichtiges von Unwichtigem unterschieden und der Inhalt kann leichter angeeignet werden. Außerdem erleichtert es das erneute Lesen des Textes zu einem späteren Zeitpunkt. Drei Formen der Anmerkung lassen sich unterscheiden:
 
--   **Markierung:** Entweder Anstreichung mit einem Textmarker oder Unterstreichung mit Blei- bzw. Buntstift. Es können auch verschiedene Farben für unterschiedliche Bedeutungen verwendet werden, z.B. Rot=Wichtig, Schwarz=“”Begriffe und Definitionen, etc.
+-   **Markierung:** Entweder Anstreichung mit einem Textmarker oder Unterstreichung mit Blei- bzw. Buntstift. Es können auch verschiedene Farben für unterschiedliche Bedeutungen verwendet werden, z. B. Rot=Wichtig, Schwarz=“”Begriffe und Definitionen, etc.
 
 -   **Nichtsprachliche Anmerkungen:** Mit kleinen Symbolen können Textstellen charakterisiert werden. Dies kann direkt im Text oder am Rand geschehen. Beispiele können sein:
 
@@ -155,9 +155,9 @@ Beim Lesen des Textes ist es sinnvoll, mit Anstreichungen und Randnotizen zu arb
     | 1.2.3.  | Aufzählung     |
     |   ⁈     | Widerspruch    |
 
--   **Sprachliche Anmerkungen:** Kurze Bemerkungen, Stichpunkte und den Inhalten eines Absatzes und ähnliches können direkt am Rand vermerkt werden. Ausführlichere Gedanken können auch auf der Textrückseite notiert werden.
+-   **Sprachliche Anmerkungen:** Kurze Bemerkungen und Stichpunkte zu den Inhalten eines Absatzes und ähnliches können direkt am Rand vermerkt werden. Ausführlichere Gedanken können auch auf der Textrückseite notiert werden.
 
-Markierungen und Anmerkungen sollten selbstverständlich nur bei Texten vorgenommen werden, die einem gehören. Daher ist es sinnvoll, mit Kopien anstatt mit ausgeliehenen Büchern zu arbeiten. Zudem können die Texte so für spätere Lektüre archiviert werden.
+Markierungen und Anmerkungen sollten selbstverständlich nur bei Texten vorgenommen werden, die Ihnen persönlich gehören. Daher ist es sinnvoll, mit Kopien anstatt mit ausgeliehenen Büchern zu arbeiten. Zudem können die Texte so für spätere Lektüre archiviert werden.
 
 #### »Querlesen« {#sec:querlesen}
 
@@ -175,7 +175,7 @@ Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinne
 
     Hat man selbst einen konkreten inhaltlichen oder methodischen Schwerpunkt, etwa in Bezug auf eine Hausarbeit oder ein Referat, kann der Text unter einen bestimmten Blickwinkel gelesen und irrelevante Passagen ausgelassen werden. Eine Hilfe kann dabei sein, thematisch nicht einschlägige Passagen mit einem Bleistift durchzustreichen. Eine zusätzliche wichtige Hilfe ist, falls vorhanden, der Stichwortindex.
 
--   **Suchendes Lesen:** Diese Art zielt darauf ab, einen Text möglichst schnell zu lesen und trotzdem wichtige Informationen zu erhalten. Man sollte sich vorher im Klaren sein, welche Wörter oder Begriffe man finden will. Der Text wird danach durchsucht, und wenn die Begriffe nicht vorkommen, vernachlässigt.
+-   **Suchendes Lesen:** Diese Art zielt darauf ab, einen Text möglichst schnell zu lesen und trotzdem wichtige Informationen zu erhalten. Man sollte sich vorher im Klaren sein, welche Wörter oder Begriffe man finden will. Der Text wird danach durchsucht und, wenn die Begriffe nicht vorkommen, vernachlässigt.
 
 -   **Kursorisches Lesen:** Ebenfalls eine schnelle Methode. Genauere Details werden wie bei der suchenden Methode vernachlässigt. Es geht darum, den breiteren Zusammenhang und Sinn eines Textes zu erfassen. Als Ergebnis dieses Leseprozesses sollte feststehen, welche Aspekte in dem Text angesprochen werden. Bei dieser Technik überfliegen die Augen nur den Text, es wird nicht Zeile für Zeile gelesen. Die Abbildung zeigt schematisch den Lesefluss beim kursorischen Lesen. Es empfiehlt sich, pro Seite ein bis zwei Stichpunkte aufzuschreiben.
 
@@ -183,11 +183,11 @@ Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinne
 
 <div class="Tipp">
 
-Versuchen Sie nach dem Lesen noch einmal, sich den »Bauplan« des Textes zu vergegenwärtigen: Mit welchen Punkt fängt es an, wohin geht es von da aus etc. Formulieren Sie für sich auch noch einmal die Kernthese. Wenn das funktioniert, haben Sie den Text schon einmal einigermaßen sicher im Griff.
+Versuchen Sie nach dem Lesen noch einmal, sich den »Bauplan« des Textes zu vergegenwärtigen: Mit welchen Punkt fängt es an, wohin geht es von da aus etc. Formulieren Sie für sich auch noch einmal die Kernthese. Wenn das funktioniert, haben Sie den Text einigermaßen sicher im Griff.
 
 </div>
 
-Für eine optimale Seminarvorbereitung bzw. Analyse des Textes sollten Sie nach der Erarbeitung eine kritische Auseinandersetzung anschließen. Dies kann zum Einen eine Textkritik sein: Ist der Aufbau schlüssig? Werden Prämissen später wieder aufgegriffen? Ist die Argumentation geschlossen? (sich dafür zu senisibilisieren, kann doppelt hilfreich sein – auch bei der Bewertung Ihrer Hausarbeiten oder Abschlussarbeit spielen solche Dinge eine entscheidende Rolle). Zum Anderen ist im Seminar oftmals gezielt eine sachliche Kritik am Text gefragt: Sind die Prämissen des Textes annehmbar? Sind die Belege schlüssig? Wie ist ggf. das methodische Vorgehen? Werden Werturteile vorgenommen?
+Für eine optimale Seminarvorbereitung bzw. Analyse des Textes sollten Sie nach der Erarbeitung eine kritische Auseinandersetzung anschließen. Dies kann zum einen eine Textkritik sein: Ist der Aufbau schlüssig? Werden Prämissen später wieder aufgegriffen? Ist die Argumentation geschlossen? (Sich dafür zu senisibilisieren, kann doppelt hilfreich sein – auch bei der Bewertung Ihrer Hausarbeiten oder Abschlussarbeit spielen solche Dinge eine entscheidende Rolle.) Zum anderen ist im Seminar oftmals gezielt eine sachliche Kritik am Text gefragt: Sind die Prämissen des Textes annehmbar? Sind die Belege schlüssig? Wie ist ggf. das methodische Vorgehen? Werden Werturteile vorgenommen?
 
 #### Exzerpte {#sec:exzerpte}
 
@@ -205,6 +205,6 @@ Für das Exzerpt kann man sich etwa an folgenden Fragen orientieren:
 
 <div class="Hinweis">
 
-Ein gutes Exzerpt fasst die Abschnitte der Textvorlage abstrahierend zusammen. Es geht nicht darum, die wichtigsten Sätze im Text zu identifizieren, und in das eigene Dokument zu kopieren, sondern die Inhalte zu größeren Hauptgedanken umzuformulieren. Nur so machen Sie sich den Text wirklich zu eigen und integrieren ihn in Ihr eigenes Wissen. Je nach Struktur des Textes kann auch eine grafische Umsetzung seiner Aussagen zielführend sein.
+Ein gutes Exzerpt fasst die Abschnitte der Textvorlage abstrahierend zusammen. Es geht nicht darum, die wichtigsten Sätze im Text zu identifizieren und in das eigene Dokument zu kopieren, sondern die Inhalte zu größeren Hauptgedanken umzuformulieren. Nur so machen Sie sich den Text wirklich zu eigen und integrieren ihn in Ihr eigenes Wissen. Je nach Struktur des Textes kann auch eine grafische Umsetzung seiner Aussagen zielführend sein.
 
 </div>
