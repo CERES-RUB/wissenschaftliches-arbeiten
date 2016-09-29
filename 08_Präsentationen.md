@@ -17,9 +17,9 @@ In allen Fällen ist insbesondere darauf zu achten, dass die technischen Möglic
 
 -   Schriftliche Fixierung der Kernthesen des Referats, um dem mündlichen Vortrag leichter folgen zu können,
 
--   grafische Darstellung komplexer Sachverhalte, die sich rein sprachlich schwer vermitteln lassen (z.B. Schaubilder, Diagramme), sowie
+-   grafische Darstellung komplexer Sachverhalte, die sich rein sprachlich schwer vermitteln lassen (z. B. Schaubilder, Diagramme) sowie
 
--   Unterstützung des Vortrags mit weiteren Medien (z.B. Bilder, Videos oder Tondokumente).
+-   Unterstützung des Vortrags mit weiteren Medien (z. B. Bilder, Videos oder Tondokumente).
 
 Viele Präsentationsprogramme bieten eine Fülle an Möglichkeiten, Folien und Elemente auf Folien zu gestalten. Vor allem Einblendungen von Textteilen und Überblendungen zwischen Folien können auf vielfältige Art und Weise animiert werden. Während diese Möglichkeiten auf den ersten Blick faszinieren, ist ihr Nutzen bei genauerem Hinsehen begrenzt. Eine Präsentation gewinnt durch diese Effekte dann, wenn die Aufmerksamkeit der Zuhörer gezielt gelenkt wird. Sie verliert, wenn die Aufmerksamkeit von den Inhalten des Vortrags abgezogen wird. Auf zu viele visuelle Spielereien sollte daher verzichtet werden.
 
@@ -41,7 +41,7 @@ Auch bei Präsentationen ist die Wahl des geeigneten Dateiformats wichtig, um Pr
 
 -   OpenOffice.org Impress ist nicht auf allen Rechnern installiert. Impress-Präsentationen können im Microsoft-PowerPoint-Format abgespeichert werden, dabei gehen aber unter Umständen Funktionen wie Animationen verloren.
 
--   PDF-Dateien, die aus PowerPoint, Impress oder mit LaTeX erzeugt werden, lassen sich nahezu überall wiedergeben. Es ist nur ein PDF-Anzeigeprogramm wie der Adobe Reader erforderlich. Zudem ist eine korrekte Darstellung in diesem Format gewährleistet. Animationen und Einblendungen gehen beim PDF-Export jedoch weitgehend verloren.
+-   PDF-Dateien, die aus PowerPoint, Impress oder mit LaTeX erzeugt werden, lassen sich nahezu überall wiedergeben. Es ist nur ein PDF-Anzeigeprogramm wie der Adobe Reader erforderlich. Zudem ist eine korrekte Darstellung in diesem Format gewährleistet. Animationen und Einblendungen gehen beim PDF-Export jedoch verloren.
 
 Um die korrekte Wiedergabe von Bildschirmpräsentationen sicherzustellen, ist es daher unter Umständen empfehlenswert, einen eigenen Laptop mitzubringen, auf dem die Präsentation zuvor getestet wurde.
 
@@ -50,11 +50,11 @@ Um die korrekte Wiedergabe von Bildschirmpräsentationen sicherzustellen, ist es
 <div class="Merke">
 
 1.  Hintergrund, Schrift und Effekte sind schlicht gehalten und nicht überladen.
-2.  Benutzung einer ausreichenden Schriftgröße.
+2.  Die Schrift ist ausreichend groß.
 3.  Pro Folie wird höchstens ein Thema behandelt.
 4.  Die Folien sind nicht überladen mit Information.
 5.  Generell werden nur die wichtigsten Informationen visualisiert, nicht jedes Detail des Vortrags.
-6.  Keine bloße Wiederholung von auf den Folien stehenden Punkten.
+6.  Im mündlichen Vortrag werden nicht bloß die auf den Folien stehenden Punkten vorgelesen.
 7.  Auf Bilder, Schemata, Schaubilder, Diagramme, Tabellen und Statistiken wird eingegangen, sie dienen nicht zur Dekoration.
 
 </div>
