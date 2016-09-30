@@ -11,7 +11,7 @@ from urllib.parse import urlparse
 from pandocfilters import toJSONFilter, Link
 
 def internallinks(key, value, format, meta):
-    if key == 'Link' and format == 'latex':
+    if key == 'Link':
         [attrs, contents, [url, title]] = value
         o = urlparse(url)
         if not o.scheme and not o.netloc and o.fragment:
