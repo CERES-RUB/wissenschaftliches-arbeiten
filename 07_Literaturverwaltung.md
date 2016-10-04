@@ -33,7 +33,7 @@ Nähere Informationen siehe <http://www.citavi.com/>.
 
 **Zotero**
 
-Zotero ist ein Literaturverwaltungsprogramm, das in Kooperation von Universitäten und anderen öffentlichen Einrichtungen entwickelt wird und als OpenSource-Software kostenlos verfügbar ist. Zotero läuft dabei direkt im Webbrowser Firefox und ermöglicht es so, Literaturangaben aus einer Reihe von Bibliothekskatalogen, Datenbanken und anderen Internetseiten zu importieren. Für Microsoft Word und OpenOffice.org Writer stehen Plugins zur Verfügung, die das direkte Zitieren im Text und das Erzeugen von automatischen Literaturverzeichnissen sehr einfach machen. Zotero verfügt über eine große Anzahl an Zitationsstilen, das Erstellen eigener Stile erfordert jedoch tiefergehende Kenntnisse.
+Zotero ist ein Literaturverwaltungsprogramm, das in Kooperation von Universitäten und anderen öffentlichen Einrichtungen entwickelt wird und als OpenSource-Software kostenlos verfügbar ist. Zotero läuft dabei direkt im Webbrowser Firefox und ermöglicht es so, Literaturangaben aus einer Reihe von Bibliothekskatalogen, Datenbanken und anderen Internetseiten zu importieren. Für Microsoft Word und LibreOffice Writer stehen Plugins zur Verfügung, die das direkte Zitieren im Text und das Erzeugen von automatischen Literaturverzeichnissen sehr einfach machen. Zotero verfügt über eine große Anzahl an Zitationsstilen, das Erstellen eigener Stile erfordert jedoch tiefergehende Kenntnisse.
 
 Zotero kann unter <https://www.zotero.org/> heruntergeladen werden.
 
@@ -69,4 +69,4 @@ Verwendet man ein solches Programm, so reicht es in der Regel, einen Stil auszuw
 
 Die meisten Literaturverwaltungsprogramme bieten außerdem noch die Möglichkeit, Literaturverweise direkt in ein Textdokument einzubinden. Auf diese Art kann nicht nur die Formatierung des Literaturverzeichnisses, sondern auch die Formatierung der Literaturverweise im Text kontrolliert werden. Außerdem kann automatisch ein Verzeichnis der im Text verwendeten Literatur erstellt werden.
 
-In der Regel werden Microsoft Word und oft auch OpenOffice.org von den kommerziellen Literaturverwaltungsprogrammen unterstützt. LaTeX verfügt mit BibTeX über ein eigenes Literaturverwaltungssystem, das eng in LaTeX integriert ist. Mit dem neueren bibLaTeX werden auch die komplizierteren geisteswissenschaftlichen Konventionen problemlos unterstützt.
+In der Regel werden Microsoft Word und oft auch LibreOffice von den kommerziellen Literaturverwaltungsprogrammen unterstützt. LaTeX verfügt mit BibTeX über ein eigenes Literaturverwaltungssystem, das eng in LaTeX integriert ist. Mit dem neueren bibLaTeX werden auch die komplizierteren geisteswissenschaftlichen Konventionen problemlos unterstützt.

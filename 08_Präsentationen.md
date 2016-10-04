@@ -9,7 +9,7 @@ contents: true
 
 Zur Unterstützung mündlicher Vorträge bietet sich eine Präsentation der Kernaussagen und/​oder illustrierender Materialien an. Digitale Präsentationen haben dabei Overhead-Folien oder Dia-Projektoren fast vollständig abgelöst. Der Begriff der »PowerPoint-Präsentation« zeigt zwar die Dominanz eines bestimmten Produkts, ist aber irreführend: Bildschirmpräsentationen lassen sich mit einer Vielzahl verschiedener Werkzeuge erstellen.
 
-Die beiden großen Office-Pakete, Microsoft Office und OpenOffice.org, enthalten mit **PowerPoint** bzw. **Impress** Programme zur Gestaltung von Bildschirmpräsentationen. Diese sind sehr grafisch orientiert, man kann also leicht verschiedene Designs auswählen, Grafiken einfügen und einzelne Elemente dynamisch einblenden und animieren. Zu den Office-Paketen siehe die Hinweiskästen in Abschnitt [Office-Anwendungen](06_Textverarbeitung.html#sec:office).
+Die beiden großen Office-Pakete, Microsoft Office und LibreOffice, enthalten mit **PowerPoint** bzw. **Impress** Programme zur Gestaltung von Bildschirmpräsentationen. Diese sind sehr grafisch orientiert, man kann also leicht verschiedene Designs auswählen, Grafiken einfügen und einzelne Elemente dynamisch einblenden und animieren. Zu den Office-Paketen siehe die Hinweiskästen in Abschnitt [Office-Anwendungen](06_Textverarbeitung.html#sec:office).
 
 **LaTeX** enthält ebenfalls Komponenten zum Erstellen von Bildschirmpräsentationen, etwa LaTeX Beamer. Präsentationen, die mit LaTeX erstellt werden, sind stärker auf Struktur ausgerichtet. Dadurch sind etwa automatische Inhaltsverzeichnisse oder die Hervorhebung des aktuellen Vortragsabschnitts möglich. Animationen sind jedoch nur eingeschränkt realisierbar. Zu LaTeX allgemein siehe den Hinweiskasten im Abschnitt [LaTeX](06_Textverarbeitung.html#sec:latex).
 
@@ -39,7 +39,7 @@ Auch bei Präsentationen ist die Wahl des geeigneten Dateiformats wichtig, um Pr
 
 -   Auf den meisten Rechnern (aber nicht auf allen) ist Microsoft PowerPoint installiert. Bei verschiedenen Rechnern oder verschiedenen PowerPoint-Versionen kann es jedoch zu Verschiebungen in der Darstellung kommen.
 
--   OpenOffice.org Impress ist nicht auf allen Rechnern installiert. Impress-Präsentationen können im Microsoft-PowerPoint-Format abgespeichert werden, dabei gehen aber unter Umständen Funktionen wie Animationen verloren.
+-   LibreOffice Impress ist nicht auf allen Rechnern installiert. Impress-Präsentationen können im Microsoft-PowerPoint-Format abgespeichert werden, dabei gehen aber unter Umständen Funktionen wie Animationen verloren.
 
 -   PDF-Dateien, die aus PowerPoint, Impress oder mit LaTeX erzeugt werden, lassen sich nahezu überall wiedergeben. Es ist nur ein PDF-Anzeigeprogramm wie der Adobe Reader erforderlich. Zudem ist eine korrekte Darstellung in diesem Format gewährleistet. Animationen und Einblendungen gehen beim PDF-Export jedoch verloren.
 

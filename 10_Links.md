@@ -12,7 +12,7 @@ contents: true
 a)  Ruhr-Universität Bochum: <http://www.ruhr-uni-bochum.de/>
 
 b)  CERES: <http://ceres.rub.de/de/>
-    
+
 c)  Universitätsbibliothek: <http://www.ub.rub.de/>
 
 d)  Learnplattform Moodle: <https://moodle.ruhr-uni-bochum.de/>
@@ -29,7 +29,7 @@ d)  Und natürlich die Rechercheangebote der Universitätsbibliothek wie OPAC, E
 
 ## Software
 
-a)  OpenOffice.org: <http://www.openoffice.org/de/>
+a)  LibreOffice: <http://www.libreoffice.org/>
 
 b)  Zotero: <https://www.zotero.org/>
 

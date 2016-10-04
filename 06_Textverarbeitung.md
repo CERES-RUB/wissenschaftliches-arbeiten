@@ -21,7 +21,7 @@ Die Produktionsform der Wissenschaft ist das Verfassen von Texten. Daher ist ein
 
 ## Office-Anwendungen {#sec:office}
 
-Am verbreitesten sind Office-Textverarbeitungen, allen voran Microsoft Word. Diesem für die meisten Anwendungsfälle wissenschaftlichen Arbeitens ebenbürtig (oder sogar überlegen) ist das Programm Writer aus dem OpenOffice.org-Paket. Für Studenten ist letzteres auch aufgrund der Tatsache attraktiv, dass es kostenlos im Internet heruntergeladen werden kann.
+Am verbreitesten sind Office-Textverarbeitungen, allen voran Microsoft Word. Diesem für die meisten Anwendungsfälle wissenschaftlichen Arbeitens ebenbürtig (oder sogar überlegen) ist das Programm Writer aus dem LibreOffice-Paket. Für Studenten ist letzteres auch aufgrund der Tatsache attraktiv, dass es kostenlos im Internet heruntergeladen werden kann.
 
 Office-Textverarbeitungen bieten eine komfortable Möglichkeit, Texte direkt so einzugeben wie sie (voraussichtlich) später im Druck aussehen werden. Dies verleitet jedoch dazu, sich gleich stark auf das äußere Erscheinungsbild zu konzentrieren. Später kann dies Korrekturen und Änderungen der Formatierung erschweren. Daher sind einige Details für die Verwendung dieser Programme zu beachten.
 
@@ -39,11 +39,11 @@ Microsoft Word verwendet seit Version 2007 eine grundlegend erneuerte Benutzerob
 
 Nähere Informationen siehe <https://products.office.com>.
 
-**OpenOffice.org Writer**
+**LibreOffice Writer**
 
-OpenOffice.org ist ein Textverarbeitungsprogramm und Teil der OpenOffice.org-Programmsuite. OpenOffice.org umfasst Writer (Textverarbeitung), Calc (Tabellenkalkulation), Impress (Präsentationen) sowie weitere Komponenten für Grafiken, mathematische Formeln und Datenbanken. Im Gegensatz zu Microsoft Office ist OpenOffice.org als OpenSource-Software kostenlos erhältlich.
+LibreOffice ist ein Textverarbeitungsprogramm und Teil der LibreOffice-Programmsuite. LibreOffice umfasst Writer (Textverarbeitung), Calc (Tabellenkalkulation), Impress (Präsentationen) sowie weitere Komponenten für Grafiken, mathematische Formeln und Datenbanken. Im Gegensatz zu Microsoft Office ist LibreOffice als OpenSource-Software kostenlos erhältlich.
 
-OpenOffice.org ist für die Betriebssysteme Windows, MacOSX, Linux und andere erhältlich. Für weitere Informationen und Downloads siehe <http://de.openoffice.org/>.
+LibreOffice ist für die Betriebssysteme Windows, MacOSX, Linux und andere erhältlich. Für weitere Informationen und Downloads siehe <http://www.libreoffice.org/>.
 
 ### Formatvorlagen
 
@@ -91,7 +91,7 @@ Wenn man aber Dokumente auf elektronischem Wege weitergibt, weil man z. B. seine
 
 -   Wenn ein Text vom Empfänger nicht bearbeitet werden muss (was in der Regel der Fall ist, wenn man Arbeiten an Dozenten schickt), empfiehlt sich das **PDF**-Format. PDF-Dateien können praktisch auf jedem Computer angezeigt werden und sehen überall gleich aus. Vergleichbar mit »elektronischem Papier« können PDF-Dateien aber nicht ohne weiteres bearbeitet werden. Damit die Dozentin oder der Dozent Anmerkungen im Dokument vornehmen können, kann es sinnvoll sein, zusätzlich eine bearbeitbare Version mitzuschicken (s. u.).
 
--   OpenOffice.org bietet standardmäßig die Möglichkeit, Dokumente im PDF-Format zu exportieren. LaTeX gibt ebenfalls PDF-Dateien aus. Für Microsoft Word gibt es z. B. PDF-Drucker, die einen Ausdruck als PDF-Datei speichern, anstatt ihn über einen echten Drucker auf Papier auszugeben.
+-   LibreOffice bietet standardmäßig die Möglichkeit, Dokumente im PDF-Format zu exportieren. LaTeX gibt ebenfalls PDF-Dateien aus. Für Microsoft Word gibt es z. B. PDF-Drucker, die einen Ausdruck als PDF-Datei speichern, anstatt ihn über einen echten Drucker auf Papier auszugeben.
 
 -   Soll ein Dokument vom Empfänger weiterbearbeitet werden, empfiehlt sich ein Textverarbeitungsformat. Dabei können aber einige Probleme auftreten:
 
@@ -99,6 +99,6 @@ Wenn man aber Dokumente auf elektronischem Wege weitergibt, weil man z. B. seine
 
     -   Die verwendeten Schriftarten müssen auf dem Computer des Empfängers vorhanden sein, um die gleiche Darstellung zu erhalten. Das ist insbesondere bei fremdsprachlichen Zeichen (Hebräisch, Arabisch etc.) nicht immer gegeben. Aber auch die neuen Standard-Schriftarten von Microsoft Office 2007 (die »C-Familien«) können nicht vorausgesetzt werden.
 
-    -   Als Dateiformat empfiehlt sich derzeit das **»doc«**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z. B. OpenOffice.org, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von OpenOffice.org als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzugt.
+    -   Als Dateiformat empfiehlt sich derzeit das **»doc«**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z. B. LibreOffice, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von LibreOffice als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzugt.
 
 -   Ungeeignet für den Austausch sind die meisten anderen Formate, so z.B. **docx** von Microsoft Word 2007/2010 oder **wps** von Microsoft Works. Sie können nur von wenigen Textverarbeitungen gelesen werden.
