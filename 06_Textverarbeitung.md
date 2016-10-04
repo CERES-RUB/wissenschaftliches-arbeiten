@@ -11,13 +11,13 @@ Wenn Sie ein wenig Zeit investieren, um sich einige Grundtechniken zu erarbeiten
 
 <div class="Technik">
 
-Das Arbeiten mit den entsprechenden Computerprogrammen lässt sich nur schwer über reinen Text vermitteln, man muss es sich angucken und – noch wichtiger – ausprobieren. In diesem Leitfaden werden daher nur einige Grundideen des wissenschaftlichen Arbeitens mit dem PC vermittelt. Für die praktische Einführung in die jeweiligen Programme stehen auf der Website des Studiengangs unter <http://ceres.rub.de/lehre/tipps-tools/> E-Tutorials zur Verfügung.
+Das Arbeiten mit den entsprechenden Computerprogrammen lässt sich nur schwer über reinen Text vermitteln, man muss es sich angucken und – noch wichtiger – ausprobieren. In diesem Leitfaden werden daher nur einige Grundideen des wissenschaftlichen Arbeitens mit dem PC vermittelt. Weitere Informationen zu den jeweiligen Programmen finden Sie auf der Website des Studiengangs unter <http://studium.ceres.rub.de/de/materialien/software/>.
 
 </div>
 
 # Textverarbeitung {#sec:textverarbeitung}
 
-Die Produktionsform der Wissenschaft ist das Verfassen von Texten. Daher ist eine gute Textverarbeitung ein wichtiges Hilfsmittel. Es kommt aber auch darauf an, die Möglichkeiten der entsprechenden Anwendungen zu nutzen. Die Einarbeitungszeit wird schnell durch komfortable Möglichkeiten wie z.B. automatisch erstellte Inhaltsverzeichnisse entschädigt.
+Die Produktionsform der Wissenschaft ist das Verfassen von Texten. Daher ist eine gute Textverarbeitung ein wichtiges Hilfsmittel. Es kommt aber auch darauf an, die Möglichkeiten der entsprechenden Anwendungen zu nutzen. Die Einarbeitungszeit wird schnell durch komfortable Möglichkeiten wie z. B. automatisch erstellte Inhaltsverzeichnisse entschädigt.
 
 ## Office-Anwendungen {#sec:office}
 
@@ -37,7 +37,7 @@ Microsoft Word ist ein verbreitetes Textverarbeitungsprogramm und Teil des Progr
 
 Microsoft Word verwendet seit Version 2007 eine grundlegend erneuerte Benutzeroberfläche und neue Dateiformate, die mit alten Versionen von Microsoft Office nicht kompatibel sind. Microsoft Office ist für die Betriebssysteme Windows und MacOSX erhältlich.
 
-Nähere Informationen siehe <http://office.microsoft.com/>.
+Nähere Informationen siehe <https://products.office.com>.
 
 **OpenOffice.org Writer**
 
@@ -47,25 +47,25 @@ OpenOffice.org ist für die Betriebssysteme Windows, MacOSX, Linux und andere er
 
 ### Formatvorlagen
 
-Der Schlüssel zur Verwendung von Textverarbeitungen sind die Formatvorlagen. Diese erlauben, Textteile nicht nur mit einer bestimmten Formatierung zu versehen (z.B. *Schriftgröße 14pt, Fettschrift*), sondern auch mit einer Bedeutung (z.B. *Überschrift erster Ordnung*). Dies erlaubt unter anderem
+Der Schlüssel zur Verwendung von Textverarbeitungen sind die Formatvorlagen. Diese erlauben, Textteile nicht nur mit einer bestimmten Formatierung zu versehen (z. B. *Schriftgröße 14pt, Fettschrift*), sondern auch mit einer Bedeutung (z. B. *Überschrift erster Ordnung*). Dies erlaubt unter anderem
 
--   später Formatierungen auf einen Schlag zu ändern (z.B. alle Überschriften erster Ordnung Schriftgröße 16pt),
+-   später Formatierungen auf einen Schlag zu ändern (z. B. alle Überschriften erster Ordnung Schriftgröße 16pt),
 
 -   automatische Literaturverzeichnisse zu erstellen,
 
--   Verweise auf andere Kapitel zu erstellen, die automatisch aktualisiert werden (z.B. »siehe Kapitel 3, Seite 12«).
+-   Verweise auf andere Kapitel zu erstellen, die automatisch aktualisiert werden (z. B. »siehe Kapitel 3, Seite 12«).
 
 Daher sollte man sich gleich angewöhnen, immer eine Formatvorlage zu verwenden, anstatt Formatierungen direkt einzustellen. Dies gilt neben Überschriften auch für Blockzitate, Fußnoten und anderes.
 
 ### Automatische Inhaltsverzeichnisse
 
-Um sicherzustellen, dass die Angaben im Inhaltsverzeichnis auch tatsächlich mit den Seitenzahlen im Dokument übereinstimmen, empfiehlt sich das Verwenden automatischer Inhaltsverzeichnisse. Diese können, basierend auf den Formatvorlagen für Überschriften, automatisch ein Verzeichnis der Kapital erstellen. Bei Änderungen im Dokument wird auch das Verzeichnis automatisch aktualisiert.
+Um sicherzustellen, dass die Angaben im Inhaltsverzeichnis auch tatsächlich mit den Seitenzahlen im Dokument übereinstimmen, empfiehlt sich das Verwenden automatischer Inhaltsverzeichnisse. Diese können, basierend auf den Formatvorlagen für Überschriften, automatisch ein Verzeichnis der Kapitel erstellen. Bei Änderungen im Dokument wird auch das Verzeichnis automatisch aktualisiert.
 
-Ebenso empfiehlt es sich, bei Verweisen im Text (z.B. auf andere Kapital) sogenannte »Felder« zu verwenden, die ebenfalls automatisch aktualisiert werden. Und die Seitenzahlen selbst sollten in jedem Fall automatisch aktualisiert werden.
+Ebenso empfiehlt es sich, bei Verweisen im Text (z. B. auf andere Kapitel) sogenannte »Felder« zu verwenden, die ebenfalls automatisch aktualisiert werden. Und die Seitenzahlen selbst sollten in jedem Fall automatisch aktualisiert werden.
 
 ## LaTeX {#sec:latex}
 
-Eine Alternative zu gängigen Textverarbeitungen stellt das Textsatzsystem LaTeX dar. Es kann ebenfalls kostenlos aus dem Internet heruntergeladen werden. Seine Benutzung ist am Anfang sehr gewöhnungsbedürftig und es erfordert deutlich mehr Einarbeitungszeit als eine herkömmliche Textverarbeitung. Dies wird durch eine Reihe von Vorteilen entschädigt. Einige Probleme lassen sich in den gängigen Textverarbeitungen gar nicht lösen, in LaTeX findet sich fast immer eine Möglichkeit. Zudem sehen LaTeX-Dokumente auch in den Standardeinstellungen deutlich professioneller aus als Dokumente aus herkömmlichen Textverarbeitungen.
+Eine Alternative zu gängigen Textverarbeitungen stellt das Textsatzsystem LaTeX dar. Es kann ebenfalls kostenlos aus dem Internet heruntergeladen werden. Seine Benutzung ist am Anfang sehr gewöhnungsbedürftig und erfordert deutlich mehr Einarbeitungszeit als eine herkömmliche Textverarbeitung. Dies wird durch eine Reihe von Vorteilen entschädigt. Einige Probleme lassen sich in den gängigen Textverarbeitungen gar nicht lösen, in LaTeX findet sich fast immer eine Möglichkeit. Zudem sehen LaTeX-Dokumente auch in den Standardeinstellungen deutlich professioneller aus als Dokumente aus herkömmlichen Textverarbeitungen.
 
 Der große Unterschied von LaTeX zu anderen Textverarbeitungen besteht darin, dass nicht direkt in einer Seitenansicht geschrieben wird, sondern dass spezielle Formatierungsbefehle eingegeben werden. Wer HTML kennt, dem wird dies nicht ganz unvertraut sein. Der Vorteil an diesem Vorgehen ist, dass man stets die volle Kontrolle über die Formatierung behält, während bei klassischen Textverarbeitungen stets im Hintergrund Formatierungen vorgenommen werden, die sich nicht immer nachvollziehen lassen. Der Nachteil ist, dass man zunächst die Formatierungsbefehle lernen muss.
 
@@ -81,26 +81,24 @@ Der Einstieg in LaTeX kann etwas verwirrend sein, da LaTeX aus verschiedenen, un
 
 Die Distribution »TeXLive« umfasst alle benötigten Komponenten und kann unter <http://www.tug.org/texlive/> heruntergeladen werden. TeXLive steht für Windows, MacOSX, Linux und andere Systeme zur Verfügung.
 
-Bei Interesse an diesem Programm bietet die LaTeX-Kurzeinführung einen guten Einstieg in die LaTeX-Befehle: <http://www.ctan.org/tex-archive/info/lshort/german/l2kurz.pdf>.
+Bei Interesse an diesem Programm bietet die LaTeX-Kurzeinführung einen guten Einstieg in die LaTeX-Befehle: <http://ctan.sharelatex.com/tex-archive/info/lshort/german/l2kurz.pdf>.
 
 ## Dateiformate {#sec:dateiformate}
 
 So lange die Dokumente nur auf dem eigenen Rechner verwendet und nur in ausgedruckter Form weitergegeben werden, ist es relativ unerheblich, in welchem Format die Dateien gespeichert werden. Jede Anwendung hat hier ein voreingestelltes Format, das für die eigenen Zwecke problemlos verwendet werden kann.
 
-Wenn man aber Dokumente auf elektronischem Wege weitergibt, weil man z.B. seine Hausarbeit per E-Mail an die Dozentin oder den Dozenten schickt, muss man auf das verwendete Dateiformat achten. Es kann nicht vorausgesetzt werden, dass der Dozent das gleiche Programm verwendet wie man selbst, und nicht alle Anwendungen können alle Formate lesen. Um unnötige Probleme zu vermeiden, sollte man sich daher an folgenden Richtlinien orientieren:
+Wenn man aber Dokumente auf elektronischem Wege weitergibt, weil man z. B. seine Hausarbeit per E-Mail an die Dozentin oder den Dozenten schickt, muss man auf das verwendete Dateiformat achten. Es kann nicht vorausgesetzt werden, dass der Dozent das gleiche Programm verwendet wie man selbst, und nicht alle Anwendungen können alle Formate lesen. Um unnötige Probleme zu vermeiden, sollte man sich daher an folgenden Richtlinien orientieren:
 
--   Wenn ein Text vom Empfänger nicht bearbeitet werden muss (was in der Regel der Fall ist, wenn man Arbeiten an Dozenten schickt), empfiehlt sich das **PDF**-Format. PDF-Dateien können praktisch auf jedem Computer angezeigt werden und sehen überall gleich aus. Vergleichbar mit »elektronischem Papier« können PDF-Dateien aber nicht ohne weiteres bearbeitet werden. Damit die Dozentin oder der Dozent Anmerkungen im Dokument vornehmen können, kann es sinnvoll sein, zusätzlich eine bearbeitbare Version mitzuschicken (s.u.).
+-   Wenn ein Text vom Empfänger nicht bearbeitet werden muss (was in der Regel der Fall ist, wenn man Arbeiten an Dozenten schickt), empfiehlt sich das **PDF**-Format. PDF-Dateien können praktisch auf jedem Computer angezeigt werden und sehen überall gleich aus. Vergleichbar mit »elektronischem Papier« können PDF-Dateien aber nicht ohne weiteres bearbeitet werden. Damit die Dozentin oder der Dozent Anmerkungen im Dokument vornehmen können, kann es sinnvoll sein, zusätzlich eine bearbeitbare Version mitzuschicken (s. u.).
 
-    OpenOffice.org bietet standardmäßig die Möglichkeit, Dokumente im PDF-Format zu exportieren. LaTeXgibt ebenfalls PDF-Dateien aus. Für Microsoft Word gibt es z.B. PDF-Drucker, die einen Ausdruck als PDF-Datei speichern, anstatt ihn auf einem echten Drucker auszugeben.
+-   OpenOffice.org bietet standardmäßig die Möglichkeit, Dokumente im PDF-Format zu exportieren. LaTeX gibt ebenfalls PDF-Dateien aus. Für Microsoft Word gibt es z. B. PDF-Drucker, die einen Ausdruck als PDF-Datei speichern, anstatt ihn über einen echten Drucker auf Papier auszugeben.
 
--   Soll ein Dokument vom Empfänger weiterbearbeitet werden, empfiehlt sich Textverarbeitungsformat. Dabei können aber einige Probleme auftreten:
+-   Soll ein Dokument vom Empfänger weiterbearbeitet werden, empfiehlt sich ein Textverarbeitungsformat. Dabei können aber einige Probleme auftreten:
 
-    -   Aufgrund verschiedener Einstellungen können sich andere Seitenumbrüche ergeben, als vom Verfasser beabsichtigt.
+    -   Aufgrund verschiedener Einstellungen können sich andere Seitenumbrüche ergeben als vom Verfasser beabsichtigt.
 
-    -   Die verwendeten Schriftarten müssen auf dem Computer des Empfängers vorhanden sein, um die gleiche Darstellung zu erhalten. Das ist insbesondere bei fremdsprachlichen Zeichen (Hebräisch, Arabisch, etc.) nicht immer gegeben. Aber auch die neuen Standard-Schriftarten von Microsoft Office 2007 (die »C-Familien«) können nicht vorausgesetzt werden.
+    -   Die verwendeten Schriftarten müssen auf dem Computer des Empfängers vorhanden sein, um die gleiche Darstellung zu erhalten. Das ist insbesondere bei fremdsprachlichen Zeichen (Hebräisch, Arabisch etc.) nicht immer gegeben. Aber auch die neuen Standard-Schriftarten von Microsoft Office 2007 (die »C-Familien«) können nicht vorausgesetzt werden.
 
-    Als Dateiformat empfiehlt sich derzeit das **»doc«**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z.B. OpenOffice.org, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von OpenOffice.org als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzut.
+    -   Als Dateiformat empfiehlt sich derzeit das **»doc«**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z. B. OpenOffice.org, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von OpenOffice.org als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzugt.
 
 -   Ungeeignet für den Austausch sind die meisten anderen Formate, so z.B. **docx** von Microsoft Word 2007/2010 oder **wps** von Microsoft Works. Sie können nur von wenigen Textverarbeitungen gelesen werden.
-
-

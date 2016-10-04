@@ -9,37 +9,28 @@ contents: true
 
 ## Allgemeines
 
-a)  Ruhr-Universität Bochum: <http://www.rub.de/>
+a)  Ruhr-Universität Bochum: <http://www.ruhr-uni-bochum.de/>
 
-b)  CERES: <http://www.ceres.rub.de/>  
-    Aktuelle Meldungen, die die Lehre betreffen, sind unter der Adresse <http://www.ceres.rub.de/de/lehre/aktuelles/> einsehbar.
-
+b)  CERES: <http://ceres.rub.de/de/>
+    
 c)  Universitätsbibliothek: <http://www.ub.rub.de/>
 
-d)  E-Learning-Angebote der RUB:
-
-    -   Blackboard: <http://e-learning.rub.de/>
-
-    -   Moodle: <http://moodle.rub.de/>
+d)  Learnplattform Moodle: <https://moodle.ruhr-uni-bochum.de/>
 
 ## Literaturrecheche
 
-a)  Hochschulbibliothekszentrum NRW mit Verbundkatalog: <http://www.hbz-nrw.de/>
+a)  Hochschulbibliothekszentrum NRW mit Verbundkatalog: <https://www.hbz-nrw.de/>
 
-b)  Karlsruher Virtueller Katalog: <http://www.ubka.uni-karlsruhe.de/kvk.html>
+b)  Karlsruher Virtueller Katalog: <http://kvk.bibliothek.kit.edu/>
 
-c)  Google Scholar: <http://scholar.google.de/>
+c)  Google Scholar: <https://scholar.google.de/>
 
-d)  Vascoda: <http://www.vascoda.de/>
-
-e)  Und natürlich die Rechercheangebote der Universitätsbibliothek wie OPAC, E-Zeitschriften und Datenbanken!
+d)  Und natürlich die Rechercheangebote der Universitätsbibliothek wie OPAC, E-Zeitschriften und Datenbanken!
 
 ## Software
 
-a)  OpenOffice.org: <http://de.openoffice.org/>
+a)  OpenOffice.org: <http://www.openoffice.org/de/>
 
-b)  Zotero: <http://www.zotero.org/>
+b)  Zotero: <https://www.zotero.org/>
 
 c)  TeXLive: <http://www.tug.org/texlive/>
-
-

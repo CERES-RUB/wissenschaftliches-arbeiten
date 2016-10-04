@@ -7,15 +7,15 @@ contents: true
 
 # Zitieren von Literatur {#sec:zitieren}
 
-Der wissenschaftliche Prozess basiert – gerade in den Geisteswissenschaften – darauf, dass man sich auf die Arbeiten anderer bezieht, d.h. diese zitiert, wenn man sich auf deren geistiges Eigentum stützt. Für Studienanfänger ist es nicht immer ganz einfach einzuschätzen, was zitiert werden muss und was nicht. Als grobe Richtschnur lassen sich die folgenden Punkte festhalten:
+Der wissenschaftliche Prozess basiert – gerade in den Geisteswissenschaften – darauf, dass man sich auf die Arbeiten anderer bezieht, d. h. diese zitiert, wenn man sich auf deren geistiges Eigentum stützt. Für Studienanfänger ist es nicht immer ganz einfach einzuschätzen, was zitiert werden muss und was nicht. Als grobe Richtschnur lassen sich die folgenden Punkte festhalten:
 
-Zitiert werden müssen
+Zitiert werden müssen:
 
--   Erkenntnisse, zu denen Sie allein durch Nachdenken nicht hätten kommen können (also die Forschungsergebnisse anderer)
+-   Erkenntnisse, zu denen Sie allein durch Nachdenken nicht hätten kommen können (also die Forschungsergebnisse anderer);
 
--   grundlegende methodische/​wissenschaftstheoretische Annahmen, die ein Fundament für Ihre Arbeit bilden
+-   grundlegende methodische/​wissenschaftstheoretische Annahmen, die ein Fundament für Ihre Arbeit bilden;
 
--   weitere Gedanken, die Sie den Werken anderer entnommen haben, und die nicht zu Ihrem eigenen allgemeinen Wissen gehören
+-   weitere Gedanken, die Sie den Werken anderer entnommen haben, und die nicht zu Ihrem eigenen allgemeinen Wissen gehören.
 
 <div class="Hinweis">
 
@@ -23,19 +23,19 @@ Wenn Sie wirklich über eine längere Strecke nur die Argumentation eines Autor 
 
 </div>
 
-Nicht zitiert werden müssen
+Nicht zitiert werden müssen:
 
--   Allgemeinplätze (z. B. bekannte historische Kontextdaten)
+-   Allgemeinplätze (z. B. bekannte historische Kontextdaten);
 
--   Erkenntnisse des gesunden Menschenverstandes (also Ihre Schlussfolgerungen oder Zusammenfassungen)
+-   Erkenntnisse des gesunden Menschenverstandes (also Ihre Schlussfolgerungen oder Zusammenfassungen);
 
--   Ergebnisse eigener Analysen
+-   Ergebnisse eigener Analysen.
 
 ## Zitate im Text
 
 Für die Übernahme von Ausschnitten aus den Werken anderer Autoren gibt es prinzipiell zwei Möglichkeiten: Direkte und indirekte Zitate. In der Regel bieten sich für die Verwendung in Hausarbeiten eher indirekte Zitate an, da hier die Gelegenheit besteht, Aussagen sinnerfassend zu paraphrasieren und zugespitzt wiederzugeben. Nichtsdestotrotz gibt es aber auch Zwecke, für die sich direkte Zitate anbieten, etwa für die Einführung eines speziellen Terminus, bei der Übernahme eines besonders treffenden und pointiert formulierten Zitates oder wenn ein wörtlicher Auszug aus einer Primärquelle eine Beobachtung oder ein Argument illustrieren soll.
 
-Dabei verfährt man unterschiedlich, was die formale Einbettung angeht: Direkte (oder wörtliche) Zitate werden mit Anführungszeichen ein- und ausgeleitet. Werden im Original innerhalb des Zitates Anführungszeichen verwendet, werden diese durch einfache Anführungszeichen ersetzt.
+Dabei verfährt man unterschiedlich, was die formale Einbettung angeht: Direkte (d. h. wörtliche) Zitate werden mit Anführungszeichen ein- und ausgeleitet. Werden im Original innerhalb des Zitates Anführungszeichen verwendet, werden diese durch einfache Anführungszeichen ersetzt.
 
 <div class="Technik">
 
@@ -59,13 +59,13 @@ Dieses Zitat kann nun auf verschiedene Weisen im Text wiedergegeben werden:
     Seine Kritik am Religionsbegriff ist somit grundsätzlicher Art.
 
 -   Wörtliches Zitat im Absatz:  
-    Folgt man Boyarins Kritik am Religionsbegriff, lassen sich Christentum und Judentum nicht mehr unter der gemeinsamen Kategorie »Religion« fassen: »In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 354f.).
+    Folgt man Boyarins Kritik am Religionsbegriff, lassen sich Christentum und Judentum nicht mehr unter der gemeinsamen Kategorie »Religion« fassen: »In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 354 f.).
 
 -   Einflechtung in einen eigenen Satz:  
-    Boyarin geht dabei so weit zu sagen, dass »it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 354f.).
+    Boyarin geht dabei so weit zu sagen, dass »it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 354 f.).
 
 -   Auslassungen:  
-    Boyarin betont die unterschiedlichen Perspektiven auf das Konzept »Religion«: »From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion* \[…\]; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not« (Boyarin 2005, 354f.).
+    Boyarin betont die unterschiedlichen Perspektiven auf das Konzept »Religion«: »From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion* \[…\]; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not« (Boyarin 2005, 354 f.).
 
 <div class="Technik">
 
@@ -76,14 +76,14 @@ Die Auslassungspunkte sind nicht einfach drei hintereinandergesetzte Punkte (.\.
 Indirekte Zitate erfordern dieses Vorgehen nicht. Hier wird ein zitierender Satz oder Abschnitt in eigenen Worten wiedergegeben und einfach in den Fließtext eingegliedert. Auslassungen oder Veränderungen sind erlaubt, solange sie nicht sinnentstellend sind. Beim Beleg indirekter Zitate wird der Quellenangabe der Hinweis »vgl.« vorangestellt, um kenntlich zu machen, dass es sich um eine nicht-wörtliche Wiedergabe des Textes handelt. Weitere Verweise auf Literatur, die nicht zitiert wird, aber das Gesagte unterstützt, können mit »vgl. auch« eingeleitet werden. Auf Literatur, die den vorgestellten Thesen oder Argumenten widerspricht, wird der Redlichkeit halber mit »vgl. aber« verwiesen.
 
 -   Indirektes Zitat:  
-    Folgt man der These, dass die Kategorie »Religion« an sich eine christliche Erfindung ist, so liegt der Schluss nahe, dass etwa das Judentum aus seiner Binnenperspektive heraus nicht als Religion verstanden wird (vgl. Boyarin 2005, 354f.).
+    Folgt man der These, dass die Kategorie »Religion« an sich eine christliche Erfindung ist, so liegt der Schluss nahe, dass etwa das Judentum aus seiner Binnenperspektive heraus nicht als Religion verstanden wird (vgl. Boyarin 2005, 354 f.).
 
 -   Verweis:  
     Auch wenn sich die Argumentationslinien im Detail unterscheiden, fügt sich Asads Dekonstruktion des Religionsbegriffs in eine Reihe postkolonialer Kritik am christozentrischen Konzept »Religion« (vgl. etwa Boyarin 2005).
 
 <div class="Hinweis">
 
-Falls Sie Abkürzungen verwenden, müssen die abgekürzten Bezeichnungen (Bez.) immer zuerst einmal ausgeschrieben werden. Abkürzungen richten Sie bitte nach: Siegfried M. Schwertner, *Internationales Abkürzungsverzeichnis für Theologie und Grenzgebiete:* IATG; Zeitschriften, Serien, Lexika, Quellenwerte mit bibliographischen Angaben: International glossary of abbreviations for theology and related subjects, 2, überarb. und erw. Aufl. Berlin/​New York 1992. Gängige Abkürzungen, die im <span style="font-variant:small-caps;">Duden</span> verzeichnet sind (z.B., usw., etc., vgl.), können jederzeit frei verwendet werden.
+Falls Sie Abkürzungen verwenden, müssen die abgekürzten Bezeichnungen (Bez.) immer zuerst einmal ausgeschrieben werden. Abkürzungen richten Sie bitte nach: Siegfried M. Schwertner, *Internationales Abkürzungsverzeichnis für Theologie und Grenzgebiete:* IATG; Zeitschriften, Serien, Lexika, Quellenwerte mit bibliographischen Angaben: International glossary of abbreviations for theology and related subjects, 2, überarb. und erw. Aufl. Berlin/​New York 1992. Gängige Abkürzungen, die im <span style="font-variant:small-caps;">Duden</span> verzeichnet sind (z. B., usw., etc., vgl.), können jederzeit ohne Erklärung verwendet werden.
 
 </div>
 
@@ -91,11 +91,11 @@ Falls Sie Abkürzungen verwenden, müssen die abgekürzten Bezeichnungen (Bez.) 
 
 Zur wissenschaftlichen Redlichkeit gehört es, die Literatur explizit zu nennen, auf die man sich bezieht. Dies ist nicht nur der Nachprüfbarkeit Ihrer Angaben geschuldet, sondern dem wissenschaftlichen Diskurs im Allgemeinen: Auch andere Wissenschaftler sollen an Ihrem Arbeitsprozess teilhaben und ihn ggf. weiterdenken können. Daher ist das korrekte Zitieren von Literatur ein wichtiger Aspekt beim Verfassen einer wissenschaftlichen Arbeit. Dies ist auch bei Hausarbeiten grundlegend. Denn nur bei korrekter Zitation können die Dozierenden Ihre eigenen Gedanken eindeutig von aus der Literatur wiedergegeben Aussagen unterscheiden.
 
-Um die verwendeten Zitate zu belegen, müssen Sie dem Leser solcherlei Angaben zur Verfügung stellen, dass dieser ebenso das Zitat wieder auffinden könnte. Das beinhaltet bspw. bei Zitaten aus Monografien zumindest Autor, Buchtitel, Erscheinungsort, Erscheinungsjahr und Seitenzahl des Zitates, dazu können je nach Zitierstil und Art des Werkes noch weitere Angaben wie der Verlag oder die Auflage kommen. Bei anderen Textsorten wie Sammelband- oder Zeitschriftenartikeln müssen weitere Angaben beigefügt werden (s.u.).
+Um die verwendeten Zitate zu belegen, müssen Sie dem Leser solcherlei Angaben zur Verfügung stellen, dass dieser ebenso das Zitat wieder auffinden könnte. Das beinhaltet bspw. bei Zitaten aus Monografien zumindest Autor, Buchtitel, Erscheinungsort, Erscheinungsjahr und Seitenzahl des Zitates, dazu können je nach Zitierstil und Art des Werkes noch weitere Angaben wie der Verlag oder die Auflage kommen. Bei anderen Textsorten wie Sammelband- oder Zeitschriftenartikeln müssen weitere Angaben beigefügt werden (s. u.).
 
 All diese Angaben zusammengenommen ergeben meist eine recht lange Liste, die nicht direkt am Zitat stehen kann – dort würde Sie den Lesefluss empfindlich stören. Deshalb haben sich zwei Zitierweisen eingebürgert, die dieses Problem unterschiedlich lösen, das »Autor-Jahr-System« (auch »amerikanische« oder »Harvard-Notation« genannt) und das »Fußnoten-System« (auch »deutsche« oder »historische« Zitierweise).
 
-Diese Unterscheidung wirkt sich sowohl auf die Art aus, wie im Text die Quellen von (direkten oder indirekten) Zitaten angegeben werden, als auch auf die Darstellung der verwendeten Literatur im Literaturverzeichnis. Zusätzlich macht es einen Unterschied, um welche Art von Literatur es sich handelt (siehe den Abschnitt [Formen wissenschaftlicher Literatur](01_Textarten.html#sec:formen)).
+Diese Unterscheidung wirkt sich sowohl auf die Art aus, wie im Text die Quellen von (direkten oder indirekten) Zitaten angegeben werden als auch auf die Darstellung der verwendeten Literatur im Literaturverzeichnis. Zusätzlich macht es einen Unterschied, um welche Art von Literatur es sich handelt (siehe den Abschnitt [Formen wissenschaftlicher Literatur](01_Textarten.html#sec:formen)).
 
 <div class="Hinweis">
 
@@ -109,7 +109,7 @@ Die im Folgenden vorgestellten Zitierweisen sind nur zwei von vielen Möglichkei
 
 ## Fußnoten-Zitierweise {#sec:deutsche-zitierweise}
 
-Im Fußnotensystem werden die Literaturangaben, ebenso wie ggf. Nebenbemerkungen, in Fußnoten notiert. Bei der ersten Nennung werden zitierte Titel vollständig angeführt, so wie sie auch im Literaturverzeichnis erscheinen. Bei allen weiteren Nennungen wird dann nur noch der Autorenname und ein Kurztitel sowie die Seitenzahl, auf die Sie sich beziehen, angegeben (optional ergänzt um die Angabe a.a.O. = am angegebenen Ort).
+Im Fußnotensystem werden die Literaturangaben, ebenso wie ggf. Nebenbemerkungen, in Fußnoten notiert. Bei der ersten Nennung werden zitierte Titel vollständig angeführt, so wie sie auch im Literaturverzeichnis erscheinen. Bei allen weiteren Nennungen wird dann nur noch der Autorenname und ein Kurztitel sowie die Seitenzahl, auf die Sie sich beziehen, angegeben.
 
 Folgen zwei Nennungen einer Quelle direkt aufeinander, ist also kein Verweis auf eine andere Quelle zwischen den beiden Nennungen, kann anstatt der Kurzangabe auch schlicht ein »ebd.« (für »ebenda«) angegeben werden. Ist die Seitenzahl identisch zur vorhergegangenen Nennung, kann sie weggelassen werden. Bei einer abweichenden Seitenzahl wird sie zusätzlich angeführt.
 
@@ -154,7 +154,7 @@ Bei dieser Zitierweise, die vor allem in den Natur- und Sozialwissenschaften geb
 > Religions are powerful not because they reveal transcendent truths or the effects of an ontologized “History”, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action.
 
 -   Erstes Zitat:  
-    »Religions are powerful not because they reveal transcendent truths or the effects of an ontologized »History«, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action« (Stuckrad 2003, 269).
+    »Religions are powerful not because they reveal transcendent truths or the effects of an ontologized ›History‹, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action« (Stuckrad 2003, 269).
 
 -   Folgezitat:[^6]  
     Nach Ansicht einiger Autoren besteht die Wirkmächtigkeit von Religionen besonders in der Unterstützung von Identitätskonstruktionen und in konkreten Handlungsanweisungen (vgl. etwa Stuckrad 2003, 269).
@@ -183,9 +183,9 @@ d)  Lexikonartikel:
 
 <div class="Hinweis">
 
-Hinweis: Sie haben irgendwo in einem Buch das spannende Zitat eines anderen Autors gelesen? Dessen Buch ist aber umständlich oder gar nicht zu beschaffen? Zitate »aus zweiter Hand« zu verwenden, aber dies nicht zu kennzeichnen, ist verlockend. Trotzdem sollten Sie nicht einfach die Literaturangabe übernehmen und so tun, als hätten Sie das Buch selbst gelesen. Auch in dem Werk, in dem Sie das Zitat gefunden haben, können sich Fehler bei der Angabe eingeschlichen haben. Ebenso fehlt Ihnen dann die Kenntnis über den ursprünglichen Kontext des Zitates – vielleicht passt der zu dem Buch, in dem Sie das Zitat gefunden haben, aber überhaupt nicht zum Thema Ihrer Arbeit?
+Sie haben irgendwo in einem Buch das spannende Zitat eines anderen Autors gelesen? Dessen Buch ist aber umständlich oder gar nicht zu beschaffen? Zitate »aus zweiter Hand« zu verwenden, aber dies nicht zu kennzeichnen, ist verlockend. Trotzdem sollten Sie nicht einfach die Literaturangabe übernehmen und so tun, als hätten Sie das Buch selbst gelesen. Auch in dem Werk, in dem Sie das Zitat gefunden haben, können sich Fehler bei der Angabe eingeschlichen haben. Ebenso fehlt Ihnen dann die Kenntnis über den ursprünglichen Kontext des Zitates – vielleicht passt der zu dem Buch, in dem Sie das Zitat gefunden haben, aber überhaupt nicht zum Thema Ihrer Arbeit?
 
-Verwenden Sie bestenfalls etwas mehr Mühe darauf, das Original zu beschaffen. Andernfalls sollten Sie zumindest so ehrlich sein, und das Zitat zwar verwenden, aber offenzulegen, wie Sie daran gekommen sind. Dies geschieht durch die Belegangabe der ursprünglichen Stelle des Zitates, daran anknüpfend dann der Verweis »zitiert nach«, und hier wiederum die vollständige Angabe des Buches, dem Sie das Zitat entnommen haben.
+Verwenden Sie bestenfalls etwas mehr Mühe darauf, das Original zu beschaffen. Andernfalls sollten Sie zumindest so ehrlich sein und das Zitat zwar verwenden, aber offenlegen, wie Sie daran gekommen sind. Dies geschieht durch die Belegangabe der ursprünglichen Stelle des Zitates, daran anknüpfend dann der Verweis »zitiert nach«, und hier wiederum die vollständige Angabe des Buches, dem Sie das Zitat entnommen haben.
 
 </div>
 
@@ -209,7 +209,7 @@ Für kanonische religiöse Werke wie Bibel oder Koran, aber auch für einige and
 
 > (Dienet ihm), der euch die Erde zu einem Teppich und den Himmel zu einem Bau gemacht hat, und der vom Himmel Wasser herabkommen ließ und dadurch, euch zum Unterhalt, Früchte hervorbrachte. Darum behauptet nicht, daß Allah (andere Götter) seinesgleichen (neben sich) habe, wo ihr doch wißt (daß er allein alles geschaffen hat)! (Sure 2, Vers 22)[^8]
 
-Bei religiösen Schriften ist oftmals eine Vielzahl verschiedener Versionen verfügbar, darunter auch zahlreiche nicht für den wissenschaftlichen Gebrauch geeignete. Bei der Auswahl der verwendeten Ausgabe sollte daher darauf geachtet werden, eine wissenschaftliche Edition zu verwenden.
+Bei religiösen Schriften sind oftmals eine Vielzahl verschiedener Versionen verfügbar, darunter auch zahlreiche nicht für den wissenschaftlichen Gebrauch geeignete. Bei der Auswahl der verwendeten Ausgabe sollte daher darauf geachtet werden, eine wissenschaftliche Edition zu verwenden.
 
 <div class="Hinweis">
 
@@ -221,7 +221,7 @@ In den verschiedenen historischen Disziplinen und Philologien bestehen unterschi
 
 Bei der Verwendung von Internetquellen ist besondere Vorsicht angebracht. Ähnlich wie eine öffentliche Leihbücherei neben einzelnen wissenschaftlichen Werken auch Ratgeberliteratur und Romane verfügt, ist nicht jedes Internetangebot als wissenschaftliche Referenz geeignet. Da Internetseiten jedoch nicht nach dem Grad ihrer Wissenschaftlichkeit gekennzeichnet sind, ist eine kritische Einschätzung von Internetangeboten wichtig.
 
-Grob kann man Webangebote in drei Kategorien einteilen:
+Grob kann man Web-Angebote in drei Kategorien einteilen:
 
 1.  Wissenschaftliche Online-Zeitschriften
 
@@ -236,7 +236,7 @@ Grob kann man Webangebote in drei Kategorien einteilen:
 
 3.  Internetseiten als Primärquellen
 
-    Der Großteil der übrigen Internetseiten sind nicht als wissenschaftliche Referenz verwendbar. Dies gilt auch und gerade für die Internetauftritte religiöser Gemeinschaften: Diese können nicht als wissenschaftlicher Beleg für inhaltliche Aussagen herangezogen werden. Solche Internetseiten eignen sich jedoch unter Umständen als Primärquellen, also als empirisches Material, das im Zuge einer wissenschaftlichen Arbeit analysiert wird. In solchen Fällen ist jedoch – wie bei jeder empirischen Arbeit – die Materialauswahl und die Analysemethode explizit zu beschreiben.
+    Der Großteil der übrigen Internetseiten ist nicht als wissenschaftliche Referenz verwendbar. Dies gilt auch und gerade für die Internetauftritte religiöser Gemeinschaften: Diese können nicht als wissenschaftlicher Beleg für inhaltliche Aussagen herangezogen werden. Solche Internetseiten eignen sich jedoch unter Umständen als Primärquellen, also als empirisches Material, das im Zuge einer wissenschaftlichen Arbeit analysiert wird. In solchen Fällen ist jedoch – wie bei jeder empirischen Arbeit – die Materialauswahl und die Analysemethode explizit zu beschreiben.
 
     Die Quellenangabe ist in solchen Fällen weniger standardisiert, sie sollte sich aber an den üblichen Kriterien der Vollständigkeit, Einheitlichkeit und Nachvollziehbarkeit orientieren. Die Mindestangabe für Internetseiten folgt daher diesem Schema:  
     Titel der Seite, Link der Seite, Datum Ihres letzten Zugriffs.
@@ -256,7 +256,7 @@ Zu Ihrer eigenen Sicherheit und zugunsten der längerfristigen Nachprüfbarkeit 
 
 </div>
 
-Neben Texten (und auch Internetseiten sind natürlich Texte) gibt es noch andere Medienformen, die man u.U. für eine wissenschaftliche Arbeit heranzieht – wenn auch in den meisten Fällen als Primärquelle. Da hierbei einige Besonderheiten zu beachten sind und sich zudem die Zitation der einzelnen Medienarten im Detail unterscheidet, sei an dieser Stelle auf die »Audiovisual Citation Guidelines« verwiesen, in denen konkrete Fälle nachgeschlagen werden können: <http://bufvc.ac.uk/projects-research/sharedservices/avcitation/guidelines>. Die dort vorgestellten Beispiele müssen im Einzelfall noch an die verwendeten Konventionen angepasst werden, etwa in Hinblick auf die gängige Zeichensetzung.
+Neben Texten (und auch Internetseiten sind natürlich Texte) gibt es noch andere Medienformen, die man u. U. für eine wissenschaftliche Arbeit heranzieht – wenn auch in den meisten Fällen als Primärquelle. Da hierbei einige Besonderheiten zu beachten sind und sich zudem die Zitation der einzelnen Medienarten im Detail unterscheidet, sei an dieser Stelle auf die »Audiovisual Citation Guidelines« verwiesen, in denen konkrete Fälle nachgeschlagen werden können: <http://bufvc.ac.uk/projects-research/avcitation>. Die dort vorgestellten Beispiele müssen im Einzelfall noch an die verwendeten Konventionen angepasst werden, etwa in Hinblick auf die gängige Zeichensetzung.
 
 <div class="Merke">
 
@@ -275,7 +275,7 @@ Neben Texten (und auch Internetseiten sind natürlich Texte) gibt es noch andere
 
 [^4]: Die Aufteilung nach Literaturtypen dient an dieser Stelle nur dazu, die unterschiedlichen Darstellungsregeln zu illustrieren. Im Literaturverzeichnis selbst werden die einzelnen Einträge *nicht* nach Literaturtyp gegliedert.
 
-[^5]: Werden mehrere Werke eines Autors aus einem Jahr zitiert, muss die Jahreszahl um einen Buchstaben ergänzt werden, um die Eindeutigkeit zu wahren, z.B. Müller 1990a, Müller 1990b, etc.
+[^5]: Werden mehrere Werke eines Autors aus einem Jahr zitiert, muss die Jahreszahl um einen Buchstaben ergänzt werden, um die Eindeutigkeit zu wahren, z. B. Müller 1990a, Müller 1990b, etc.
 
 [^6]: Im Gegensatz zur Fußnotenzitierweise besteht hier kein Unterschied zum ersten Zitat.
 
