@@ -2,8 +2,13 @@
 # -*- coding: utf-8 -*-
 
 """
-Pandoc filter to convert divs with class to LaTeX
-environments  of the same name.
+Pandoc filter to strip the file name from internal links.
+
+In the web version, the content is distributed over several pages.
+Links to other sections may thus link to a section in a different
+page, e.g. `foo.html#bar`. When converting to other formats, pandoc
+concatenates all input files and treats them as one file. This filter
+rewrites internal links as `#bar`, which works for pandoc.
 """
 import sys
 from urllib.parse import urlparse
