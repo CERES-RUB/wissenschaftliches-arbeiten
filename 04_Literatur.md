@@ -69,7 +69,7 @@ Bibliothekskataloge sind in der Regel nicht dazu geeignet, Aufsätze in Sammelb�
 
 ### Literaturdatenbanken
 
-Um auch an Informationen über einzelne Aufsätze zu gelangen, sind Literaturdatenbanken ein geeignetes Mittel. Eine Übersicht über die Literaturdatenbanken, zu denen die RUB einen Zugang bietet, ist unter <http://www.ub.ruhr-uni-bochum.de/DigiBib/Datenbank/Gesamt.htm> zu finden. Für die Religionswissenschaft sind insbesondere die Datenbanken *ATLA*, *Philosopher’s Index* und *Sociological Abstracts* interessant.
+Um auch an Informationen über einzelne Aufsätze zu gelangen, sind Literaturdatenbanken ein geeignetes Mittel. Eine Übersicht über die Literaturdatenbanken, zu denen die RUB einen Zugang bietet, ist unter <http://www.ub.ruhr-uni-bochum.de/DigiBib/Datenbank/Gesamt.htm> zu finden. Für die Religionswissenschaft relevante Datenbanken sind noch einmal separat unter <http://www.ub.rub.de/DigiBib/Fachinfo/TheoLink.htm> aufgeführt. Eine spezifisch religionswissenschaftliche Literatursuche wird außerdem vom Fachinformationsdienst Religionswissenschaft über das Portal RelBib (<https://relbib.de/>) bereitgestellt.
 
 Einige Literaturdatenbanken bieten die Möglichkeit, direkt auf die Online-Bestände der Zeitschriften zuzugreifen. Dies ist natürlich sehr komfortabel, da man sich das Heraussuchen der Zeitschrift und das Kopieren oder sogar eine Fernleihe erspart. Es sollte jedoch nicht das Kriterium für die Literaturauswahl sein, ob eine Zeitschrift online verfügbar ist.
 
