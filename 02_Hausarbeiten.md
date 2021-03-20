@@ -29,7 +29,7 @@ Der erste Schritt beim Erstellen einer wissenschaftlichen Arbeit ist die Themenf
 
 Eine zweite Herausforderung ist die Eingrenzung des Themas. Themen wie »Die Geschichte des Hinduismus in Indien« oder »Die Religiosität muslimischer Jugendlicher in Deutschland« sind schlicht zu weit gefasst, um im Rahmen von Haus- oder selbst Bachelor-Arbeiten behandelt zu werden. Die Eingrenzung eines Themas ist auch deswegen so schwierig, weil sie bereits Grundkenntnisse über den Gegenstand voraussetzt. Erst dann lässt sich ermessen, in welche konkreteren Fragen sich ein Thema zergliedern lässt.
 
-Die Themenfindung lässt sich daher nicht allein am Schreibtisch bewältigen. Sie erfordert auch einen ersten, groben Überblick über die verfügbare Literatur und den Forschungsstand sowie Gespräche mit der Dozentin oder dem Dozenten: Scheuen Sie nicht davor zurück, mit den Lehrenden über Ihre thematischen Vorstellungen zu sprechen. Aber bereiten Sie sich auch auf ein solches Gespräch vor. Wenn Sie sich schon ein Grundlagenwissen erarbeitet haben, können Sie Anregungen der Lehrenden aufnehmen und sinnvoll einarbeiten.
+Die Themenfindung lässt sich daher nicht allein am Schreibtisch bewältigen. Sie erfordert auch einen ersten, groben Überblick über die verfügbare Literatur und den Forschungsstand sowie Gespräche mit Dozierenden: Scheuen Sie nicht davor zurück, mit den Lehrenden über Ihre thematischen Vorstellungen zu sprechen. Aber bereiten Sie sich auch auf ein solches Gespräch vor. Wenn Sie sich schon ein Grundlagenwissen erarbeitet haben, können Sie Anregungen der Lehrenden aufnehmen und sinnvoll einarbeiten.
 
 <div class="Tipp">
 
@@ -66,9 +66,9 @@ Näheres siehe im Abschnitt [Kapitelgliederung](#sec:kapitelgliederung).
 
 ### Literaturrecherche und -lektüre
 
-Für die Literaturrecherche ist genügend Zeit einzuplanen. Relevante Werke können vorübergehend ausgeliehen sein, oder müssen gar per Fernleihe bestellt werden. Daher ist es gut, sich schon früh einen Überblick über die benötigte Literatur zu verschaffen. (Für die Details der Literaturrecherche siehe den Abschnitt [Literaturrecherche](04_Literatur.html#sec:literaturrecherche).) Der Horizont der Recherche ist dabei immer der Forschungsstand: Die Texte zu einem Thema werden nicht beliebig gewählt, sondern sollen die Ergebnisse einer bestimmten Forschungsrichtung widerspiegeln. Dabei kann in einer Hausarbeit natürlich nicht die gesamte Forschungsliteratur zu einem Thema wiedergegeben werden. Jedoch sind die gewählten Texte immer in einen Kontext einzubetten: Welcher Forschungsrichtung entspringen sie? Auf welche Texte und/​oder Autoren nehmen sie Bezug? Welche anderen Richtungen gibt es, die in der Hausarbeit nicht berücksichtigt werden? Ein kurzer Überblick über den Forschungsstand und die Literaturlage sollte daher zu Beginn der Arbeit, etwa nach der Einleitung, nicht fehlen.
+Für die Literaturrecherche ist genügend Zeit einzuplanen. Relevante Werke können vorübergehend ausgeliehen sein, oder müssen gar per Fernleihe bestellt werden. Daher ist es gut, sich schon früh einen Überblick über die benötigte Literatur zu verschaffen. (Für die Details der Literaturrecherche siehe den Abschnitt [Literaturrecherche](04_Literatur.html#sec:literaturrecherche).) Der Horizont der Recherche ist dabei immer der Forschungsstand: Die Texte zu einem Thema werden nicht beliebig gewählt, sondern sollen die Ergebnisse einer bestimmten Forschungsrichtung widerspiegeln. Dabei kann in einer Hausarbeit natürlich nicht die gesamte Forschungsliteratur zu einem Thema wiedergegeben werden. Jedoch sind die gewählten Texte immer in einen Kontext einzubetten: Welcher Forschungsrichtung entspringen sie? Auf welche Texte und/​oder Autor:innen nehmen sie Bezug? Welche anderen Richtungen gibt es, die in der Hausarbeit nicht berücksichtigt werden? Ein kurzer Überblick über den Forschungsstand und die Literaturlage sollte daher zu Beginn der Arbeit, etwa nach der Einleitung, nicht fehlen.
 
-Die eigentliche Arbeit folgt dann mit dem Lesen und Auswerten der ausgewählten Literatur. Auch hier ist es wichtig, sich nicht ohne Vorüberlegungen in die Literatur zu stürzen. Das Lesen sollte auch schon mit Blick auf die Fragestellung hin geschehen. Welche Argumentation verfolgt der Autor? Stimmt diese mit den eigenen Ansätzen überein? Falls nicht, lässt sich der eigene Weg begründen oder sollte man seine Thesen anpassen?
+Die eigentliche Arbeit folgt dann mit dem Lesen und Auswerten der ausgewählten Literatur. Auch hier ist es wichtig, sich nicht ohne Vorüberlegungen in die Literatur zu stürzen. Das Lesen sollte auch schon mit Blick auf die Fragestellung hin geschehen. Welche Argumentation verfolgt der:die Autor:in? Stimmt diese mit den eigenen Ansätzen überein? Falls nicht, lässt sich der eigene Weg begründen oder sollte man seine Thesen anpassen?
 
 Näheres siehe in den Abschnitten [Literaturrecherche](04_Literatur.html#sec:literaturrecherche) und [Lesetechniken](04_Literatur.html#sec:lesetechniken).
 
@@ -120,7 +120,7 @@ Das Inhaltsverzeichnis enthält die Kapitel und Unterkapitel der Arbeit mit Anga
 
 ### Kapitelgliederung {#sec:kapitelgliederung}
 
-Jede Hausarbeit umfasst eine Einleitung, einen Hauptteil und einen Schluss. In der Einleitung werden das Thema der Arbeit, die Fragestellung und der Aufbau der Arbeit vorgestellt. Somit kann sich der Leser schon auf eine bestimmte Struktur einstellen und muss sie sich nicht aus dem Text erschließen. Der Hauptteil umfasst dann eine Skizze der Literaturlage bzw. des Forschungsstands sowie, als wichtigsten Teil, die eigentliche Bearbeitung des Themas. Im Schluss wird die Arbeit noch einmal kurz zusammengefasst und die wesentlichen Erkenntnisse werden festgehalten. Der Schluss enthält keine neuen Informationen oder Argumente mehr.
+Jede Hausarbeit umfasst eine Einleitung, einen Hauptteil und einen Schluss. In der Einleitung werden das Thema der Arbeit, die Fragestellung und der Aufbau der Arbeit vorgestellt. Somit können sich die Lesenden schon auf eine bestimmte Struktur einstellen und müssen sie sich nicht aus dem Text erschließen. Der Hauptteil umfasst dann eine Skizze der Literaturlage bzw. des Forschungsstands sowie, als wichtigsten Teil, die eigentliche Bearbeitung des Themas. Im Schluss wird die Arbeit noch einmal kurz zusammengefasst und die wesentlichen Erkenntnisse werden festgehalten. Der Schluss enthält keine neuen Informationen oder Argumente mehr.
 
 Diese Aufteilung entspricht aber in der Regel nicht vollständig der Kapitelgliederung. Während die Einleitung oft noch mit »Einleitung« überschrieben wird, umfasst der Hauptteil meist mehrere Kapitel, und der Schluss wird eher unter der Überschrift »Fazit« oder ähnlichem zu finden sein. Die Kapitel des Hauptteils sollten den Aufbau der Arbeit gut widerspiegeln und entsprechend benannt werden, so dass schon die Kapitelgliederung einen guten Eindruck von den inhaltlichen Schwerpunkten gibt. Unterkapitel können einzelne Kapitel in kleinere Abschnitte aufteilen, allerdings sollte die Gliederung auch nicht zu sehr in die Tiefe gehen. In der Praxis bewährt sich häufig eine Dreiteilung des Hauptteils; dies ist aber lediglich eine Faustregel. Die Kapitel und Unterkapitel sollten dabei nicht unverbunden nebeneinander stehen, sondern durch Überleitungen und Anknüpfungen sinnvoll miteinander verknüpft werden.
 
@@ -170,7 +170,7 @@ Das Fazit bringt keine neuen Informationen, die nicht schon im Hauptteil behande
 
 <div class="Tipp">
 
-Wenn Sie eine sauber gegliederte Einleitung geschrieben haben, können Sie sich nun umgekehrt an den Punkten wieder »zurückhangeln« – vom Spezifischen Ihrer Arbeit zum Allgemeinen einer größeren Debatte. Wichtig ist in jedem Fall, dass Sie auf die Einleitung Bezug nehmen – so machen Sie Ihre Arbeit »rund« und dem Leser deutlich, dass Sie eine sinnvoll aufgebaute und stringent vorgehende wissenschaftliche Arbeit abgeliefert haben.
+Wenn Sie eine sauber gegliederte Einleitung geschrieben haben, können Sie sich nun umgekehrt an den Punkten wieder »zurückhangeln« – vom Spezifischen Ihrer Arbeit zum Allgemeinen einer größeren Debatte. Wichtig ist in jedem Fall, dass Sie auf die Einleitung Bezug nehmen – so machen Sie Ihre Arbeit »rund« und den Lesenden deutlich, dass Sie eine sinnvoll aufgebaute und stringent vorgehende wissenschaftliche Arbeit abgeliefert haben.
 
 </div>
 
@@ -206,7 +206,7 @@ Zur Formatierung einer Hausarbeit mit gängigen Textverarbeitungsprogrammen sieh
 
 ### Sprache
 
-Auch ein guter sprachlicher Ausdruck gehört zu einer gelungenen Hausarbeit. Entgegen verbreiteter Annahmen ist Sprache nicht gleich wissenschaftlich, wenn sie viele Fremdwörter und verschachtelte Sätze verwendet. Der Einsatz von Fachbegriffen sollte einen Text präziser und – für Kenner der Fachsprache, also auch für die Korrektoren – verständlicher machen, nicht unverständlicher. Achten Sie vor allem darauf, dass Sie selbst verstehen, was Sie schreiben.
+Auch ein guter sprachlicher Ausdruck gehört zu einer gelungenen Hausarbeit. Entgegen verbreiteter Annahmen ist Sprache nicht gleich wissenschaftlich, wenn sie viele Fremdwörter und verschachtelte Sätze verwendet. Der Einsatz von Fachbegriffen sollte einen Text präziser und – für Kenner der Fachsprache, also auch für die Korrigierenden – verständlicher machen, nicht unverständlicher. Achten Sie vor allem darauf, dass Sie selbst verstehen, was Sie schreiben.
 
 Formulieren Sie genau: Das Wort »man« sollte vermieden werden; präzisieren Sie, auf wen Sie sich beziehen, z.B. mit der Formulierung: »Die Verfasserin ist der Ansicht, dass …« Ebenso sollten Sie die Ich-Form vermeiden, wenn Sie Sachverhalte darstellen oder Theorien referieren. Die Ich-Form ist eigenen Argumenten oder Stellungnahmen vorbehalten.
 
@@ -278,7 +278,7 @@ Die Beurteilung dieser Kriterien ist am besten anhand von Binärpaaren zu verdeu
 
 <div class="Hinweis">
 
-Eine frühzeitige Absprache mit dem Dozenten über eine mögliche Hausarbeit ist unbedingt erforderlich. Hierbei sollten das *Thema* abgesegnet werden, eine *Abgabefrist* ausgemacht werden und ggf. die *Formalia* abgesprochen werden. Je nach Dozent werden dann auch Literaturhinweise gegeben, die einen Einstieg ermöglichen.
+Eine frühzeitige Absprache mit den Dozierenden über eine mögliche Hausarbeit ist unbedingt erforderlich. Hierbei sollten das *Thema* abgesegnet werden, eine *Abgabefrist* ausgemacht werden und ggf. die *Formalia* abgesprochen werden. Je nach Dozierenden werden dann auch Literaturhinweise gegeben, die einen Einstieg ermöglichen.
 
 </div>
 
@@ -286,7 +286,7 @@ Eine frühzeitige Absprache mit dem Dozenten über eine mögliche Hausarbeit ist
 
 1.  Habe ich ein gut eingegrenztes Thema mit einer konkreten Fragestellung?
 2.  Ist der Aufbau meiner Hausarbeit logisch, nachvollziehbar und ist sie der Fragestellung angemessen?
-3.  Habe ich mein Thema mit dem Dozenten abgesprochen?
+3.  Habe ich mein Thema mit den Dozierenden abgesprochen?
 4.  Handelt es sich bei den Funden meiner Literaturrecherche um wissenschaftliche Literatur?
 5.  Habe ich alle für die Fragestellung und das Thema relevante Literatur gefunden?
 6.  Habe ich die vorgegebenen Formalia berücksichtigt?
