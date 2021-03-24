@@ -9,15 +9,15 @@ contents: true
 
 ## Literaturrecherche {#sec:literaturrecherche}
 
-Die Literaturrecherche für eine Hausarbeit, ein Referat oder eine andere Arbeit ist ein Teil der zu erbringenden Leistung. Deswegen soll die Recherche selbstständig durchgeführt werden. Das Auffinden, Sichten und Bewerten der verfügbaren Literatur ist eine wichtige Kompetenz im Studium. Nachdem Sie eine erste Recherche durchgeführt haben, können (und sollten) Sie ihre Funde aber mit dem Dozenten besprechen. So vermeiden Sie auch, zu viele Texte zu lesen, die Sie am Ende nicht verwenden können.
+Die Literaturrecherche für eine Hausarbeit, ein Referat oder eine andere Arbeit ist ein Teil der zu erbringenden Leistung. Deswegen soll die Recherche selbstständig durchgeführt werden. Das Auffinden, Sichten und Bewerten der verfügbaren Literatur ist eine wichtige Kompetenz im Studium. Nachdem Sie eine erste Recherche durchgeführt haben, können (und sollten) Sie ihre Funde aber mit dem:der Dozierenden besprechen. So vermeiden Sie auch, zu viele Texte zu lesen, die Sie am Ende nicht verwenden können.
 
 Bei der Literaturrecherche gilt es, zwei häufige Probleme zu vermeiden: Zum Einen passiert es leicht, dass man zu viel Literatur findet. Zum Anderen besteht aber auch die Gefahr, wichtige Texte nicht zu finden, die vielleicht nicht an den offensichtlichen Stellen sofort ins Auge fallen. Deswegen ist es wichtig, die Recherche von verschiedenen Stellen aus zu starten, um am Ende nicht unbedingt sehr viel, aber dafür treffende Literatur zu finden. Es gibt nicht den *einen* Katalog, in dem man auf die relevante Literatur stößt. Daher ist es wichtig, die verschiedenen Recherchemöglichkeiten zu kennen.
 
 Bei der Literaturrecherche sind zwei Strategien denkbar, die auch miteinander kombiniert werden können:
 
-Bei der *top-down-*Recherche fängt man bei allgemeinen Überblickswerken an: etwa bei den Fachbibliographien (oft findet man entsprechende Literaturlisten auf den Webseiten der einzelnen Institute) oder bei Lexika. Dort erhält man einen Überblick über die für die jeweiligen Fächer relevante Grundlagenliteratur, so dass man weniger Gefahr läuft, wichtiges übersehen zu haben. Auf der anderen Seite benötigt man für speziellere Literatur über ein Thema andere Quellen.
+Bei der *top-down-* Recherche fängt man bei allgemeinen Überblickswerken an: etwa bei den Fachbibliographien (oft findet man entsprechende Literaturlisten auf den Webseiten der einzelnen Institute) oder bei Lexika. Dort erhält man einen Überblick über die für die jeweiligen Fächer relevante Grundlagenliteratur, so dass man weniger Gefahr läuft, wichtiges übersehen zu haben. Auf der anderen Seite benötigt man für speziellere Literatur über ein Thema andere Quellen.
 
-Die *bottom-up-*Strategie setzt bei den bereits (aus Lehrveranstaltungen oder durch vorherige Recherchen) bekannten Texten an. Die Literaturverzeichnisse von Monografien, Aufsätzen und Artikeln dienen dann als Ausgangspunkt für weitere Recherchen. Damit ist es möglich, sich auch über ein spezielleres Thema einen breiten Überblick zu verschaffen. Man macht sich die Expertise der Autorin oder des Autors zu Nutze, um relevante von weniger relevanter Literatur zu unterscheiden. Gerade Qualifikationsarbeiten wie Dissertationen bieten meist einen guten Überblick über den Forschungsstand zu einem Thema. Darüber hinaus findet man so wichtige Literatur, die bei einer freien Recherche im Bibliothekskatalog vielleicht nicht gefunden worden wäre.
+Die *bottom-up-* Strategie setzt bei den bereits (aus Lehrveranstaltungen oder durch vorherige Recherchen) bekannten Texten an. Die Literaturverzeichnisse von Monografien, Aufsätzen und Artikeln dienen dann als Ausgangspunkt für weitere Recherchen. Damit ist es möglich, sich auch über ein spezielleres Thema einen breiten Überblick zu verschaffen. Man macht sich die Expertise der Autor:innen, um relevante von weniger relevanter Literatur zu unterscheiden. Gerade Qualifikationsarbeiten wie Dissertationen bieten meist einen guten Überblick über den Forschungsstand zu einem Thema. Darüber hinaus findet man so wichtige Literatur, die bei einer freien Recherche im Bibliothekskatalog vielleicht nicht gefunden worden wäre.
 
 ### Lexika
 
@@ -29,7 +29,7 @@ Beachten Sie aber, dass sich eine Arbeit nie allein auf Lexikonartikel stützen 
 
 -   *Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie und Religionswissenschaft,* 8 Bände, vierte Aufl. hrsg. von Hans Dieter Betz u.a., Tübingen 2000–2005.
 
--   *The Encyclopedia of Religion,* 16 Bände, hrsg. von Mircea Eliade, New York/“”London 1987.
+-   *The Encyclopedia of Religion,* 16 Bände, hrsg. von Mircea Eliade, New York/London 1987.
 
 -   *The Encyclopaedia of Islam,* 12 Bände, zweite Auflage hrsg. von P.J. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel and W.P. Heinrichs, Leiden 1960–2004.
 
@@ -37,7 +37,7 @@ Beachten Sie aber, dass sich eine Arbeit nie allein auf Lexikonartikel stützen 
 
 -   *Metzler Lexikon Religion: Gegenwart – Alltag – Medien,* 3 Bände, hrsg. von Christoph Auffarth, Stuttgart u.a. 1999–2000.
 
--   *Theologische Realenzyklopädie,* in Gemeinschaft mit Horst Robert Balz et al. hrsg. von Gerhard Krause und Gerhard Müller, 36 Bände, Berlin/“”New York 1977–“”2004.
+-   *Theologische Realenzyklopädie,* in Gemeinschaft mit Horst Robert Balz et al. hrsg. von Gerhard Krause und Gerhard Müller, 36 Bände, Berlin/New York 1977–2004.
 
 -   *Der neue Pauly. Enzyklopädie der Antike,* 15 Bände, hrsg. von Hubert Cancik, Helmuth Schneider und Manfred Landfester, Stuttgart 1966 ff.
 
@@ -49,23 +49,19 @@ Für die Suche insbesondere nach Monografien sind die Bibliothekskataloge eine g
 
 Nicht alle Bücher sind jedoch in der Universitätsbibliothek verfügbar. Daher ist es auch lohnenswert, die Kataloge der Bibliotheksverbände zu durchsuchen und Bücher ggf. per Fernleihe zu bestellen. Die Hochschulbibliotheken in Nordrhein-Westfalen haben sich zum HBZ (<http://www.hbz-nrw.de/>) zusammengeschlossen. Eine gleichzeitige Suche in verschiedenen Bibliotheksverbünden bietet der KVK unter <http://www.ubka.uni-karlsruhe.de/kvk.html>.
 
-<div class="Hinweis">
-
-Bibliothekskataloge sind in der Regel nicht dazu geeignet, Aufsätze in Sammelbänden oder Zeitschriften zu finden. Daher sollte sich eine Literaturrecherche nicht allein auf den Bibliothekskatalog beschränken.
-
-</div>
+Im so genannten "KatalogPLUS" der Universitätsbibliothek können Sie neben dem Bestand der Bibliotheken der RUB auch Literaturnachweise aus ausgewählten Datenbanken finden. Hierüber kann eine Suche nach Aufsätzen aus Zeitschriften und Sammelbänden und nach Werken, die nicht an der RUB vorhanden sind, stattfinden.
 
 **Tipps zur Recherche**
 
 -   In Bibliothekskatalogen suchen Sie Literatur in der Regel über Stichwörter. Denken Sie dann daran, auch Synonyme für Ihr Thema zu finden und auch englischsprachige Stichwörter auszuprobieren. Ihr Thema kann sehr spezifisch sein; überlegen Sie, unter welchen Stichwörtern man Veröffentlichungen finden könnte, die dieses Thema aufgreifen (wenn Sie bspw. Literatur zur Definition von Religionsgemeinschaften suchen, finden Sie nicht unbedingt ein gleichnamiges Buch – in einer »Einführung in die Religionssoziologie« dagegen werden Sie sicher fündig).
 
--   Auch Bibliothekskataloge selbst arbeiten mit Verschlagwortungen. Diese finden sich bei den Angaben zu einem Buch. Vielleicht passt eine davon gut zu Ihrem Thema? Dann können Sie mit einem einfachen Klick feststellen, welche Bücher die Bibliotheksmitarbeiter mit diesem Schlagwort markiert haben. Das hat den Vorteil, dass Sie sich nicht nur darauf verlassen müssen, dass Ihr Suchwort im Titel eines Buches vorkommt – in den Verschlagwortungen können auch allgemeine Themengebiete oder Inhalte aufgegriffen sein.
+-   Auch Bibliothekskataloge selbst arbeiten mit Verschlagwortungen. Diese finden sich bei den Angaben zu einem Buch. Vielleicht passt eine davon gut zu Ihrem Thema? Dann können Sie mit einem einfachen Klick feststellen, welche Bücher die Bibliotheksmitarbeitenden mit diesem Schlagwort markiert haben. Das hat den Vorteil, dass Sie sich nicht nur darauf verlassen müssen, dass Ihr Suchwort im Titel eines Buches vorkommt – in den Verschlagwortungen können auch allgemeine Themengebiete oder Inhalte aufgegriffen sein.
 
 -   Haben Sie eine aktuelle Dissertation oder Habilitationsschrift zum Thema gefunden? Glückstreffer! Denn diese Qualifikationsarbeiten enthalten in der Regel selbst einen ausführlichen Forschungsstand zu ihrem Thema, der alle relevanten Veröffentlichungen aufgreifen sollte.
 
 -   Wenn Sie ein einschlägiges Buch gefunden haben, sollten Sie im Regal auch einmal rechts und links davon schauen. In aller Regel stehen thematisch verwandte Bücher zusammen, so dass Sie hier Treffer erzielen können, auf die Sie durch den Katalog evtl. nicht gekommen wären.
 
--   Nehmen Sie zu Beginn Ihres Studiums auf jeden Fall an einer Einführung in die Universitätsbibliothek und die Bibliothekskataloge teil. Diese Führungen werden in aller Regel kostenfrei und regelmäßig von Bibliotheksmitarbeitern angeboten.
+-   Nehmen Sie zu Beginn Ihres Studiums auf jeden Fall an einer Einführung in die Universitätsbibliothek und die Bibliothekskataloge teil. Diese Führungen werden in aller Regel kostenfrei und regelmäßig von Bibliotheksmitarbeitenden angeboten.
 
 ### Literaturdatenbanken
 
@@ -87,7 +83,7 @@ Eine ganze Reihe von Internet-Quellen ist jedoch nicht für den wissenschaftlich
 
 ### Umfassende Suche: DigiBib
 
-Mit der DigiBib des HBZ (<http://www.digibib.net/>) steht eine Suchmöglichkeit bereit, die gleichzeitig verschiedene der genannten Quellen durchsuchen kann. Durchsucht werden etwa Bibliothekskataloge, Aufsatzdatenbanken und elektronische Volltexte. Eine Suche in der DigiBib deckt damit schon einige der oben genannten Recherchemöglichkeitn unter einer einheitlichen Suchoberfläche ab. Damit ist die DigiBib ein guter Ausgangspunkt für eine umfassende Literaturrecherche. Weitere Quellen sollten dennoch berücksichtigt werden.
+Mit der DigiBib des HBZ (<http://www.digibib.net/>) steht eine Suchmöglichkeit bereit, die gleichzeitig verschiedene der genannten Quellen durchsuchen kann. Durchsucht werden etwa Bibliothekskataloge, Aufsatzdatenbanken und elektronische Volltexte. Eine Suche in der DigiBib deckt damit schon einige der oben genannten Recherchemöglichkeitenn unter einer einheitlichen Suchoberfläche ab. Damit ist die DigiBib ein guter Ausgangspunkt für eine umfassende Literaturrecherche. Weitere Quellen sollten dennoch berücksichtigt werden.
 
 <div class="Tipp">
 
@@ -105,13 +101,13 @@ Eine wichtige Fähigkeit, die Sie im Laufe Ihres Studiums erlernen müssen, ist 
 
 -   Grundsätzlich gilt: Nicht alles, was sich in universitären Bibliotheken findet, ist wissenschaftlich hochwertig. Hier finden sich ebenso populärwissenschaftliche Veröffentlichungen als auch normativ geprägte Publikationen einer bestimmten Herausgeberschaft. Hinterfragen Sie immer auch kritisch Prämissen, Vorgehen und Argumentationen eines Werkes.
 
--   Wer ist der Autor des ausgewählten Werkes? Aus welcher Fachrichtung oder Schule stammt er? Was hat er noch publiziert bzw. wo liegen seine Arbeitsschwerpunkte?
+-   Wer ist der:die Autor:in des ausgewählten Werkes? Aus welcher Fachrichtung oder Schule stammt er:sie? Was hat er:sie noch publiziert bzw. wo liegen seine:ihre Arbeitsschwerpunkte?
 
 -   Von wann ist die Veröffentlichung? Ist sie hinreichend aktuell für das Thema? Stammt sie unter Umständen aus einer Zeit, die sich in der wissenschaftlichen Debatte niedergeschlagen haben könnte (z. B. Kolonialismus, Nationalsozialismus)?
 
--   In welcher Reihe oder in welchem Verlag ist die Publikation erschienen bzw. in welcher Zeitschrift der Aufsatz? Wofür steht diese Reihe/​dieser Verlag/​diese Zeitschrift? Wer ist ggf. der Herausgeber?
+-   In welcher Reihe oder in welchem Verlag ist die Publikation erschienen bzw. in welcher Zeitschrift der Aufsatz? Wofür steht diese Reihe/​dieser Verlag/​diese Zeitschrift? Wer sind ggf. die Herausgebenden?
 
--   Wie ausführlich, aktuell und wissenschaftlich ist das Literaturverzeichnis? Auf welche Fachrichtungen bezieht sich der Autor?
+-   Wie ausführlich, aktuell und wissenschaftlich ist das Literaturverzeichnis? Auf welche Fachrichtungen bezieht sich der:die Autor:in?
 
 ### Lesetechniken {#sec:lesetechniken}
 
@@ -143,7 +139,7 @@ Die wichtigste Lesemethode ist das analytische Lesen. Dabei sollen alle zentrale
 
 Beim Lesen des Textes ist es sinnvoll, mit Anstreichungen und Randnotizen zu arbeiten. So wird gleich beim Lesen Wichtiges von Unwichtigem unterschieden und der Inhalt kann leichter angeeignet werden. Außerdem erleichtert es das erneute Lesen des Textes zu einem späteren Zeitpunkt. Drei Formen der Anmerkung lassen sich unterscheiden:
 
--   **Markierung:** Entweder Anstreichung mit einem Textmarker oder Unterstreichung mit Blei- bzw. Buntstift. Es können auch verschiedene Farben für unterschiedliche Bedeutungen verwendet werden, z. B. Rot=Wichtig, Schwarz=“”Begriffe und Definitionen, etc.
+-   **Markierung:** Entweder Anstreichung mit einem Textmarker oder Unterstreichung mit Blei- bzw. Buntstift. Es können auch verschiedene Farben für unterschiedliche Bedeutungen verwendet werden, z. B. Rot=Wichtig, Schwarz=Begriffe und Definitionen, etc.
 
 -   **Nichtsprachliche Anmerkungen:** Mit kleinen Symbolen können Textstellen charakterisiert werden. Dies kann direkt im Text oder am Rand geschehen. Beispiele können sein:
 
@@ -165,11 +161,11 @@ Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinne
 
 -   **Selektives Lesen:** Beim selektiven Lesen werden nur Teile des Textes gelesen. Die Auswahl der zu lesenden Abschnitte erfolgt so, dass möglichst die zentralen Informationen erfasst werden können. Je nach Bedarf können dann weitere Textteile hinzugezogen werden. Dabei kann man sich in etwa an folgendem Ablauf orientieren:
 
-    1.  Zuerst wird, falls vorhanden, ins Inhaltsverzeichnis geguckt. Gibt es kein Inhaltsverzeichnis (etwa bei Artikeln), können die Zwischenüberschriften zu Rate gezogen werden. So kann ersehen werden, wie der Autor das Thema geordnet hat und welche Abschnitte des Textes relevant für die eigene Arbeit sind.
+    1.  Zuerst wird, falls vorhanden, ins Inhaltsverzeichnis geguckt. Gibt es kein Inhaltsverzeichnis (etwa bei Artikeln), können die Zwischenüberschriften zu Rate gezogen werden. So kann ersehen werden, wie der:die Autor:in das Thema geordnet hat und welche Abschnitte des Textes relevant für die eigene Arbeit sind.
 
     2.  Anschließend wird die Einleitung bzw. der erste Abschnitt gelesen, um einen Überblick über die Fragestellung zu erhalten.
 
-    3.  Der Hauptteil des Textes wird übersprungen und statt dessen direkt der Schluss gelesen. Dieser kann direkt auf die Fragestellung der Einleitung bezogen werden, um zu sehen, zu welchen Ergebnissen der Autor/​die Autorin gelangt.
+    3.  Der Hauptteil des Textes wird übersprungen und statt dessen direkt der Schluss gelesen. Dieser kann direkt auf die Fragestellung der Einleitung bezogen werden, um zu sehen, zu welchen Ergebnissen der:die Autor:in gelangt.
 
     4.  Je nach eigener Fragestellung und Interesse können nun weitere Abschnitte aus dem Hauptteil gelesen werden, um die Argumentation im Detail nachzuvollziehen.
 
@@ -197,11 +193,11 @@ Für das Exzerpt kann man sich etwa an folgenden Fragen orientieren:
 
 1.  Was ist das Thema des Textes?
 
-2.  Welcher Fragestellung geht der Autor nach?
+2.  Welcher Fragestellung geht der:die Autor:in nach?
 
-3.  Was ist die These des Autors in Bezug auf die Fragestellung?
+3.  Was ist die These in Bezug auf die Fragestellung?
 
-4.  Was ist die Argumentationsstruktur des Autors?
+4.  Was ist die Argumentationsstruktur?
 
 <div class="Hinweis">
 
