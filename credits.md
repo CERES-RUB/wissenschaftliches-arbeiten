@@ -16,7 +16,7 @@ Universitätsstr. 90a
 
 <mailto:frederik.elwert@rub.de>
 
-Letzte Aktualisierung: September 2016
+Letzte Aktualisierung: März 2021
 
 Martin Radermacher
 Centrum für Religionswissenschaftliche Studien  
