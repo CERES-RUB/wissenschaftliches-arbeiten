@@ -9,5 +9,5 @@ Dieser Leitfaden bietet Studierenden der Religionswissenschaft einen Überblick 
 
 Neben der [Online-Version](contents) gibt es auch eine [PDF-Version](downloads/Leitfaden_wissenschaftliches_Arbeiten.pdf) und ein [E-Book](downloads/Leitfaden_wissenschaftliches_Arbeiten.epub).
 
-Eine englische Version kann [hier] (    ) gefunden werden.
-_An English version can be found [here]
+Eine englische Version kann [hier](https://linar7.github.io/academic-skills/) gefunden werden.
+_An English version can be found [here](https://linar7.github.io/academic-skills/)._
