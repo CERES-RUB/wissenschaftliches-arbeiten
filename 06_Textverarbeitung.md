@@ -21,13 +21,13 @@ Die Produktionsform der Wissenschaft ist das Verfassen von Texten. Daher ist ein
 
 ## Office-Anwendungen {#sec:office}
 
-Am verbreitesten sind Office-Textverarbeitungen, allen voran Microsoft Word. Diesem für die meisten Anwendungsfälle wissenschaftlichen Arbeitens ebenbürtig (oder sogar überlegen) ist das Programm Writer aus dem LibreOffice-Paket. Für Studenten ist letzteres auch aufgrund der Tatsache attraktiv, dass es kostenlos im Internet heruntergeladen werden kann.
+Am verbreitesten sind Office-Textverarbeitungen, allen voran Microsoft Word. Diesem für die meisten Anwendungsfälle wissenschaftlichen Arbeitens ebenbürtig (oder sogar überlegen) ist das Programm Writer aus dem LibreOffice-Paket. Für Studierende ist letzteres auch aufgrund der Tatsache attraktiv, dass es kostenlos im Internet heruntergeladen werden kann.
 
 Office-Textverarbeitungen bieten eine komfortable Möglichkeit, Texte direkt so einzugeben wie sie (voraussichtlich) später im Druck aussehen werden. Dies verleitet jedoch dazu, sich gleich stark auf das äußere Erscheinungsbild zu konzentrieren. Später kann dies Korrekturen und Änderungen der Formatierung erschweren. Daher sind einige Details für die Verwendung dieser Programme zu beachten.
 
 <div class="Technik">
 
-Textverarbeitungen speichern Dokumente standardmäßig in jeweils eigenen Formaten, die nicht überall wieder geöffnet werden können. Wenn Sie Studienleistungen an Dozierende oder Kommilitoninnen und Kommilitonen verschicken, beachten Sie die Hinweise im Abschnitt [Dateiformate](06_Textverarbeitung.html#sec:dateiformate).
+Textverarbeitungen speichern Dokumente standardmäßig in jeweils eigenen Formaten, die nicht überall wieder geöffnet werden können. Wenn Sie Studienleistungen an Dozierende oder Kommiliton:innen verschicken, beachten Sie die Hinweise im Abschnitt [Dateiformate](06_Textverarbeitung.html#sec:dateiformate).
 
 </div>
 
@@ -81,24 +81,20 @@ Der Einstieg in LaTeX kann etwas verwirrend sein, da LaTeX aus verschiedenen, un
 
 Die Distribution »TeXLive« umfasst alle benötigten Komponenten und kann unter <http://www.tug.org/texlive/> heruntergeladen werden. TeXLive steht für Windows, MacOSX, Linux und andere Systeme zur Verfügung.
 
-Bei Interesse an diesem Programm bietet die LaTeX-Kurzeinführung einen guten Einstieg in die LaTeX-Befehle: <http://ctan.sharelatex.com/tex-archive/info/lshort/german/l2kurz.pdf>.
-
 ## Dateiformate {#sec:dateiformate}
 
 So lange die Dokumente nur auf dem eigenen Rechner verwendet und nur in ausgedruckter Form weitergegeben werden, ist es relativ unerheblich, in welchem Format die Dateien gespeichert werden. Jede Anwendung hat hier ein voreingestelltes Format, das für die eigenen Zwecke problemlos verwendet werden kann.
 
-Wenn man aber Dokumente auf elektronischem Wege weitergibt, weil man z. B. seine Hausarbeit per E-Mail an die Dozentin oder den Dozenten schickt, muss man auf das verwendete Dateiformat achten. Es kann nicht vorausgesetzt werden, dass der Dozent das gleiche Programm verwendet wie man selbst, und nicht alle Anwendungen können alle Formate lesen. Um unnötige Probleme zu vermeiden, sollte man sich daher an folgenden Richtlinien orientieren:
+Wenn man aber Dokumente auf elektronischem Wege weitergibt, weil man z. B. seine Hausarbeit per E-Mail an Dozierende schickt, muss man auf das verwendete Dateiformat achten. Es kann nicht vorausgesetzt werden, dass der:die Dozierende das gleiche Programm verwendet wie man selbst, und nicht alle Anwendungen können alle Formate lesen. Um unnötige Probleme zu vermeiden, sollte man sich daher an folgenden Richtlinien orientieren:
 
--   Wenn ein Text vom Empfänger nicht bearbeitet werden muss (was in der Regel der Fall ist, wenn man Arbeiten an Dozenten schickt), empfiehlt sich das **PDF**-Format. PDF-Dateien können praktisch auf jedem Computer angezeigt werden und sehen überall gleich aus. Vergleichbar mit »elektronischem Papier« können PDF-Dateien aber nicht ohne weiteres bearbeitet werden. Damit die Dozentin oder der Dozent Anmerkungen im Dokument vornehmen können, kann es sinnvoll sein, zusätzlich eine bearbeitbare Version mitzuschicken (s. u.).
+-   Wenn ein Text von Empfangenden nicht bearbeitet werden muss (was in der Regel der Fall ist, wenn man Arbeiten an Dozierende schickt), empfiehlt sich das **PDF**-Format. PDF-Dateien können praktisch auf jedem Computer angezeigt werden und sehen überall gleich aus. Vergleichbar mit »elektronischem Papier« können PDF-Dateien aber nicht ohne weiteres bearbeitet werden. Damit Dierende Anmerkungen im Dokument vornehmen können, kann es sinnvoll sein, zusätzlich eine bearbeitbare Version mitzuschicken (s. u.).
 
 -   LibreOffice bietet standardmäßig die Möglichkeit, Dokumente im PDF-Format zu exportieren. LaTeX gibt ebenfalls PDF-Dateien aus. Für Microsoft Word gibt es z. B. PDF-Drucker, die einen Ausdruck als PDF-Datei speichern, anstatt ihn über einen echten Drucker auf Papier auszugeben.
 
--   Soll ein Dokument vom Empfänger weiterbearbeitet werden, empfiehlt sich ein Textverarbeitungsformat. Dabei können aber einige Probleme auftreten:
+-   Soll ein Dokument von Empfangenden weiterbearbeitet werden, empfiehlt sich ein Textverarbeitungsformat. Dabei können aber einige Probleme auftreten:
 
-    -   Aufgrund verschiedener Einstellungen können sich andere Seitenumbrüche ergeben als vom Verfasser beabsichtigt.
+    -   Aufgrund verschiedener Einstellungen können sich andere Seitenumbrüche ergeben als beabsichtigt.
 
-    -   Die verwendeten Schriftarten müssen auf dem Computer des Empfängers vorhanden sein, um die gleiche Darstellung zu erhalten. Das ist insbesondere bei fremdsprachlichen Zeichen (Hebräisch, Arabisch etc.) nicht immer gegeben. Aber auch die neuen Standard-Schriftarten von Microsoft Office 2007 (die »C-Familien«) können nicht vorausgesetzt werden.
+    -   Die verwendeten Schriftarten müssen auf dem Computer der Empfangenden vorhanden sein, um die gleiche Darstellung zu erhalten. Das ist insbesondere bei fremdsprachlichen Zeichen (Hebräisch, Arabisch etc.) nicht immer gegeben. 
 
-    -   Als Dateiformat empfiehlt sich derzeit das **»doc«**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z. B. LibreOffice, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von LibreOffice als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzugt.
-
--   Ungeeignet für den Austausch sind die meisten anderen Formate, so z.B. **docx** von Microsoft Word 2007/2010 oder **wps** von Microsoft Works. Sie können nur von wenigen Textverarbeitungen gelesen werden.
+    -   Als Dateiformat empfiehlt sich derzeit das **»doc/x«**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z. B. LibreOffice, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von LibreOffice als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzugt.
