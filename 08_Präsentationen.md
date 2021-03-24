@@ -21,11 +21,11 @@ In allen Fällen ist insbesondere darauf zu achten, dass die technischen Möglic
 
 -   Unterstützung des Vortrags mit weiteren Medien (z. B. Bilder, Videos oder Tondokumente).
 
-Viele Präsentationsprogramme bieten eine Fülle an Möglichkeiten, Folien und Elemente auf Folien zu gestalten. Vor allem Einblendungen von Textteilen und Überblendungen zwischen Folien können auf vielfältige Art und Weise animiert werden. Während diese Möglichkeiten auf den ersten Blick faszinieren, ist ihr Nutzen bei genauerem Hinsehen begrenzt. Eine Präsentation gewinnt durch diese Effekte dann, wenn die Aufmerksamkeit der Zuhörer gezielt gelenkt wird. Sie verliert, wenn die Aufmerksamkeit von den Inhalten des Vortrags abgezogen wird. Auf zu viele visuelle Spielereien sollte daher verzichtet werden.
+Viele Präsentationsprogramme bieten eine Fülle an Möglichkeiten, Folien und Elemente auf Folien zu gestalten. Vor allem Einblendungen von Textteilen und Überblendungen zwischen Folien können auf vielfältige Art und Weise animiert werden. Während diese Möglichkeiten auf den ersten Blick faszinieren, ist ihr Nutzen bei genauerem Hinsehen begrenzt. Eine Präsentation gewinnt durch diese Effekte dann, wenn die Aufmerksamkeit der Zuhörenden gezielt gelenkt wird. Sie verliert, wenn die Aufmerksamkeit von den Inhalten des Vortrags abgezogen wird. Auf zu viele visuelle Spielereien sollte daher verzichtet werden.
 
 Als Effekte haben ggf. Sinn:
 
--   Einblendungen von Aufzählungen, um Stichpunkte erst dann anzuzeigen, wenn sie im Vortrag erwähnt werden. Damit wird verhindert, dass die Leser schon die Inhalte vorweglesen, die im Vortrag noch nicht angesprochen wurden.
+-   Einblendungen von Aufzählungen, um Stichpunkte erst dann anzuzeigen, wenn sie im Vortrag erwähnt werden. Damit wird verhindert, dass die Lesenden schon die Inhalte vorweglesen, die im Vortrag noch nicht angesprochen wurden.
 
 -   Stückweises Einblenden von Schaubildern.
 
