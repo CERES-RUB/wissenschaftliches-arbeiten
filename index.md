@@ -9,3 +9,5 @@ Dieser Leitfaden bietet Studierenden der Religionswissenschaft einen Überblick 
 
 Neben der [Online-Version](contents) gibt es auch eine [PDF-Version](downloads/Leitfaden_wissenschaftliches_Arbeiten.pdf) und ein [E-Book](downloads/Leitfaden_wissenschaftliches_Arbeiten.epub).
 
+Eine englische Version kann [hier] (    ) gefunden werden.
+_An English version can be found [here]
