@@ -7,7 +7,7 @@ contents: true
 
 # Zitieren von Literatur {#sec:zitieren}
 
-Der wissenschaftliche Prozess basiert – gerade in den Geisteswissenschaften – darauf, dass man sich auf die Arbeiten anderer bezieht, d. h. diese zitiert, wenn man sich auf deren geistiges Eigentum stützt. Für Studienanfänger ist es nicht immer ganz einfach einzuschätzen, was zitiert werden muss und was nicht. Als grobe Richtschnur lassen sich die folgenden Punkte festhalten:
+Der wissenschaftliche Prozess basiert – gerade in den Geisteswissenschaften – darauf, dass man sich auf die Arbeiten anderer bezieht, d. h. diese zitiert, wenn man sich auf deren geistiges Eigentum stützt. Für Studienanfänger:innen ist es nicht immer ganz einfach einzuschätzen, was zitiert werden muss und was nicht. Als grobe Richtschnur lassen sich die folgenden Punkte festhalten:
 
 Zitiert werden müssen:
 
@@ -19,7 +19,7 @@ Zitiert werden müssen:
 
 <div class="Hinweis">
 
-Wenn Sie wirklich über eine längere Strecke nur die Argumentation eines Autor oder einer Autorin zitieren (etwa, weil Sie seine/​ihre Theorie grundlegenderweise für Ihre Arbeit erläutern müssen), machen Sie dies am Anfang des Abschnitts deutlich. Verbleiben Sie bei allen weiteren indirekten Zitaten im gleichen Abschnitt im Konjunktiv, sofern es sich nicht um reine Faktenaussagen handelt. Ihre eigene Stellungnahme zu den wiedergegebenen Inhalten bzw. die Zuspitzung und Anwendung auf Ihre spezifische Fragestellung ist aber so wichtig, dass Sie im Verlauf des Kapitels ohnehin die Ebene der Zitate verlassen sollten.
+Wenn Sie wirklich über eine längere Strecke nur die Argumentation von Autor:innen zitieren (etwa, weil Sie deren Theorie grundlegenderweise für Ihre Arbeit erläutern müssen), machen Sie dies am Anfang des Abschnitts deutlich. Verbleiben Sie bei allen weiteren indirekten Zitaten im gleichen Abschnitt im Konjunktiv, sofern es sich nicht um reine Faktenaussagen handelt. Ihre eigene Stellungnahme zu den wiedergegebenen Inhalten bzw. die Zuspitzung und Anwendung auf Ihre spezifische Fragestellung ist aber so wichtig, dass Sie im Verlauf des Kapitels ohnehin die Ebene der Zitate verlassen sollten.
 
 </div>
 
@@ -33,7 +33,7 @@ Nicht zitiert werden müssen:
 
 ## Zitate im Text
 
-Für die Übernahme von Ausschnitten aus den Werken anderer Autoren gibt es prinzipiell zwei Möglichkeiten: Direkte und indirekte Zitate. In der Regel bieten sich für die Verwendung in Hausarbeiten eher indirekte Zitate an, da hier die Gelegenheit besteht, Aussagen sinnerfassend zu paraphrasieren und zugespitzt wiederzugeben. Nichtsdestotrotz gibt es aber auch Zwecke, für die sich direkte Zitate anbieten, etwa für die Einführung eines speziellen Terminus, bei der Übernahme eines besonders treffenden und pointiert formulierten Zitates oder wenn ein wörtlicher Auszug aus einer Primärquelle eine Beobachtung oder ein Argument illustrieren soll.
+Für die Übernahme von Ausschnitten aus den Werken anderer Autor:innen gibt es prinzipiell zwei Möglichkeiten: Direkte und indirekte Zitate. In der Regel bieten sich für die Verwendung in Hausarbeiten eher indirekte Zitate an, da hier die Gelegenheit besteht, Aussagen sinnerfassend zu paraphrasieren und zugespitzt wiederzugeben. Nichtsdestotrotz gibt es aber auch Zwecke, für die sich direkte Zitate anbieten, etwa für die Einführung eines speziellen Terminus, bei der Übernahme eines besonders treffenden und pointiert formulierten Zitates oder wenn ein wörtlicher Auszug aus einer Primärquelle eine Beobachtung oder ein Argument illustrieren soll.
 
 Dabei verfährt man unterschiedlich, was die formale Einbettung angeht: Direkte (d. h. wörtliche) Zitate werden mit Anführungszeichen ein- und ausgeleitet. Werden im Original innerhalb des Zitates Anführungszeichen verwendet, werden diese durch einfache Anführungszeichen ersetzt.
 
@@ -54,7 +54,7 @@ Dieses Zitat kann nun auf verschiedene Weisen im Text wiedergegeben werden:
 -   Abgesetzes Blockzitat (bei Zitaten länger als ca. drei Zeilen, sparsam einsetzen):  
     Boyarin zufolge kann die Kategorie »Religion« aus jüdischer Sicht nicht auf das Judentum angewandt werden, wie er ausführt:
 
-    > »In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether. From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion*, one a bad example and the other one a very good one, indeed the only prototype; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not.«
+    > »In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether. From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion*, one a bad example and the other one a very good one, indeed the only prototype; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not.« (Boyarin 2005, 354 f.)
 
     Seine Kritik am Religionsbegriff ist somit grundsätzlicher Art.
 
@@ -89,9 +89,9 @@ Falls Sie Abkürzungen verwenden, müssen die abgekürzten Bezeichnungen (Bez.) 
 
 ## Der Beleg zum Zitat
 
-Zur wissenschaftlichen Redlichkeit gehört es, die Literatur explizit zu nennen, auf die man sich bezieht. Dies ist nicht nur der Nachprüfbarkeit Ihrer Angaben geschuldet, sondern dem wissenschaftlichen Diskurs im Allgemeinen: Auch andere Wissenschaftler sollen an Ihrem Arbeitsprozess teilhaben und ihn ggf. weiterdenken können. Daher ist das korrekte Zitieren von Literatur ein wichtiger Aspekt beim Verfassen einer wissenschaftlichen Arbeit. Dies ist auch bei Hausarbeiten grundlegend. Denn nur bei korrekter Zitation können die Dozierenden Ihre eigenen Gedanken eindeutig von aus der Literatur wiedergegeben Aussagen unterscheiden.
+Zur wissenschaftlichen Redlichkeit gehört es, die Literatur explizit zu nennen, auf die man sich bezieht. Dies ist nicht nur der Nachprüfbarkeit Ihrer Angaben geschuldet, sondern dem wissenschaftlichen Diskurs im Allgemeinen: Auch andere Wissenschaftler:innen sollen an Ihrem Arbeitsprozess teilhaben und ihn ggf. weiterdenken können. Daher ist das korrekte Zitieren von Literatur ein wichtiger Aspekt beim Verfassen einer wissenschaftlichen Arbeit. Dies ist auch bei Hausarbeiten grundlegend. Denn nur bei korrekter Zitation können die Dozierenden Ihre eigenen Gedanken eindeutig von aus der Literatur wiedergegeben Aussagen unterscheiden.
 
-Um die verwendeten Zitate zu belegen, müssen Sie dem Leser solcherlei Angaben zur Verfügung stellen, dass dieser ebenso das Zitat wieder auffinden könnte. Das beinhaltet bspw. bei Zitaten aus Monografien zumindest Autor, Buchtitel, Erscheinungsort, Erscheinungsjahr und Seitenzahl des Zitates, dazu können je nach Zitierstil und Art des Werkes noch weitere Angaben wie der Verlag oder die Auflage kommen. Bei anderen Textsorten wie Sammelband- oder Zeitschriftenartikeln müssen weitere Angaben beigefügt werden (s. u.).
+Um die verwendeten Zitate zu belegen, müssen Sie den Lesenden solcherlei Angaben zur Verfügung stellen, dass diese ebenso das Zitat wieder auffinden könnte. Das beinhaltet bspw. bei Zitaten aus Monografien zumindest Autor:in, Buchtitel, Erscheinungsort, Erscheinungsjahr und Seitenzahl des Zitates, dazu können je nach Zitierstil und Art des Werkes noch weitere Angaben wie der Verlag oder die Auflage kommen. Bei anderen Textsorten wie Sammelband- oder Zeitschriftenartikeln müssen weitere Angaben beigefügt werden (s. u.).
 
 All diese Angaben zusammengenommen ergeben meist eine recht lange Liste, die nicht direkt am Zitat stehen kann – dort würde Sie den Lesefluss empfindlich stören. Deshalb haben sich zwei Zitierweisen eingebürgert, die dieses Problem unterschiedlich lösen, das »Autor-Jahr-System« (auch »amerikanische« oder »Harvard-Notation« genannt) und das »Fußnoten-System« (auch »deutsche« oder »historische« Zitierweise).
 
@@ -109,7 +109,7 @@ Die im Folgenden vorgestellten Zitierweisen sind nur zwei von vielen Möglichkei
 
 ## Fußnoten-Zitierweise {#sec:deutsche-zitierweise}
 
-Im Fußnotensystem werden die Literaturangaben, ebenso wie ggf. Nebenbemerkungen, in Fußnoten notiert. Bei der ersten Nennung werden zitierte Titel vollständig angeführt, so wie sie auch im Literaturverzeichnis erscheinen. Bei allen weiteren Nennungen wird dann nur noch der Autorenname und ein Kurztitel sowie die Seitenzahl, auf die Sie sich beziehen, angegeben.
+Im Fußnotensystem werden die Literaturangaben, ebenso wie ggf. Nebenbemerkungen, in Fußnoten notiert. Bei der ersten Nennung werden zitierte Titel vollständig angeführt, so wie sie auch im Literaturverzeichnis erscheinen. Bei allen weiteren Nennungen wird dann nur noch der Autor:innenname und ein Kurztitel sowie die Seitenzahl, auf die Sie sich beziehen, angegeben.
 
 Folgen zwei Nennungen einer Quelle direkt aufeinander, ist also kein Verweis auf eine andere Quelle zwischen den beiden Nennungen, kann anstatt der Kurzangabe auch schlicht ein »ebd.« (für »ebenda«) angegeben werden. Ist die Seitenzahl identisch zur vorhergegangenen Nennung, kann sie weggelassen werden. Bei einer abweichenden Seitenzahl wird sie zusätzlich angeführt.
 
@@ -128,14 +128,14 @@ Die Fußnotenzitierweise soll an folgendem Beispiel demonstriert werden:
 
 Das Literaturverzeichnis führt vollständig sämtliche zitierte Literatur auf. Umgekehrt soll keine Literatur enthalten sein, die im Text nicht verwendet wird. Es dient damit der übersichtlichen Zusammenfassung aller genannter Literatur. Das Literaturverzeichnis muss einheitlich formatiert werden. Die genaue Darstellung richtet sich dabei auch nach der verwendeten Zitierweise. Das Literaturverzeichnis wird dabei immer alphabetisch nach den Nachnamen der Autoren sortiert.
 
-Nach der Fußnotenzitierweise werden die Titel im Literaturverzeichnis genau so angegeben wie bei der ersten, vollständigen Angabe im Text. Einzig beim Namen des (ersten) Autors wird der Nachname aufgrund der Sortierung vorangestellt.
+Nach der Fußnotenzitierweise werden die Titel im Literaturverzeichnis genau so angegeben wie bei der ersten, vollständigen Angabe im Text. Einzig beim Autor:innennamen (erste:r Autor:in) wird der Nachname aufgrund der Sortierung vorangestellt.
 
 a)  Monografien:[^4]  
     Nachname, Vorname: Titel, ggf. Auflage, Ort: Verlag Jahr.  
     Luckmann, Thomas: Die unsichtbare Religion, 2. Aufl., Frankfurt am Main: Suhrkamp 1993.
 
 b)  Sammelbandaufsätze:  
-    Nachname, Vorname <span>*(des Autors)*</span>: »Titel des Aufsatzes«, in: Vorname Nachname <span>*(des Herausgebers)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag Jahr, S. Seiten des Aufsatzes.  
+    Nachname, Vorname <span>*(Autor:in)*</span>: »Titel des Aufsatzes«, in: Vorname Nachname <span>*(Herausgeber:in)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag Jahr, S. Seiten des Aufsatzes.  
     Asad, Talal: »The Construction of Religion as an Anthropological Category«, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, S. 114–132.  
     Boyarin, Daniel: »Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity«, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press 2005, S. 339–358.
 
@@ -149,7 +149,7 @@ d)  Lexikonartikel:
 
 ## Autor-Jahr-Zitierweise
 
-Bei dieser Zitierweise, die vor allem in den Natur- und Sozialwissenschaften gebräuchlich ist, aber inzwischen auch in den Geisteswissenschaften Verwendung findet, werden Quellenbelege nicht in Fußnoten angeführt, sondern direkt im Text. Die Fußnoten sind damit ausschließlich Anmerkungen vorbehalten. Im Text werden Quellen durch ein Kürzel aus Autorennachname und Erscheinungsjahr gebildet. Im Literaturverzeichnis kann dann mit Hilfe dieser Angaben die volle Literaturangabe nachgeschlagen werden.[^5]
+Bei dieser Zitierweise, die vor allem in den Natur- und Sozialwissenschaften gebräuchlich ist, aber inzwischen auch in den Geisteswissenschaften Verwendung findet, werden Quellenbelege nicht in Fußnoten angeführt, sondern direkt im Text. Die Fußnoten sind damit ausschließlich Anmerkungen vorbehalten. Im Text werden Quellen durch ein Kürzel aus Autor:innennachname und Erscheinungsjahr gebildet. Im Literaturverzeichnis kann dann mit Hilfe dieser Angaben die volle Literaturangabe nachgeschlagen werden.[^5]
 
 > Religions are powerful not because they reveal transcendent truths or the effects of an ontologized “History”, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action.
 
@@ -157,19 +157,19 @@ Bei dieser Zitierweise, die vor allem in den Natur- und Sozialwissenschaften geb
     »Religions are powerful not because they reveal transcendent truths or the effects of an ontologized ›History‹, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action« (Stuckrad 2003, 269).
 
 -   Folgezitat:[^6]  
-    Nach Ansicht einiger Autoren besteht die Wirkmächtigkeit von Religionen besonders in der Unterstützung von Identitätskonstruktionen und in konkreten Handlungsanweisungen (vgl. etwa Stuckrad 2003, 269).
+    Nach Ansicht einiger Autor:innen besteht die Wirkmächtigkeit von Religionen besonders in der Unterstützung von Identitätskonstruktionen und in konkreten Handlungsanweisungen (vgl. etwa Stuckrad 2003, 269).
 
 -   Direktes Folgezitat:  
     So seien Religionen »powerful \[…\] because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action« (ebd., 269).
 
-Da die Verweise im Text keine vollständigen Literaturangaben enthalten, liefert bei der Autor-Jahr-Zitierweise das Literaturverzeichnis die relevanten Informationen zum Auffinden der Literatur. Im Autor-Jahr-System wird die Jahreszahl direkt hinter den Autorennamen gesetzt, um das Nachschlagen der Angaben im Text zu erleichtern. Die Sortierung erfolgt alphabetisch.
+Da die Verweise im Text keine vollständigen Literaturangaben enthalten, liefert bei der Autor-Jahr-Zitierweise das Literaturverzeichnis die relevanten Informationen zum Auffinden der Literatur. Im Autor-Jahr-System wird die Jahreszahl direkt hinter den Autor:innennamen gesetzt, um das Nachschlagen der Angaben im Text zu erleichtern. Die Sortierung erfolgt alphabetisch.
 
 a)  Monografien:[^7]  
     Nachname, Vorname (Jahr): Titel, ggf. Auflage, Ort: Verlag.  
     Luckmann, Thomas (1993): Die unsichtbare Religion, 2. Aufl., Frankfurt am Main: Suhrkamp.
 
 b)  Sammelbandaufsätze:  
-    Nachname, Vorname <span>*(des Autors)*</span> (Jahr): »Titel des Aufsatzes«, in: Vorname Nachname <span>*(des Herausgebers)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag, S. Seiten des Aufsatzes.  
+    Nachname, Vorname <span>*(Autor:in)*</span> (Jahr): »Titel des Aufsatzes«, in: Vorname Nachname <span>*(Herausgeber:in)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag, S. Seiten des Aufsatzes.  
     Asad, Talal (2002): »The Construction of Religion as an Anthropological Category«, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers, S. 114–132.  
     Boyarin, Daniel (2005): »Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity«, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press, S. 339–358.
 
@@ -183,7 +183,7 @@ d)  Lexikonartikel:
 
 <div class="Hinweis">
 
-Sie haben irgendwo in einem Buch das spannende Zitat eines anderen Autors gelesen? Dessen Buch ist aber umständlich oder gar nicht zu beschaffen? Zitate »aus zweiter Hand« zu verwenden, aber dies nicht zu kennzeichnen, ist verlockend. Trotzdem sollten Sie nicht einfach die Literaturangabe übernehmen und so tun, als hätten Sie das Buch selbst gelesen. Auch in dem Werk, in dem Sie das Zitat gefunden haben, können sich Fehler bei der Angabe eingeschlichen haben. Ebenso fehlt Ihnen dann die Kenntnis über den ursprünglichen Kontext des Zitates – vielleicht passt der zu dem Buch, in dem Sie das Zitat gefunden haben, aber überhaupt nicht zum Thema Ihrer Arbeit?
+Sie haben irgendwo in einem Buch das spannende Zitat von einem:einer anderen Autor:in gelesen? Dieses Buch ist aber umständlich oder gar nicht zu beschaffen? Zitate »aus zweiter Hand« zu verwenden, aber dies nicht zu kennzeichnen, ist verlockend. Trotzdem sollten Sie nicht einfach die Literaturangabe übernehmen und so tun, als hätten Sie das Buch selbst gelesen. Auch in dem Werk, in dem Sie das Zitat gefunden haben, können sich Fehler bei der Angabe eingeschlichen haben. Ebenso fehlt Ihnen dann die Kenntnis über den ursprünglichen Kontext des Zitates – vielleicht passt der zu dem Buch, in dem Sie das Zitat gefunden haben, aber überhaupt nicht zum Thema Ihrer Arbeit?
 
 Verwenden Sie bestenfalls etwas mehr Mühe darauf, das Original zu beschaffen. Andernfalls sollten Sie zumindest so ehrlich sein und das Zitat zwar verwenden, aber offenlegen, wie Sie daran gekommen sind. Dies geschieht durch die Belegangabe der ursprünglichen Stelle des Zitates, daran anknüpfend dann der Verweis »zitiert nach«, und hier wiederum die vollständige Angabe des Buches, dem Sie das Zitat entnommen haben.
 
@@ -191,9 +191,9 @@ Verwenden Sie bestenfalls etwas mehr Mühe darauf, das Original zu beschaffen. A
 
 ## Quellenangaben
 
-Historische Quellen, wie etwa Bibel, Koran oder andere historische Schriften, können nicht entsprechend der Regeln für Sekundärliteratur zitiert werden. Insbesondere ist die Autorschaft oft unklar, und die gleiche Quelle liegt oftmals in verschiedenen Ausgaben vor. Der verwendeten Übersetzung/​Edition kommt hier eine besondere Bedeutung bei, die in der Quellenangabe deutlich gemacht werden muss. Die Literaturangabe vereint daher Angaben zur originalen Quelle (die etwa einen Titel, aber unter Umständen keinen bekannten Autor hat) und Angaben zur verwendeten Ausgabe. Je nach verfügabaren Informationen richtet sich die Angabe grob nach folgendem Schema:
+Historische Quellen, wie etwa Bibel, Koran oder andere historische Schriften, können nicht entsprechend der Regeln für Sekundärliteratur zitiert werden. Insbesondere ist die Autor:innenschaft oft unklar, und die gleiche Quelle liegt oftmals in verschiedenen Ausgaben vor. Der verwendeten Übersetzung/​Edition kommt hier eine besondere Bedeutung bei, die in der Quellenangabe deutlich gemacht werden muss. Die Literaturangabe vereint daher Angaben zur originalen Quelle (die etwa einen Titel, aber unter Umständen keine:n bekannte:n Autor:in hat) und Angaben zur verwendeten Ausgabe. Je nach verfügabaren Informationen richtet sich die Angabe grob nach folgendem Schema:
 
-> \[Autor,\] Titel der Quelle, herausgegeben/​übersetzt von Herausgeber/​Übersetzer, Ort (der Ausgabe) \[Jahr des Originals\]Jahr der Ausgabe.
+> \[Autor:in,\] Titel der Quelle, herausgegeben/​übersetzt von Herausgeber:in/​Übersetzer:in, Ort (der Ausgabe) \[Jahr des Originals\]Jahr der Ausgabe.
 
 Also etwa:
 
@@ -213,7 +213,7 @@ Bei religiösen Schriften sind oftmals eine Vielzahl verschiedener Versionen ver
 
 <div class="Hinweis">
 
-In den verschiedenen historischen Disziplinen und Philologien bestehen unterschiedliche Konventionen bezüglich der bevorzugten Angabe der gebräuchlichen Quellen. An dieser Stelle können daher nur allgemeine Hinweise zur ersten Orientierung gegeben werden. Für die Details wenden Sie sich am besten an die jeweilige Dozentin oder den jeweiligen Dozenten.
+In den verschiedenen historischen Disziplinen und Philologien bestehen unterschiedliche Konventionen bezüglich der bevorzugten Angabe der gebräuchlichen Quellen. An dieser Stelle können daher nur allgemeine Hinweise zur ersten Orientierung gegeben werden. Für die Details wenden Sie sich am besten an die jeweiligen Dozierenden.
 
 </div>
 
@@ -225,7 +225,7 @@ Grob kann man Web-Angebote in drei Kategorien einteilen:
 
 1.  Wissenschaftliche Online-Zeitschriften
 
-    Seiten wie etwa das Forum Qualitative Sozialforschung (<http://www.qualitative-research.net/>) können verwendet werden wie traditionelle Print-Zeitschriften auch. Da hier auch vollständige Autorenangaben vorliegen, erfolgt die Zitation ähnlich wie bei anderen Zeitschriftenaufsätzen, mit zwei Modifikationen: Zum einen sind Internetadresse (URL) und Zugriffsdatum anzugeben, zum anderen sind bei Online-Quellen keine Seitenzahlen verfügbar, so dass nach Absatznummer oder anderen Kriterien zitiert werden muss.
+    Seiten wie etwa das Forum Qualitative Sozialforschung (<http://www.qualitative-research.net/>) können verwendet werden wie traditionelle Print-Zeitschriften auch. Da hier auch vollständige Autor:innenangaben vorliegen, erfolgt die Zitation ähnlich wie bei anderen Zeitschriftenaufsätzen, mit zwei Modifikationen: Zum einen sind Internetadresse (URL) und Zugriffsdatum anzugeben, zum anderen sind bei Online-Quellen keine Seitenzahlen verfügbar, so dass nach Absatznummer oder anderen Kriterien zitiert werden muss.
 
     Beispiel:[^9]  
     Witzel, Andreas (2000): »Das problemzentrierte Interview«, in: *Forum Qualitative Sozialforschung/​Forum: Qualitative Social Research* 1/1, Art. 22, http://nbn-resolving.de/urn:nbn:de:0114-fqs0001228 (letzter Zugriff: 19.8.2010).
@@ -275,7 +275,7 @@ Neben Texten (und auch Internetseiten sind natürlich Texte) gibt es noch andere
 
 [^4]: Die Aufteilung nach Literaturtypen dient an dieser Stelle nur dazu, die unterschiedlichen Darstellungsregeln zu illustrieren. Im Literaturverzeichnis selbst werden die einzelnen Einträge *nicht* nach Literaturtyp gegliedert.
 
-[^5]: Werden mehrere Werke eines Autors aus einem Jahr zitiert, muss die Jahreszahl um einen Buchstaben ergänzt werden, um die Eindeutigkeit zu wahren, z. B. Müller 1990a, Müller 1990b, etc.
+[^5]: Werden mehrere Werke von einem:einer Autor:in aus einem Jahr zitiert, muss die Jahreszahl um einen Buchstaben ergänzt werden, um die Eindeutigkeit zu wahren, z. B. Müller 1990a, Müller 1990b, etc.
 
 [^6]: Im Gegensatz zur Fußnotenzitierweise besteht hier kein Unterschied zum ersten Zitat.
 
