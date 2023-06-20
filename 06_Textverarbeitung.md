@@ -51,7 +51,7 @@ Der Schlüssel zur Verwendung von Textverarbeitungen sind die Formatvorlagen. Di
 
 -   später Formatierungen auf einen Schlag zu ändern (z. B. alle Überschriften erster Ordnung Schriftgröße 16pt),
 
--   automatische Literaturverzeichnisse zu erstellen,
+-   automatische Inhaltsverzeichnisse zu erstellen,
 
 -   Verweise auf andere Kapitel zu erstellen, die automatisch aktualisiert werden (z. B. »siehe Kapitel 3, Seite 12«).
 
@@ -97,4 +97,4 @@ Wenn man aber Dokumente auf elektronischem Wege weitergibt, weil man z. B. seine
 
     -   Die verwendeten Schriftarten müssen auf dem Computer der Empfangenden vorhanden sein, um die gleiche Darstellung zu erhalten. Das ist insbesondere bei fremdsprachlichen Zeichen (Hebräisch, Arabisch etc.) nicht immer gegeben. 
 
-    -   Als Dateiformat empfiehlt sich derzeit das **»doc/x«**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z. B. LibreOffice, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von LibreOffice als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzugt.
+    -   Als Dateiformat empfiehlt sich derzeit das **»docx«**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z. B. LibreOffice, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von LibreOffice als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Das ältere **doc**-Format von Microsoft Word ist veraltet und anfällig für Sicherheitsprobleme. Es sollte nicht mehr genutzt werden. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzugt.
