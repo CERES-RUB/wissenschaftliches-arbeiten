@@ -6,7 +6,7 @@ LIB="$SRC"/_lib
 DEST="$SRC"/downloads
 FILENAMEBASE=Leitfaden_wissenschaftliches_Arbeiten
 TEMPLATES="$SRC"/_includes
-BUILDOPTS=(--standalone --file-scope --toc --toc-depth=2 --number-sections --default-image-extension=png --wrap=none)
+BUILDOPTS=(--standalone --toc --toc-depth=2 --number-sections --default-image-extension=png --wrap=none)
 LATEXOPTS=(--to latex-smart --pdf-engine=xelatex --variable=documentclass=scrreprt --variable=mainfont='Linux Libertine O' --variable=sansfont='Linux Biolinum O' --variable=colorlinks)
 
 cd "$SRC"/
