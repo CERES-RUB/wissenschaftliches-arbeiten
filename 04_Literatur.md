@@ -3,6 +3,7 @@ title: Umgang mit Literatur
 layout: default
 order: 4
 contents: true
+lang: de_DE
 ---
 
 # Umgang mit Literatur {#sec:literatur}
@@ -141,19 +142,31 @@ Beim Lesen des Textes ist es sinnvoll, mit Anstreichungen und Randnotizen zu arb
 
 -   **Markierung:** Entweder Anstreichung mit einem Textmarker oder Unterstreichung mit Blei- bzw. Buntstift. Es können auch verschiedene Farben für unterschiedliche Bedeutungen verwendet werden, z. B. Rot=Wichtig, Schwarz=Begriffe und Definitionen, etc.
 
--   **Nichtsprachliche Anmerkungen:** Mit kleinen Symbolen können Textstellen charakterisiert werden. Dies kann direkt im Text oder am Rand geschehen. Beispiele können sein:
-
-    | Zeichen | Bedeutung      |
-    |:-------:|:---------------|
-    |   !     | Wichtig        |
-    |   ?     | Unverständlich |
-    |  Def.   | Definition     |
-    | 1.2.3.  | Aufzählung     |
-    |   ⁈     | Widerspruch    |
+-   **Nichtsprachliche Anmerkungen:** Mit kleinen Symbolen können Textstellen charakterisiert werden. Dies kann direkt im Text oder am Rand geschehen. Beispiele sind in der folgenden Tabelle aufgeführt.
 
 -   **Sprachliche Anmerkungen:** Kurze Bemerkungen und Stichpunkte zu den Inhalten eines Absatzes und ähnliches können direkt am Rand vermerkt werden. Ausführlichere Gedanken können auch auf der Textrückseite notiert werden.
 
-Markierungen und Anmerkungen sollten selbstverständlich nur bei Texten vorgenommen werden, die Ihnen persönlich gehören. Daher ist es sinnvoll, mit Kopien anstatt mit ausgeliehenen Büchern zu arbeiten. Zudem können die Texte so für spätere Lektüre archiviert werden.
+Markierungen und Anmerkungen sollten selbstverständlich nur bei Texten vorgenommen werden, die Ihnen persönlich gehören, nicht in ausgeliehenen Büchern. Daher ist es sinnvoll, entweder Anstreichungen in der digitalen Version eines Textes zu machen, etwa auf einem Tablet, oder mit Kopien bzw. Ausdrucken zu arbeiten. Die Lektüre auf dem Laptop/PC ist ebenfalls möglich, das Gelesene kann dabei aber oft kognitiv schlechter verarbeitet werden.
+
+| Strukturkategorie           | Verbundene Frage/Erläuterung                                 | Notiz am Textrand |
+| --------------------------- | ------------------------------------------------------------ | ----------------- |
+| Thema/Gegenstand            | Worum geht es allgemein?                                     | Thema             |
+| Fokus                       | Worum geht es im Speziellen?                                 | Fok.              |
+| Forschungsfrage             | Was soll herausgefunden werden?                              | FF                |
+| Definition                  | Wie genau werden zentrale Begriffe verstanden?               | Def.              |
+| Ziel                        | Was ist das Ziel des Textes? Was möchte er herausfinden, zeigen, infragestellen o.ä.? | Ziel              |
+| These/n                     | Was ist/sind die Antwort/en auf die Fragestellung?           | T bzw. T1, T2, …  |
+| Datenbasis                  | Mit welchem Material wird gearbeitet? An welches Material richtet sich die Fragestellung und werden Thesen abgeleitet? | Daten             |
+| Methode/Theorie             | Mit welcher Perspektive und welchem „Werkzeug“ nähert sich der Text dem Thema? Wie und auf  welcher gedanklichen Grundlage wird die Fragestellung beantwortet? | M/T               |
+| Forschungsstand             | Was wurde zum Thema bzw. zum speziellen Fokus bislang an wissenschaftlicher Literatur veröffentlicht, auf die der Text aufbaut? | Fs                |
+| Angekündigtes Vorgehen      | Wie geht der Text im Einzelnen vor? Welche Schritte unternimmt der Text in seinem Verlauf? | Vorgehen          |
+| Kernaussagen                | Was sind die zentralen Aussagen des Textes?                  | •                 |
+| Aufzählung                  | Wo erwähnt der Text mehrere Punkte, die nacheinander abgehandelt werden? Insbesondere auch implizite Aufzählungen. | 1./2./3./…        |
+| Für mich besonders relevant | Was ist darüber hinaus für mich, mein Projekt, meine eigene Fragestellung bzw. mein persönliches Interesse von Bedeutung? | !                 |
+| Unverständlich              | Welche Begriffe sind mir unklar? Welche Aussagen kann ich nicht nachvollziehen? | ?                 |
+| Widerspruch                 | Mit welchen Aussagen stimme ich nicht überein?               | X                 |
+
+Table: Strukturkategorien für Randnotizen. Quelle: Teilweise übernommen aus Roers, Benjamin. 2020. „Geschichte und Gegenwart meiner Notizen“. tub.torials (blog). 10. Dezember 2020. <https://www.tub.tuhh.de/tubtorials/2020/12/11/vergangenheit-und-gegenwart-meiner-notizen/> unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Eigene Anpassungen.
 
 #### »Querlesen« {#sec:querlesen}
 
