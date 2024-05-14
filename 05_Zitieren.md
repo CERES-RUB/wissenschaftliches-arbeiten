@@ -130,22 +130,31 @@ Das Literaturverzeichnis führt vollständig sämtliche zitierte Literatur auf. 
 
 Nach der Fußnotenzitierweise werden die Titel im Literaturverzeichnis genau so angegeben wie bei der ersten, vollständigen Angabe im Text. Einzig beim Autor:innennamen (erste:r Autor:in) wird der Nachname aufgrund der Sortierung vorangestellt.
 
-a)  Monografien:[^4]  
-    Nachname, Vorname: Titel, ggf. Auflage, Ort: Verlag Jahr.  
-    Luckmann, Thomas: Die unsichtbare Religion, 2. Aufl., Frankfurt am Main: Suhrkamp 1993.
+a)  Monografien:[^4]
 
-b)  Sammelbandaufsätze:  
-    Nachname, Vorname <span>*(Autor:in)*</span>: „Titel des Aufsatzes“, in: Vorname Nachname <span>*(Herausgeber:in)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag Jahr, S. Seiten des Aufsatzes.  
-    Asad, Talal: „The Construction of Religion as an Anthropological Category“, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, S. 114–132.  
-    Boyarin, Daniel: „Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity“, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press 2005, S. 339–358.
+Nachname, Vorname. *Titel*. Ggf. Auflage. Ort: Verlag, Jahr.  
 
-c)  Zeitschriftenaufsätze:  
-    Nachname, Vorname: „Titel“, *Zeitschrift* Band/​Nummer (Jahr), S. Seiten des Aufsatzes.  
-    von Stuckrad, Kocku: „Discursive Study of Religion: From States of the Mind to Communication and Action“, *Method & Theory in the Study of Religion* 15/3 (2003), S. 255–271.
+Luckmann, Thomas. *Die unsichtbare Religion*. 2. Aufl. Frankfurt am Main: Suhrkamp, 1993.
 
-d)  Lexikonartikel:  
-    Name, Vorname: „Artikel“, in: Lexikon Bd. Band, ggf. Auflage, Jahr, S. Seiten des Artikels.  
-    Avi-Yonah, Michael: „Adoraim“, in: Encyclopaedia Judaica Bd. 1, 2. Aufl., 2006, S. 214.
+b)  Sammelbandaufsätze:
+
+Nachname, Vorname.  Titel des Beitrags . In *Titel des Sammelbands*, Seiten des Beitrags. Ort: Verlag, Jahr.
+
+Asad, Talal.  The Construction of Religion as an Anthropological Category . In *A reader in the anthropology of religion*, herausgegeben von Michael Lambek, 114–32. Blackwell anthologies in social and cultural anthropology 2. Malden, MA: Blackwell, 2002.
+
+Boyarin, Daniel.  Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity . In *Postcolonial Studies and Beyond*, herausgegeben von Ania Loomba, Suvir Kaul, Matti Bunzl, Antoinette Burton, und Jed Esty, 339–58. Durham/London: Duke University Press, 2005.
+
+c)  Zeitschriftenaufsätze:
+
+Nachname, Vorname.  Titel des Artikels . *Zeitschrift* Band, Nr. Heft (Jahr): Seiten des Artikels.
+
+Stuckrad, Kocku von.  Discursive Study of Religion: From States of the Mind to Communication and Action . *Method & Theory in the Study of Religion* 15, Nr. 3 (2003): 255–71. https://doi.org/10.1163/157006803322393387.
+
+d)  Lexikonartikel:
+
+Nachname, Vorname.  Titel des Eintrags . In *Enzyklopädie*, Seiten des Eintrags. Ort: Verlag, Jahr.
+
+Avi-Yonah, Michael.  Adoraim . In *Encyclopaedia Judaica*, 1:420. Detroit: Thomson Gale, 2007.
 
 ## Autor-Jahr-Zitierweise
 
@@ -164,22 +173,31 @@ Bei dieser Zitierweise, die vor allem in den Natur- und Sozialwissenschaften geb
 
 Da die Verweise im Text keine vollständigen Literaturangaben enthalten, liefert bei der Autor-Jahr-Zitierweise das Literaturverzeichnis die relevanten Informationen zum Auffinden der Literatur. Im Autor-Jahr-System wird die Jahreszahl direkt hinter den Autor:innennamen gesetzt, um das Nachschlagen der Angaben im Text zu erleichtern. Die Sortierung erfolgt alphabetisch.
 
-a)  Monografien:[^7]  
-    Nachname, Vorname (Jahr): Titel, ggf. Auflage, Ort: Verlag.  
-    Luckmann, Thomas (1993): Die unsichtbare Religion, 2. Aufl., Frankfurt am Main: Suhrkamp.
+a)  Monografien:[^7]
 
-b)  Sammelbandaufsätze:  
-    Nachname, Vorname <span>*(Autor:in)*</span> (Jahr): „Titel des Aufsatzes“, in: Vorname Nachname <span>*(Herausgeber:in)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag, S. Seiten des Aufsatzes.  
-    Asad, Talal (2002): „The Construction of Religion as an Anthropological Category“, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers, S. 114–132.  
-    Boyarin, Daniel (2005): „Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity“, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press, S. 339–358.
+Nachname, Vorname. Jahr. *Titel*. Ggf. Auflage. Ort: Verlag.
 
-c)  Zeitschriftenaufsätze:  
-    Nachname, Vorname (Jahr): „Titel“, *Zeitschrift* Band/​Nummer, S. Seiten des Aufsatzes.  
-    von Stuckrad, Kocku (2003): „Discursive Study of Religion: From States of the Mind to Communication and Action“, *Method & Theory in the Study of Religion* 15/3, S. 255–271.
+Luckmann, Thomas. 1993. *Die unsichtbare Religion*. 2. Aufl. Frankfurt am Main: Suhrkamp.
 
-d)  Lexikonartikel:  
-    Name, Vorname (Jahr): „Artikel“, in: Lexikon Bd. Band, ggf. Auflage, S. Seiten des Artikels.  
-    Avi-Yonah, Michael (2006): „Adoraim“, in: Encyclopaedia Judaica Bd. 1, 2. Aufl., S. 214.
+b)  Sammelbandaufsätze:
+
+Nachname, Vorname. Jahr.  Titel des Beitrags . In *Titel des Sammelbands*, Seiten des Beitrags. Ort: Verlag.
+
+Asad, Talal. 2002.  The Construction of Religion as an Anthropological Category . In *A reader in the anthropology of religion*, herausgegeben von Michael Lambek, 114–32. Blackwell anthologies in social and cultural anthropology 2. Malden, MA: Blackwell.
+
+Boyarin, Daniel. 2005.  Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity . In *Postcolonial Studies and Beyond*, herausgegeben von Ania Loomba, Suvir Kaul, Matti Bunzl, Antoinette Burton, und Jed Esty, 339–58. Durham/London: Duke University Press.
+
+c)  Zeitschriftenaufsätze:
+
+Nachname, Vorname. Jahr.  Titel des Artikels . *Zeitschrift* Band (Heft): Seiten des Artikels.
+
+Stuckrad, Kocku von. 2003.  Discursive Study of Religion: From States of the Mind to Communication and Action . *Method & Theory in the Study of Religion* 15 (3): 255–71. https://doi.org/10.1163/157006803322393387.
+
+d)  Lexikonartikel:
+
+Nachname, Vorname. Jahr.  Titel des Eintrags . In *Enzyklopädie*, ggf. Auflage, Seiten des Eintrags. Ort: Verlag.
+
+Avi-Yonah, Michael. 2007.  Adoraim . In *Encyclopaedia Judaica*, 2. Aufl., 1:420. Detroit: Thomson Gale.
 
 <div class="Hinweis">
 
@@ -267,7 +285,7 @@ Neben Texten (und auch Internetseiten sind natürlich Texte) gibt es noch andere
 
 </div>
 
-[^1]: Talal Asad: „The Construction of Religion as an Anthropological Category“, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, S. 114–132, hier: S. 116.
+[^1]: Talal Asad, „The Construction of Religion as an Anthropological Category“, in *A reader in the anthropology of religion*, hg. von Michael Lambek, Blackwell anthologies in social and cultural anthropology 2 (Malden, MA: Blackwell, 2002), 116.
 
 [^2]: Vgl. Asad: „The Construction of Religion“, 116.
 
