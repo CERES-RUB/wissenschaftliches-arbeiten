@@ -7,7 +7,7 @@ contents: true
 
 # Präsentation von Vorträgen {#sec:praesentation}
 
-Zur Unterstützung mündlicher Vorträge bietet sich eine Präsentation der Kernaussagen und/​oder illustrierender Materialien an. Digitale Präsentationen haben dabei Overhead-Folien oder Dia-Projektoren fast vollständig abgelöst. Der Begriff der »PowerPoint-Präsentation« zeigt zwar die Dominanz eines bestimmten Produkts, ist aber irreführend: Bildschirmpräsentationen lassen sich mit einer Vielzahl verschiedener Werkzeuge erstellen.
+Zur Unterstützung mündlicher Vorträge bietet sich eine Präsentation der Kernaussagen und/​oder illustrierender Materialien an. Digitale Präsentationen haben dabei Overhead-Folien oder Dia-Projektoren fast vollständig abgelöst. Der Begriff der „PowerPoint-Präsentation“ zeigt zwar die Dominanz eines bestimmten Produkts, ist aber irreführend: Bildschirmpräsentationen lassen sich mit einer Vielzahl verschiedener Werkzeuge erstellen.
 
 Die beiden großen Office-Pakete, Microsoft Office und LibreOffice, enthalten mit **PowerPoint** bzw. **Impress** Programme zur Gestaltung von Bildschirmpräsentationen. Diese sind sehr grafisch orientiert, man kann also leicht verschiedene Designs auswählen, Grafiken einfügen und einzelne Elemente dynamisch einblenden und animieren. Zu den Office-Paketen siehe die Hinweiskästen in Abschnitt [Office-Anwendungen](06_Textverarbeitung.html#sec:office).
 

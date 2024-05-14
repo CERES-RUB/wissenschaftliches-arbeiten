@@ -42,7 +42,7 @@ Beachten Sie aber, dass sich eine Arbeit nie allein auf Lexikonartikel stützen 
 
 -   *Der neue Pauly. Enzyklopädie der Antike,* 15 Bände, hrsg. von Hubert Cancik, Helmuth Schneider und Manfred Landfester, Stuttgart 1966 ff.
 
--   *Historisches Wörterbuch der Philosophie,* völlig neubearb. Ausg. des »Wörterbuchs der philosophischen Begriffe« von Rudolf Eisler, unter Mitw. von mehr als 800 Fachgelehrten in Verbindung mit Günther Bien u.a. hrsg. von Joachim Ritter und Karlfried Gründer, 12 Bände, Darmstadt 1971–2004.
+-   *Historisches Wörterbuch der Philosophie,* völlig neubearb. Ausg. des „Wörterbuchs der philosophischen Begriffe“ von Rudolf Eisler, unter Mitw. von mehr als 800 Fachgelehrten in Verbindung mit Günther Bien u.a. hrsg. von Joachim Ritter und Karlfried Gründer, 12 Bände, Darmstadt 1971–2004.
 
 ### Bibliothekskataloge
 
@@ -54,7 +54,7 @@ Im so genannten "KatalogPLUS" der Universitätsbibliothek können Sie neben dem 
 
 **Tipps zur Recherche**
 
--   In Bibliothekskatalogen suchen Sie Literatur in der Regel über Stichwörter. Denken Sie dann daran, auch Synonyme für Ihr Thema zu finden und auch englischsprachige Stichwörter auszuprobieren. Ihr Thema kann sehr spezifisch sein; überlegen Sie, unter welchen Stichwörtern man Veröffentlichungen finden könnte, die dieses Thema aufgreifen (wenn Sie bspw. Literatur zur Definition von Religionsgemeinschaften suchen, finden Sie nicht unbedingt ein gleichnamiges Buch – in einer »Einführung in die Religionssoziologie« dagegen werden Sie sicher fündig).
+-   In Bibliothekskatalogen suchen Sie Literatur in der Regel über Stichwörter. Denken Sie dann daran, auch Synonyme für Ihr Thema zu finden und auch englischsprachige Stichwörter auszuprobieren. Ihr Thema kann sehr spezifisch sein; überlegen Sie, unter welchen Stichwörtern man Veröffentlichungen finden könnte, die dieses Thema aufgreifen (wenn Sie bspw. Literatur zur Definition von Religionsgemeinschaften suchen, finden Sie nicht unbedingt ein gleichnamiges Buch – in einer „Einführung in die Religionssoziologie“ dagegen werden Sie sicher fündig).
 
 -   Auch Bibliothekskataloge selbst arbeiten mit Verschlagwortungen. Diese finden sich bei den Angaben zu einem Buch. Vielleicht passt eine davon gut zu Ihrem Thema? Dann können Sie mit einem einfachen Klick feststellen, welche Bücher die Bibliotheksmitarbeitenden mit diesem Schlagwort markiert haben. Das hat den Vorteil, dass Sie sich nicht nur darauf verlassen müssen, dass Ihr Suchwort im Titel eines Buches vorkommt – in den Verschlagwortungen können auch allgemeine Themengebiete oder Inhalte aufgegriffen sein.
 
@@ -168,7 +168,7 @@ Markierungen und Anmerkungen sollten selbstverständlich nur bei Texten vorgenom
 
 Table: Strukturkategorien für Randnotizen. Quelle: Teilweise übernommen aus Roers, Benjamin. 2020. „Geschichte und Gegenwart meiner Notizen“. tub.torials (blog). 10. Dezember 2020. <https://www.tub.tuhh.de/tubtorials/2020/12/11/vergangenheit-und-gegenwart-meiner-notizen/> unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Eigene Anpassungen.
 
-#### »Querlesen« {#sec:querlesen}
+#### „Querlesen“ {#sec:querlesen}
 
 Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinnen, gibt es verschiedene Lesetrategien:
 
@@ -192,7 +192,7 @@ Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinne
 
 <div class="Tipp">
 
-Versuchen Sie nach dem Lesen noch einmal, sich den »Bauplan« des Textes zu vergegenwärtigen: Mit welchen Punkt fängt es an, wohin geht es von da aus etc. Formulieren Sie für sich auch noch einmal die Kernthese. Wenn das funktioniert, haben Sie den Text einigermaßen sicher im Griff.
+Versuchen Sie nach dem Lesen noch einmal, sich den „Bauplan“ des Textes zu vergegenwärtigen: Mit welchen Punkt fängt es an, wohin geht es von da aus etc. Formulieren Sie für sich auch noch einmal die Kernthese. Wenn das funktioniert, haben Sie den Text einigermaßen sicher im Griff.
 
 </div>
 

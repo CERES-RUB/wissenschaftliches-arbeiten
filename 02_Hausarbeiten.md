@@ -27,7 +27,7 @@ Hausarbeiten werden meist in der vorlesungsfreien Zeit geschrieben. Bedenken Sie
 
 Der erste Schritt beim Erstellen einer wissenschaftlichen Arbeit ist die Themenfindung. Dabei soll nicht nur ein Themenkomplex gewählt werden, mit dem sich die Arbeit beschäftigt. Es muss auch eine Fragestellung formuliert werden, die die Bearbeitung des Themas einer spezifisch religionswissenschaftlichen Herangehensweise zugänglich macht. Eine Fragestellung zu entwickeln ist durchaus eine anspruchsvolle Aufgabe. Eine gute Fragestellung bleibt nämlich in der Regel nicht dabei stehen, danach zu fragen, wie die Dinge beschrieben werden können. Dies mündet meist in einer reinen Wiedergabe von Gelesenem; eine eigene Auseinandersetzung findet nicht statt. Eine wissenschaftliche Frage zielt dagegen auf die Erklärung der Sachverhalte oder auf ihre Konsequenzen. Eine Ausnahme können hier dezidierte sprachwissenschaftliche Materialarbeiten darstellen, bei denen schon die Darstellung des Materials eine anspruchsvolle Aufgabe für sich ist.
 
-Eine zweite Herausforderung ist die Eingrenzung des Themas. Themen wie »Die Geschichte des Hinduismus in Indien« oder »Die Religiosität muslimischer Jugendlicher in Deutschland« sind schlicht zu weit gefasst, um im Rahmen von Haus- oder selbst Bachelor-Arbeiten behandelt zu werden. Die Eingrenzung eines Themas ist auch deswegen so schwierig, weil sie bereits Grundkenntnisse über den Gegenstand voraussetzt. Erst dann lässt sich ermessen, in welche konkreteren Fragen sich ein Thema zergliedern lässt.
+Eine zweite Herausforderung ist die Eingrenzung des Themas. Themen wie „Die Geschichte des Hinduismus in Indien“ oder „Die Religiosität muslimischer Jugendlicher in Deutschland“ sind schlicht zu weit gefasst, um im Rahmen von Haus- oder selbst Bachelor-Arbeiten behandelt zu werden. Die Eingrenzung eines Themas ist auch deswegen so schwierig, weil sie bereits Grundkenntnisse über den Gegenstand voraussetzt. Erst dann lässt sich ermessen, in welche konkreteren Fragen sich ein Thema zergliedern lässt.
 
 Die Themenfindung lässt sich daher nicht allein am Schreibtisch bewältigen. Sie erfordert auch einen ersten, groben Überblick über die verfügbare Literatur und den Forschungsstand sowie Gespräche mit Dozierenden: Scheuen Sie nicht davor zurück, mit den Lehrenden über Ihre thematischen Vorstellungen zu sprechen. Aber bereiten Sie sich auch auf ein solches Gespräch vor. Wenn Sie sich schon ein Grundlagenwissen erarbeitet haben, können Sie Anregungen der Lehrenden aufnehmen und sinnvoll einarbeiten.
 
@@ -39,7 +39,7 @@ Oft können Sie von einem Problem ausgehen, dass Ihnen in einem Seminar oder sog
 
 <div class="Beispiel">
 
-Die Definition einer Religionsgemeinschaft ist anscheinend strittig, wie die Debatte um Scientology zeigt. »Was ist eine Religionsgemeinschaft?« – diese Fragestellung wäre nun aber viel zu weit, um sie in einer Hausarbeit zu beantworten. Auch normative Herangehensweisen – etwa »Warum Scientology keine Religionsgemeinschaft ist« – sind in wissenschaftlichen Arbeiten unpassend. Möglich wäre etwa eine Fragestellung, die einen von vielen Aspekten herausgreift, nämlich die Debatte, die diesbezüglich in der Justiz geführt wird: »Welche Argumentationen werden bei Gerichtsentscheidungen über die Anerkennung von Religionsgemeinschaften verwendet?« Der Titel der Arbeit könnte dann lauten: »Gerichtliche Argumentationsstrukturen bei der Feststellung des Status »Religionsgemeinschaft«. Eine Untersuchung am Beispiel Scientology.«
+Die Definition einer Religionsgemeinschaft ist anscheinend strittig, wie die Debatte um Scientology zeigt. „Was ist eine Religionsgemeinschaft?“ – diese Fragestellung wäre nun aber viel zu weit, um sie in einer Hausarbeit zu beantworten. Auch normative Herangehensweisen – etwa „Warum Scientology keine Religionsgemeinschaft ist“ – sind in wissenschaftlichen Arbeiten unpassend. Möglich wäre etwa eine Fragestellung, die einen von vielen Aspekten herausgreift, nämlich die Debatte, die diesbezüglich in der Justiz geführt wird: „Welche Argumentationen werden bei Gerichtsentscheidungen über die Anerkennung von Religionsgemeinschaften verwendet?“ Der Titel der Arbeit könnte dann lauten: „Gerichtliche Argumentationsstrukturen bei der Feststellung des Status „Religionsgemeinschaft“. Eine Untersuchung am Beispiel Scientology.“
 
 </div>
 
@@ -100,7 +100,7 @@ Vor jeder Hausarbeit steht ein Deckblatt, das einige formal wichtige Information
 
 -   Name der Universität, der Fakultät und des Fachs
 
--   Zweck der Arbeit (z.B. »Hausarbeit als Leistungsnachweis im Modul …« oder »Essay als Leistung für den Modulteil …«)
+-   Zweck der Arbeit (z.B. „Hausarbeit als Leistungsnachweis im Modul …“ oder „Essay als Leistung für den Modulteil …“)
 
 -   Titel, Lehrveranstaltungsnummer und Semester des Seminars/​Moduls sowie der Name des oder der Lehrenden
 
@@ -122,7 +122,7 @@ Das Inhaltsverzeichnis enthält die Kapitel und Unterkapitel der Arbeit mit Anga
 
 Jede Hausarbeit umfasst eine Einleitung, einen Hauptteil und einen Schluss. In der Einleitung werden das Thema der Arbeit, die Fragestellung und der Aufbau der Arbeit vorgestellt. Somit können sich die Lesenden schon auf eine bestimmte Struktur einstellen und müssen sie sich nicht aus dem Text erschließen. Der Hauptteil umfasst dann eine Skizze der Literaturlage bzw. des Forschungsstands sowie, als wichtigsten Teil, die eigentliche Bearbeitung des Themas. Im Schluss wird die Arbeit noch einmal kurz zusammengefasst und die wesentlichen Erkenntnisse werden festgehalten. Der Schluss enthält keine neuen Informationen oder Argumente mehr.
 
-Diese Aufteilung entspricht aber in der Regel nicht vollständig der Kapitelgliederung. Während die Einleitung oft noch mit »Einleitung« überschrieben wird, umfasst der Hauptteil meist mehrere Kapitel, und der Schluss wird eher unter der Überschrift »Fazit« oder ähnlichem zu finden sein. Die Kapitel des Hauptteils sollten den Aufbau der Arbeit gut widerspiegeln und entsprechend benannt werden, so dass schon die Kapitelgliederung einen guten Eindruck von den inhaltlichen Schwerpunkten gibt. Unterkapitel können einzelne Kapitel in kleinere Abschnitte aufteilen, allerdings sollte die Gliederung auch nicht zu sehr in die Tiefe gehen. In der Praxis bewährt sich häufig eine Dreiteilung des Hauptteils; dies ist aber lediglich eine Faustregel. Die Kapitel und Unterkapitel sollten dabei nicht unverbunden nebeneinander stehen, sondern durch Überleitungen und Anknüpfungen sinnvoll miteinander verknüpft werden.
+Diese Aufteilung entspricht aber in der Regel nicht vollständig der Kapitelgliederung. Während die Einleitung oft noch mit „Einleitung“ überschrieben wird, umfasst der Hauptteil meist mehrere Kapitel, und der Schluss wird eher unter der Überschrift „Fazit“ oder ähnlichem zu finden sein. Die Kapitel des Hauptteils sollten den Aufbau der Arbeit gut widerspiegeln und entsprechend benannt werden, so dass schon die Kapitelgliederung einen guten Eindruck von den inhaltlichen Schwerpunkten gibt. Unterkapitel können einzelne Kapitel in kleinere Abschnitte aufteilen, allerdings sollte die Gliederung auch nicht zu sehr in die Tiefe gehen. In der Praxis bewährt sich häufig eine Dreiteilung des Hauptteils; dies ist aber lediglich eine Faustregel. Die Kapitel und Unterkapitel sollten dabei nicht unverbunden nebeneinander stehen, sondern durch Überleitungen und Anknüpfungen sinnvoll miteinander verknüpft werden.
 
 Für die Kapitelgliederung bietet sich die Dezimalklassifikation an: Kapitel werden mit 1, 2, und so fort nummeriert, Unterkapitel mit 1.1, 1.2 etc. Auf einer Gliederungsebene darf dabei nie ein einzelnes Kapitel stehen: Gibt es ein Kapitel 2.1, so muss es auch 2.2 geben.
 
@@ -170,7 +170,7 @@ Das Fazit bringt keine neuen Informationen, die nicht schon im Hauptteil behande
 
 <div class="Tipp">
 
-Wenn Sie eine sauber gegliederte Einleitung geschrieben haben, können Sie sich nun umgekehrt an den Punkten wieder »zurückhangeln« – vom Spezifischen Ihrer Arbeit zum Allgemeinen einer größeren Debatte. Wichtig ist in jedem Fall, dass Sie auf die Einleitung Bezug nehmen – so machen Sie Ihre Arbeit »rund« und den Lesenden deutlich, dass Sie eine sinnvoll aufgebaute und stringent vorgehende wissenschaftliche Arbeit abgeliefert haben.
+Wenn Sie eine sauber gegliederte Einleitung geschrieben haben, können Sie sich nun umgekehrt an den Punkten wieder „zurückhangeln“ – vom Spezifischen Ihrer Arbeit zum Allgemeinen einer größeren Debatte. Wichtig ist in jedem Fall, dass Sie auf die Einleitung Bezug nehmen – so machen Sie Ihre Arbeit „rund“ und den Lesenden deutlich, dass Sie eine sinnvoll aufgebaute und stringent vorgehende wissenschaftliche Arbeit abgeliefert haben.
 
 </div>
 
@@ -208,11 +208,11 @@ Zur Formatierung einer Hausarbeit mit gängigen Textverarbeitungsprogrammen sieh
 
 Auch ein guter sprachlicher Ausdruck gehört zu einer gelungenen Hausarbeit. Entgegen verbreiteter Annahmen ist Sprache nicht gleich wissenschaftlich, wenn sie viele Fremdwörter und verschachtelte Sätze verwendet. Der Einsatz von Fachbegriffen sollte einen Text präziser und – für Kenner der Fachsprache, also auch für die Korrigierenden – verständlicher machen, nicht unverständlicher. Achten Sie vor allem darauf, dass Sie selbst verstehen, was Sie schreiben.
 
-Formulieren Sie genau: Das Wort »man« sollte vermieden werden; präzisieren Sie, auf wen Sie sich beziehen, z.B. mit der Formulierung: »Die Verfasserin ist der Ansicht, dass …« Ebenso sollten Sie die Ich-Form vermeiden, wenn Sie Sachverhalte darstellen oder Theorien referieren. Die Ich-Form ist eigenen Argumenten oder Stellungnahmen vorbehalten.
+Formulieren Sie genau: Das Wort „man“ sollte vermieden werden; präzisieren Sie, auf wen Sie sich beziehen, z.B. mit der Formulierung: „Die Verfasserin ist der Ansicht, dass …“ Ebenso sollten Sie die Ich-Form vermeiden, wenn Sie Sachverhalte darstellen oder Theorien referieren. Die Ich-Form ist eigenen Argumenten oder Stellungnahmen vorbehalten.
 
-Formulieren Sie so klar, dass man in Ihren Sätzen kein Wort mehr streichen könnte. Füllwörter wie »eigentlich«, »ziemlich«, »gewissermaßen« oder »letztlich« nehmen Ihren Argumente Überzeugungskraft, weil sie sie in ihrer Bedeutung abschwächen. Verfassen Sie Ihre Arbeit lieber so, dass alle Aussagen umfassend so gemeint sind, wie sie dort stehen. Wenn Einschränkungen zu beachten sind, sollte man diese explizieren und erläutern.
+Formulieren Sie so klar, dass man in Ihren Sätzen kein Wort mehr streichen könnte. Füllwörter wie „eigentlich“, „ziemlich“, „gewissermaßen“ oder „letztlich“ nehmen Ihren Argumente Überzeugungskraft, weil sie sie in ihrer Bedeutung abschwächen. Verfassen Sie Ihre Arbeit lieber so, dass alle Aussagen umfassend so gemeint sind, wie sie dort stehen. Wenn Einschränkungen zu beachten sind, sollte man diese explizieren und erläutern.
 
-Die Argumentation der Arbeit sollte sich auch in der Sprache widerspiegeln: Kausalverbindungen sind ein wichtiges Mittel, um Ihre Argumente schlüssig zu verbinden. Ein häufiger Fehler sind allerdings Kausalverbindungen an Stellen, an die sie nicht gehören. Prüfen Sie ganz genau, ob Sätze oder Satzteile, die Sie mit »deshalb«, »trotzdem«, »angesichts dessen« oder anderen Satzpartikeln, die Bezug auf das vorangegangene nehmen, beginnen, wirklich genau dieses Verhältnis beinhalten.
+Die Argumentation der Arbeit sollte sich auch in der Sprache widerspiegeln: Kausalverbindungen sind ein wichtiges Mittel, um Ihre Argumente schlüssig zu verbinden. Ein häufiger Fehler sind allerdings Kausalverbindungen an Stellen, an die sie nicht gehören. Prüfen Sie ganz genau, ob Sätze oder Satzteile, die Sie mit „deshalb“, „trotzdem“, „angesichts dessen“ oder anderen Satzpartikeln, die Bezug auf das vorangegangene nehmen, beginnen, wirklich genau dieses Verhältnis beinhalten.
 
 Gerade bei längeren Sätzen kommt es leicht zu fehlerhaften grammatikalischen Konstruktionen. Passen Sie also auf, dass alle Formulierungen, Anschlüsse und Bezüge korrekt sind. Ebenso ist eine korrekte und einheitliche Orthographie und Zeichensetzung wichtig.
 
@@ -254,7 +254,7 @@ Die Beurteilung dieser Kriterien ist am besten anhand von Binärpaaren zu verdeu
 | Die Arbeit ist theoretisch durchdacht. | Keine Frage- oder Problemstellung oder methodisch-theoretische Reflexion erkennbar. |
 | Metasprachliche Schlüsselbegriffe wurden definiert, fachgeschichtlich situiert und auf ihre Tauglichkeit geprüft. | Für die Theoriebildung entscheidende Begriffe wurden unreflektiert verwendet. |
 | Die einzelnen Arbeitsschritte wurden durch Methodenreflexionen transparent gemacht. | Methodenreflexion wurde nicht oder unzureichend durchgeführt. |
-|  | Mangelhafte Differenzierung, Pauschalaussagen (»Christen sind …«, »Hindus glauben …«). |
+|  | Mangelhafte Differenzierung, Pauschalaussagen („Christen sind …“, „Hindus glauben …“). |
 | Einordnung der eigenen Arbeit im gegenwärtigen Fachdiskurs. | Religionswissenschaftliche Sekundärliteratur ignorieren; Fragenstellungen entwickeln, die nichts mit Religionswissenschaft zu tun haben. |
 | Innen/​Außenperspektive unterscheiden. | Aus der Innenperspektive heraus argumentieren oder gar werten und urteilen. |
 | Analytische Deskription | Normative Wertungen |
@@ -298,7 +298,7 @@ Eine frühzeitige Absprache mit den Dozierenden über eine mögliche Hausarbeit 
 
 ## Plagiarismus
 
-Fremdes geistiges Eigentum als eigene Gedanken auszugeben, ist im wissenschaftlichen Bereich – in dem auch Sie als Studierende agieren – kein Kavaliersdelikt mehr. Plagiate werden inzwischen an allen Universitäten empfindlich geahndet. Auch an der Ruhr-Universität Bochum gilt: Nicht nur werden selbstverständlich alle Arbeiten, in denen sich Plagiate finden, als »nicht ausreichend« gewertet, darüber hinaus müssen Plagiate dem Prüfungsamt und damit dem Justiziariat gemeldet werden. Letzteres kann über ein Ordnungswidrigkeitsverfahren Geldbußen sowie in schwerwiegenden Fällen den Ausschluss vom Studium veranlassen.
+Fremdes geistiges Eigentum als eigene Gedanken auszugeben, ist im wissenschaftlichen Bereich – in dem auch Sie als Studierende agieren – kein Kavaliersdelikt mehr. Plagiate werden inzwischen an allen Universitäten empfindlich geahndet. Auch an der Ruhr-Universität Bochum gilt: Nicht nur werden selbstverständlich alle Arbeiten, in denen sich Plagiate finden, als „nicht ausreichend“ gewertet, darüber hinaus müssen Plagiate dem Prüfungsamt und damit dem Justiziariat gemeldet werden. Letzteres kann über ein Ordnungswidrigkeitsverfahren Geldbußen sowie in schwerwiegenden Fällen den Ausschluss vom Studium veranlassen.
 
 Im wissenschaftlichen Betrieb gelten verschiedene Tatbestände als Plagiate: Das Einreichen einer Arbeit, die von jemand anderem für den Studierenden erstellt wurde (Ghostwriting) oder das Einreichen einer anderen fremden Arbeit unter dem eigenen Namen (Vollplagiat), die Übernahme von Textteilen aus anderen Werken – oder dem Internet – ohne entsprechende Quellenangaben (Teilplagiat) und das mehrfache Einreichen einer eigenen Arbeit zu unterschiedlichen Anlässen (Selbstplagiat).
 
@@ -312,6 +312,6 @@ Auch für die Beurteilung Ihrer Arbeit ist es wichtig, dass Sie sauber kennzeich
 
 <div class="Tipp">
 
-Wenn Sie über längere Strecken die Argumentation eines anderen Autor indirekt zitieren, sollten Sie dies neben der Verwendung umfassender Belege durch den Einsatz des Konjunktivs deutlich machen. Ihren Anteil an der Arbeit können Sie durch eindeutige Formulierungen an den wichtigen Stellen herausstellen (»ich habe gezeigt, dass …«; »man kann nun also schlussfolgern, dass …«).
+Wenn Sie über längere Strecken die Argumentation eines anderen Autor indirekt zitieren, sollten Sie dies neben der Verwendung umfassender Belege durch den Einsatz des Konjunktivs deutlich machen. Ihren Anteil an der Arbeit können Sie durch eindeutige Formulierungen an den wichtigen Stellen herausstellen („ich habe gezeigt, dass …“; „man kann nun also schlussfolgern, dass …“).
 
 </div>

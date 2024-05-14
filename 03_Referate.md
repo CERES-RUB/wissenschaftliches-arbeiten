@@ -23,7 +23,7 @@ Falls der Text einen Ausschnitt aus einem größeren Werk darstellt, sollte ansc
 
 Erst dann folgt die Vorstellung der zentralen Inhalte des Textes. Hierbei ist es besonders wichtig, keine Nacherzählung zu betreiben: Das Referat vermittelt die zentralen und für den Seminarinhalt relevanten Inhalte des Textes und stellt eine Eigenleistung der Referierenden dar, die über die Wiedergabe des Textes hinausgeht. Wählen Sie daher die Ihrer Meinung nach wichtigen Inhalte aus und stellen Sie diese in einer selbst gewählten Abfolge dar. Die verständliche Darstellung von Argumenten und kausalen Verknüpfungen ist dabei wichtiger als die Befolgung der im Text angelegten Gliederung.
 
-Ein *Themenreferat* gibt einen kurzen Einstieg in ein bestimmtes Thema bzw. einen »Impuls« für die Seminarsitzung. Grundlage eines Themenreferats sind in der Regel mehrere Texte, da nicht nur die Position einer Person wiedergegeben, sondern ein Thema umfassender dargestellt werden soll. Die Vorbereitung eines Themenreferats sollte daher auch eigene Recherchen zum Thema umfassen. Hier ist es besonders wichtig, mit den Dozierenden abzusprechen, was sie sich von diesem Referat erwarten.
+Ein *Themenreferat* gibt einen kurzen Einstieg in ein bestimmtes Thema bzw. einen „Impuls“ für die Seminarsitzung. Grundlage eines Themenreferats sind in der Regel mehrere Texte, da nicht nur die Position einer Person wiedergegeben, sondern ein Thema umfassender dargestellt werden soll. Die Vorbereitung eines Themenreferats sollte daher auch eigene Recherchen zum Thema umfassen. Hier ist es besonders wichtig, mit den Dozierenden abzusprechen, was sie sich von diesem Referat erwarten.
 
 Eine *Stundenvorbereitung* oder Sitzungsgestaltung meint die Begleitung einer ganzen Seminarsitzung, in der dann im Regelfall nicht nur referiert wird, sondern auch eine Einbindung der Seminarteilnehmenden erfolgt. Ein Einstieg zum Sitzungsbeginn in Referatsform bietet sich an, dabei kann auf alle Formen von Referaten zurückgegriffen werden. Bei dieser Wahl sollte auf keinen Fall die Absprache mit den Dozierenden vergessen werden.
 
@@ -57,7 +57,7 @@ Daneben hat ein Referat jedoch einen eher einführenden Charakter, der einige Un
 
     -   Vorstellung des Referatsthemas: Nennen Sie nicht nur Ihr Thema, sondern auch Ihr Vorhaben. Soll wirklich nur der Text vorgestellt werden? Oder beantworten Sie damit auch allgemeinere wissenschaftliche oder das Seminar weiterführende Fragen? Was ist der Mehrwert Ihres Referates?
 
-    -   Vorstellung des Aufbaus Ihres Referats: Entlassen Sie Ihren Zuhörenden nicht in die Orientierungslosigkeit. Erläutern und ggf. begründen Sie die nun folgenden Schritte. So können die Zuhörenden auch besser wieder einsteigen, wenn sie zwischendurch kurz abgelenkt werden sollten. Diese Gliederung sollte sich deshalb auch in irgendeiner Form schriftlich wiederfinden, z. B. auf dem Handout oder in der Präsentation. Aber auch verbal können Sie im Laufe des Referats immer wieder »Wegweiser« setzen (»nachdem ich gezeigt habe, dass … komme ich zum 3. Punkt«).
+    -   Vorstellung des Aufbaus Ihres Referats: Entlassen Sie Ihren Zuhörenden nicht in die Orientierungslosigkeit. Erläutern und ggf. begründen Sie die nun folgenden Schritte. So können die Zuhörenden auch besser wieder einsteigen, wenn sie zwischendurch kurz abgelenkt werden sollten. Diese Gliederung sollte sich deshalb auch in irgendeiner Form schriftlich wiederfinden, z. B. auf dem Handout oder in der Präsentation. Aber auch verbal können Sie im Laufe des Referats immer wieder „Wegweiser“ setzen („nachdem ich gezeigt habe, dass … komme ich zum 3. Punkt“).
 
 2.  Hauptteil
 
@@ -65,7 +65,7 @@ Daneben hat ein Referat jedoch einen eher einführenden Charakter, der einige Un
 
     -   Zentrale Inhalte des Referates/​des referierten Textes: Geben Sie in keinem Fall komplette und unselektierte Inhalte wieder. Überlegen Sie - wie bei der Abfassung einer Hausarbeit – was für die Fragestellung und Zielsetzung des Referates wirklich wichtig ist. Wie sind die Zusammenhänge und der Argumentationsaufbau des Textes?
 
-    -   Bei manchen (schlechten) Referaten wird ziemlich schnell allen Beteiligten klar, dass die Referierenden die vorzutragenden Inhalte selbst nicht in der Tiefe nachvollzogen haben. Aneinanderreihungen von Inhalts-Schnipseln (»und dann sagt Weber … und dann … und dann sagt er noch …«) zeigen, dass die Argumentation nicht verstanden wurde und deshalb auch nicht anschaulich wiedergegeben werden kann. Dieser Kardinalfehler lässt sich leicht vermeiden, indem man sich frühzeitig erstmals mit den zu referierenden Inhalten auseinandersetzt und dann ggf. die Sprechstunde der Dozierenden nutzt, um sich über die Inhalte des Referates zu verständigen. Genau dafür sind Sprechstunden da, und dieses Vorgehen ist für alle Beteiligten deutlich sinnvoller, als sich durch ein unzureichendes Referat zu quälen.
+    -   Bei manchen (schlechten) Referaten wird ziemlich schnell allen Beteiligten klar, dass die Referierenden die vorzutragenden Inhalte selbst nicht in der Tiefe nachvollzogen haben. Aneinanderreihungen von Inhalts-Schnipseln („und dann sagt Weber … und dann … und dann sagt er noch …“) zeigen, dass die Argumentation nicht verstanden wurde und deshalb auch nicht anschaulich wiedergegeben werden kann. Dieser Kardinalfehler lässt sich leicht vermeiden, indem man sich frühzeitig erstmals mit den zu referierenden Inhalten auseinandersetzt und dann ggf. die Sprechstunde der Dozierenden nutzt, um sich über die Inhalte des Referates zu verständigen. Genau dafür sind Sprechstunden da, und dieses Vorgehen ist für alle Beteiligten deutlich sinnvoller, als sich durch ein unzureichendes Referat zu quälen.
 
     -   Um einen komplizierten Text zu verstehen, benötigen Sie an manchen Stellen sicherlich zusätzliche Informationen. Überlegen Sie in einem zweiten Schritt, welche Erläuterungen das Referat selbst dann noch benötigt. Wichtig: Stellen Sie nicht all das vor, was Sie gelesen haben, sondern nur das, was Sie zur Vermittlung der Inhalte benötigen.
 
@@ -73,7 +73,7 @@ Daneben hat ein Referat jedoch einen eher einführenden Charakter, der einige Un
 
         <div class="Tipp">
 
-        Manchmal kann die knappe Wiedergabe von wörtlichen Zitaten Sinn machen. Für die Zuhörenden sind diese einfacher nachzuvollziehen, wenn sie ihnen schriftlich (auf dem Handout oder in der Präsentation) vorgelegt werden. Bauen Sie die Zitate nur mündlich ein, sollten Sie sie kennzeichnen: Mit einem »ich zitiere« vor Beginn des Zitates und einem »Zitat Ende« danach.
+        Manchmal kann die knappe Wiedergabe von wörtlichen Zitaten Sinn machen. Für die Zuhörenden sind diese einfacher nachzuvollziehen, wenn sie ihnen schriftlich (auf dem Handout oder in der Präsentation) vorgelegt werden. Bauen Sie die Zitate nur mündlich ein, sollten Sie sie kennzeichnen: Mit einem „ich zitiere“ vor Beginn des Zitates und einem „Zitat Ende“ danach.
 
         </div>
 
@@ -127,7 +127,7 @@ Für ein Referat sollten Sie sich an folgenden Richtlinien orientieren:
 
 4.  Auch über die einleitenden und ausleitenden Worte sollten Sie sich vor Beginn des Referates Gedanken machen. Dies geht oft in der Vorbereitung unter, weil man sich auf die vermeintlich wichtigeren Inhalte konzentriert; aber Sie sind es, die die Erwartungen der Zuhörenden ausrichten und nachher noch einmal die Erkenntnisse sowie die Bedeutung des Referates herausstellen.
 
-5.  Die Sprache eines Referats unterscheidet sich von der einer schriftlichen Arbeit. Die Sätze sollte kurz und verständlich sein, Fremdwörter sollten vermieden oder aber kurz erklärt werden. Kurze Einschübe auf der Sprecherebene können die Aufmerksamkeit der Zuhörenden lenken, z. B. »Ich komme nun zum zweiten Teil des Vortrags« oder »Abschließend möchte ich die zentralen Punkte noch einmal zusammenfassen«.
+5.  Die Sprache eines Referats unterscheidet sich von der einer schriftlichen Arbeit. Die Sätze sollte kurz und verständlich sein, Fremdwörter sollten vermieden oder aber kurz erklärt werden. Kurze Einschübe auf der Sprecherebene können die Aufmerksamkeit der Zuhörenden lenken, z. B. „Ich komme nun zum zweiten Teil des Vortrags“ oder „Abschließend möchte ich die zentralen Punkte noch einmal zusammenfassen“.
 
 <div class="Tipp">
 

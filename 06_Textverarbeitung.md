@@ -33,7 +33,7 @@ Textverarbeitungen speichern Dokumente standardmäßig in jeweils eigenen Format
 
 **Microsoft Word**
 
-Microsoft Word ist ein verbreitetes Textverarbeitungsprogramm und Teil des Programmpakets »Microsoft Office«. Microsoft Office wird in verschiedenen Ausführungen mit unterschiedlichem Umfang verkauft, wobei in der Regel zumindest Microsoft Word (Textverarbeitung), Microsoft Excel (Tabellenkalkulation) und Microsoft PowerPoint (Präsentationen) enthalten sind.
+Microsoft Word ist ein verbreitetes Textverarbeitungsprogramm und Teil des Programmpakets „Microsoft Office“. Microsoft Office wird in verschiedenen Ausführungen mit unterschiedlichem Umfang verkauft, wobei in der Regel zumindest Microsoft Word (Textverarbeitung), Microsoft Excel (Tabellenkalkulation) und Microsoft PowerPoint (Präsentationen) enthalten sind.
 
 Microsoft Word verwendet seit Version 2007 eine grundlegend erneuerte Benutzeroberfläche und neue Dateiformate, die mit alten Versionen von Microsoft Office nicht kompatibel sind. Microsoft Office ist für die Betriebssysteme Windows und MacOSX erhältlich.
 
@@ -53,7 +53,7 @@ Der Schlüssel zur Verwendung von Textverarbeitungen sind die Formatvorlagen. Di
 
 -   automatische Inhaltsverzeichnisse zu erstellen,
 
--   Verweise auf andere Kapitel zu erstellen, die automatisch aktualisiert werden (z. B. »siehe Kapitel 3, Seite 12«).
+-   Verweise auf andere Kapitel zu erstellen, die automatisch aktualisiert werden (z. B. „siehe Kapitel 3, Seite 12“).
 
 Daher sollte man sich gleich angewöhnen, immer eine Formatvorlage zu verwenden, anstatt Formatierungen direkt einzustellen. Dies gilt neben Überschriften auch für Blockzitate, Fußnoten und anderes.
 
@@ -61,7 +61,7 @@ Daher sollte man sich gleich angewöhnen, immer eine Formatvorlage zu verwenden,
 
 Um sicherzustellen, dass die Angaben im Inhaltsverzeichnis auch tatsächlich mit den Seitenzahlen im Dokument übereinstimmen, empfiehlt sich das Verwenden automatischer Inhaltsverzeichnisse. Diese können, basierend auf den Formatvorlagen für Überschriften, automatisch ein Verzeichnis der Kapitel erstellen. Bei Änderungen im Dokument wird auch das Verzeichnis automatisch aktualisiert.
 
-Ebenso empfiehlt es sich, bei Verweisen im Text (z. B. auf andere Kapitel) sogenannte »Felder« zu verwenden, die ebenfalls automatisch aktualisiert werden. Und die Seitenzahlen selbst sollten in jedem Fall automatisch aktualisiert werden.
+Ebenso empfiehlt es sich, bei Verweisen im Text (z. B. auf andere Kapitel) sogenannte „Felder“ zu verwenden, die ebenfalls automatisch aktualisiert werden. Und die Seitenzahlen selbst sollten in jedem Fall automatisch aktualisiert werden.
 
 ## LaTeX {#sec:latex}
 
@@ -79,7 +79,7 @@ Der Einstieg in LaTeX kann etwas verwirrend sein, da LaTeX aus verschiedenen, un
 
 3.  einen Betrachter für die Ausgabedatei, in der Regel ein PDF-Betrachter.
 
-Die Distribution »TeXLive« umfasst alle benötigten Komponenten und kann unter <http://www.tug.org/texlive/> heruntergeladen werden. TeXLive steht für Windows, MacOSX, Linux und andere Systeme zur Verfügung.
+Die Distribution „TeXLive“ umfasst alle benötigten Komponenten und kann unter <http://www.tug.org/texlive/> heruntergeladen werden. TeXLive steht für Windows, MacOSX, Linux und andere Systeme zur Verfügung.
 
 ## Dateiformate {#sec:dateiformate}
 
@@ -87,7 +87,7 @@ So lange die Dokumente nur auf dem eigenen Rechner verwendet und nur in ausgedru
 
 Wenn man aber Dokumente auf elektronischem Wege weitergibt, weil man z. B. seine Hausarbeit per E-Mail an Dozierende schickt, muss man auf das verwendete Dateiformat achten. Es kann nicht vorausgesetzt werden, dass der:die Dozierende das gleiche Programm verwendet wie man selbst, und nicht alle Anwendungen können alle Formate lesen. Um unnötige Probleme zu vermeiden, sollte man sich daher an folgenden Richtlinien orientieren:
 
--   Wenn ein Text von Empfangenden nicht bearbeitet werden muss (was in der Regel der Fall ist, wenn man Arbeiten an Dozierende schickt), empfiehlt sich das **PDF**-Format. PDF-Dateien können praktisch auf jedem Computer angezeigt werden und sehen überall gleich aus. Vergleichbar mit »elektronischem Papier« können PDF-Dateien aber nicht ohne weiteres bearbeitet werden. Damit Dierende Anmerkungen im Dokument vornehmen können, kann es sinnvoll sein, zusätzlich eine bearbeitbare Version mitzuschicken (s. u.).
+-   Wenn ein Text von Empfangenden nicht bearbeitet werden muss (was in der Regel der Fall ist, wenn man Arbeiten an Dozierende schickt), empfiehlt sich das **PDF**-Format. PDF-Dateien können praktisch auf jedem Computer angezeigt werden und sehen überall gleich aus. Vergleichbar mit „elektronischem Papier“ können PDF-Dateien aber nicht ohne weiteres bearbeitet werden. Damit Dierende Anmerkungen im Dokument vornehmen können, kann es sinnvoll sein, zusätzlich eine bearbeitbare Version mitzuschicken (s. u.).
 
 -   LibreOffice bietet standardmäßig die Möglichkeit, Dokumente im PDF-Format zu exportieren. LaTeX gibt ebenfalls PDF-Dateien aus. Für Microsoft Word gibt es z. B. PDF-Drucker, die einen Ausdruck als PDF-Datei speichern, anstatt ihn über einen echten Drucker auf Papier auszugeben.
 
@@ -97,4 +97,4 @@ Wenn man aber Dokumente auf elektronischem Wege weitergibt, weil man z. B. seine
 
     -   Die verwendeten Schriftarten müssen auf dem Computer der Empfangenden vorhanden sein, um die gleiche Darstellung zu erhalten. Das ist insbesondere bei fremdsprachlichen Zeichen (Hebräisch, Arabisch etc.) nicht immer gegeben. 
 
-    -   Als Dateiformat empfiehlt sich derzeit das **»docx«**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z. B. LibreOffice, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von LibreOffice als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Das ältere **doc**-Format von Microsoft Word ist veraltet und anfällig für Sicherheitsprobleme. Es sollte nicht mehr genutzt werden. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzugt.
+    -   Als Dateiformat empfiehlt sich derzeit das **„docx“**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z. B. LibreOffice, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von LibreOffice als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Das ältere **doc**-Format von Microsoft Word ist veraltet und anfällig für Sicherheitsprobleme. Es sollte nicht mehr genutzt werden. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzugt.

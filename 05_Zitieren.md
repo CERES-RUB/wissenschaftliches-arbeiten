@@ -43,7 +43,7 @@ Es ist bei der Verwendung von einfachen Anführungszeichen innerhalb von Zitaten
 
 </div>
 
-Jede Veränderung am Text muss unbedingt gekennzeichnet werden. Solcherlei Anmerkungen, auch im Zitat, werden in der Regel durch eckige Klammer gekennzeichnet. So werden etwa Auslassungen mit \[…\] kenntlich gemacht. Ist es zum Verständnis eines Satzes notwendig, können auch Einfügungen im Zitat vorgenommen werden, die mit Ihren Initialen versehen werden. So lassen sich etwa Bezüge herstellen: »Er \[Kant, F.E.\] spricht von der Subjektivität unserer Erkenntnis.« Auch Fehler im Manuskript oder Auffälligkeiten können Sie mit einem \[sic!\] kommentieren, um deutlich zu machen, dass dieser Fehler nicht Ihrer ist.
+Jede Veränderung am Text muss unbedingt gekennzeichnet werden. Solcherlei Anmerkungen, auch im Zitat, werden in der Regel durch eckige Klammer gekennzeichnet. So werden etwa Auslassungen mit \[…\] kenntlich gemacht. Ist es zum Verständnis eines Satzes notwendig, können auch Einfügungen im Zitat vorgenommen werden, die mit Ihren Initialen versehen werden. So lassen sich etwa Bezüge herstellen: „Er \[Kant, F.E.\] spricht von der Subjektivität unserer Erkenntnis.“ Auch Fehler im Manuskript oder Auffälligkeiten können Sie mit einem \[sic!\] kommentieren, um deutlich zu machen, dass dieser Fehler nicht Ihrer ist.
 
 An einem kurzen Beispiel soll dies verdeutlicht werden. In einem Text findet sich die folgende Stelle, die zitiert werden soll:
 
@@ -52,20 +52,20 @@ An einem kurzen Beispiel soll dies verdeutlicht werden. In einem Text findet sic
 Dieses Zitat kann nun auf verschiedene Weisen im Text wiedergegeben werden:
 
 -   Abgesetzes Blockzitat (bei Zitaten länger als ca. drei Zeilen, sparsam einsetzen):  
-    Boyarin zufolge kann die Kategorie »Religion« aus jüdischer Sicht nicht auf das Judentum angewandt werden, wie er ausführt:
+    Boyarin zufolge kann die Kategorie „Religion“ aus jüdischer Sicht nicht auf das Judentum angewandt werden, wie er ausführt:
 
-    > »In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether. From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion*, one a bad example and the other one a very good one, indeed the only prototype; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not.« (Boyarin 2005, 354 f.)
+    > „In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether. From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion*, one a bad example and the other one a very good one, indeed the only prototype; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not.“ (Boyarin 2005, 354 f.)
 
     Seine Kritik am Religionsbegriff ist somit grundsätzlicher Art.
 
 -   Wörtliches Zitat im Absatz:  
-    Folgt man Boyarins Kritik am Religionsbegriff, lassen sich Christentum und Judentum nicht mehr unter der gemeinsamen Kategorie »Religion« fassen: »In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 354 f.).
+    Folgt man Boyarins Kritik am Religionsbegriff, lassen sich Christentum und Judentum nicht mehr unter der gemeinsamen Kategorie „Religion“ fassen: „In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether“ (Boyarin 2005, 354 f.).
 
 -   Einflechtung in einen eigenen Satz:  
-    Boyarin geht dabei so weit zu sagen, dass »it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether« (Boyarin 2005, 354 f.).
+    Boyarin geht dabei so weit zu sagen, dass „it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether“ (Boyarin 2005, 354 f.).
 
 -   Auslassungen:  
-    Boyarin betont die unterschiedlichen Perspektiven auf das Konzept »Religion«: »From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion* \[…\]; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not« (Boyarin 2005, 354 f.).
+    Boyarin betont die unterschiedlichen Perspektiven auf das Konzept „Religion“: „From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion* \[…\]; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not“ (Boyarin 2005, 354 f.).
 
 <div class="Technik">
 
@@ -73,13 +73,13 @@ Die Auslassungspunkte sind nicht einfach drei hintereinandergesetzte Punkte (.\.
 
 </div>
 
-Indirekte Zitate erfordern dieses Vorgehen nicht. Hier wird ein zitierender Satz oder Abschnitt in eigenen Worten wiedergegeben und einfach in den Fließtext eingegliedert. Auslassungen oder Veränderungen sind erlaubt, solange sie nicht sinnentstellend sind. Beim Beleg indirekter Zitate wird der Quellenangabe der Hinweis »vgl.« vorangestellt, um kenntlich zu machen, dass es sich um eine nicht-wörtliche Wiedergabe des Textes handelt. Weitere Verweise auf Literatur, die nicht zitiert wird, aber das Gesagte unterstützt, können mit »vgl. auch« eingeleitet werden. Auf Literatur, die den vorgestellten Thesen oder Argumenten widerspricht, wird der Redlichkeit halber mit »vgl. aber« verwiesen.
+Indirekte Zitate erfordern dieses Vorgehen nicht. Hier wird ein zitierender Satz oder Abschnitt in eigenen Worten wiedergegeben und einfach in den Fließtext eingegliedert. Auslassungen oder Veränderungen sind erlaubt, solange sie nicht sinnentstellend sind. Beim Beleg indirekter Zitate wird der Quellenangabe der Hinweis „vgl.“ vorangestellt, um kenntlich zu machen, dass es sich um eine nicht-wörtliche Wiedergabe des Textes handelt. Weitere Verweise auf Literatur, die nicht zitiert wird, aber das Gesagte unterstützt, können mit „vgl. auch“ eingeleitet werden. Auf Literatur, die den vorgestellten Thesen oder Argumenten widerspricht, wird der Redlichkeit halber mit „vgl. aber“ verwiesen.
 
 -   Indirektes Zitat:  
-    Folgt man der These, dass die Kategorie »Religion« an sich eine christliche Erfindung ist, so liegt der Schluss nahe, dass etwa das Judentum aus seiner Binnenperspektive heraus nicht als Religion verstanden wird (vgl. Boyarin 2005, 354 f.).
+    Folgt man der These, dass die Kategorie „Religion“ an sich eine christliche Erfindung ist, so liegt der Schluss nahe, dass etwa das Judentum aus seiner Binnenperspektive heraus nicht als Religion verstanden wird (vgl. Boyarin 2005, 354 f.).
 
 -   Verweis:  
-    Auch wenn sich die Argumentationslinien im Detail unterscheiden, fügt sich Asads Dekonstruktion des Religionsbegriffs in eine Reihe postkolonialer Kritik am christozentrischen Konzept »Religion« (vgl. etwa Boyarin 2005).
+    Auch wenn sich die Argumentationslinien im Detail unterscheiden, fügt sich Asads Dekonstruktion des Religionsbegriffs in eine Reihe postkolonialer Kritik am christozentrischen Konzept „Religion“ (vgl. etwa Boyarin 2005).
 
 <div class="Hinweis">
 
@@ -93,7 +93,7 @@ Zur wissenschaftlichen Redlichkeit gehört es, die Literatur explizit zu nennen,
 
 Um die verwendeten Zitate zu belegen, müssen Sie den Lesenden solcherlei Angaben zur Verfügung stellen, dass diese ebenso das Zitat wieder auffinden könnte. Das beinhaltet bspw. bei Zitaten aus Monografien zumindest Autor:in, Buchtitel, Erscheinungsort, Erscheinungsjahr und Seitenzahl des Zitates, dazu können je nach Zitierstil und Art des Werkes noch weitere Angaben wie der Verlag oder die Auflage kommen. Bei anderen Textsorten wie Sammelband- oder Zeitschriftenartikeln müssen weitere Angaben beigefügt werden (s. u.).
 
-All diese Angaben zusammengenommen ergeben meist eine recht lange Liste, die nicht direkt am Zitat stehen kann – dort würde Sie den Lesefluss empfindlich stören. Deshalb haben sich zwei Zitierweisen eingebürgert, die dieses Problem unterschiedlich lösen, das »Autor-Jahr-System« (auch »amerikanische« oder »Harvard-Notation« genannt) und das »Fußnoten-System« (auch »deutsche« oder »historische« Zitierweise).
+All diese Angaben zusammengenommen ergeben meist eine recht lange Liste, die nicht direkt am Zitat stehen kann – dort würde Sie den Lesefluss empfindlich stören. Deshalb haben sich zwei Zitierweisen eingebürgert, die dieses Problem unterschiedlich lösen, das „Autor-Jahr-System“ (auch „amerikanische“ oder „Harvard-Notation“ genannt) und das „Fußnoten-System“ (auch „deutsche“ oder „historische“ Zitierweise).
 
 Diese Unterscheidung wirkt sich sowohl auf die Art aus, wie im Text die Quellen von (direkten oder indirekten) Zitaten angegeben werden als auch auf die Darstellung der verwendeten Literatur im Literaturverzeichnis. Zusätzlich macht es einen Unterschied, um welche Art von Literatur es sich handelt (siehe den Abschnitt [Formen wissenschaftlicher Literatur](01_Textarten.html#sec:formen)).
 
@@ -111,20 +111,20 @@ Die im Folgenden vorgestellten Zitierweisen sind nur zwei von vielen Möglichkei
 
 Im Fußnotensystem werden die Literaturangaben, ebenso wie ggf. Nebenbemerkungen, in Fußnoten notiert. Bei der ersten Nennung werden zitierte Titel vollständig angeführt, so wie sie auch im Literaturverzeichnis erscheinen. Bei allen weiteren Nennungen wird dann nur noch der Autor:innenname und ein Kurztitel sowie die Seitenzahl, auf die Sie sich beziehen, angegeben.
 
-Folgen zwei Nennungen einer Quelle direkt aufeinander, ist also kein Verweis auf eine andere Quelle zwischen den beiden Nennungen, kann anstatt der Kurzangabe auch schlicht ein »ebd.« (für »ebenda«) angegeben werden. Ist die Seitenzahl identisch zur vorhergegangenen Nennung, kann sie weggelassen werden. Bei einer abweichenden Seitenzahl wird sie zusätzlich angeführt.
+Folgen zwei Nennungen einer Quelle direkt aufeinander, ist also kein Verweis auf eine andere Quelle zwischen den beiden Nennungen, kann anstatt der Kurzangabe auch schlicht ein „ebd.“ (für „ebenda“) angegeben werden. Ist die Seitenzahl identisch zur vorhergegangenen Nennung, kann sie weggelassen werden. Bei einer abweichenden Seitenzahl wird sie zusätzlich angeführt.
 
 Die Fußnotenzitierweise soll an folgendem Beispiel demonstriert werden:
 
 > My argument is that there cannot be a universal definition of religion, not only because its constituent elements and relationships are historically specific, but because that definition is itself the historical product of discursive processes.
 
 -   Erstes Zitat (Vollangabe):  
-    So schreibt Talal Asad: »My argument is that there cannot be a universal definition of religion, not only because its constituent elements and relationships are historically specific, but because that definition is itself the historical product of discursive processes.«[^1]
+    So schreibt Talal Asad: „My argument is that there cannot be a universal definition of religion, not only because its constituent elements and relationships are historically specific, but because that definition is itself the historical product of discursive processes.“[^1]
 
 -   Folgezitat (Kurzangabe):  
     Nach Ansicht von Talal Asad kann Religion nicht universell definiert werden, da jede Definition des Begriffs selbst Ergebnis eines diskursiven Prozesses ist.[^2]
 
 -   Direktes Folgezitat:  
-    Talal Asad argumentiert »that there cannot be a universal definition of religion \[…\] because that definition is itself the historical product of discursive processes.«[^3]
+    Talal Asad argumentiert „that there cannot be a universal definition of religion \[…\] because that definition is itself the historical product of discursive processes.“[^3]
 
 Das Literaturverzeichnis führt vollständig sämtliche zitierte Literatur auf. Umgekehrt soll keine Literatur enthalten sein, die im Text nicht verwendet wird. Es dient damit der übersichtlichen Zusammenfassung aller genannter Literatur. Das Literaturverzeichnis muss einheitlich formatiert werden. Die genaue Darstellung richtet sich dabei auch nach der verwendeten Zitierweise. Das Literaturverzeichnis wird dabei immer alphabetisch nach den Nachnamen der Autoren sortiert.
 
@@ -135,17 +135,17 @@ a)  Monografien:[^4]
     Luckmann, Thomas: Die unsichtbare Religion, 2. Aufl., Frankfurt am Main: Suhrkamp 1993.
 
 b)  Sammelbandaufsätze:  
-    Nachname, Vorname <span>*(Autor:in)*</span>: »Titel des Aufsatzes«, in: Vorname Nachname <span>*(Herausgeber:in)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag Jahr, S. Seiten des Aufsatzes.  
-    Asad, Talal: »The Construction of Religion as an Anthropological Category«, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, S. 114–132.  
-    Boyarin, Daniel: »Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity«, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press 2005, S. 339–358.
+    Nachname, Vorname <span>*(Autor:in)*</span>: „Titel des Aufsatzes“, in: Vorname Nachname <span>*(Herausgeber:in)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag Jahr, S. Seiten des Aufsatzes.  
+    Asad, Talal: „The Construction of Religion as an Anthropological Category“, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, S. 114–132.  
+    Boyarin, Daniel: „Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity“, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press 2005, S. 339–358.
 
 c)  Zeitschriftenaufsätze:  
-    Nachname, Vorname: »Titel«, *Zeitschrift* Band/​Nummer (Jahr), S. Seiten des Aufsatzes.  
-    von Stuckrad, Kocku: »Discursive Study of Religion: From States of the Mind to Communication and Action«, *Method & Theory in the Study of Religion* 15/3 (2003), S. 255–271.
+    Nachname, Vorname: „Titel“, *Zeitschrift* Band/​Nummer (Jahr), S. Seiten des Aufsatzes.  
+    von Stuckrad, Kocku: „Discursive Study of Religion: From States of the Mind to Communication and Action“, *Method & Theory in the Study of Religion* 15/3 (2003), S. 255–271.
 
 d)  Lexikonartikel:  
-    Name, Vorname: »Artikel«, in: Lexikon Bd. Band, ggf. Auflage, Jahr, S. Seiten des Artikels.  
-    Avi-Yonah, Michael: »Adoraim«, in: Encyclopaedia Judaica Bd. 1, 2. Aufl., 2006, S. 214.
+    Name, Vorname: „Artikel“, in: Lexikon Bd. Band, ggf. Auflage, Jahr, S. Seiten des Artikels.  
+    Avi-Yonah, Michael: „Adoraim“, in: Encyclopaedia Judaica Bd. 1, 2. Aufl., 2006, S. 214.
 
 ## Autor-Jahr-Zitierweise
 
@@ -154,13 +154,13 @@ Bei dieser Zitierweise, die vor allem in den Natur- und Sozialwissenschaften geb
 > Religions are powerful not because they reveal transcendent truths or the effects of an ontologized “History”, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action.
 
 -   Erstes Zitat:  
-    »Religions are powerful not because they reveal transcendent truths or the effects of an ontologized ›History‹, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action« (Stuckrad 2003, 269).
+    „Religions are powerful not because they reveal transcendent truths or the effects of an ontologized ›History‹, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action“ (Stuckrad 2003, 269).
 
 -   Folgezitat:[^6]  
     Nach Ansicht einiger Autor:innen besteht die Wirkmächtigkeit von Religionen besonders in der Unterstützung von Identitätskonstruktionen und in konkreten Handlungsanweisungen (vgl. etwa Stuckrad 2003, 269).
 
 -   Direktes Folgezitat:  
-    So seien Religionen »powerful \[…\] because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action« (ebd., 269).
+    So seien Religionen „powerful \[…\] because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action“ (ebd., 269).
 
 Da die Verweise im Text keine vollständigen Literaturangaben enthalten, liefert bei der Autor-Jahr-Zitierweise das Literaturverzeichnis die relevanten Informationen zum Auffinden der Literatur. Im Autor-Jahr-System wird die Jahreszahl direkt hinter den Autor:innennamen gesetzt, um das Nachschlagen der Angaben im Text zu erleichtern. Die Sortierung erfolgt alphabetisch.
 
@@ -169,23 +169,23 @@ a)  Monografien:[^7]
     Luckmann, Thomas (1993): Die unsichtbare Religion, 2. Aufl., Frankfurt am Main: Suhrkamp.
 
 b)  Sammelbandaufsätze:  
-    Nachname, Vorname <span>*(Autor:in)*</span> (Jahr): »Titel des Aufsatzes«, in: Vorname Nachname <span>*(Herausgeber:in)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag, S. Seiten des Aufsatzes.  
-    Asad, Talal (2002): »The Construction of Religion as an Anthropological Category«, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers, S. 114–132.  
-    Boyarin, Daniel (2005): »Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity«, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press, S. 339–358.
+    Nachname, Vorname <span>*(Autor:in)*</span> (Jahr): „Titel des Aufsatzes“, in: Vorname Nachname <span>*(Herausgeber:in)*</span> (Hrsg.): Titel des Sammelbands, ggf. Auflage, Ort: Verlag, S. Seiten des Aufsatzes.  
+    Asad, Talal (2002): „The Construction of Religion as an Anthropological Category“, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers, S. 114–132.  
+    Boyarin, Daniel (2005): „Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity“, in: Ania Loomba (Hrsg.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press, S. 339–358.
 
 c)  Zeitschriftenaufsätze:  
-    Nachname, Vorname (Jahr): »Titel«, *Zeitschrift* Band/​Nummer, S. Seiten des Aufsatzes.  
-    von Stuckrad, Kocku (2003): »Discursive Study of Religion: From States of the Mind to Communication and Action«, *Method & Theory in the Study of Religion* 15/3, S. 255–271.
+    Nachname, Vorname (Jahr): „Titel“, *Zeitschrift* Band/​Nummer, S. Seiten des Aufsatzes.  
+    von Stuckrad, Kocku (2003): „Discursive Study of Religion: From States of the Mind to Communication and Action“, *Method & Theory in the Study of Religion* 15/3, S. 255–271.
 
 d)  Lexikonartikel:  
-    Name, Vorname (Jahr): »Artikel«, in: Lexikon Bd. Band, ggf. Auflage, S. Seiten des Artikels.  
-    Avi-Yonah, Michael (2006): »Adoraim«, in: Encyclopaedia Judaica Bd. 1, 2. Aufl., S. 214.
+    Name, Vorname (Jahr): „Artikel“, in: Lexikon Bd. Band, ggf. Auflage, S. Seiten des Artikels.  
+    Avi-Yonah, Michael (2006): „Adoraim“, in: Encyclopaedia Judaica Bd. 1, 2. Aufl., S. 214.
 
 <div class="Hinweis">
 
-Sie haben irgendwo in einem Buch das spannende Zitat von einem:einer anderen Autor:in gelesen? Dieses Buch ist aber umständlich oder gar nicht zu beschaffen? Zitate »aus zweiter Hand« zu verwenden, aber dies nicht zu kennzeichnen, ist verlockend. Trotzdem sollten Sie nicht einfach die Literaturangabe übernehmen und so tun, als hätten Sie das Buch selbst gelesen. Auch in dem Werk, in dem Sie das Zitat gefunden haben, können sich Fehler bei der Angabe eingeschlichen haben. Ebenso fehlt Ihnen dann die Kenntnis über den ursprünglichen Kontext des Zitates – vielleicht passt der zu dem Buch, in dem Sie das Zitat gefunden haben, aber überhaupt nicht zum Thema Ihrer Arbeit?
+Sie haben irgendwo in einem Buch das spannende Zitat von einem:einer anderen Autor:in gelesen? Dieses Buch ist aber umständlich oder gar nicht zu beschaffen? Zitate „aus zweiter Hand“ zu verwenden, aber dies nicht zu kennzeichnen, ist verlockend. Trotzdem sollten Sie nicht einfach die Literaturangabe übernehmen und so tun, als hätten Sie das Buch selbst gelesen. Auch in dem Werk, in dem Sie das Zitat gefunden haben, können sich Fehler bei der Angabe eingeschlichen haben. Ebenso fehlt Ihnen dann die Kenntnis über den ursprünglichen Kontext des Zitates – vielleicht passt der zu dem Buch, in dem Sie das Zitat gefunden haben, aber überhaupt nicht zum Thema Ihrer Arbeit?
 
-Verwenden Sie bestenfalls etwas mehr Mühe darauf, das Original zu beschaffen. Andernfalls sollten Sie zumindest so ehrlich sein und das Zitat zwar verwenden, aber offenlegen, wie Sie daran gekommen sind. Dies geschieht durch die Belegangabe der ursprünglichen Stelle des Zitates, daran anknüpfend dann der Verweis »zitiert nach«, und hier wiederum die vollständige Angabe des Buches, dem Sie das Zitat entnommen haben.
+Verwenden Sie bestenfalls etwas mehr Mühe darauf, das Original zu beschaffen. Andernfalls sollten Sie zumindest so ehrlich sein und das Zitat zwar verwenden, aber offenlegen, wie Sie daran gekommen sind. Dies geschieht durch die Belegangabe der ursprünglichen Stelle des Zitates, daran anknüpfend dann der Verweis „zitiert nach“, und hier wiederum die vollständige Angabe des Buches, dem Sie das Zitat entnommen haben.
 
 </div>
 
@@ -228,7 +228,7 @@ Grob kann man Web-Angebote in drei Kategorien einteilen:
     Seiten wie etwa das Forum Qualitative Sozialforschung (<http://www.qualitative-research.net/>) können verwendet werden wie traditionelle Print-Zeitschriften auch. Da hier auch vollständige Autor:innenangaben vorliegen, erfolgt die Zitation ähnlich wie bei anderen Zeitschriftenaufsätzen, mit zwei Modifikationen: Zum einen sind Internetadresse (URL) und Zugriffsdatum anzugeben, zum anderen sind bei Online-Quellen keine Seitenzahlen verfügbar, so dass nach Absatznummer oder anderen Kriterien zitiert werden muss.
 
     Beispiel:[^9]  
-    Witzel, Andreas (2000): »Das problemzentrierte Interview«, in: *Forum Qualitative Sozialforschung/​Forum: Qualitative Social Research* 1/1, Art. 22, http://nbn-resolving.de/urn:nbn:de:0114-fqs0001228 (letzter Zugriff: 19.8.2010).
+    Witzel, Andreas (2000): „Das problemzentrierte Interview“, in: *Forum Qualitative Sozialforschung/​Forum: Qualitative Social Research* 1/1, Art. 22, http://nbn-resolving.de/urn:nbn:de:0114-fqs0001228 (letzter Zugriff: 19.8.2010).
 
 2.  Populäre Online-Lexika
 
@@ -256,7 +256,7 @@ Zu Ihrer eigenen Sicherheit und zugunsten der längerfristigen Nachprüfbarkeit 
 
 </div>
 
-Neben Texten (und auch Internetseiten sind natürlich Texte) gibt es noch andere Medienformen, die man u. U. für eine wissenschaftliche Arbeit heranzieht – wenn auch in den meisten Fällen als Primärquelle. Da hierbei einige Besonderheiten zu beachten sind und sich zudem die Zitation der einzelnen Medienarten im Detail unterscheidet, sei an dieser Stelle auf die »Audiovisual Citation Guidelines« verwiesen, in denen konkrete Fälle nachgeschlagen werden können: <http://bufvc.ac.uk/projects-research/avcitation>. Die dort vorgestellten Beispiele müssen im Einzelfall noch an die verwendeten Konventionen angepasst werden, etwa in Hinblick auf die gängige Zeichensetzung.
+Neben Texten (und auch Internetseiten sind natürlich Texte) gibt es noch andere Medienformen, die man u. U. für eine wissenschaftliche Arbeit heranzieht – wenn auch in den meisten Fällen als Primärquelle. Da hierbei einige Besonderheiten zu beachten sind und sich zudem die Zitation der einzelnen Medienarten im Detail unterscheidet, sei an dieser Stelle auf die „Audiovisual Citation Guidelines“ verwiesen, in denen konkrete Fälle nachgeschlagen werden können: <http://bufvc.ac.uk/projects-research/avcitation>. Die dort vorgestellten Beispiele müssen im Einzelfall noch an die verwendeten Konventionen angepasst werden, etwa in Hinblick auf die gängige Zeichensetzung.
 
 <div class="Merke">
 
@@ -267,9 +267,9 @@ Neben Texten (und auch Internetseiten sind natürlich Texte) gibt es noch andere
 
 </div>
 
-[^1]: Talal Asad: »The Construction of Religion as an Anthropological Category«, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, S. 114–132, hier: S. 116.
+[^1]: Talal Asad: „The Construction of Religion as an Anthropological Category“, in: Michael Lambek (Hrsg.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, S. 114–132, hier: S. 116.
 
-[^2]: Vgl. Asad: »The Construction of Religion«, 116.
+[^2]: Vgl. Asad: „The Construction of Religion“, 116.
 
 [^3]: Ebd., 116.
 
