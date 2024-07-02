@@ -11,7 +11,7 @@ Wenn Sie ein wenig Zeit investieren, um sich einige Grundtechniken zu erarbeiten
 
 <div class="Technik">
 
-Das Arbeiten mit den entsprechenden Computerprogrammen lässt sich nur schwer über reinen Text vermitteln, man muss es sich angucken und – noch wichtiger – ausprobieren. In diesem Leitfaden werden daher nur einige Grundideen des wissenschaftlichen Arbeitens mit dem PC vermittelt. Weitere Informationen zu den jeweiligen Programmen finden Sie auf der Website des Studiengangs unter <http://studium.ceres.rub.de/de/materialien/software/>.
+Das Arbeiten mit den entsprechenden Computerprogrammen lässt sich nur schwer über reinen Text vermitteln, man muss es sich angucken und – noch wichtiger – ausprobieren. In diesem Leitfaden werden daher nur einige Grundideen des wissenschaftlichen Arbeitens mit dem PC vermittelt.
 
 </div>
 
@@ -21,7 +21,7 @@ Die Produktionsform der Wissenschaft ist das Verfassen von Texten. Daher ist ein
 
 ## Office-Anwendungen {#sec:office}
 
-Am verbreitesten sind Office-Textverarbeitungen, allen voran Microsoft Word. Diesem für die meisten Anwendungsfälle wissenschaftlichen Arbeitens ebenbürtig (oder sogar überlegen) ist das Programm Writer aus dem LibreOffice-Paket. Für Studierende ist letzteres auch aufgrund der Tatsache attraktiv, dass es kostenlos im Internet heruntergeladen werden kann.
+Am verbreitesten sind Office-Textverarbeitungen, allen voran Microsoft Word. Diesem für die meisten Anwendungsfälle wissenschaftlichen Arbeitens ebenbürtig (oder sogar überlegen) ist das Programm Writer aus dem LibreOffice-Paket. Für Studierende ist letzteres auch aufgrund der Tatsache attraktiv, dass es kostenlos heruntergeladen werden kann.
 
 Office-Textverarbeitungen bieten eine komfortable Möglichkeit, Texte direkt so einzugeben wie sie (voraussichtlich) später im Druck aussehen werden. Dies verleitet jedoch dazu, sich gleich stark auf das äußere Erscheinungsbild zu konzentrieren. Später kann dies Korrekturen und Änderungen der Formatierung erschweren. Daher sind einige Details für die Verwendung dieser Programme zu beachten.
 
@@ -33,17 +33,15 @@ Textverarbeitungen speichern Dokumente standardmäßig in jeweils eigenen Format
 
 **Microsoft Word**
 
-Microsoft Word ist ein verbreitetes Textverarbeitungsprogramm und Teil des Programmpakets „Microsoft Office“. Microsoft Office wird in verschiedenen Ausführungen mit unterschiedlichem Umfang verkauft, wobei in der Regel zumindest Microsoft Word (Textverarbeitung), Microsoft Excel (Tabellenkalkulation) und Microsoft PowerPoint (Präsentationen) enthalten sind.
+Microsoft Word ist ein verbreitetes Textverarbeitungsprogramm und Teil des Programmpakets „Microsoft Office“. Microsoft Office wird in verschiedenen Ausführungen mit unterschiedlichem Umfang verkauft, wobei in der Regel zumindest Microsoft Word (Textverarbeitung), Microsoft Excel (Tabellenkalkulation) und Microsoft PowerPoint (Präsentationen) enthalten sind. Microsoft Office ist für die Betriebssysteme Windows und MacOSX erhältlich.
 
-Microsoft Word verwendet seit Version 2007 eine grundlegend erneuerte Benutzeroberfläche und neue Dateiformate, die mit alten Versionen von Microsoft Office nicht kompatibel sind. Microsoft Office ist für die Betriebssysteme Windows und MacOSX erhältlich.
-
-Nähere Informationen siehe <https://products.office.com>.
+Als Studierende der RUB können Sie Microsoft Office 365 kostenlos nutzen, solange Sie immatrikuliert sind. Nähere Informationen siehe <https://www.it-services.ruhr-uni-bochum.de/services/software/microsoft.html.de>.
 
 **LibreOffice Writer**
 
-LibreOffice ist ein Textverarbeitungsprogramm und Teil der LibreOffice-Programmsuite. LibreOffice umfasst Writer (Textverarbeitung), Calc (Tabellenkalkulation), Impress (Präsentationen) sowie weitere Komponenten für Grafiken, mathematische Formeln und Datenbanken. Im Gegensatz zu Microsoft Office ist LibreOffice als OpenSource-Software kostenlos erhältlich.
+LibreOffice Writer ist ein Textverarbeitungsprogramm und Teil der LibreOffice-Programmsuite. LibreOffice umfasst Writer (Textverarbeitung), Calc (Tabellenkalkulation), Impress (Präsentationen) sowie weitere Komponenten für Grafiken, mathematische Formeln und Datenbanken. Im Gegensatz zu Microsoft Office ist LibreOffice als OpenSource-Software kostenlos erhältlich, auch nach Ende Ihres Studiums.
 
-LibreOffice ist für die Betriebssysteme Windows, MacOSX, Linux und andere erhältlich. Für weitere Informationen und Downloads siehe <http://www.libreoffice.org/>.
+LibreOffice ist für die Betriebssysteme Windows, MacOSX, Linux und andere erhältlich. Für weitere Informationen und Downloads siehe <https://www.libreoffice.org/>.
 
 ### Formatvorlagen
 
@@ -63,6 +61,7 @@ Um sicherzustellen, dass die Angaben im Inhaltsverzeichnis auch tatsächlich mit
 
 Ebenso empfiehlt es sich, bei Verweisen im Text (z. B. auf andere Kapitel) sogenannte „Felder“ zu verwenden, die ebenfalls automatisch aktualisiert werden. Und die Seitenzahlen selbst sollten in jedem Fall automatisch aktualisiert werden.
 
+<!--
 ## LaTeX {#sec:latex}
 
 Eine Alternative zu gängigen Textverarbeitungen stellt das Textsatzsystem LaTeX dar. Es kann ebenfalls kostenlos aus dem Internet heruntergeladen werden. Seine Benutzung ist am Anfang sehr gewöhnungsbedürftig und erfordert deutlich mehr Einarbeitungszeit als eine herkömmliche Textverarbeitung. Dies wird durch eine Reihe von Vorteilen entschädigt. Einige Probleme lassen sich in den gängigen Textverarbeitungen gar nicht lösen, in LaTeX findet sich fast immer eine Möglichkeit. Zudem sehen LaTeX-Dokumente auch in den Standardeinstellungen deutlich professioneller aus als Dokumente aus herkömmlichen Textverarbeitungen.
@@ -80,6 +79,7 @@ Der Einstieg in LaTeX kann etwas verwirrend sein, da LaTeX aus verschiedenen, un
 3.  einen Betrachter für die Ausgabedatei, in der Regel ein PDF-Betrachter.
 
 Die Distribution „TeXLive“ umfasst alle benötigten Komponenten und kann unter <http://www.tug.org/texlive/> heruntergeladen werden. TeXLive steht für Windows, MacOSX, Linux und andere Systeme zur Verfügung.
+-->
 
 ## Dateiformate {#sec:dateiformate}
 
@@ -95,6 +95,8 @@ Wenn man aber Dokumente auf elektronischem Wege weitergibt, weil man z. B. seine
 
     -   Aufgrund verschiedener Einstellungen können sich andere Seitenumbrüche ergeben als beabsichtigt.
 
-    -   Die verwendeten Schriftarten müssen auf dem Computer der Empfangenden vorhanden sein, um die gleiche Darstellung zu erhalten. Das ist insbesondere bei fremdsprachlichen Zeichen (Hebräisch, Arabisch etc.) nicht immer gegeben. 
+    -   Die verwendeten Schriftarten müssen auf dem Computer der Empfangenden vorhanden sein, um die gleiche Darstellung zu erhalten. Das ist insbesondere bei nicht-lateinischen Zeichen (Hebräisch, Arabisch etc.) nicht immer gegeben. 
 
     -   Als Dateiformat empfiehlt sich derzeit das **„docx“**-Format von Microsoft Word. Aufgrund seiner hohen Verbreitung kann es auch von anderen Textverarbeitungen, wie z. B. LibreOffice, gelesen werden. Zunehmend gewinnt auch das Dateiformat **ODT** an Bedeutung als Austauschformat. Es wird bereits jetzt von LibreOffice als Standardformat verwendet und auch von neueren Versionen von Microsoft Word unterstützt. Das ältere **doc**-Format von Microsoft Word ist veraltet und anfällig für Sicherheitsprobleme. Es sollte nicht mehr genutzt werden. Fragen Sie im Zweifelsfalle nach, welches Format der Empfänger bevorzugt.
+
+    - Verwenden Sie keine Formate spezifischer Anwendungen oder Betriebssysteme, wie etwa Apples "Pages"-Format.
