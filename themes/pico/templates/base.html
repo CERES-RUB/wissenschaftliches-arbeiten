@@ -7,14 +7,14 @@
       <meta name="generator" content="Pelican" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       {% if FAVICON %}
-        <link rel="shortcut icon" href="{{ FAVICON }}" />
+        <link rel="shortcut icon" href="{{ SITEURL }}/{{ FAVICON }}" />
       {% endif %}
       {% if SITESUBTITLE %}
         <meta name="description" content="{{ SITESUBTITLE }}" />
       {% endif %}
       <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pico.classless.min.css" />
       {% if STYLESHEET_URL %}
-        <link rel="stylesheet" type="text/css" href="{{ STYLESHEET_URL }}" />
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ STYLESHEET_URL }}" />
       {% endif %}
       {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME|striptags }} Full Atom Feed" />

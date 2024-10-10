@@ -14,8 +14,8 @@ DEFAULT_LANG = "de"
 
 # Theme and templates
 THEME = "themes/pico"
-STYLESHEET_URL = f"{SITEURL}/css/custom.css"
-FAVICON = f"{SITEURL}/images/favicon.svg"
+STYLESHEET_URL = "css/custom.css"
+FAVICON = "images/favicon.svg"
 THEME_TEMPLATES_OVERRIDES = ["templates"]
 PAGE_PATHS = [""]
 ARTICLE_PATHS = ["posts"]
