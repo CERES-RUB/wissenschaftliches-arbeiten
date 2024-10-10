@@ -1,0 +1,26 @@
+{% extends "page.html" %}
+
+{% block content %}
+  <header>
+    <h2>{{ page.title }}</h2>
+  </header>
+  {% import 'translations.html' as translations with context %}
+  {{ translations.translations_for(page) }}
+
+  {{ page.content }}
+
+  {% set content_pages = pages|selectattr('contents') %}
+  <ol>
+  {% for page in content_pages %}
+    <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+  </ol>
+
+  {% if page.modified %}
+    <footer>
+      <p>
+        Last updated: {{ page.locale_modified }}
+      </p>
+    </footer>
+  {% endif %}
+{% endblock %}

@@ -1,0 +1,103 @@
+/* Custom styles */
+.footer-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+footer, footer p {
+    color: var(--pico-code-color);
+}
+
+footer ul li {
+    list-style: none;
+}
+
+img.glyph {
+    height: 1em;
+    width: 1em;
+}
+
+/* Admonitions */
+.Beispiel,
+.Hinweis,
+.Merke,
+.Technik,
+.Tipp {
+    background-color: #e8e8e8;
+    background-repeat: no-repeat;
+    background-size: 90px;
+    background-position: 7.5px 7.5px;
+    min-height: 105px;
+    padding: 0;
+    padding-left: 105px;
+    margin: 0;
+    margin-bottom: 15px;
+    border-radius: .5em;
+    color: #424242;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.Beispiel::before,
+.Hinweis::before,
+.Merke::before,
+.Technik::before,
+.Tipp::before {
+    display: block;
+    background-color: #424242;
+    padding: .2em;
+    margin: 0;
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: 0;
+    color: #e8e8e8
+}
+
+.Beispiel p,
+.Hinweis p,
+.Merke p,
+.Technik p,
+.Tipp p {
+    padding-right: 15px
+}
+
+.Beispiel {
+    background-image: url(../images/icon-beispiel.png)
+}
+
+.Beispiel::before {
+    content: "Beispiel"
+}
+
+.Hinweis {
+    background-image: url(../images/icon-hinweis.png)
+}
+
+.Hinweis::before {
+    content: "Hinweis"
+}
+
+.Merke {
+    background-image: url(../images/icon-merke.png)
+}
+
+.Merke::before {
+    content: "Merke"
+}
+
+.Technik {
+    background-image: url(../images/icon-technik.png)
+}
+
+.Technik::before {
+    content: "Technik"
+}
+
+.Tipp {
+    background-image: url(../images/icon-tipp.png)
+}
+
+.Tipp::before {
+    content: "Tipp"
+}

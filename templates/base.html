@@ -1,0 +1,26 @@
+{% extends "!theme/base.html" %}
+
+{% block nav %}
+  {% set menu_pages = pages|selectattr('nav')|sort(attribute='order') %}
+  <nav>
+    <ul></ul><!-- placeholder to make menu right aligned -->
+    <ul>
+      {% for p in menu_pages %}
+        <li><a href="{{ SITEURL }}/{{ p.url }}" {% if p==page %} aria-current="page" {% endif %}>{{ p.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+{% endblock %}
+
+{% block footer %}
+  <hr />
+  <div class="footer-container">
+    <div><p>{{ SITENAME }}</p></div>
+    <div><p>{{ DESCRIPTION }}</p></div>
+    <div><ul>
+      {% for name, link in SOCIAL %}
+        <li><img src="{{ SITEURL }}/images/icon-{{ name|lower }}.svg" class="glyph" alt="" /> <a href="{{ link }}">{{ name }}</a></li>
+      {% endfor %}
+    </ul></div>
+  </div>
+{% endblock %}
