@@ -5,7 +5,8 @@
     gap: 1rem;
 }
 
-footer, footer p {
+footer,
+footer p {
     color: var(--pico-code-color);
 }
 
@@ -18,25 +19,35 @@ img.glyph {
     width: 1em;
 }
 
-/* Admonitions */
+/* CSS Variables for icon sizing and padding */
+:root {
+    --admonition-icon-size: 60px;
+    --admonition-icon-padding: 5px;
+    --admonition-content-padding: calc(var(--admonition-icon-size) + (2 * var(--admonition-icon-padding)));
+}
+
+/* Media query for screens 768px and larger */
+@media (min-width: 768px) {
+    :root {
+        --admonition-icon-size: 90px;
+        --admonition-icon-padding: 7.5px;
+    }
+}
+
+/* Admonitions with Pico Card Styling */
 .Beispiel,
 .Hinweis,
 .Merke,
 .Technik,
 .Tipp {
-    background-color: #e8e8e8;
-    background-repeat: no-repeat;
-    background-size: 90px;
-    background-position: 7.5px 7.5px;
-    min-height: 105px;
-    padding: 0;
-    padding-left: 105px;
-    margin: 0;
-    margin-bottom: 15px;
-    border-radius: .5em;
-    color: #424242;
-    font-size: 18px;
-    font-style: italic;
+    margin-bottom: var(--pico-block-spacing-vertical);
+    padding: var(--pico-block-spacing-vertical) var(--pico-block-spacing-horizontal);
+    border-radius: var(--pico-border-radius);
+    background: var(--pico-card-background-color);
+    box-shadow: var(--pico-card-box-shadow);
+    color: var(--pico-color);
+    font-size: 1rem;
+    font-style: normal;
 }
 
 .Beispiel::before,
@@ -45,13 +56,15 @@ img.glyph {
 .Technik::before,
 .Tipp::before {
     display: block;
-    background-color: #424242;
-    padding: .2em;
-    margin: 0;
+    margin: calc(var(--pico-block-spacing-vertical) * -1) calc(var(--pico-block-spacing-horizontal) * -1) var(--pico-block-spacing-vertical);
+    padding: calc(var(--pico-block-spacing-vertical) * 0.66) var(--pico-block-spacing-horizontal);
+    background-color: var(--pico-card-sectioning-background-color);
+    border-bottom: var(--pico-border-width) solid var(--pico-card-border-color);
+    border-top-right-radius: var(--pico-border-radius);
+    border-top-left-radius: var(--pico-border-radius);
     font-weight: bold;
     font-style: normal;
-    letter-spacing: 0;
-    color: #e8e8e8
+    color: var(--pico-color);
 }
 
 .Beispiel p,
@@ -59,45 +72,60 @@ img.glyph {
 .Merke p,
 .Technik p,
 .Tipp p {
-    padding-right: 15px
+    padding-right: 15px;
 }
 
-.Beispiel {
-    background-image: url(../images/icon-beispiel.png)
-}
-
+/* Specific classes */
 .Beispiel::before {
-    content: "Beispiel"
-}
-
-.Hinweis {
-    background-image: url(../images/icon-hinweis.png)
+    content: "Beispiel";
 }
 
 .Hinweis::before {
-    content: "Hinweis"
-}
-
-.Merke {
-    background-image: url(../images/icon-merke.png)
+    content: "Hinweis";
 }
 
 .Merke::before {
-    content: "Merke"
-}
-
-.Technik {
-    background-image: url(../images/icon-technik.png)
+    content: "Merke";
 }
 
 .Technik::before {
-    content: "Technik"
-}
-
-.Tipp {
-    background-image: url(../images/icon-tipp.png)
+    content: "Technik";
 }
 
 .Tipp::before {
-    content: "Tipp"
+    content: "Tipp";
+}
+
+/* Background images */
+.Beispiel {
+    background-image: url(../images/icon-beispiel.png);
+}
+
+.Hinweis {
+    background-image: url(../images/icon-hinweis.png);
+}
+
+.Merke {
+    background-image: url(../images/icon-merke.png);
+}
+
+.Technik {
+    background-image: url(../images/icon-technik.png);
+}
+
+.Tipp {
+    background-image: url(../images/icon-tipp.png);
+}
+
+/* Preserve background image styling */
+.Beispiel,
+.Hinweis,
+.Merke,
+.Technik,
+.Tipp {
+    background-repeat: no-repeat;
+    background-size: var(--admonition-icon-size);
+    background-position: var(--admonition-icon-padding) var(--admonition-icon-padding);
+    min-height: var(--admonition-content-padding);
+    padding-left: var(--admonition-content-padding);
 }
