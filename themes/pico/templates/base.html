@@ -12,7 +12,7 @@
       {% if SITESUBTITLE %}
         <meta name="description" content="{{ SITESUBTITLE }}" />
       {% endif %}
-      <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pico.classless.css" />
+      <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pico.css" />
       {% if STYLESHEET_URL %}
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ STYLESHEET_URL }}" />
       {% endif %}
@@ -45,6 +45,7 @@
 
   <body>
     <header>
+      <div class="container">
       {% block heading %}
         <hgroup><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>{% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}</hgroup>
       {% endblock %}
@@ -65,18 +66,23 @@
           {% endif %}
         </ul></nav>
       {% endblock %}
+      </div>
     </header>
     <main>
+      <div class="container">
       {% block content %}
       {% endblock %}
+      </div>
     </main>
     <footer>
+      <div class="container">
       {% block footer %}
         <address>
           Proudly powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>,
           which takes great advantage of <a rel="nofollow" href="https://www.python.org/">Python</a>.
         </address>
       {% endblock %}
+      </div>
     </footer>
   </body>
 </html>
