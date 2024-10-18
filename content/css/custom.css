@@ -1,4 +1,14 @@
 /* Custom styles */
+body > header {
+    border-bottom: 1px solid var(--pico-muted-border-color);
+    box-shadow: 0 0.05rem 1rem var(--pico-code-background-color);
+}
+
+body > footer {
+    background-color: var(--pico-table-row-stripped-background-color);
+    border-top: 1px solid var(--pico-muted-border-color);
+}
+
 .footer-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -19,6 +29,7 @@ img.glyph {
     width: 1em;
 }
 
+/* Admonitions with Pico Card Styling */
 /* CSS Variables for icon sizing and padding */
 :root {
     --admonition-icon-size: 60px;
@@ -34,7 +45,6 @@ img.glyph {
     }
 }
 
-/* Admonitions with Pico Card Styling */
 .Beispiel,
 .Hinweis,
 .Merke,
