@@ -41,6 +41,28 @@ img.glyph {
     width: 1em;
 }
 
+/* Table of contents */
+aside.toc {
+    float: right;
+    max-width: 25rem;
+    border: 1px solid var(--pico-muted-border-color);
+    background-color: var(--pico-table-row-stripped-background-color);
+    margin: var(--pico-spacing);
+    padding: var(--pico-spacing);
+}
+
+aside.toc ul ul {
+    margin-left: var(--pico-spacing);
+}
+
+aside.toc ul:first-of-type li {
+    padding-top: 0;
+}
+
+aside.toc ul li:last-child {
+    padding-bottom: 0;
+}
+
 /* Admonitions with Pico Card Styling */
 /* CSS Variables for icon sizing and padding */
 :root {

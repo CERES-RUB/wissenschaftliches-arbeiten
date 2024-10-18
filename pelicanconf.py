@@ -21,6 +21,10 @@ PAGE_PATHS = [""]
 ARTICLE_PATHS = ["posts"]
 STATIC_PATHS = ["images", "css", "downloads"]
 
+# Pandoc reader
+PANDOC_DEFAULTS_FILES = ["_lib/defaults_html.yaml"]
+TOC_TITLE = "Inhalt"
+
 # Custom URLs
 # Write all pages simply as their original filename with .html
 FILENAME_METADATA = r"(?:(?P<date>\d{4}-\d{2}-\d{2})_)?(?P<fnslug>.*)"

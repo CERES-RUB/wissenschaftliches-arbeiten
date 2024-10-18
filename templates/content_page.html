@@ -4,6 +4,13 @@
   {% import 'translations.html' as translations with context %}
   {{ translations.translations_for(page) }}
 
+  {% if page.toc %}
+    <aside class="toc">
+      <h3>{{ TOC_TITLE }}</h3>
+      {{ page.toc }}
+    </aside>
+  {% endif %}
+
   {{ page.content }}
 
   {% if page.modified %}
