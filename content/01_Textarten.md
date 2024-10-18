@@ -3,6 +3,8 @@ title: Typen wissenschaftlicher Texte
 template: content_page
 order: 1
 contents: true
+slug: academic-texts
+lang: de
 ---
 
 # Typen wissenschaftlicher Texte

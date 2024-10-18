@@ -3,6 +3,8 @@ title: Literaturverwaltung
 template: content_page
 order: 7
 contents: true
+slug: reference-management
+lang: de
 ---
 
 # Literaturverwaltung {#sec:literaturverwaltung}

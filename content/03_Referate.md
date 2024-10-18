@@ -3,6 +3,8 @@ title: Wissenschaftliche Vorträge und Referate
 template: content_page
 order: 3
 contents: true
+slug: oral-presentations
+lang: de
 ---
 
 # Wissenschaftliche Vorträge und Referate {#sec:referat}

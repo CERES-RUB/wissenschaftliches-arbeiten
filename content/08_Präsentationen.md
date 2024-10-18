@@ -3,6 +3,8 @@ title: Präsentationen
 template: content_page
 order: 8
 contents: true
+slug: slideshows
+lang: de
 ---
 
 # Präsentation von Vorträgen {#sec:praesentation}

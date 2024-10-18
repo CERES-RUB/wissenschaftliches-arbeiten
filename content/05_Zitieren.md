@@ -3,6 +3,8 @@ title: Zitieren von Literatur
 template: content_page
 order: 5
 contents: true
+slug: citation
+lang: de
 ---
 
 # Zitieren von Literatur {#sec:zitieren}

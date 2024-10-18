@@ -3,6 +3,8 @@ title: Wissenschaftliche Hausarbeiten
 template: content_page
 order: 2
 contents: true
+slug: term-papers
+lang: de
 ---
 
 # Wissenschaftliche Hausarbeiten {#sec:hausarbeiten}

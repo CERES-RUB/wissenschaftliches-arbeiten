@@ -3,6 +3,8 @@ title: Umgang mit Literatur
 template: content_page
 order: 4
 contents: true
+slug: literature
+lang: de
 ---
 
 # Umgang mit Literatur {#sec:literatur}

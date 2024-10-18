@@ -3,6 +3,8 @@ title: Textverarbeitung
 template: content_page
 order: 6
 contents: true
+slug: word-processing
+lang: de
 ---
 
 Wissenschaftliche Arbeiten werden heute in aller Regel am Computer verfasst. Mit den gesteigerten technischen Möglichkeiten sind jedoch auch die Ansprüche gestiegen. Die Computertechnik bietet eine ganze Reihe von Möglichkeiten, die formale Seite des wissenschaftlichen Arbeitens einfacher zu gestalten und gleichzeitig ansehnliche Ergebnisse zu produzieren.

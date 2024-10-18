@@ -3,12 +3,13 @@
 {% block nav %}
   {% set menu_pages = pages|selectattr('nav')|sort(attribute='order') %}
   <nav>
-    <ul></ul><!-- placeholder to make menu right aligned -->
     <ul>
       {% for p in menu_pages %}
         <li><a href="{{ SITEURL }}/{{ p.url }}" {% if p==page %} aria-current="page" {% endif %}>{{ p.title }}</a></li>
       {% endfor %}
     </ul>
+    {% block nav_translations %}<!-- placeholder for translations -->
+    {% endblock %}
   </nav>
 {% endblock %}
 
