@@ -44,7 +44,7 @@ img.glyph {
 /* Table of contents */
 aside.toc {
     float: right;
-    max-width: 25rem;
+    max-width: 20rem;
     border: 1px solid var(--pico-muted-border-color);
     background-color: var(--pico-table-row-stripped-background-color);
     margin: var(--pico-spacing);
