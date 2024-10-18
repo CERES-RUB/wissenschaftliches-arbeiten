@@ -1,4 +1,26 @@
+/* Default overrides */
+@media (min-width: 1280px) {
+  .container {
+    max-width: 950px;
+  }
+}
+@media (min-width: 1536px) {
+  .container {
+    max-width: 950px;
+  }
+}
+
 /* Custom styles */
+body > header {
+    border-bottom: 1px solid var(--pico-muted-border-color);
+    box-shadow: 0 0.05rem 1rem var(--pico-code-background-color);
+}
+
+body > footer {
+    background-color: var(--pico-table-row-stripped-background-color);
+    border-top: 1px solid var(--pico-muted-border-color);
+}
+
 .footer-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -19,6 +41,42 @@ img.glyph {
     width: 1em;
 }
 
+/* Table of contents */
+aside.toc {
+    float: right;
+    max-width: 20rem;
+    border: 1px solid var(--pico-muted-border-color);
+    background-color: var(--pico-table-row-stripped-background-color);
+    margin: var(--pico-spacing);
+    padding: var(--pico-spacing);
+}
+
+aside.toc ul ul {
+    margin-left: var(--pico-spacing);
+}
+
+aside.toc ul:first-of-type li {
+    padding-top: 0;
+}
+
+aside.toc ul li:last-child {
+    padding-bottom: 0;
+}
+
+/* Translations */
+ul.translations {
+    width: initial;
+    margin-bottom: 0;
+}
+ul.translations [role="button"] {
+    font-size: .75rem;
+    padding: calc(var(--pico-form-element-spacing-vertical)/4) calc(var(--pico-form-element-spacing-horizontal)/4);
+}
+ul.translations [role="button"] a {
+    --pico-color: var(--pico-primary-inverse);
+}
+
+/* Admonitions with Pico Card Styling */
 /* CSS Variables for icon sizing and padding */
 :root {
     --admonition-icon-size: 60px;
@@ -34,7 +92,6 @@ img.glyph {
     }
 }
 
-/* Admonitions with Pico Card Styling */
 .Beispiel,
 .Hinweis,
 .Merke,
