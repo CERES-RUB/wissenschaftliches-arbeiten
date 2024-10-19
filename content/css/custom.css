@@ -11,6 +11,10 @@
 }
 
 /* Custom styles */
+header nav, header nav ul {
+    flex-wrap: wrap;
+}
+
 body > header {
     border-bottom: 1px solid var(--pico-muted-border-color);
     box-shadow: 0 0.05rem 1rem var(--pico-code-background-color);
@@ -43,12 +47,17 @@ img.glyph {
 
 /* Table of contents */
 aside.toc {
-    float: right;
-    max-width: 20rem;
     border: 1px solid var(--pico-muted-border-color);
     background-color: var(--pico-table-row-stripped-background-color);
     margin: var(--pico-spacing);
     padding: var(--pico-spacing);
+}
+
+@media (min-width: 1024px) {
+    aside.toc {
+        float: right;
+        max-width: 20rem;
+    }
 }
 
 aside.toc ul ul {
