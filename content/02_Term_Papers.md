@@ -121,7 +121,7 @@ At the front of each term paper there must be a cover sheet containing several i
 
 The figure shows an example of a cover sheet.
 
-![Example of a cover sheet](images/Cover_Sheet.png)
+![Example of a cover sheet](images/Muster_Cover_Sheet)
 
 ### Table of Contents
 
