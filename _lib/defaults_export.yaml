@@ -1,0 +1,8 @@
+standalone: true
+toc: true
+toc-depth: 2
+number-sections: true
+default-image-extension: ".svg"
+wrap: none
+filters:
+  - ${.}/internallinks.py

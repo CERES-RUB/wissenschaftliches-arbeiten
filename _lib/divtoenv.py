@@ -18,7 +18,7 @@ def divtoenv(key, value, format, meta):
         if classes:
             klass = classes[0]
             return([latex(r'\begin{{{}}}'.format(klass))] + contents +
-                   [latex('\end{{{}}}'.format(klass))])
+                   [latex(r'\end{{{}}}'.format(klass))])
 
 if __name__ == "__main__":
     toJSONFilter(divtoenv)

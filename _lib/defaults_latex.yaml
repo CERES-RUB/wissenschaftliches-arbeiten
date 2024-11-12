@@ -1,0 +1,14 @@
+defaults:
+  - ../_lib/defaults_export.yaml
+to: latex-smart
+pdf-engine: xelatex
+default-image-extension: ".pdf"
+variables:
+  documentclass: scrreprt
+  mainfont: 'Linux Libertine O'
+  sansfont: 'Linux Biolinum O'
+  colorlinks: true
+include-in-header:
+  - ${.}/latex-defs.tex
+filters:
+  - ${.}/divtoenv.py

@@ -1,3 +1,4 @@
 reader: markdown
 writer: html5
 table-of-contents: true
+default-image-extension: ".svg"
