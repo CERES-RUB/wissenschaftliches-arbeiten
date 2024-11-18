@@ -61,11 +61,11 @@ Ein bedeutendes Stück Arbeit wird einem abgenommen, wenn man die Formatierung v
 
 Hierzu stellen die Programme meist eine Auswahl fertiger Formatierungsregeln bereit; auf Wunsch können eigene erstellt werden.
 
-<div class="Tipp">
+::: Tipp
 
 Verwendet man ein solches Programm, so reicht es in der Regel, einen Stil auszuwählen, der den Vorgaben des Lehrstuhls (\[sec:zitieren\]) nahe kommt. Es muss nicht eigens ein Stil erstellt werden, der die Vorgaben exakt umsetzt. Für Zotero sind etwa die Stile „Sozialwissenschaften (Heilmann)“ (Autor-Jahr-Stil) und „Geistes- u. Kulturwissenschaften (Heilmann)“ (Fußnoten-Stil) geeignet.
 
-</div>
+:::
 
 ## Einbinden in Textverarbeitung
 

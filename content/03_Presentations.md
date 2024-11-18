@@ -73,11 +73,11 @@ Besides that, however, a presentation has a more introductory character, resulti
 
 –	Make an effort to make complex facts comprehensible. Explain them in your own words or think of specific examples to illustrate the subject matter.
 
-<div class="Tip">
+::: Tip
 
 Sometimes the brief presentation of direct quotations can make sense. These are easier for the listeners to understand if they are presented in writing (on the handout or in a visual presentation). If you include a quotation only verbally, you should make clear that it is a quotation ("I quote" before the beginning of the quote and a "quote end" after).
         
-</div>
+:::
 
 3.	Conclusion and ending
 
@@ -89,12 +89,12 @@ Sometimes the brief presentation of direct quotations can make sense. These are 
 
 –	Give room for questions. Your foundation of literature should be noted on the handout anyway; but tips for further information can also find their place here.
 
-<div class="Advice">
+::: Advice
 
 Please also clarify beforehand whether you need to close the presentation with a starting point for discussion. If so, you should prepare it well so that a discussion can actually get underway - perhaps with a provocative introductory thesis, the distribution of roles to the audience, or a controversial example to be discussed. 
 Again, you may want to discuss this with the lecturer in advance.
 
-</div>
+:::
 
 ## Handout {#sec:handout}
 
@@ -132,17 +132,17 @@ You should use the following guidelines for a presentation:
 
 5.	The language of a presentation is different from that of a written paper. Sentences should be short and understandable, technical terms should be avoided or briefly explained. Short insertions at the speaker level can draw the attention of the listeners, e.g. "I now come to the second part of the presentation" or "In conclusion I would like to summarize the central points again".
 
-<div class="Tip">
+::: Tip
 
 A large part of the optimization of your own style of presentation is achieved through repeated presentations. In addition, feedback from fellow students or lecturers will also help you. You should therefore seek feedback on your presentation as soon as possible while the impressions are still fresh. Do this proactively - not every lecturer considers institutionalized feedback to all presenters.
 
-</div>
+:::
 
-<div class="Tip">
+::: Tip
 
 Are you nervous? This is normal. But it usually helps to be really well prepared - and also the routine that comes with the course of study. If you have the feeling that this is not enough for you, you can get professional help - almost every university offers a workshop where you can practice academic writing and presenting as well as a counselling service for cases of exam nerves. Make use of this if you think it could help you. For more information see <https://studium.ruhr-uni-bochum.de/en/counselling> or find some English workshops at <https://www.zfw.rub.de/sz/mini-workshops>. At <schreibberatung@rub.de> you can also ask for counselling on academic writing.
 
-</div>
+:::
 
 ### Media {#sec:media}
 
@@ -164,7 +164,7 @@ For more details see the section [Visual Presentation](08_Visual_Presentation.ht
 
 In general, the various types of media can be combined at any time.
 
-<div class="Remember">
+::: Remember
 
 **Before the presentation**
 
@@ -187,4 +187,4 @@ In general, the various types of media can be combined at any time.
 1.	Did I get feedback from the lecturer?
 2.	What can I do better next time?
 
-</div>
+:::

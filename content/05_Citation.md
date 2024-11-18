@@ -57,11 +57,11 @@ This quotation can now be reproduced in different ways within your text:
 -   Omissions:   
     Boyarin stresses the different perspectives on the concept of "religion": “From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category religion \[...\]; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not” (Boyarin 2005, 354 f.).
 
-<div class="Technology">
+::: Technology
 
 The dots to signify omissions are not simply three consecutive dots (...), but a sign of their own (...). This makes the distances between the dots appear more even. Most word processing programs can be set so that three consecutive dots are automatically replaced by an ellipse character.
 
-</div>
+:::
 
 Indirect quotations do not require this approach. Here, a quoted sentence or section is reproduced in your own words and simply incorporated into the continuous text. Omissions or changes are permitted as long as they do not distort the meaning. 
 
@@ -69,11 +69,11 @@ Indirect quotations do not require this approach. Here, a quoted sentence or sec
 
 - Reference: Even if the lines of argumentation differ in detail, Asad's deconstruction of the concept of religion fits into a series of postcolonial critiques of the Christocentric concept of "religion" (see for instance Boyarin 2005).
 
-<div class="Advice">
+::: Advice
 
 If you use abbreviations, the abbreviated names must always be written out first. Common abbreviations (e.g., etc.) can be used at any time without explanation.
 
-</div>
+:::
 
 ## Substantiating Quotations
 
@@ -85,7 +85,7 @@ All these details together usually result in a rather long list, which cannot be
 
 This distinction affects both the way in which the sources of (direct or indirect) citations are indicated in the text and the presentation of literature in the bibliography. Additionally, it makes a difference what kind of literature is involved (see the section [Forms of Academic Literature](01_Academic_Texts.html#sec:forms)).
 
-<div class="Advice">
+::: Advice
 
 The citation methods presented in the following are only two of many ways to cite correctly. As you can often see in the literature, many variants of these citation forms are in use. Regardless of which citation method you choose, three criteria must always be met when citing literature:
 
@@ -95,7 +95,7 @@ The citation methods presented in the following are only two of many ways to cit
 
 3.	Traceability
 
-</div>
+:::
 
 ## Footnote Citation Method {#sec:footnote_citation}
 
@@ -189,13 +189,13 @@ Family name, Given name. Year.  Title of the Lemma.  In *Encyclopaedia*, Edition
 
 Avi-Yonah, Michael. 2007.  Adoraim.  In *Encyclopaedia Judaica*, 2nd ed., 1:420. Detroit: Thomson Gale.
 
-<div class="Advice">
+::: Advice
 
 Have you read somewhere in a book an exciting quote from another author? But is their book difficult or even impossible to obtain? To use quotes "second-hand" but not marking this is tempting. Nevertheless, you should not simply take the reference and pretend to have read the book yourself. Also, the work in which you found the citation may contain errors. You may also be unaware of the original context of the citation - perhaps it fits the book in which you found the citation, but not the subject of your work.
 
 At best, take a little more effort to obtain the original. Otherwise, be honest and use the quote, but disclose how you got it. This is done by stating the original place of the quote, followed by the reference "quoted after", and here again the complete reference to the book from which you took the quote.
 
-</div>
+:::
 
 ## Historical and Primary Sources
 
@@ -217,11 +217,11 @@ For canonical religious works such as the Bible or the Qur'an, but also for some
 
 In the case of religious writings, there are often a large number of different versions available, including many that are not suitable for academic use. When selecting the edition to be used, care should therefore be taken to use an academic edition.
 
-<div class="Advice">
+::: Advice
 
 Different historical disciplines and philologies have different conventions regarding the preferred indication of common sources. At this point, therefore, we can only give general advice. For details, it is best to contact the respective lecturer.
 
-</div>
+:::
 
 ## Internet Sources and Audiovisual Media
 
@@ -242,25 +242,25 @@ Roughly speaking, websites can be divided into three categories:
     
     Title of the page, link of the page, date of your last access.
 
-<div class="Advice">
+::: Advice
 
 If no title is given on the page itself, in most cases you can at least use the page title, which is displayed at the top in the title bar of the browser.
 
-</div>
+:::
 
 If the website is the homepage of an organization, but the text cannot be attributed to a single person, the organization can be listed as the author:
 
 Church of Scientology International. n.d. “L. Ron Hubbard.” Accessed May 14, 2024. https://www.scientology.org/l-ron-hubbard/.
 
-<div class="Advice">
+::: Advice
 
 For your own security and for the sake of longer-term verifiability of the content, you should save the page from which you quote locally on your computer. If necessary, you can also add it to the appendix of the paper.
 
-</div>
+:::
 
 Apart from texts (and of course websites are texts, too) there are other media forms that may be used for academic work - though in most cases as primary sources. Since there are some special features to be considered and the citation of the different media types differs in detail, we would like you to refer to the "Audiovisual Citation Guidelines", where concrete cases can be looked up: <http://bufvc.ac.uk/projects-research/avcitation>. The examples presented there still have to be adapted to the conventions used in each individual case, for example with regard to common punctuation.
 
-<div class="Remember">
+::: Remember
 
 1.	Did I research the literature in such a way that I could find all the important texts? Did I use the right keywords and different catalogs?
 
@@ -270,17 +270,17 @@ Apart from texts (and of course websites are texts, too) there are other media f
 
 4.	Did I cite and document the literature completely, consistently and traceably?
 
-</div>
+:::
 
 Academic papers are today usually written on the computer. With increased technical possibilities, however, demands have also increased. Computer technology offers a whole range of possibilities to make the formal side of academic work simpler and at the same time produce respectable results.
 
 If you invest a little time to learn some basic techniques, you can save a lot of time and, above all, a lot of trouble in the further course of your studies.
 
-<div class="Technology">
+::: Technology
     
 Working with the corresponding computer programs is difficult to teach with pure text, you have to look at it and - even more important - try it out. Therefore, this guide will only convey some basic ideas for academic work with the PC. Further information about the respective programs can be found on the website of the study program at <http://studium.ceres.rub.de/de/materialien/software/> (_in German_).
 
-</div>
+:::
 
 [^1]: Talal Asad, “The Construction of Religion as an Anthropological Category,” in *A Reader in the Anthropology of Religion*, ed. Michael Lambek, Blackwell Anthologies in Social and Cultural Anthropology 2 (Malden, MA: Blackwell, 2002), 116.
 

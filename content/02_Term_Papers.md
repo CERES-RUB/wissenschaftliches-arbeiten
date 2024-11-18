@@ -19,11 +19,11 @@ It is advisable to work out a schedule for the paper before starting the writing
 
 An overall schedule can be helpful for the coordination of different assignments, for example during the semester breaks. It enables more effective use of the limited time available. In addition, a schedule can have motivating effects by showing the points already successfully completed during the course of writing a paper.
 
-<div class="Advice">
+::: Advice
 
 Papers are usually written during the semester break. Please bear in mind that during this time office hours are often offered at different times and/or less frequently, and lecturers may also be on holiday. If necessary, it is therefore best to arrange consultation appoint-ments at the end of the teaching period.
 
-</div>
+:::
 
 ### Finding a Topic and Formulating a Question
 
@@ -33,23 +33,23 @@ A second challenge is to narrow down the subject. Topics such as "The History of
 
 Therefore, finding the right topic cannot be done at the desk alone. It requires an initial, rough overview of the available literature and the state of research, as well as conversation with the lecturer. Do not hesitate to tell the lecturer your own ideas, but also be prepared to listen. If you have already acquired some basic knowledge, you can take up the lecturer’s suggestions and work them in sensibly.
 
-<div class="Tip">
+::: Tip
 
 Often you can start from a problem that you have encountered in a seminar or even outside the university. For your paper it is essential to make the problem manageable by formulating a clear question. It can be helpful to create a mind map on which you try to set out and structure different aspects of the topic. You only have to concentrate on one of these aspects - the more precise and narrow your question becomes, the easier it will be to work on it.
 
-</div>
+:::
 
-<div class="Example">
+::: Example
 
 The definition of a ‘religious community’ is apparently controversial, as the debate on Scientology shows. The question "What is a religious community?" would be too broad to be answered in a term paper. Moreover, normative approaches - for instance "Why Scientology is not a religious community" - are inappropriate in academic papers. It would be possible to raise a question that picks out one of many aspects, namely the legal debate surrounding this issue: "Which argumentations are used in court decisions about the recognition of religious communities?” The title of the paper could then be: "Judicial argumentations in determining the status of ‘religious community’. An investigation into the example of Scientology."
 
-</div>
+:::
 
 ### Outline and Selection of Literature
 
 An initial outline can be established immediately after the research question has been formulated. This allows one to explicate the basic scheme of the work without getting lost in the details of the material. The outline is also the basis for the selection of literature. Only when the approximate direction of the research is known is it possible to then determine which literature is relevant. In addition to literature on the subject, it is often necessary to have an insight into the theoretical literature in order to provide a background for the research question. In a second part of the assignment, depending on the focus of the topic, students can analyse their own selection of sources.
 
-<div class="Example">
+::: Example
 
 The outline of your Scientology term paper might now look like this:
 
@@ -69,7 +69,7 @@ The outline of your Scientology term paper might now look like this:
     
 4. Conclusion
 
-</div>
+:::
 
 For more details, see the section on [Outline of Chapters](#sec:outline).
 
@@ -85,19 +85,19 @@ For more details see the sections on [Literature Consultation](04_Literature.htm
 
 Most of the work is done with the writing of the actual text of your assignment. However, if the previous steps have been thoroughly completed, the effort involved in the actual writing of the paper is reduced considerably. Ideally, one should have a clear question and a clear outline, know the literature and just need to get started. One should not only have the layout of the chapters in mind, but also the rough structure of the argument. In this way any weaknesses in structure will become apparent early on, and not only after the assignment has been written.
 
-<div class="Tip">
+::: Tip
 
 Write out a basic plan of your term paper, including the structure of your arguments. This will make it much easier to write. You can also include the literature to be used and/or any especially appropriate quotations.
 
-</div>
+:::
 
 After writing the text, you have to spend some time on post-processing. The text should at least be proofread for consistency of content and for any formal errors (spelling, grammar). It is helpful to have someone else proofread the text, because after having worked on it for some time, one becomes blind to many flaws and errors.
 
-<div class="Technology">
+::: Technology
 
 Appearance, i.e. a neat layout, is also part of an academic paper. Here, too, you can reduce subsequent work to a minimum if you work properly from the start. This includes creating an automatically generated table of contents and bibliography. For more details see the sections on [Word Processing](06_Word_Processing.html#sec:word_processing) and [Literature Administration](07_Literature_Administration.html#sec:literature_administration).
 
-</div>
+:::
 
 ## Structure of a Paper {#sec:structure}
 
@@ -149,11 +149,11 @@ The individual parts should roughly follow the following structure:
 
 -   Short overview of the literature used in the context of the state of research and possibly the sources
 
-<div class="Tip">
+::: Tip
 
 Imagine the introduction of a paper as being like a funnel: you start broadly, with a reference to a generally relevant issue, and then narrow it down to your chosen problem. This approach has its counterpart in the conclusion - here the findings of the paper are again opened up into a more general debate. 
 
-</div>
+:::
 
 -   Presentation and execution of the preceding arguments, answering the question raised in the introduction.
 
@@ -171,17 +171,17 @@ Imagine the introduction of a paper as being like a funnel: you start broadly, w
 
 -   Outlook regarding further questions which your work could not answer or which your results have raised for further research.
 
-<div class="Advice">
+::: Advice
 
 The conclusion does not provide any new information that has not already been dealt with in the main part (citations are therefore generally no longer necessary here).
 
-</div>
+:::
 
-<div class="Tip">
+::: Tip
 
 If you have written a neatly structured introduction, you can now "backtrack" the other way round - from the specifics of your work to the generalities of a larger debate. In any case, it is important that you refer to the introduction - in this way you make your work coherent and make it clear to the reader that you have written a well-structured and precise academic paper.
 
-</div>
+:::
 
 ### Bibliography and Appendices
 
@@ -207,11 +207,11 @@ A term paper in standard format usually contains about 12-18 pages or 5,000-7,00
 
 - Text in justification with (automatic) hyphenation
 
-<div class="Technology">
+::: Technology
 
 For formatting a term paper with common word processing programs see section [Word Processing](06_Word_Processing.html#sec:word_processing). 
 
-</div>
+:::
 
 ### Language
 
@@ -279,13 +279,13 @@ The evaluation of these criteria is best illustrated using binary positive/negat
 |  | Quotations are formally incorrect (e.g., miscopied, missing or incomplete bibliography). |
 |  | Paper is too long or too short. |
 
-<div class="Advice">
+::: Advice
 
 Early consultation with the lecturer about a possible term paper is absolutely necessary. The topic should be approved, a deadline set and, possibly, the formalities agreed upon. Depending on the lecturer, suggested literature will be supplied to help you get started.
 
-</div>
+:::
 
-<div class="Remember">
+::: Remember
     
 1.	Do I have a well-defined topic with a concrete question?
 2.	Is the structure of my paper logical, comprehensible and appropriate to the question?
@@ -297,7 +297,7 @@ Early consultation with the lecturer about a possible term paper is absolutely n
 8.	Did I create a bibliography?
 9.	Have I proofread the assignment and had it proofread?
 
-</div>
+:::
 
 ## Plagiarism
 
@@ -307,14 +307,14 @@ In the academic world, plagiarism includes various offences: submitting a work t
 
 It is therefore also extremely important to correctly cite and substantiate any passages from other works - without adequate citation, even adapted and possibly slightly modified paraphrases from the works of other authors become plagiarism.
 
-<div class="Advice">
+::: Advice
 
 It is also important for the marking of your work that you clearly mark which ideas you have taken from another work and which are your own analysis or conclusions. Your personal contribution is an important part of a paper, so you are not doing yourself any favors if you leave the marker unsure about what your personal contribution is.
 
-</div>
+:::
 
-<div class="Tip">
+::: Tip
 
 If you indirectly quote the argument of another author over longer stretches, you should make this clear by using the subjunctive in addition to the use of clearly indicated evidence. You can emphasize your part in the work by using clear formulations at the important points ("I have shown that ..."; "One can now conclude that ...").
 
-</div>
+:::

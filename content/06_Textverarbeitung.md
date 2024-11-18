@@ -11,11 +11,11 @@ Wissenschaftliche Arbeiten werden heute in aller Regel am Computer verfasst. Mit
 
 Wenn Sie ein wenig Zeit investieren, um sich einige Grundtechniken zu erarbeiten, können Sie dafür im weiteren Verlauf Ihres Studium viel Zeit und vor allem viel Ärger sparen.
 
-<div class="Technik">
+::: Technik
 
 Das Arbeiten mit den entsprechenden Computerprogrammen lässt sich nur schwer über reinen Text vermitteln, man muss es sich angucken und – noch wichtiger – ausprobieren. In diesem Leitfaden werden daher nur einige Grundideen des wissenschaftlichen Arbeitens mit dem PC vermittelt.
 
-</div>
+:::
 
 # Textverarbeitung {#sec:textverarbeitung}
 
@@ -27,11 +27,11 @@ Am verbreitesten sind Office-Textverarbeitungen, allen voran Microsoft Word. Die
 
 Office-Textverarbeitungen bieten eine komfortable Möglichkeit, Texte direkt so einzugeben wie sie (voraussichtlich) später im Druck aussehen werden. Dies verleitet jedoch dazu, sich gleich stark auf das äußere Erscheinungsbild zu konzentrieren. Später kann dies Korrekturen und Änderungen der Formatierung erschweren. Daher sind einige Details für die Verwendung dieser Programme zu beachten.
 
-<div class="Technik">
+::: Technik
 
 Textverarbeitungen speichern Dokumente standardmäßig in jeweils eigenen Formaten, die nicht überall wieder geöffnet werden können. Wenn Sie Studienleistungen an Dozierende oder Kommiliton:innen verschicken, beachten Sie die Hinweise im Abschnitt [Dateiformate](06_Textverarbeitung.html#sec:dateiformate).
 
-</div>
+:::
 
 **Microsoft Word**
 

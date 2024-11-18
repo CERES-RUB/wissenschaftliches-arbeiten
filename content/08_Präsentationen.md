@@ -35,7 +35,7 @@ Als Effekte haben ggf. Sinn:
 
 -   Überblendungen zwischen Abschnitten.
 
-<div class="Technik">
+::: Technik
 
 Bildschirmpräsentationen erfordern einen gewissen technischen Aufwand bei der Erstellung und bei der Präsentation. So muss sichergestellt werden, dass ein Projektor und ein Rechner vorhanden sind, auf denen die Präsentation abgespielt werden kann. Für Impulsreferate von wenigen Minuten ist der Aufwand daher selten gerechtfertigt.
 
@@ -49,9 +49,9 @@ Auch bei Präsentationen ist die Wahl des geeigneten Dateiformats wichtig, um Pr
 
 Um die korrekte Wiedergabe von Bildschirmpräsentationen sicherzustellen, ist es daher unter Umständen empfehlenswert, einen eigenen Laptop mitzubringen, auf dem die Präsentation zuvor getestet wurde.
 
-</div>
+:::
 
-<div class="Merke">
+::: Merke
 
 1.  Hintergrund, Schrift und Effekte sind schlicht gehalten und nicht überladen.
 2.  Die Schrift ist ausreichend groß.
@@ -61,4 +61,4 @@ Um die korrekte Wiedergabe von Bildschirmpräsentationen sicherzustellen, ist es
 6.  Im mündlichen Vortrag werden nicht bloß die auf den Folien stehenden Punkten vorgelesen.
 7.  Auf Bilder, Schemata, Schaubilder, Diagramme, Tabellen und Statistiken wird eingegangen, sie dienen nicht zur Dekoration.
 
-</div>
+:::

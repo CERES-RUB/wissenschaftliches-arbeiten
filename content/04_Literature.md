@@ -59,11 +59,11 @@ The library catalogs are a good place to look for monographs in particular. The 
 
 However, not all books are available in the University Library. Therefore, it is worthwhile to search the catalogs of the library associations and to order books via inter-library loan if necessary. The university libraries in North Rhine-Westphalia have joined together to form HBZ (<http://www.hbz-nrw.de/> _in German_). The catalog KatalogPLUS on the page of the RUB library (<http://www.ub.rub.de/>) allows you to search in various libraries.
 
-<div class="Advice">
+::: Advice
 
 Library catalogs are generally not suitable for finding articles in anthologies or journals. Accordingly, a literature search should not be limited to the library catalog alone.
 
-</div>
+:::
 
 **Tips for research**
 
@@ -83,11 +83,11 @@ Literature databases are a suitable means of obtaining information on individual
 
 Some literature databases offer the possibility to directly access the online holdings of journals. This is, of course, very convenient, as it saves you the trouble of searching for the journal, copying it or even an inter-library loan. However, it should not be the criterion for literature selection whether a journal is available online.
 
-<div class="Technology">
+::: Technology
 
 Some literature databases can only be accessed from the RUB campus network. It is therefore best to carry out your research from a campus computer or connect to the university network from outside via VPN. You can find instructions for this at <http://www.ub.ruhr-uni-bochum.de/DigiBib/zugang-extern.html.en>.
 
-</div>
+:::
 
 ### Online Sources
 
@@ -99,11 +99,11 @@ However, a number of internet-based sources are not suitable for academic use. T
 
 With the DigiBib of the HBZ (<http://www.digibib.net/>) a search option is available, which can search several of the mentioned sources simultaneously. Library catalogs, journal article databases and electronic full texts are searched. A search in the DigiBib thus already covers some of the above-mentioned search options under a uniform search interface. This makes the DigiBib a good starting point for a comprehensive literature search. Other sources should nevertheless be considered.
 
-<div class="Tip">
+::: Tip
 
 If you document your search process, you may save yourself some work. Note down the search keywords you have used and make a list of all books found and considered in the catalog. On this list you should note which book was unexpectedly useless, which was perhaps out of place, and which still needs to be acquired. In this way you can save yourself going back to the shelf for a new search and expand the pool of already searched keywords in the case of an in-depth search.
 
-</div>
+:::
 
 ## Reading and Understanding Literature {#sec:reading}
 
@@ -204,11 +204,11 @@ If you have a specific focus in terms of content or methodology, for example in 
 
 ![Schematic illustration of cursory reading](images/Kursorisches_Lesen.png)
 
-<div class="Tip">
+::: Tip
 
 After having read the text, try again to visualize the "blueprint" of the text: Where does it begin, where does it go from there, etc.? Formulate the core thesis for yourself once again. If this works, you have a reasonably good grasp of the text.
 
-</div>
+:::
 
 For optimal preparation for a course assignment or analysis of a text, you should follow up with a critical discussion after reading. This can be undertaken as textual criticism: Is the structure coherent? Are the premises taken up again later? Is the argumentation finished? (Sensitizing yourself to this can be doubly helpful - such things also play a decisive role in the marking of your papers). Meanwhile, courses often specifically ask for objective criticism of the text: are the premises of the text acceptable? Is the evidence conclusive? What is the method, if any? Are moral judgements made?
 
@@ -226,8 +226,8 @@ For the summary you can use the following questions as a guide:
 
 4.	What is the author's argumentation structure?
 
-<div class="Advice">
+::: Advice
 
 A good summary captures in brief the principal content of the text. It is not a matter of identifying the most important sentences in the text and copying them into your own document, but of reformulating the contents into larger main ideas. This is the only way to really make the text your own and integrate it into your own learning. Depending on the structure of the text, a graphic rendering of its statements as a diagram can also be helpful.
 
-</div>
+:::

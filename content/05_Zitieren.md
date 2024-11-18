@@ -19,11 +19,11 @@ Zitiert werden müssen:
 
 -   weitere Gedanken, die Sie den Werken anderer entnommen haben, und die nicht zu Ihrem eigenen allgemeinen Wissen gehören.
 
-<div class="Hinweis">
+::: Hinweis
 
 Wenn Sie wirklich über eine längere Strecke nur die Argumentation von Autor:innen zitieren (etwa, weil Sie deren Theorie grundlegenderweise für Ihre Arbeit erläutern müssen), machen Sie dies am Anfang des Abschnitts deutlich. Verbleiben Sie bei allen weiteren indirekten Zitaten im gleichen Abschnitt im Konjunktiv, sofern es sich nicht um reine Faktenaussagen handelt. Ihre eigene Stellungnahme zu den wiedergegebenen Inhalten bzw. die Zuspitzung und Anwendung auf Ihre spezifische Fragestellung ist aber so wichtig, dass Sie im Verlauf des Kapitels ohnehin die Ebene der Zitate verlassen sollten.
 
-</div>
+:::
 
 Nicht zitiert werden müssen:
 
@@ -39,11 +39,11 @@ Für die Übernahme von Ausschnitten aus den Werken anderer Autor:innen gibt es 
 
 Dabei verfährt man unterschiedlich, was die formale Einbettung angeht: Direkte (d. h. wörtliche) Zitate werden mit Anführungszeichen ein- und ausgeleitet. Werden im Original innerhalb des Zitates Anführungszeichen verwendet, werden diese durch einfache Anführungszeichen ersetzt.
 
-<div class="Technik">
+::: Technik
 
 Es ist bei der Verwendung von einfachen Anführungszeichen innerhalb von Zitaten gleich, welche Form die Anführungszeichen im Original haben. Auch wenn im Original die amerikanischen Anführungszeichen (“…”) gebraucht werden, werden im Zitat wie im übrigen Text die einfachen deutschen Anführungenzeichen (‚…‘) verwendet. Falsch ist übrigens auch die Form ‚…’ für einfache Anführungszeichen, bei der statt eines schließenden einfachen Anführungzeichens ein Apostroph steht.
 
-</div>
+:::
 
 Jede Veränderung am Text muss unbedingt gekennzeichnet werden. Solcherlei Anmerkungen, auch im Zitat, werden in der Regel durch eckige Klammer gekennzeichnet. So werden etwa Auslassungen mit \[…\] kenntlich gemacht. Ist es zum Verständnis eines Satzes notwendig, können auch Einfügungen im Zitat vorgenommen werden, die mit Ihren Initialen versehen werden. So lassen sich etwa Bezüge herstellen: „Er \[Kant, F.E.\] spricht von der Subjektivität unserer Erkenntnis.“ Auch Fehler im Manuskript oder Auffälligkeiten können Sie mit einem \[sic!\] kommentieren, um deutlich zu machen, dass dieser Fehler nicht Ihrer ist.
 
@@ -69,11 +69,11 @@ Dieses Zitat kann nun auf verschiedene Weisen im Text wiedergegeben werden:
 -   Auslassungen:  
     Boyarin betont die unterschiedlichen Perspektiven auf das Konzept „Religion“: „From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category *religion* \[…\]; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not“ (Boyarin 2005, 354 f.).
 
-<div class="Technik">
+::: Technik
 
 Die Auslassungspunkte sind nicht einfach drei hintereinandergesetzte Punkte (.\..), sondern ein eigenes Zeichen (…). Dadurch wirken die Abstände zwischen den Punkten gleichmäßiger. In den meisten Textverarbeitungen kann eingestellt werden, dass drei aufeinanderfolgende Punkte automatisch durch ein Ellipsenzeichen ersetzt werden.
 
-</div>
+:::
 
 Indirekte Zitate erfordern dieses Vorgehen nicht. Hier wird ein zitierender Satz oder Abschnitt in eigenen Worten wiedergegeben und einfach in den Fließtext eingegliedert. Auslassungen oder Veränderungen sind erlaubt, solange sie nicht sinnentstellend sind. Beim Beleg indirekter Zitate wird der Quellenangabe der Hinweis „vgl.“ vorangestellt, um kenntlich zu machen, dass es sich um eine nicht-wörtliche Wiedergabe des Textes handelt. Weitere Verweise auf Literatur, die nicht zitiert wird, aber das Gesagte unterstützt, können mit „vgl. auch“ eingeleitet werden. Auf Literatur, die den vorgestellten Thesen oder Argumenten widerspricht, wird der Redlichkeit halber mit „vgl. aber“ verwiesen.
 
@@ -83,11 +83,11 @@ Indirekte Zitate erfordern dieses Vorgehen nicht. Hier wird ein zitierender Satz
 -   Verweis:  
     Auch wenn sich die Argumentationslinien im Detail unterscheiden, fügt sich Asads Dekonstruktion des Religionsbegriffs in eine Reihe postkolonialer Kritik am christozentrischen Konzept „Religion“ (vgl. etwa Boyarin 2005).
 
-<div class="Hinweis">
+::: Hinweis
 
 Falls Sie Abkürzungen verwenden, müssen die abgekürzten Bezeichnungen (Bez.) immer zuerst einmal ausgeschrieben werden. Abkürzungen richten Sie bitte nach: Siegfried M. Schwertner, *Internationales Abkürzungsverzeichnis für Theologie und Grenzgebiete:* IATG; Zeitschriften, Serien, Lexika, Quellenwerte mit bibliographischen Angaben: International glossary of abbreviations for theology and related subjects, 2, überarb. und erw. Aufl. Berlin/​New York 1992. Gängige Abkürzungen, die im <span style="font-variant:small-caps;">Duden</span> verzeichnet sind (z. B., usw., etc., vgl.), können jederzeit ohne Erklärung verwendet werden.
 
-</div>
+:::
 
 ## Der Beleg zum Zitat
 
@@ -99,7 +99,7 @@ All diese Angaben zusammengenommen ergeben meist eine recht lange Liste, die nic
 
 Diese Unterscheidung wirkt sich sowohl auf die Art aus, wie im Text die Quellen von (direkten oder indirekten) Zitaten angegeben werden als auch auf die Darstellung der verwendeten Literatur im Literaturverzeichnis. Zusätzlich macht es einen Unterschied, um welche Art von Literatur es sich handelt (siehe den Abschnitt [Formen wissenschaftlicher Literatur](01_Textarten.html#sec:formen)).
 
-<div class="Hinweis">
+::: Hinweis
 
 Die im Folgenden vorgestellten Zitierweisen sind nur zwei von vielen Möglichkeiten, korrekt zu zitieren. Wie man häufig in der Fachliteratur sieht, sind viele Varianten dieser Zitierformen im Gebrauch. Unabhängig davon, für welche Zitierweise Sie sich entscheiden, müssen drei Kriterien bei den Literaturangaben immer erfüllt werden:
 
@@ -107,7 +107,7 @@ Die im Folgenden vorgestellten Zitierweisen sind nur zwei von vielen Möglichkei
 2.  Einheitlichkeit,
 3.  Nachvollziehbarkeit.
 
-</div>
+:::
 
 ## Fußnoten-Zitierweise {#sec:deutsche-zitierweise}
 
@@ -201,13 +201,13 @@ Nachname, Vorname. Jahr.  Titel des Eintrags . In *Enzyklopädie*, ggf. Auflage,
 
 Avi-Yonah, Michael. 2007.  Adoraim . In *Encyclopaedia Judaica*, 2. Aufl., 1:420. Detroit: Thomson Gale.
 
-<div class="Hinweis">
+::: Hinweis
 
 Sie haben irgendwo in einem Buch das spannende Zitat von einem:einer anderen Autor:in gelesen? Dieses Buch ist aber umständlich oder gar nicht zu beschaffen? Zitate „aus zweiter Hand“ zu verwenden, aber dies nicht zu kennzeichnen, ist verlockend. Trotzdem sollten Sie nicht einfach die Literaturangabe übernehmen und so tun, als hätten Sie das Buch selbst gelesen. Auch in dem Werk, in dem Sie das Zitat gefunden haben, können sich Fehler bei der Angabe eingeschlichen haben. Ebenso fehlt Ihnen dann die Kenntnis über den ursprünglichen Kontext des Zitates – vielleicht passt der zu dem Buch, in dem Sie das Zitat gefunden haben, aber überhaupt nicht zum Thema Ihrer Arbeit?
 
 Verwenden Sie bestenfalls etwas mehr Mühe darauf, das Original zu beschaffen. Andernfalls sollten Sie zumindest so ehrlich sein und das Zitat zwar verwenden, aber offenlegen, wie Sie daran gekommen sind. Dies geschieht durch die Belegangabe der ursprünglichen Stelle des Zitates, daran anknüpfend dann der Verweis „zitiert nach“, und hier wiederum die vollständige Angabe des Buches, dem Sie das Zitat entnommen haben.
 
-</div>
+:::
 
 ## Quellenangaben
 
@@ -231,11 +231,11 @@ Für kanonische religiöse Werke wie Bibel oder Koran, aber auch für einige and
 
 Bei religiösen Schriften sind oftmals eine Vielzahl verschiedener Versionen verfügbar, darunter auch zahlreiche nicht für den wissenschaftlichen Gebrauch geeignete. Bei der Auswahl der verwendeten Ausgabe sollte daher darauf geachtet werden, eine wissenschaftliche Edition zu verwenden.
 
-<div class="Hinweis">
+::: Hinweis
 
 In den verschiedenen historischen Disziplinen und Philologien bestehen unterschiedliche Konventionen bezüglich der bevorzugten Angabe der gebräuchlichen Quellen. An dieser Stelle können daher nur allgemeine Hinweise zur ersten Orientierung gegeben werden. Für die Details wenden Sie sich am besten an die jeweiligen Dozierenden.
 
-</div>
+:::
 
 ## Internetquellen und audiovisuelle Medien
 
@@ -261,31 +261,31 @@ Grob kann man Web-Angebote in drei Kategorien einteilen:
     Die Quellenangabe ist in solchen Fällen weniger standardisiert, sie sollte sich aber an den üblichen Kriterien der Vollständigkeit, Einheitlichkeit und Nachvollziehbarkeit orientieren. Die Mindestangabe für Internetseiten folgt daher diesem Schema:  
     Titel der Seite, Link der Seite, Datum Ihres letzten Zugriffs.
 
-<div class="Hinweis">
+::: Hinweis
 
 Falls auf der Seite selbst kein Titel angegeben ist, können Sie in den meisten Fällen zumindest auf den Seitentitel zurückgreifen, der in der Titelleiste des Browsers ganz oben angezeigt wird.
 
-</div>
+:::
 
 Sofern es sich bei der Internetseite um den Auftritt einer Organisation handelt, der Text aber keiner einzelnen Person zugerechnet werden kann, kann die Organisation als Urheber aufgeführt werden:  
 Deutsche Buddhistische Union e.V. (o.J.): *Ziele der DBU*, http://www.buddhismus-deutschland.de/dbu/frameset.php?content=http://www.buddhismus-deutschland.de/dbu/dbu\_ziele.html (letzter Zugriff: 19.8.2010).
 
-<div class="Hinweis">
+::: Hinweis
 
 Zu Ihrer eigenen Sicherheit und zugunsten der längerfristigen Nachprüfbarkeit der Inhalte sollten Sie sich die Seite, von der Sie zitieren, lokal auf Ihrem Computer abspeichern. Ggf. können Sie sie auch dem Anhang der Arbeit beifügen.
 
-</div>
+:::
 
 Neben Texten (und auch Internetseiten sind natürlich Texte) gibt es noch andere Medienformen, die man u. U. für eine wissenschaftliche Arbeit heranzieht – wenn auch in den meisten Fällen als Primärquelle. Da hierbei einige Besonderheiten zu beachten sind und sich zudem die Zitation der einzelnen Medienarten im Detail unterscheidet, sei an dieser Stelle auf die „Audiovisual Citation Guidelines“ verwiesen, in denen konkrete Fälle nachgeschlagen werden können: <http://bufvc.ac.uk/projects-research/avcitation>. Die dort vorgestellten Beispiele müssen im Einzelfall noch an die verwendeten Konventionen angepasst werden, etwa in Hinblick auf die gängige Zeichensetzung.
 
-<div class="Merke">
+::: Merke
 
 1.  Habe ich Literatur so recherchiert, dass ich alle wichtigen Texte finden konnte? Habe ich dafür die richtigen Such-Schlagworte und verschiedene Kataloge benutzt?
 2.  Habe ich darauf geachtet, dass die Literatur wissenschaftlichen Standards genügt? Habe ich sie kritisch gelesen?
 3.  Habe ich die Literatur sinnvoll für mein Thema eingegrenzt, und nicht einfach das genommen, was ich schnell zur Hand hatte?
 4.  Habe ich die Literatur vollständig, einheitlich und nachvollziehbar zitiert und belegt?
 
-</div>
+:::
 
 [^1]: Talal Asad, „The Construction of Religion as an Anthropological Category“, in *A reader in the anthropology of religion*, hg. von Michael Lambek, Blackwell anthologies in social and cultural anthropology 2 (Malden, MA: Blackwell, 2002), 116.
 

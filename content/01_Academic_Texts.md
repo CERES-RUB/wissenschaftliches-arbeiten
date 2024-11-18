@@ -36,25 +36,25 @@ An essay is a discussion of a given topic. It is less formal and less strict in 
 
 An important feature of the essay is the well-argued examination of a topic. While questions of structure are less important, stress is accordingly placed on the quality of argumentation. The essay serves to test argumentative strategies and to present one's position. An academic position is not to be confused with an opinion: the essay should present a position which the author takes as their own and which is justified soundly in the essay’s arguments. It thus trains its author to develop and organize their own ideas, and at the same time to deal critically with other points of view.
 
-<div class="Tip">
+::: Tip
 
 Think about the structure of your arguments before you start writing. For a clear structure and precise language, it can be helpful to create a short outline or mind map which can form the central thread of your writing. This is also useful for term papers or presentations.
 
-</div>
+:::
 
 In university, there are also different types of protocols - experimental or observation protocols in research, but also protocols of seminars, which usually record a session as a mixture of progress and result protocols. This ensures that the results of the meeting are available to all participants, and must therefore be comprehensible to anyone who was not present at the meeting. They are also often a good way of giving feedback to the lecturer, showing which components of the class were absorbed and understood. Meanwhile, writing protocols is a good way of making your personal notes as efficient and precise as possible. A protocol does not have to reflect the course of events in a strict and detailed manner, rather priority is given to summarizing and structuring the key points of the seminar/lecture. This may involve including points made by participants in a class as well as the content of presentations or a lecture. Record should be included of open questions that might be formulated at the end of the session, and of any key sources and/or literature involved. Use of diagrams may often be a helpful tool.
 
-<div class="Tip">
+::: Tip
 
 Write the protocol as soon as possible after the session - your notes will be more meaningful when the memory is still fresh! If you have any questions or difficulties in understanding, contact the lecturer or the presenters as soon as possible, preferably directly after the session.
 
-</div>
+:::
 
 Like the protocol, the text summary or excerpt does not constitute an independent academic achievement. The aim of a summary is instead to reproduce the core statements of a text in as concise and precise a form as possible. For more details see the section [Summaries](04_Literature.html#sec:summaries).
 
 There are additional forms of written assignment. These can be, for example, reviews, posters or Wikipedia articles. In all cases it is advisable to discuss the performance requirements with the lecturer in order to avoid any misunderstandings.
 
-<div class="Advice">
+::: Advice
 
 The following information must be included in the document header of all written assignments in this or a similar form:
 
@@ -72,7 +72,7 @@ Course of Studies: MA Religious Studies
 
 &lt;Date&gt;
 
-</div>
+:::
 
 ## Forms of Academic Literature {#sec:forms}
 

@@ -17,11 +17,11 @@ Office word processors are the most common, especially Microsoft Word. Equal (or
 
 Office word processors offer a comfortable possibility to enter texts directly in the way they will (probably) look later in print. However, this tempts one to fixate on the formal appearance of one’s output. Later on, this can make corrections and formatting changes more difficult. Therefore, some details for the use of these programs must be observed.
 
-<div class="Technology">
+::: Technology
 
 Word processors save documents by default in their own formats, which cannot be reopened everywhere. If you send papers to lecturers or fellow students, please note the information in the section [File Formats](06_Word_Processing.html#sec:file_formats).
 
-</div>
+:::
 
 **Microsoft Word**
 

@@ -33,7 +33,7 @@ As effects may make sense:
 
 - Fade-ins between sections.
 
-<div class="Technology">
+::: Technology
 
 On-screen presentations require a certain amount of technical effort during creation and presentation. It must be ensured that a projector and a computer are available on which the presentation can be played. For presentations of a few minutes the effort is therefore rarely justified. The choice of the appropriate file format is also important for presentations in order to avoid problems during playing:
 
@@ -45,9 +45,9 @@ On-screen presentations require a certain amount of technical effort during crea
 
 In order to ensure the correct reproduction of on-screen presentations, it may therefore be advisable to bring your own laptop on which the presentation has been tested beforehand.
 
-</div>
+:::
 
-<div class="Remember">
+::: Remember
 
 1.	background, font and effects are kept simple and not overloaded
 2.	the font is sufficiently large.
@@ -58,4 +58,4 @@ In order to ensure the correct reproduction of on-screen presentations, it may t
 8.	Pictures, schemes, diagrams, charts, tables and statistics are to be discussed, not just for decoration.
 
 
-</div>
+:::

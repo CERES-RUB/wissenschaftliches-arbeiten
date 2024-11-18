@@ -19,11 +19,11 @@ Ratsam ist es, sich vor dem Beginn einer Hausarbeit einen Zeitplan für die Erst
 
 Für die Koordination verschiedener zu erbringender Leistungen etwa in den Semesterferien kann ein Gesamtzeitplan hilfreich sein. Er ermöglicht eine effektivere Nutzung der nur begrenzt zur Verfügung stehenden Zeit. Nicht zuletzt kann ein Zeitplan auch motivierende Effekte haben, indem er im Verlauf der Erstellung einer Hausarbeit die bereits erfolgreich abgearbeiteten Punkte vor Augen führt.
 
-<div class="Hinweis">
+::: Hinweis
 
 Hausarbeiten werden meist in der vorlesungsfreien Zeit geschrieben. Bedenken Sie auch, dass in dieser Zeit Sprechstunden oft zu veränderten Zeiten und/​oder seltener angeboten werden und auch Dozierende im Urlaub sein können. Vereinbaren Sie, wenn nötig, am besten noch zum Ende der Vorlesungszeit weitere Beratungstermine.
 
-</div>
+:::
 
 ### Themenfindung und Fragestellung
 
@@ -33,23 +33,23 @@ Eine zweite Herausforderung ist die Eingrenzung des Themas. Themen wie „Die Ge
 
 Die Themenfindung lässt sich daher nicht allein am Schreibtisch bewältigen. Sie erfordert auch einen ersten, groben Überblick über die verfügbare Literatur und den Forschungsstand sowie Gespräche mit Dozierenden: Scheuen Sie nicht davor zurück, mit den Lehrenden über Ihre thematischen Vorstellungen zu sprechen. Aber bereiten Sie sich auch auf ein solches Gespräch vor. Wenn Sie sich schon ein Grundlagenwissen erarbeitet haben, können Sie Anregungen der Lehrenden aufnehmen und sinnvoll einarbeiten.
 
-<div class="Tipp">
+::: Tipp
 
 Oft können Sie von einem Problem ausgehen, dass Ihnen in einem Seminar oder sogar außerhalb der Universität begegnet ist. Für Ihre Hausarbeit ist es dann unerlässlich, das Problem bearbeitbar zu machen, indem Sie eine klare Fragestellung formulieren. Hilfreich kann dabei z.B. die Anfertigung einer Mindmap sein, auf der Sie verschiedene Aspekte rund um das Thema aufnehmen und zu gliedern versuchen. Nur auf einen der Aspekte müssen Sie sich konzentrieren – je präziser und schlanker Ihre Fragestellung wird, desto besser wird sie bearbeitbar.
 
-</div>
+:::
 
-<div class="Beispiel">
+::: Beispiel
 
 Die Definition einer Religionsgemeinschaft ist anscheinend strittig, wie die Debatte um Scientology zeigt. „Was ist eine Religionsgemeinschaft?“ – diese Fragestellung wäre nun aber viel zu weit, um sie in einer Hausarbeit zu beantworten. Auch normative Herangehensweisen – etwa „Warum Scientology keine Religionsgemeinschaft ist“ – sind in wissenschaftlichen Arbeiten unpassend. Möglich wäre etwa eine Fragestellung, die einen von vielen Aspekten herausgreift, nämlich die Debatte, die diesbezüglich in der Justiz geführt wird: „Welche Argumentationen werden bei Gerichtsentscheidungen über die Anerkennung von Religionsgemeinschaften verwendet?“ Der Titel der Arbeit könnte dann lauten: „Gerichtliche Argumentationsstrukturen bei der Feststellung des Status „Religionsgemeinschaft“. Eine Untersuchung am Beispiel Scientology.“
 
-</div>
+:::
 
 ### Gliederung und Literaturauswahl
 
 Schon unmittelbar nach der Erarbeitung der Fragestellung kann eine erste Gliederung erstellt werden. Diese erlaubt es, das grundlegende Programm der Arbeit zu explizieren, ohne sich schon in den Details des Materials zu verlieren. Die Gliederung stellt auch die Grundlage der Literaturauswahl dar. Erst wenn die grobe Richtung der Arbeit bekannt ist, kann man auch ermessen, welche Literatur relevant ist. Neben Literatur zum Forschungsgegenstand ist oftmals auch ein Einblick in die theoretische Literatur notwendig, um einen Hintergrund für die Bearbeitung der Fragestellung zu haben. In einem zweiten Teil kann, je nach Ausrichtung der Arbeit, selbstgewähltes Material eigenständig analysiert werden.
 
-<div class="Beispiel">
+::: Beispiel
 
 Die Gliederung Ihrer Hausarbeit zu Scientology könnte nun aussehen wie folgt:
 
@@ -62,7 +62,7 @@ Die Gliederung Ihrer Hausarbeit zu Scientology könnte nun aussehen wie folgt:
     3.2 Bezug zu religionswissenschaftlicher Literatur über Scientology
 4. Fazit
 
-</div>
+:::
 
 Näheres siehe im Abschnitt [Kapitelgliederung](#sec:kapitelgliederung).
 
@@ -78,19 +78,19 @@ Näheres siehe in den Abschnitten [Literaturrecherche](04_Literatur.html#sec:lit
 
 Der größte Teil der Arbeit steht mit dem Verfassen des eigentlichen Textes an. Sind die vorhergegangenen Schritte aber gründlich bearbeitet, reduziert sich der Aufwand beim eigentlichen Schreiben der Arbeit erheblich. Im Idealfall hat man eine klare Fragestellung und eine saubere Gliederung, kennt die Literatur und braucht nur noch anzufangen. Dabei sollte man nicht nur die einfache Aufteilung der Kapitel im Kopf haben, sondern auch schon die grobe Argumentationsstruktur. Schwächen im Aufbau fallen einem so früh ins Auge und nicht erst, wenn die Arbeit schon geschrieben ist.
 
-<div class="Tipp">
+::: Tipp
 
 Fertigen Sie sich einen stichwortartigen Ablaufplan Ihrer Hausarbeit inklusive des Argumentationsaufbaus an. Die Ausformulierung geht dann ungleich leichter von der Hand. Auch die einzusetzende Literatur oder besonders treffende Zitate können Sie dann dort schon vermerken.
 
-</div>
+:::
 
 Nach dem Schreiben des Textes muss man noch etwas Zeit auf die Nachbearbeitung verwenden. Die Arbeit sollte zumindest noch einmal auf inhaltliche Schlüssigkeit und einmal auf formale Fehler (Rechtschreibung, Grammatik) gegengelesen werden. Hilfreich ist es, auch noch jemand Unbeteiligten den Text korrekturlesen zu lassen, denn man wird nach einiger Arbeit am Text selbst blind für viele Schwächen und Fehler.
 
-<div class="Technik">
+::: Technik
 
 Zu einer wissenschaftlichen Arbeit gehört auch der äußere Eindruck, sprich: die saubere Formatierung. Auch hier kann man die nachträgliche Arbeit auf ein Minimum reduzieren, wenn man schon zuvor sauber gearbeitet hat. Hierzu gehört, dass man Inhalts- und Literaturverzeichnisse automatisch erstellen lässt. Näheres siehe in den Abschnitten [Textverarbeitung](06_Textverarbeitung.html#sec:textverarbeitung) und [Literaturverwaltung](07_Literaturverwaltung.html#sec:literaturverwaltung).
 
-</div>
+:::
 
 ## Aufbau einer Hausarbeit {#sec:aufbau}
 
@@ -142,11 +142,11 @@ Die einzelnen Teile sollten sich in etwa an folgendem Aufbau orientieren:
 
 -   Kurzer Überblick zur verwendeten Literatur im Horizont des Forschungsstands und ggf. zu den Quellen
 
-<div class="Tipp">
+::: Tipp
 
 Stellen Sie sich die Einleitung einer Hausarbeit wie einen Trichter vor: Sie fangen breit an, mit dem Verweis auf einen allgemein relevanten Komplex, und spitzen diese Sachlage dann auf Ihr Problem hin zu. Dieses Vorgehen hat im Fazit sein Gegenstück – hier werden die Erkenntnisse der Arbeit wieder in eine allgemeinere Debatte überführt.
 
-</div>
+:::
 
 -   Darstellung und Durchführung der Argumentation, die dazu dient, die in der Einleitung aufgeworfene Fragestellung zu beantworten.
 
@@ -164,17 +164,17 @@ Stellen Sie sich die Einleitung einer Hausarbeit wie einen Trichter vor: Sie fan
 
 -   Ausblick auf weitere Fragen, die Ihre Arbeit nicht beantworten konnte oder mit Ihren Ergebnissen erst für die weitere Forschung aufgeworfen hat.
 
-<div class="Hinweis">
+::: Hinweis
 
 Das Fazit bringt keine neuen Informationen, die nicht schon im Hauptteil behandelt worden sind (Literaturverweise sind hier also in der Regel nicht mehr vonnöten).
 
-</div>
+:::
 
-<div class="Tipp">
+::: Tipp
 
 Wenn Sie eine sauber gegliederte Einleitung geschrieben haben, können Sie sich nun umgekehrt an den Punkten wieder „zurückhangeln“ – vom Spezifischen Ihrer Arbeit zum Allgemeinen einer größeren Debatte. Wichtig ist in jedem Fall, dass Sie auf die Einleitung Bezug nehmen – so machen Sie Ihre Arbeit „rund“ und den Lesenden deutlich, dass Sie eine sinnvoll aufgebaute und stringent vorgehende wissenschaftliche Arbeit abgeliefert haben.
 
-</div>
+:::
 
 ### Bibliographie und Anhänge
 
@@ -200,11 +200,11 @@ Eine Hausarbeit umfasst im BA-Studium bei Standardformatierung in der Regel ca. 
 
 -   Text im Blocksatz mit (automatischer) Silbentrennung
 
-<div class="Technik">
+::: Technik
 
 Zur Formatierung einer Hausarbeit mit gängigen Textverarbeitungsprogrammen siehe im Abschnitt [Textverarbeitung](06_Textverarbeitung.html#sec:textverarbeitung). Ergänzend finden sich auch E-Tutorials auf der Website des Studiengangs unter <http://ceres.rub.de/lehre/tipps-tools/>.
 
-</div>
+:::
 
 ### Sprache
 
@@ -278,13 +278,13 @@ Die Beurteilung dieser Kriterien ist am besten anhand von Binärpaaren zu verdeu
 |  | Zitate sind formal inkorrekt (z.B. nicht wörtlich, fehlende oder unvollständige Literaturangaben). |
 |  | Arbeit ist zu lang oder zu kurz. |
 
-<div class="Hinweis">
+::: Hinweis
 
 Eine frühzeitige Absprache mit den Dozierenden über eine mögliche Hausarbeit ist unbedingt erforderlich. Hierbei sollten das *Thema* abgesegnet werden, eine *Abgabefrist* ausgemacht werden und ggf. die *Formalia* abgesprochen werden. Je nach Dozierenden werden dann auch Literaturhinweise gegeben, die einen Einstieg ermöglichen.
 
-</div>
+:::
 
-<div class="Merke">
+::: Merke
 
 1.  Habe ich ein gut eingegrenztes Thema mit einer konkreten Fragestellung?
 2.  Ist der Aufbau meiner Hausarbeit logisch, nachvollziehbar und ist sie der Fragestellung angemessen?
@@ -296,7 +296,7 @@ Eine frühzeitige Absprache mit den Dozierenden über eine mögliche Hausarbeit 
 8.  Habe ich ein Literaturverzeichnis erstellt?
 9.  Habe ich Korrektur gelesen und Korrektur lesen lassen?
 
-</div>
+:::
 
 ## Plagiarismus
 
@@ -306,14 +306,14 @@ Im wissenschaftlichen Betrieb gelten verschiedene Tatbestände als Plagiate: Das
 
 Es ist daher auch extrem wichtig, Übernahmen aus anderen Werken korrekt zu zitieren und zu belegen – ohne angemessene Kenntlichmachung werden auch übernommene und ggf. leicht veränderte Paraphrasen aus den Werken anderer Autoren zu Plagiaten.
 
-<div class="Hinweis">
+::: Hinweis
 
 Auch für die Beurteilung Ihrer Arbeit ist es wichtig, dass Sie sauber kennzeichnen, welche Gedanken Sie aus einem anderen Werk übernommen haben, und was Ihre eigenen Analysen oder Schlussfolgerungen sind. Die Eigenleistung ist wichtiger Bestandteil einer Hausarbeit, Sie tun sich also selbst keinen Gefallen, wenn Sie den Betreuer, der ihre Arbeit korrigiert, darüber im Dunkeln lassen, was die Eigenleistung darstellt.
 
-</div>
+:::
 
-<div class="Tipp">
+::: Tipp
 
 Wenn Sie über längere Strecken die Argumentation eines anderen Autor indirekt zitieren, sollten Sie dies neben der Verwendung umfassender Belege durch den Einsatz des Konjunktivs deutlich machen. Ihren Anteil an der Arbeit können Sie durch eindeutige Formulierungen an den wichtigen Stellen herausstellen („ich habe gezeigt, dass …“; „man kann nun also schlussfolgern, dass …“).
 
-</div>
+:::

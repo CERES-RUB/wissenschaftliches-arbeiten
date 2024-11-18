@@ -73,11 +73,11 @@ Daneben hat ein Referat jedoch einen eher einführenden Charakter, der einige Un
 
     -   Geben Sie sich Mühe, komplexe Sachverhalte nachvollziehbar zu machen. Erklären Sie sie in Ihren eigenen Worten oder überlegen Sie sich gezielt Beispiele, die den Gegenstand veranschaulichen.
 
-        <div class="Tipp">
+        ::: Tipp
 
         Manchmal kann die knappe Wiedergabe von wörtlichen Zitaten Sinn machen. Für die Zuhörenden sind diese einfacher nachzuvollziehen, wenn sie ihnen schriftlich (auf dem Handout oder in der Präsentation) vorgelegt werden. Bauen Sie die Zitate nur mündlich ein, sollten Sie sie kennzeichnen: Mit einem „ich zitiere“ vor Beginn des Zitates und einem „Zitat Ende“ danach.
 
-        </div>
+        :::
 
 3.  Fazit und Ende
 
@@ -89,11 +89,11 @@ Daneben hat ein Referat jedoch einen eher einführenden Charakter, der einige Un
 
     -   Geben Sie Raum für Fragen. Ihre Literaturgrundlage sollte sowieso auf dem Handout vermerkt sein; aber auch Tipps für weiterführende Informationen können hier ihren Platz finden.
 
-        <div class="Hinweis">
+        ::: Hinweis
 
         Klären Sie außerdem vorher ab, ob ein Diskussionseinstieg im Anschluss an das Referat gewünscht ist. Falls ja, sollten Sie diesen gut vorbereiten, damit auch tatsächlich eine Diskussion in Gange kommt – etwa mit einer provokanten Einstiegsthese, der Verteilung von Rollen an die Zuhörenden oder einem strittigen Beispiel, das diskutiert werden soll. Auch dies können Sie ggf. mit den Dozierenden vorher absprechen.
 
-        </div>
+        :::
 
 ## Handout {#sec:handout}
 
@@ -131,17 +131,17 @@ Für ein Referat sollten Sie sich an folgenden Richtlinien orientieren:
 
 5.  Die Sprache eines Referats unterscheidet sich von der einer schriftlichen Arbeit. Die Sätze sollte kurz und verständlich sein, Fremdwörter sollten vermieden oder aber kurz erklärt werden. Kurze Einschübe auf der Sprecherebene können die Aufmerksamkeit der Zuhörenden lenken, z. B. „Ich komme nun zum zweiten Teil des Vortrags“ oder „Abschließend möchte ich die zentralen Punkte noch einmal zusammenfassen“.
 
-<div class="Tipp">
+::: Tipp
 
 Ein Großteil der Optimierung des eigenen Referatsstiles geschieht durch wiederholtes Referieren. Darüber hinaus sollte Sie aber das Feedback von Kommiliton:innen oder Dozierenden weiterbringen. Holen Sie deshalb zeitnah eine Rückmeldung zu Ihrem Referat ein, solange die Eindrücke noch frisch sind. Machen Sie dies proaktiv – nicht jede:r Dozierende bedenkt neben der eigenen Vor- und Nachbereitung der Sitzung immer noch ein institutionalisiertes Feedback an alle Referierenden.
 
-</div>
+:::
 
-<div class="Tipp">
+::: Tipp
 
 Sie sind nervös? Das ist normal. Dagegen hilft in der Regel, wirklich gut vorbereitet zu sein – und darüber hinaus die Routine, die sich dann im Laufe des Studiums einstellt. Wenn Sie das Gefühl haben, dass es damit bei Ihnen nicht getan ist, können Sie professionelle Hilfe in Anspruch nehmen – eigentlich jede Universität bietet sowohl eine Werkstatt, in der wissenschaftliches Arbeiten wie Referieren geübt werden kann als auch eine Beratungsstelle etwa für Fälle von Prüfungsangst. Nehmen Sie dies in Anspruch, wenn Sie denken, dass es Ihnen helfen könnte. Näheres siehe <http://www.sz.rub.de/> sowie <http://www.ruhr-uni-bochum.de/zsb/psych-beratung/psych-beratung.htm>.
 
-</div>
+:::
 
 ### Medien {#sec:referat-medien}
 
@@ -163,7 +163,7 @@ Näheres siehe im Abschnitt [Präsentation von Vorträgen](08_Präsentationen.ht
 
 Generell gilt, dass die verschiedenen Arten von Medien auch jederzeit miteinander kombiniert werden können.
 
-<div class="Merke">
+::: Merke
 
 **Vor dem Referat**
 
@@ -186,4 +186,4 @@ Generell gilt, dass die verschiedenen Arten von Medien auch jederzeit miteinande
 1.  Habe ich mir Feedback von Dozierenden abgeholt?
 2.  Was kann ich beim nächsten Mal besser machen?
 
-</div>
+:::

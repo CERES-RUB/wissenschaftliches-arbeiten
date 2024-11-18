@@ -61,11 +61,11 @@ An important piece of work is taken off your hands if you leave the formatting o
 
 For this purpose, the programs usually provide a selection of ready-made formatting rules; if desired, you can create your own.
 
-<div class="Tip">
+::: Tip
 
 If one uses such a program, it is usually sufficient to select a style that comes close to the specifications of the department. It is not necessary to create a style that exactly implements the guidelines. 
 
-</div>
+:::
 
 ## Embedding in Word Processing
 

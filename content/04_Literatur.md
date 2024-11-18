@@ -71,11 +71,11 @@ Um auch an Informationen über einzelne Aufsätze zu gelangen, sind Literaturdat
 
 Einige Literaturdatenbanken bieten die Möglichkeit, direkt auf die Online-Bestände der Zeitschriften zuzugreifen. Dies ist natürlich sehr komfortabel, da man sich das Heraussuchen der Zeitschrift und das Kopieren oder sogar eine Fernleihe erspart. Es sollte jedoch nicht das Kriterium für die Literaturauswahl sein, ob eine Zeitschrift online verfügbar ist.
 
-<div class="Technik">
+::: Technik
 
 Die Literaturdatenbanken können zum Teil nur aus dem Campus-Netzwerk der RUB erreicht werden. Führen Sie daher die Recherche am besten von einem Campus-Rechner aus oder verbinden Sie sich von außerhalb über VPN mit dem Universitätsnetz. Eine Anleitung hierfür finden Sie unter <http://www.ub.ruhr-uni-bochum.de/DigiBib/Zugang_Extern.html>.
 
-</div>
+:::
 
 ### Online-Quellen
 
@@ -87,11 +87,11 @@ Eine ganze Reihe von Internet-Quellen ist jedoch nicht für den wissenschaftlich
 
 Mit der DigiBib des HBZ (<http://www.digibib.net/>) steht eine Suchmöglichkeit bereit, die gleichzeitig verschiedene der genannten Quellen durchsuchen kann. Durchsucht werden etwa Bibliothekskataloge, Aufsatzdatenbanken und elektronische Volltexte. Eine Suche in der DigiBib deckt damit schon einige der oben genannten Recherchemöglichkeitenn unter einer einheitlichen Suchoberfläche ab. Damit ist die DigiBib ein guter Ausgangspunkt für eine umfassende Literaturrecherche. Weitere Quellen sollten dennoch berücksichtigt werden.
 
-<div class="Tipp">
+::: Tipp
 
 Wenn Sie Ihren Suchprozess dokumentieren, sparen Sie sich unter Umständen einige Arbeit. Notieren Sie zum einen die verwendeten Suchstichwörter und legen Sie zum anderen eine Liste aller im Katalog gefundener und in Erwägung gezogener Bücher an, auf der Sie vermerken, welches Buch wider Erwarten doch nicht in Frage kommt, welches vielleicht nicht am Platz war, und welches noch beschafft werden muss. Damit sparen Sie sich unter Umständen den doppelten Weg zum Regal bei einer erneuten Suche und können bei einer vertieften Suche gezielt den Pool an schon gesuchten Stichwörtern erweitern.
 
-</div>
+:::
 
 ## Literatur lesen und verstehen {#sec:literatur-lesen}
 
@@ -191,11 +191,11 @@ Um in kurzer Zeit einen Überblick über die Kerninhalte eines Textes zu gewinne
 
 ![Schematische Darstellung des kursorischen Lesens](images/Kursorisches_Lesen.png)
 
-<div class="Tipp">
+::: Tipp
 
 Versuchen Sie nach dem Lesen noch einmal, sich den „Bauplan“ des Textes zu vergegenwärtigen: Mit welchen Punkt fängt es an, wohin geht es von da aus etc. Formulieren Sie für sich auch noch einmal die Kernthese. Wenn das funktioniert, haben Sie den Text einigermaßen sicher im Griff.
 
-</div>
+:::
 
 Für eine optimale Seminarvorbereitung bzw. Analyse des Textes sollten Sie nach der Erarbeitung eine kritische Auseinandersetzung anschließen. Dies kann zum einen eine Textkritik sein: Ist der Aufbau schlüssig? Werden Prämissen später wieder aufgegriffen? Ist die Argumentation geschlossen? (Sich dafür zu senisibilisieren, kann doppelt hilfreich sein – auch bei der Bewertung Ihrer Hausarbeiten oder Abschlussarbeit spielen solche Dinge eine entscheidende Rolle.) Zum anderen ist im Seminar oftmals gezielt eine sachliche Kritik am Text gefragt: Sind die Prämissen des Textes annehmbar? Sind die Belege schlüssig? Wie ist ggf. das methodische Vorgehen? Werden Werturteile vorgenommen?
 
@@ -213,8 +213,8 @@ Für das Exzerpt kann man sich etwa an folgenden Fragen orientieren:
 
 4.  Was ist die Argumentationsstruktur?
 
-<div class="Hinweis">
+::: Hinweis
 
 Ein gutes Exzerpt fasst die Abschnitte der Textvorlage abstrahierend zusammen. Es geht nicht darum, die wichtigsten Sätze im Text zu identifizieren und in das eigene Dokument zu kopieren, sondern die Inhalte zu größeren Hauptgedanken umzuformulieren. Nur so machen Sie sich den Text wirklich zu eigen und integrieren ihn in Ihr eigenes Wissen. Je nach Struktur des Textes kann auch eine grafische Umsetzung seiner Aussagen zielführend sein.
 
-</div>
+:::
