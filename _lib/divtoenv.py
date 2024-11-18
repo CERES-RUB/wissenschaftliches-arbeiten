@@ -6,7 +6,8 @@ Pandoc filter to convert divs with class to LaTeX
 environments  of the same name.
 """
 
-from pandocfilters import toJSONFilter, RawBlock, Div
+from pandocfilters import RawBlock, toJSONFilter
+
 
 def latex(x):
     return RawBlock('latex', x)
