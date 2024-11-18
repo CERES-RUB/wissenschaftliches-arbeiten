@@ -21,7 +21,8 @@ FAVICON = "images/favicon.svg"
 THEME_TEMPLATES_OVERRIDES = ["templates"]
 PAGE_PATHS = [""]
 ARTICLE_PATHS = ["posts"]
-STATIC_PATHS = ["images", "css", "downloads"]
+STATIC_PATHS = PAGE_EXCLUDES = ["images", "css", "downloads"]
+IGNORE_FILES = ["99_*"]  # pandoc title overrides
 
 # Pandoc reader
 PANDOC_DEFAULTS_FILES = ["_lib/defaults_html.yaml"]
