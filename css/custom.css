@@ -101,11 +101,11 @@ ul.translations [role="button"] a {
     }
 }
 
-.Beispiel,
-.Hinweis,
-.Merke,
-.Technik,
-.Tipp {
+.Beispiel, .Example,
+.Hinweis, .Advice,
+.Merke, .Remember,
+.Technik, .Technology,
+.Tipp , .Tip {
     margin-bottom: var(--pico-block-spacing-vertical);
     padding: var(--pico-block-spacing-vertical) var(--pico-block-spacing-horizontal);
     border-radius: var(--pico-border-radius);
@@ -116,11 +116,11 @@ ul.translations [role="button"] a {
     font-style: normal;
 }
 
-.Beispiel::before,
-.Hinweis::before,
-.Merke::before,
-.Technik::before,
-.Tipp::before {
+.Beispiel::before, .Example::before,
+.Hinweis::before, .Advice::before,
+.Merke::before, .Remember::before,
+.Technik::before, .Technology::before,
+.Tipp::before , .Tip::before {
     display: block;
     margin: calc(var(--pico-block-spacing-vertical) * -1) calc(var(--pico-block-spacing-horizontal) * -1) var(--pico-block-spacing-vertical);
     padding: calc(var(--pico-block-spacing-vertical) * 0.66) var(--pico-block-spacing-horizontal);
@@ -133,11 +133,11 @@ ul.translations [role="button"] a {
     color: var(--pico-color);
 }
 
-.Beispiel p,
-.Hinweis p,
-.Merke p,
-.Technik p,
-.Tipp p {
+.Beispiel p, .Example p,
+.Hinweis p, .Advice p,
+.Merke p, .Remember p,
+.Technik p, .Technology p,
+.Tipp p, .Tip p {
     padding-right: 15px;
 }
 
@@ -146,49 +146,69 @@ ul.translations [role="button"] a {
     content: "Beispiel";
 }
 
+.Example::before {
+    content: "Example";
+}
+
 .Hinweis::before {
     content: "Hinweis";
+}
+
+.Advice::before {
+    content: "Advice";
 }
 
 .Merke::before {
     content: "Merke";
 }
 
+.Remember::before {
+    content: "Remember";
+}
+
 .Technik::before {
     content: "Technik";
+}
+
+.Technology::before {
+    content: "Technology";
 }
 
 .Tipp::before {
     content: "Tipp";
 }
 
+.Tip::before {
+    content: "Tip";
+}
+
 /* Background images */
-.Beispiel {
+.Beispiel, .Example {
     background-image: url(../images/icon-beispiel.png);
 }
 
-.Hinweis {
+.Hinweis, .Advice {
     background-image: url(../images/icon-hinweis.png);
 }
 
-.Merke {
+.Merke, .Remember {
     background-image: url(../images/icon-merke.png);
 }
 
-.Technik {
+.Technik, .Technology {
     background-image: url(../images/icon-technik.png);
 }
 
-.Tipp {
+.Tipp, .Tip {
     background-image: url(../images/icon-tipp.png);
 }
 
 /* Preserve background image styling */
-.Beispiel,
-.Hinweis,
-.Merke,
-.Technik,
-.Tipp {
+.Beispiel, .Example,
+.Hinweis, .Advice,
+.Merke, .Remember,
+.Technik, .Technology,
+.Tipp, .Tip {
     background-repeat: no-repeat;
     background-size: var(--admonition-icon-size);
     background-position: var(--admonition-icon-padding) var(--admonition-icon-padding);
