@@ -15,13 +15,19 @@ from urllib.parse import urlparse
 
 from pandocfilters import toJSONFilter, Link
 
-def internallinks(key, value, format, meta):
+STATIC_URL = "https://ceres-rub.github.io/wissenschaftliches-arbeiten"
+
+def process_links(key, value, format, meta):
     if key == 'Link':
         [attrs, contents, [url, title]] = value
         o = urlparse(url)
         if not o.scheme and not o.netloc and o.fragment:
-            url = '#' + o.fragment
-            return Link(attrs, contents, (url, title))
+            new_url = '#' + o.fragment
+        else:
+            new_url = url.replace("%7Bstatic%7D", STATIC_URL)
+        if new_url != url:
+            return Link(attrs, contents, (new_url, title))
+
 
 if __name__ == "__main__":
-    toJSONFilter(internallinks)
+    toJSONFilter(process_links)
