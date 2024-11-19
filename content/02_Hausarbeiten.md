@@ -298,22 +298,70 @@ Eine frühzeitige Absprache mit den Dozierenden über eine mögliche Hausarbeit 
 
 :::
 
-## Plagiarismus
+## Wissenschaftliches Fehlverhalten
+
+### Plagiarismus
 
 Fremdes geistiges Eigentum als eigene Gedanken auszugeben, ist im wissenschaftlichen Bereich – in dem auch Sie als Studierende agieren – kein Kavaliersdelikt mehr. Plagiate werden inzwischen an allen Universitäten empfindlich geahndet. Auch an der Ruhr-Universität Bochum gilt: Nicht nur werden selbstverständlich alle Arbeiten, in denen sich Plagiate finden, als „nicht ausreichend“ gewertet, darüber hinaus müssen Plagiate dem Prüfungsamt und damit dem Justiziariat gemeldet werden. Letzteres kann über ein Ordnungswidrigkeitsverfahren Geldbußen sowie in schwerwiegenden Fällen den Ausschluss vom Studium veranlassen.
 
-Im wissenschaftlichen Betrieb gelten verschiedene Tatbestände als Plagiate: Das Einreichen einer Arbeit, die von jemand anderem für den Studierenden erstellt wurde (Ghostwriting) oder das Einreichen einer anderen fremden Arbeit unter dem eigenen Namen (Vollplagiat), die Übernahme von Textteilen aus anderen Werken – oder dem Internet – ohne entsprechende Quellenangaben (Teilplagiat) und das mehrfache Einreichen einer eigenen Arbeit zu unterschiedlichen Anlässen (Selbstplagiat).
+Im wissenschaftlichen Betrieb gelten verschiedene Tatbestände als Plagiate: Das Einreichen einer anderen fremden Arbeit unter dem eigenen Namen (Vollplagiat), die Übernahme von Textteilen aus anderen Werken – einschließlich Online-Quellen – ohne entsprechende Quellenangaben (Teilplagiat) und das mehrfache Einreichen einer eigenen Arbeit zu unterschiedlichen Anlässen (Selbstplagiat). Analog behandelt wird das Einreichen einer Arbeit, die von jemand anderem erstellt wurde (Ghostwriting).
 
-Es ist daher auch extrem wichtig, Übernahmen aus anderen Werken korrekt zu zitieren und zu belegen – ohne angemessene Kenntlichmachung werden auch übernommene und ggf. leicht veränderte Paraphrasen aus den Werken anderer Autoren zu Plagiaten.
-
-::: Hinweis
-
-Auch für die Beurteilung Ihrer Arbeit ist es wichtig, dass Sie sauber kennzeichnen, welche Gedanken Sie aus einem anderen Werk übernommen haben, und was Ihre eigenen Analysen oder Schlussfolgerungen sind. Die Eigenleistung ist wichtiger Bestandteil einer Hausarbeit, Sie tun sich also selbst keinen Gefallen, wenn Sie den Betreuer, der ihre Arbeit korrigiert, darüber im Dunkeln lassen, was die Eigenleistung darstellt.
-
-:::
+Es ist daher extrem wichtig, Übernahmen aus anderen Werken korrekt zu zitieren und zu belegen – ohne angemessene Kenntlichmachung werden auch übernommene und ggf. leicht veränderte Paraphrasen aus den Werken anderer Autor\*innen zu Plagiaten.
 
 ::: Tipp
 
 Wenn Sie über längere Strecken die Argumentation eines anderen Autor indirekt zitieren, sollten Sie dies neben der Verwendung umfassender Belege durch den Einsatz des Konjunktivs deutlich machen. Ihren Anteil an der Arbeit können Sie durch eindeutige Formulierungen an den wichtigen Stellen herausstellen („ich habe gezeigt, dass …“; „man kann nun also schlussfolgern, dass …“).
 
 :::
+
+### KI-Tools
+
+Mit Tools, die auf generativer Künstlicher Intelligenz basieren, stehen Werkzeuge bereit, die den Schreibprozess an verschiedenen Stellen unterstützen können. Nicht alle Anwendungsfälle sind aber prüfungsrechtlich zulässig. Aber auch für Ihr eigenes Fortkommen ist es nicht sinnvoll, sich zu sehr auf KI-Tools zu verlassen. Mit KI-Tools können Sie schnell mittelmäßige Ergebnisse produzieren, ein eigener Lernprozess findet dabei aber kaum statt. Dies ist auch für die Bewertung von Studienleistungen essenziell: Ziel von Studienleistungen wie Hausarbeiten oder Referaten ist nicht, einen hinreichend guten Text zu produzieren, sondern Ihre eigene intellektuelle Leistung und Ihren Lernfortschritt zu dokumentieren.
+
+Die Fakultät für Philologie der RUB hat eine [Handreichung zur Nutzung von generativer künstlicher Intelligenz in studentischen Arbeiten an der Fakultät für Philologie](https://www.dekphil.ruhr-uni-bochum.de/dekphil/mam/2023-philologie-gki-handreichung.pdf) erstellt, die auch am CERES Anwendung findet. Die in Bezug auf Studienleistungen für Sie wichtigsten Punkte sind dabei:
+
+> - Übungen, Prüfungen, Schreibaufgaben, Hausarbeiten etc. dienen der Dokumentation und Kontrolle des eigenen Leistungsstandes der Studierenden. Diese Texte werden daher grundsätzlich von den Studierenden selbst und eigenständig verfasst (siehe auch: [Eigenständigkeitserklärung](#eigenständigkeitserklärung)). Überwiegend von KI generierte Textbausteine können nicht verwendet werden.
+> 
+> - Die Nutzung von KI zur Unterstützung bei Schreibaufgaben kann sinnvoll und hilfreich sein. Was sinnvoll ist, hängt von der Situation ab: Könnte ich eine Kommilitonin um die gleiche Hilfe bitten (z. B. Korrekturlesen), ist es ziemlich sicher zulässig. Könnte ich die Arbeit der Kommilitonin nicht als meine eigene abgeben, darf ich es auch nicht bei KI-generierten Ergebnissen (z. B. Erstellung einer tabellarischen Übersicht der Vorarbeiten zu einem Thema).
+> 
+> - Jede Nutzung von generativer KI wird bei der Abgabe angegeben, mit Angaben zum verwendeten Tool, zum Datum und Umfang der Nutzung, sowie mit Angabe der Prompts und eventuell einer kurzen Begründung. Dies kann zum Beispiel in einem Methodenkapitel geschehen.
+> 
+> - Die unterstützende Nutzung von KI-Tools zur Verbesserung der Rechtschreibung, Grammatik, Zeichensetzung ist grundsätzlich möglich und empfohlen (z. B. Word-Rechtschreibkontrolle, Grammarly, DeepL Write).
+> 
+> - Einreichende übernehmen Verantwortung für ihre Texte und können diese auf Nachfrage erläutern sowie den Entstehungsprozess erklären. Studierende können während der Arbeit an größeren Einreichungen jederzeit Auskunft zum Bearbeitungsstand und Arbeitsprozess geben (zum Beispiel durch Draft-Versionen, Gliederungen, etc.).
+> 
+> - Undeklarierte oder unzulässige Nutzung generativer KI in studentischen Prüfungsleistungen wird als wissenschaftliche Fehlleistung analog zum Plagiat betrachtet und behandelt.
+
+(Aus: Tatjana Scheffler und die Arbeitsgruppe „Philologie und KI“. Handreichung zur Nutzung von generativer künstlicher Intelligenz in studentischen Arbeiten an der Fakultät für Philologie. Oktober 2023. <https://www.dekphil.ruhr-uni-bochum.de/dekphil/mam/2023-philologie-gki-handreichung.pdf>.)
+
+::: Hinweis
+
+Auch für die Beurteilung Ihrer Arbeit ist es wichtig, dass Sie sauber kennzeichnen, welche Gedanken Sie aus einem anderen Werk übernommen haben, und was Ihre eigenen Analysen oder Schlussfolgerungen sind. Die Eigenleistung ist wichtiger Bestandteil einer Hausarbeit, Sie tun sich also selbst keinen Gefallen, wenn Sie die Betreuer\*innen, die ihre Arbeit korrigieren, darüber im Dunkeln lassen, was die Eigenleistung darstellt.
+
+:::
+
+## Eigenständigkeitserklärung
+
+Um zu dokumentieren, dass Sie sich der Regeln zum wissenschafltichen Arbeiten bewusst sind und dass zwischen Ihren Betreuer\*innen und Ihnen Einigkeit in Bezug auf zulässige Arbeitsmittel besteht, muss jede Hausarbeit mit einer unterschriebenen Eigenständigkeitserklärung eingereicht werden. Die Eigenständigkeitserklärung am CERES muss die folgenden Punkte enthalten:
+
+> Hiermit versichere ich ausdrücklich, dass ich
+> 
+> 1. die vorliegende Arbeit in geistiger Eigenleistung verfasst und angefertigt
+> habe;
+> 2. außer den im Quellen-, Literatur- und Hilfsmittelverzeichnis sowie in den Anmerkungen genannten Hilfsmitteln keine weiteren benutzt habe;
+> 3. alle Abschnitte, die mithilfe von Software auf Basis sog. künstlicher Intelligenz (vor allem aus dem Bereich der Large Language Models, z. B., aber nicht nur ChatGPT) verfasst wurden, vollumfänglich kenntlich gemacht habe;
+> 4. Software auf Basis sog. künstlicher Intelligenz, die ich für Ideensammlungen und Strukturierungsentwürfe oder zur Verbesserung der Rechtschreibung, Grammatik oder Zeichensetzung genutzt habe, mit Angaben zum verwendeten Tool, zum Datum und Umfang der Nutzung, sowie mit Angabe der Prompts und eventuell einer kurzen Begründung im Hilfsmittelverzeichnis aufgeführt habe;
+> 5. alle Stellen der Arbeit, die anderen Werken dem Wortlaut oder dem Sinn nach entnommen sind, unter Angabe der Quelle als Entlehnung kenntlich gemacht habe; das umfasst alle Quellen, insbesondere auch alle Informationen aus dem Internet.
+> 
+> Außerdem erkläre ich ausdrücklich, dass
+> 
+> 1. ich weder diese Arbeit (in dieser oder einer inhaltlich äquivalenten Form) noch Teile daraus bereits an anderer Stelle eingereicht habe;
+> 2. ich weder diese Arbeit (in dieser oder einer inhaltlich äquivalenten Form) noch Teile daraus an anderer Stelle einreichen werde;
+> 3. mir bekannt ist, dass eingereichte Arbeiten grundsätzlich einer technischen Plagiatsprüfung mit der von der Ruhr-Universität angebotenen Software unterzogen werden können;
+> 4. ich Verantwortung für meinen Text übernehme und diesen auf Nachfrage erläutern sowie den Entstehungsprozess erklären kann;
+> 5. mir bekannt ist, dass Plagiate bzw. plagiierte Textabschnitte in meiner Arbeit dazu führen, dass meine Arbeit als „nicht bestanden (Täuschungsabsicht)“ bewertet und dem zuständigen Prüfungsausschuss gemeldet wird und daraus je nach Schwere des Verstoßes weitere Sanktionen (z. B. Geldbuße, Exmatrikulation) folgen können;
+> 6. mir bekannt ist, dass die undeklarierte oder unzulässige Nutzung generativer KI in Prüfungsleistungen als wissenschaftliche Fehlleistung analog zum Plagiat betrachtet und behandelt wird.
+> 
+> Ort, Datum, Unterschrift
+
+Sie können eine Vorlag in verschiedenen Formaten herunterladen und nutzen: [PDF]({static}/downloads/Eigenständigkeitserklärung.pdf), [DOCX]({static}/downloads/Eigenständigkeitserklärung.docx), [ODT]({static}/downloads/Eigenständigkeitserklärung.odt).
