@@ -56,7 +56,7 @@ Die Gliederung Ihrer Hausarbeit zu Scientology könnte nun aussehen wie folgt:
 1. Einleitung
 2. (deskriptiver Teil)
     2.1 Über Scientology
-    2.2 Überblick über Konflikte und stattgefundene Gerichtsverhandelungen
+    2.2 Überblick über Konflikte und stattgefundene Gerichtsverhandlungen
 3. (analytischer Teil)
     3.1 Analyse der Schriftstücke und Urteile
     3.2 Bezug zu religionswissenschaftlicher Literatur über Scientology
@@ -190,7 +190,7 @@ Eine Hausarbeit umfasst im BA-Studium bei Standardformatierung in der Regel ca. 
 
 -   Zeilenabstand 1,25 bis 1,5fach
 
--   Rechter Rand 4cm – für Anmerkungen und Korrekturen; Rand links 2cm, oben/“”unten 2–3cm
+-   Rechter Rand 4cm – für Anmerkungen und Korrekturen; Rand links 2cm, oben/unten 2–3cm
 
 -   Abgesetzte Überschriften mit Gliederungsziffern
 
