@@ -4,15 +4,21 @@
   <header>
     <h2>{{ page.title }}</h2>
   </header>
-  {% import 'translations.html' as translations with context %}
-  {{ translations.translations_for(page) }}
 
   {{ page.content }}
 
   {% set content_pages = pages|selectattr('contents') %}
   <ol>
-  {% for page in content_pages %}
-    <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+  {% for p in content_pages %}
+    {% if p.lang == page.lang %}
+      <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+    {% else %}
+      {% for t in p.translations %}
+        {% if t.lang == page.lang %}
+          <li><a href="{{ SITEURL }}/{{ t.url }}">{{ t.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   {% endfor %}
   </ol>
 

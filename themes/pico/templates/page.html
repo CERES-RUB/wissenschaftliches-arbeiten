@@ -1,11 +1,14 @@
 {% extends "base.html" %}
 
+{% block nav_translations %}
+  {% import 'translations.html' as translations with context %}
+  {{ translations.translations_for(page) }}
+{% endblock %}
+
 {% block content %}
   <header>
     <h2>{{ page.title }}</h2>
   </header>
-  {% import 'translations.html' as translations with context %}
-  {{ translations.translations_for(page) }}
 
   {{ page.content }}
 

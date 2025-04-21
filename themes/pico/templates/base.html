@@ -48,30 +48,34 @@
       <div class="container">
       {% block heading %}
         <hgroup><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>{% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}</hgroup>
-      {% endblock %}
+      {% endblock heading %}
       {% block nav %}
-        <nav><ul>
-          {% for title, link in MENUITEMS %}
-            <li><a href="{{ link }}">{{ title }}</a></li>
-          {% endfor %}
-          {% if DISPLAY_PAGES_ON_MENU %}
-            {% for p in pages %}
-              <li><a href="{{ SITEURL }}/{{ p.url }}" {% if p==page %} aria-current="page" {% endif %}>{{ p.title }}</a></li>
+        <nav>
+          <ul>
+            {% for title, link in MENUITEMS %}
+              <li><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}
-          {% endif %}
-          {% if DISPLAY_CATEGORIES_ON_MENU %}
-            {% for cat, null in categories %}
-              <li><a href="{{ SITEURL }}/{{ cat.url }}" {% if cat==category %} aria-current="page" {% endif %}>{{ cat}}</a></li>
-            {% endfor %}
-          {% endif %}
-        </ul></nav>
-      {% endblock %}
+            {% if DISPLAY_PAGES_ON_MENU %}
+              {% for p in pages %}
+                <li><a href="{{ SITEURL }}/{{ p.url }}" {% if p==page %} aria-current="page" {% endif %}>{{ p.title }}</a></li>
+              {% endfor %}
+            {% endif %}
+            {% if DISPLAY_CATEGORIES_ON_MENU %}
+              {% for cat, null in categories %}
+                <li><a href="{{ SITEURL }}/{{ cat.url }}" {% if cat==category %} aria-current="page" {% endif %}>{{ cat}}</a></li>
+              {% endfor %}
+            {% endif %}
+          </ul>
+          {% block nav_translations %}<!-- placeholder for translations -->
+          {% endblock nav_translations %}
+        </nav>
+      {% endblock nav %}
       </div>
     </header>
     <main>
       <div class="container">
       {% block content %}
-      {% endblock %}
+      {% endblock content %}
       </div>
     </main>
     <footer>
@@ -81,7 +85,7 @@
           Proudly powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>,
           which takes great advantage of <a rel="nofollow" href="https://www.python.org/">Python</a>.
         </address>
-      {% endblock %}
+      {% endblock footer %}
       </div>
     </footer>
   </body>
