@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Info
+lang: en
+slug: home
 nav: true
 order: 1
 url: 
 save_as: index.html
 ---
 
-Dieser Leitfaden bietet Studierenden der Religionswissenschaft einen Überblick über die Techniken wissenschaftlichen Arbeitens, die sie in ihrem Studium benötigen.
+This guide provides students of religious studies with an overview of academic skills they will need in their studies.
 
-Neben der [Online-Version]({filename}contents.md) gibt es auch eine [PDF-Version]({static}/downloads/Leitfaden_wissenschaftliches_Arbeiten.pdf) und ein [E-Book]({static}/downloads/Leitfaden_wissenschaftliches_Arbeiten.epub).
+Besides the [online version]({filename}contents.md) there is also a [PDF document]({static}downloads/Academic_Skills.pdf) available.
 
-Eine englische Version kann [hier](/academic-skills/) gefunden werden.
-
-_An English version can be found [here](/academic-skills/)._
+A German version can be found [here](../). 

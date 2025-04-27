@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Impressum
-permalink: /credits/
+lang: de
+slug: imprint
 nav: true
 order: 5
 ---

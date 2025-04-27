@@ -1,18 +1,24 @@
 ---
 layout: page
-title: Mitwirkende
-permalink: /contributions/
+title: Contributions
+lang: en
+slug: contributions
 nav: true
 order: 4
 ---
 
-### Autor\*innen
+### Authors
 
 * Frederik Elwert
 * Anna Neumaier
 
-### Beiträge
+### Contributors
 
-* Martin Radermacher (Überarbeitung und Fehlerkorrekturen)
-* Sven Bretfeld (Kriterien zur Bewertung von Hausarbeiten)
-* Ann-Kathrin Wolf (Überarbeitung und Fehlerkorrekturen)
+* Martin Radermacher (Revision and proof-reading)
+* Sven Bretfeld (Marking Criteria for Term Papers)
+* Ann-Kathrin Wolf (Revision and proof-reading)
+
+### English Translation
+
+* George Warner
+* Lina Rodenhausen

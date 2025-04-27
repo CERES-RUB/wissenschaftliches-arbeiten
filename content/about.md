@@ -1,30 +1,32 @@
 ---
 layout: page
-title: Hintergrund
+title: About this guide
+lang: en
+slug: about
 nav: true
 order: 3
 ---
 
-### Warum OpenAccess?
+### Why OpenAccess?
 
-Ein Leitfaden für Studierende sollte so einfach wie möglich zugänglich sein. Gerade bei Informationsmaterialien wie diesen ist es sinnvoll, sie kostenlos zum Download anzubieten. OpenAccess geht aber noch einen Schritt weiter: Dieser Leitfaden darf nicht nur vom Server der anbietenden Institution heruntergeladen werden, er darf auch kostenlos weiterverbreitet werden. Aufgrund der Lizenz „Creative Commons Attribution Share-Alike“ ([CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) ist es auch erlaubt, Änderungen vorzunehmen – solange diese gekennzeichnet sind und die neue Fassung nicht den Eindruck erweckt, sie werde von den Ursprungsautor\*innen unterstützt.
+A guide for students should be as easily accessible as possible. Especially with information materials such as these, it makes sense to offer them for free download. However, OpenAccess goes one step further: this guide may not only be downloaded from the server of the providing institution, it may also be redistributed free of charge. Due to the “Creative Commons Attribution Share-Alike” license ([CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)), it is also permitted to make changes—as long as these are marked, and the new version does not give the impression that it is supported by the original authors.
 
-Gerade die Möglichkeit, Änderungen vorzunehmen, ist häufiger eher Theorie als Praxis: Wenn Texte, wie häufig der Fall, als PDF-Dateien angeboten werden, lassen sie sich nur mit erheblichem Aufwand bearbeiten. Wichtig wäre dafür also nicht nur die fertige Ergebnisdatei, sondern auch die Vorlage, von der sie erstellt wurde, also etwa ein Word-Dokument, die LaTeX-Quelldatei oder ähnliches.
+The possibility of making changes is more often theory than practice: If texts are offered as PDF files, as is often the case, they can only be edited with considerable effort. It is therefore not only the finished result file that is important, but also the template from which it was created, such as a Word document, the LaTeX source file or similar.
 
-Dieser Leitfaden wird in verschiedenen Formaten angeboten, aber zusätzlich stehen auch die Rohdateien im Markdown-Format zur Verfügung und können leicht angepasst werden.
+This guide is offered in various formats, but the raw files are also available in Markdown format and can be easily adapted.
 
-### Warum Markdown?
+### Why Markdown?
 
-Eine frühere Fassung dieses Leitfadens ist in [LaTeX](http://www.latex-project.org/) gesetzt worden. Dies ist ein gutes Satzsystem für Print-Publikationen, aber es hat für diesen Zweck zwei Schwächen:
+An earlier version of this guide was typeset in [LaTeX](http://www.latex-project.org/). This is a good typesetting system for print publications, but it has two weaknesses for this purpose:
 
-* Es ist deutlich schwieriger, von einer LaTeX-Vorlage Versionen für verschiedene Ausgabemedien wie PDF (Druck), HTML (online) und epub (mobil) zu produzieren.
-* LaTeX erfordert einige Einarbeitung, so dass es für kollaborative Projekte eine Hürde darstellen kann.
+* It is much more difficult to produce versions of a LaTeX template for different output media such as PDF (print), HTML (online) and epub (mobile).
+* LaTeX requires some training, so it can be a hurdle for collaborative projects.
 
-[Markdown](http://daringfireball.net/projects/markdown/) ist ein einfaches Textformat, das schnell erlernt werden kann und für die Publikation in verschiedene Ausgabeformate umgewandelt werden kann. Für die Web-Version nutzt dieser Leitfaden den [Static Site Generator](https://en.wikipedia.org/wiki/Static_site_generator) [Pelican](https://getpelican.com/), der aus den Markdown-Dateien eine HTML-Website generiert. Für die Druckversion sowie das E-Book wird das Konvertierungsprogramm [Pandoc](https://pandoc.org/) verwendet.
+[Markdown](http://daringfireball.net/projects/markdown/) is a simple text format that can be learned quickly and converted to different output formats for publication. For the web version, this guide uses the [Static Site Generator](https://en.wikipedia.org/wiki/Static_site_generator) [Pelican](https://getpelican.com/), which generates an HTML website from the Markdown files. The conversion program [Pandoc](https://pandoc.org/) is used for the print version and the e-book.
 
-### Warum GitHub?
+### Why GitHub?
 
-[GitHub](https://github.com/) ist eigentlich ein Hosting-Dienst für Software-Entwickler, bei dem man den Quellcode von Anwendungen gemeinsam bearbeiten kann. Mittlerweile eigent es sich aber auch gut dafür, gemeinsam Texte zu bearbeiten, zumal Markdown-Dateien gut unterstützt und online angezeigt werden.
+[GitHub](https://github.com/) is actually a hosting service for software developers where you can work together on the source code of applications. However, it is now also suitable for collaborative editing of texts, especially as Markdown files are well-supported and displayed online.
 
-GitHub arbeitet für die kollaborative Arbeit mit dem Konzept von sogenannten [Forks](https://de.wikipedia.org/wiki/Abspaltung_%28Softwareentwicklung%29): Jede\*r Bearbeiter\*in arbeitet an einer eigenen Version, die gemachten Änderungen können dann bei Bedarf in eine gemeinsame Fassung übernommen werden.
-Gerade für einen Leitfaden wie diesen bietet sich das Modell an: Unterschiedliche Studiengänge haben im Detail unterschiedliche Vorgaben. Jede\*r kann also diesen Leitfaden zum Ausgangspunkt nehmen und eine eigene Fassung davon erstellen. Allgemein gültige Verbesserungen können auf Anfrage wieder in diese Version übernommen werden, aber es spricht auch nichts dagegen, dass mittelfristig für verschiedene Bedarfe verschiedene Ausgaben entstehen.
+GitHub works with the concept of so-called [forks](https://en.wikipedia.org/wiki/Fork_(software_development)) for collaborative work: Each editor works on their own version, and the changes made can then be incorporated into a shared version if required.
+This model is particularly suitable for a guide like this one: Different degree programs have different detailed requirements. Each student can therefore take this guideline as a starting point and create their own version. Generally applicable improvements can be incorporated back into this version on request, but there is also nothing to prevent different editions being produced for different requirements in the medium term.
