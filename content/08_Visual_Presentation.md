@@ -13,7 +13,7 @@ To support oral presentations, a visual presentation of key statements and/or il
 
 The two large office packages, Microsoft Office and LibreOffice, contain programs for the design of on-screen presentations with **PowerPoint** and **Impress** respectively. These are very graphically oriented, so you can easily select different designs, insert graphics and dynamically display and animate individual elements. For the Office packages, see the note boxes in section [Office Applications](06_Word_Processing.html#sec:office).
 
-**LaTeX** also contains components for creating on-screen presentations, such as LaTeX Beamer. Presentations created with LaTeX are more structure-oriented. This allows for automatic tables of contents or the highlighting of the current part of a presentation. For general information about LaTeX see the notes box in the section [LaTeX](06_Word_Processing.html#sec:latex).
+<!-- **LaTeX** also contains components for creating on-screen presentations, such as LaTeX Beamer. Presentations created with LaTeX are more structure-oriented. This allows for automatic tables of contents or the highlighting of the current part of a presentation. For general information about LaTeX see the notes box in the section [LaTeX](06_Word_Processing.html#sec:latex). -->
 
 In all cases, special attention must be paid to the fact that the technical possibilities of the software are intended to support the presentation, but are not an end in themselves. Thus, an on-screen presentation only makes sense for presentations of a certain length. An on-screen presentation is suitable for the following purposes:
 

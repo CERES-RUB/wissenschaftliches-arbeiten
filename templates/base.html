@@ -19,7 +19,7 @@
     <div><p>{{ DESCRIPTION }}</p></div>
     <div><ul>
       {% for name, link in SOCIAL %}
-        <li><img src="{{ SITEURL }}/images/icon-{{ name|lower }}.svg" class="glyph" alt="" /> <a href="{{ link }}">{{ name }}</a></li>
+        <li><img src="{{ main_siteurl }}/images/icon-{{ name|lower }}.svg" class="glyph" alt="" /> <a href="{{ link }}">{{ name }}</a></li>
       {% endfor %}
     </ul></div>
   </div>

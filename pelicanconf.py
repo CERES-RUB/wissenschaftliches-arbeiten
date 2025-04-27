@@ -13,6 +13,16 @@ PATH = "content"
 TIMEZONE = "Europe/Berlin"
 
 DEFAULT_LANG = "de"
+I18N_SUBSITES = {
+    "en": {
+        "AUTHOR": "Center for Religious Studies",
+        "SITENAME": "A Guide to Academic Writing in Religious Studies",
+        "DESCRIPTION": "An introduction to academic skills in religious studies. "
+            "Created at the Center for Religious Studies (CERES) of the "
+            "Ruhr-Universität Bochum. ",
+        "TOC_TITLE": "Contents",
+    }
+}
 
 # Theme and templates
 THEME = "themes/pico"

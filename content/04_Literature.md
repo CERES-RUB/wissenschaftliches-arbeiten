@@ -202,7 +202,7 @@ If you have a specific focus in terms of content or methodology, for example in 
 
 -   **Cursory reading:** Also a fast method. As with the searching method, more precise details are neglected. The point is to grasp the broader context and meaning of a text. As a result of this reading process, it should be clear which questions are addressed in the text. With this technique, the eyes only scan the text, not reading line by line. It is recommended to write down one or two key points per page.
 
-![Schematic illustration of cursory reading](images/Kursorisches_Lesen.png)
+![Schematic illustration of cursory reading]({static}/images/Kursorisches_Lesen.png)
 
 ::: Tip
 

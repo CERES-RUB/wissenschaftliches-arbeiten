@@ -12,9 +12,9 @@
       {% if SITESUBTITLE %}
         <meta name="description" content="{{ SITESUBTITLE }}" />
       {% endif %}
-      <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pico.css" />
+      <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pico.css" />
       {% if STYLESHEET_URL %}
-        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ STYLESHEET_URL }}" />
+        <link rel="stylesheet" type="text/css" href="{{ main_siteurl }}/{{ STYLESHEET_URL }}" />
       {% endif %}
       {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME|striptags }} Full Atom Feed" />

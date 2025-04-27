@@ -1,12 +1,11 @@
+import datetime
 import os
 import shlex
 import shutil
 import sys
-import datetime
 
 from invoke import task
 from invoke.main import program
-from invoke.util import cd
 from pelican import main as pelican_main
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
@@ -157,3 +156,8 @@ def gh_pages(c):
 def pelican_run(cmd):
     cmd += " " + program.core.remainder  # allows to pass-through args to pelican
     pelican_main(shlex.split(cmd))
+
+@task
+def export(c):
+    """Export to PDF and EPUB"""
+    c.run("_lib/build.sh")

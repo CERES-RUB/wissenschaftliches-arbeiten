@@ -114,7 +114,7 @@ Vor jeder Hausarbeit steht ein Deckblatt, das einige formal wichtige Information
 
 Die Abbildung zeigt ein Beispiel eines Deckblatts.
 
-![Beispiel einer Titelseite](images/Muster_Titelseite)
+![Beispiel einer Titelseite]({static}/images/Muster_Titelseite)
 
 ### Inhaltsverzeichnis
 

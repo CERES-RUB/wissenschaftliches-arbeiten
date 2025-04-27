@@ -41,7 +41,7 @@ Zotero can be downloaded from <https://www.zotero.org/>.
 
 ## Collecting Bibliographic References
 
-![Entry in a literature database](images/Zotero_Englisch.png)
+![Entry in a literature database]({static}/images/Zotero_Englisch.png)
 
 The first step is to collect bibliographic data in the literature database. For this purpose, the information of a book, journal article or other text source is entered in general form. The later formatting does not play a role here. If the author is entered as "Weber, Max", this can later be rendered "Weber, Max", "Max Weber" or "Weber, M.". The separation of meaning and formatting is similar to the formatting templates of a word processor, only the possibilities are much greater here.
 

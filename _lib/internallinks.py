@@ -10,10 +10,9 @@ page, e.g. `foo.html#bar`. When converting to other formats, pandoc
 concatenates all input files and treats them as one file. This filter
 rewrites internal links as `#bar`, which works for pandoc.
 """
-import sys
 from urllib.parse import urlparse
 
-from pandocfilters import toJSONFilter, Link
+from pandocfilters import Image, Link, toJSONFilter
 
 STATIC_URL = "https://ceres-rub.github.io/wissenschaftliches-arbeiten"
 
@@ -27,6 +26,12 @@ def process_links(key, value, format, meta):
             new_url = url.replace("%7Bstatic%7D", STATIC_URL)
         if new_url != url:
             return Link(attrs, contents, (new_url, title))
+
+    if key == 'Image':
+        [attrs, caption, [filename, typef]] = value
+        new_filename = filename.replace("%7Bstatic%7D", "").lstrip("/")
+        if new_filename != filename:
+            return Image(attrs, caption, (new_filename, typef))
 
 
 if __name__ == "__main__":

@@ -41,7 +41,7 @@ Zotero kann unter <https://www.zotero.org/> heruntergeladen werden.
 
 ## Erfassen von Literatur
 
-![Eintrag in einer Literaturdatenbank](images/Zotero.png)
+![Eintrag in einer Literaturdatenbank]({static}/images/Zotero.png)
 
 Der erste Schritt ist das Erfassen von Literatur in der Literaturdatenbank. Dazu werden die Informationen eines Buchs, eines Zeitschriftenaufsatzes oder einer anderen Textquelle in allgemeiner Form eingegeben. Die spätere Formatierung spielt hier noch keine Rolle. Bei einer Erfassung von Autor:in als „Weber, Max“ kann später nach Belieben der Autor als „Weber, Max“, „Max Weber“ oder „Weber, M.“ ausgegeben werden. Die Trennung von Bedeutung und Formatierung ist vergleichbar mit den Formatvorlagen einer Textverarbeitung, nur sind die Möglichkeiten hier wesentlich größer.
 
