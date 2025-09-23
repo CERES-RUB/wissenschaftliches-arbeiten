@@ -54,12 +54,19 @@ Schon unmittelbar nach der Erarbeitung der Fragestellung kann eine erste Glieder
 Die Gliederung Ihrer Hausarbeit zu Scientology könnte nun aussehen wie folgt:
 
 1. Einleitung
-2. (deskriptiver Teil)
+
+2. Hintergrund: Scientology und das Rechtssystem
+
     2.1 Über Scientology
+
     2.2 Überblick über Konflikte und stattgefundene Gerichtsverhandlungen
-3. (analytischer Teil)
+
+3. Eine Analyse gerichtlicher Argumentationsstrukturen
+
     3.1 Analyse der Schriftstücke und Urteile
+
     3.2 Bezug zu religionswissenschaftlicher Literatur über Scientology
+
 4. Fazit
 
 :::

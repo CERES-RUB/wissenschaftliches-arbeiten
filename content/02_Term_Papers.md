@@ -55,13 +55,13 @@ The outline of your Scientology term paper might now look like this:
 
 1. Introduction
 
-2. (Descriptive part)
+2. Background: Scientology and the legal system
 
-    2.1 About Scientology 
+    2.1 About Scientology
     
     2.2 Overview of conflicts and court trials that have taken place
     
-3. (Analytical part) 
+3. An analysis of judicial argumentation structures
 
     3.1 Analysis of documents and legal rulings
     
