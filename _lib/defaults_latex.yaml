@@ -4,7 +4,7 @@ to: latex-smart
 pdf-engine: xelatex
 default-image-extension: ".pdf"
 variables:
-  documentclass: scrreprt
+  documentclass: scrbook
   mainfont: 'Linux Libertine O'
   sansfont: 'Linux Biolinum O'
   colorlinks: true

@@ -14,10 +14,10 @@ cd "$SRC"/ || exit
 # LATEX/PDF
 echo "Creating PDF"
 echo "DE"
-pandoc -o "$DEST"/"$DE_FILENAMEBASE".pdf --defaults "$LIB"/defaults_latex.yaml \
+pandoc -o "$DEST"/"$DE_FILENAMEBASE".pdf --defaults "$LIB"/defaults_latex_de.yaml \
        "${DE_FILES[@]}"
 echo "EN"
-pandoc -o "$DEST"/"$EN_FILENAMEBASE".pdf --defaults "$LIB"/defaults_latex.yaml \
+pandoc -o "$DEST"/"$EN_FILENAMEBASE".pdf --defaults "$LIB"/defaults_latex_en.yaml \
        "${EN_FILES[@]}"
 
 # EPUB
