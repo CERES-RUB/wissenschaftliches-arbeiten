@@ -371,4 +371,4 @@ Um zu dokumentieren, dass Sie sich der Regeln zum wissenschafltichen Arbeiten be
 > 
 > Ort, Datum, Unterschrift
 
-Sie können eine Vorlag in verschiedenen Formaten herunterladen und nutzen: [PDF]({static}/downloads/Eigenständigkeitserklärung.pdf), [DOCX]({static}/downloads/Eigenständigkeitserklärung.docx), [ODT]({static}/downloads/Eigenständigkeitserklärung.odt).
+Sie können eine Vorlage in verschiedenen Formaten herunterladen und nutzen: [PDF]({static}/downloads/Eigenständigkeitserklärung.pdf), [DOCX]({static}/downloads/Eigenständigkeitserklärung.docx), [ODT]({static}/downloads/Eigenständigkeitserklärung.odt).
