@@ -209,7 +209,7 @@ Verwenden Sie bestenfalls etwas mehr Mühe darauf, das Original zu beschaffen. A
 
 :::
 
-## Quellenangaben
+## Historische Quellen
 
 Historische Quellen, wie etwa Bibel, Koran oder andere historische Schriften, können nicht entsprechend der Regeln für Sekundärliteratur zitiert werden. Insbesondere ist die Autor:innenschaft oft unklar, und die gleiche Quelle liegt oftmals in verschiedenen Ausgaben vor. Der verwendeten Übersetzung/​Edition kommt hier eine besondere Bedeutung bei, die in der Quellenangabe deutlich gemacht werden muss. Die Literaturangabe vereint daher Angaben zur originalen Quelle (die etwa einen Titel, aber unter Umständen keine:n bekannte:n Autor:in hat) und Angaben zur verwendeten Ausgabe. Je nach verfügabaren Informationen richtet sich die Angabe grob nach folgendem Schema:
 
