@@ -193,19 +193,21 @@ Papers that are rich in material can also contain one or more appendices, in whi
 
 A term paper in standard format usually contains about 12-18 pages or 5,000-7,000 words. However, the obligatory details are determined by the lecturers. The following guidelines apply to all papers:
 
+- A4 paper size
+
 - font size 12pt 
 
 - line spacing 1.25 to 1.5 
 
 - Right margin 4cm - for notes and corrections; left margin 2cm, top/bottom 2-3cm
 
-- Detached headings with section numbers
+- section headings with section numbers
 
-- Footnotes at the bottom of the page (no endnotes)
+- footnotes at the bottom of the page (no endnotes)
 
-- Page numbering from the second page onwards (the title page counts as page 1, but should not have a page number on it)
+- page numbering from the second page onwards (the title page counts as page 1, but should not have a page number on it)
 
-- Text in justification with (automatic) hyphenation
+- text in justification with (automatic) hyphenation
 
 ::: Technology
 
@@ -219,7 +221,7 @@ Good linguistic expression is also part of a successful paper. Contrary to commo
 
 Be precise and specify to whom you are referring, e.g. by saying: "The author considers that ...". Likewise, you should avoid the first person when you present facts or others’ theories; the first person is reserved for your own arguments or opinions.
 
-Write in a clear way such that no more words could be deleted from your sentences. Filler words like "actually", "quite", "to a certain extent" or " eventually" take away persuasive power from your arguments because they weaken their significance. It is better to write your work in such a way that all statements are fully intended as they are written there. If there are limitations to be considered, they should be made explicit and explained.
+Write in a clear way such that no more words could be deleted from your sentences. Filler words like "actually", "quite", "to a certain extent" or "eventually" take away persuasive power from your arguments because they weaken their significance. It is better to write your work in such a way that all statements are fully intended as they are written there. If there are limitations to be considered, they should be made explicit and explained.
 
 The argumentation of the work should also be reflected in the language: Causal links are an important means of connecting your arguments conclusively. However, a common mistake is to make causal links in places where they do not belong. Check very carefully whether sentences or parts of sentences that start with "therefore", "nevertheless", "in view of" or other phrases that refer to what has preceded them really do relate appropriately and clearly to what precedes.
 
