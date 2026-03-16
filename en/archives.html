@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-      <title>A Guide to Academic Writing in Religious Studies - Archives</title>
+        <title>A Guide to Academic Writing in Religious Studies - Archives</title>
       <meta charset="utf-8" />
       <meta name="generator" content="Pelican" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,9 +9,12 @@
       <link rel="stylesheet" type="text/css" href="https://ceres-rub.github.io/wissenschaftliches-arbeiten/en/../theme/css/pico.css" />
         <link rel="stylesheet" type="text/css" href="https://ceres-rub.github.io/wissenschaftliches-arbeiten/css/custom.css" />
         <link href="https://ceres-rub.github.io/wissenschaftliches-arbeiten/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="A Guide to Academic Writing in Religious Studies Full Atom Feed" />
+
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
   </head>
 
-  <body>
+  <body lang="en">
     <header>
       <div class="container">
         <hgroup><h1><a href="https://ceres-rub.github.io/wissenschaftliches-arbeiten/en/">A Guide to Academic Writing in Religious Studies</a></h1></hgroup>
@@ -22,12 +25,36 @@
         <li><a href="https://ceres-rub.github.io/wissenschaftliches-arbeiten/en/about.html" >About this guide</a></li>
         <li><a href="https://ceres-rub.github.io/wissenschaftliches-arbeiten/en/contributions.html" >Contributions</a></li>
         <li><a href="https://ceres-rub.github.io/wissenschaftliches-arbeiten/en/imprint.html" >Imprint</a></li>
+      <li>
+        <button id="search-toggle" aria-expanded="false" aria-controls="search" aria-label="Search">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </button>
+      </li>
     </ul>
 <!-- placeholder for translations -->
   </nav>
+  <!-- Pagefind search -->
+  <div id="search" hidden></div>
+  <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({ element: "#search" });
+
+          const toggle = document.getElementById('search-toggle');
+          const searchEl = document.getElementById('search');
+
+          toggle.addEventListener('click', () => {
+              const expanded = toggle.getAttribute('aria-expanded') === 'true';
+              toggle.setAttribute('aria-expanded', String(!expanded));
+              searchEl.hidden = expanded;
+              if (!expanded) {
+                  searchEl.querySelector('input')?.focus();
+              }
+          });
+      });
+  </script>
       </div>
     </header>
-    <main>
+    <main data-pagefind-body>
       <div class="container">
     <h2>Archives for A Guide to Academic Writing in Religious Studies</h2>
 
