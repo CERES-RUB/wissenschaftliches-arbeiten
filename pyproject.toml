@@ -8,6 +8,7 @@ dependencies = [
     "minchin-pelican-plugins-nojekyll>=1.2.0",
     "pandocfilters>=1.5.1",
     "pelican-i18n-subsites",
+    "pelican-pagefind",
     "pelican-pandoc-reader>=2.1.0",
     "pelican[markdown]>=4.10.1",
 ]
@@ -19,3 +20,4 @@ dev-dependencies = [
 
 [tool.uv.sources]
 pelican-i18n-subsites = { path = "../../pelican/i18n-subsites", editable = true }
+pelican-pagefind = { path = "../../pelican/pagefind", editable = true }

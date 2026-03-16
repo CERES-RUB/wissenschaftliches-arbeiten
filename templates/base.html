@@ -1,5 +1,11 @@
 {% extends "!theme/base.html" %}
 
+{% block head %}
+  {{ super() }}
+  <link href="{{ SITEURL }}/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="{{ SITEURL }}/pagefind/pagefind-ui.js"></script>
+{% endblock %}
+
 {% block nav %}
   {% set menu_pages = pages|selectattr('nav')|sort(attribute='order') %}
   <nav>
@@ -7,10 +13,34 @@
       {% for p in menu_pages %}
         <li><a href="{{ SITEURL }}/{{ p.url }}" {% if p==page %} aria-current="page" {% endif %}>{{ p.title }}</a></li>
       {% endfor %}
+      <li>
+        <button id="search-toggle" aria-expanded="false" aria-controls="search" aria-label="Search">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </button>
+      </li>
     </ul>
     {% block nav_translations %}<!-- placeholder for translations -->
     {% endblock %}
   </nav>
+  <!-- Pagefind search -->
+  <div id="search" hidden></div>
+  <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({ element: "#search" });
+
+          const toggle = document.getElementById('search-toggle');
+          const searchEl = document.getElementById('search');
+
+          toggle.addEventListener('click', () => {
+              const expanded = toggle.getAttribute('aria-expanded') === 'true';
+              toggle.setAttribute('aria-expanded', String(!expanded));
+              searchEl.hidden = expanded;
+              if (!expanded) {
+                  searchEl.querySelector('input')?.focus();
+              }
+          });
+      });
+  </script>
 {% endblock %}
 
 {% block footer %}

@@ -43,7 +43,7 @@
     {% endblock head %}
   </head>
 
-  <body>
+  <body lang="{{ DEFAULT_LANG }}">
     <header>
       <div class="container">
       {% block heading %}
@@ -72,7 +72,7 @@
       {% endblock nav %}
       </div>
     </header>
-    <main>
+    <main data-pagefind-body>
       <div class="container">
       {% block content %}
       {% endblock content %}
